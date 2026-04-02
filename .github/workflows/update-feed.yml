@@ -36,6 +36,7 @@ jobs:
       - name: Build feed-investor.json
         env:
           TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
         run: node scripts/build-feed.mjs
 
       - name: Validate JSON shape

@@ -46,7 +46,9 @@
               { "type": "array", "items": { "type": "string" } }
             ]
           },
-          "stars": { "type": "number", "description": "GitHub stargazers when type is oss" }
+          "stars": { "type": "number", "description": "GitHub stargazers when type is oss" },
+          "authorHandle": { "type": "string", "description": "X/Twitter username when type is social_en" },
+          "authorName": { "type": "string", "description": "Display name from X API when present" }
         },
         "additionalProperties": true
       }

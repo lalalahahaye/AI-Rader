@@ -250,6 +250,8 @@
 
   "xTwitter": {
     "enabled": false,
+    "skipThesisFilter": true,
+    "apiBase": "https://api.x.com/2",
     "maxAccountsPerRun": 25,
     "aiLeaders": [
       { "handle": "ylecun", "maxTweets": 2 },

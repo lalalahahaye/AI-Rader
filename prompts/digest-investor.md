@@ -39,5 +39,5 @@ You are preparing a **PEVC market radar digest** from structured feed items (and
 ## Rules
 
 - Every material claim needs a **link** from the item `url` or an explicit URL you opened during enrichment (see skill workflow).
-- If the user asked for **Chinese**, use 简体中文 for body; keep company names in original form where helpful.
+- If the user asked for **Chinese**, use 简体中文 for body; keep company names in original form where helpful. For **X / Twitter** blocks in Chinese, follow [digest-layout-builders-zh.md](digest-layout-builders-zh.md) and [summarize-x-builders-zh.md](summarize-x-builders-zh.md).
 - **Bilingual**: English block then 中文摘要 block when requested.

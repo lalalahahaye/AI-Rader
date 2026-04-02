@@ -65,6 +65,8 @@ const BUILTIN_SOURCES = {
   xTwitter: {
     enabled: false,
     maxAccountsPerRun: 8,
+    skipThesisFilter: true,
+    apiBase: "",
     aiLeaders: [],
     aiInvestors: [],
   },
@@ -99,9 +101,12 @@ async function loadSourcesConfig() {
   try {
     const raw = await fs.readFile(sourcesPath, "utf8");
     const user = JSON.parse(raw);
+    const xTwitter = mergeSection(BUILTIN_SOURCES.xTwitter, user.xTwitter);
+    const filter = mergeFilter(BUILTIN_SOURCES.filter, user.filter || {});
+    filter.skipThesisForTwitter = xTwitter.skipThesisFilter !== false;
     return {
       version: user.version ?? BUILTIN_SOURCES.version,
-      filter: mergeFilter(BUILTIN_SOURCES.filter, user.filter || {}),
+      filter,
       hackerNews: mergeSection(BUILTIN_SOURCES.hackerNews, user.hackerNews),
       googleNews: mergeSection(BUILTIN_SOURCES.googleNews, user.googleNews),
       arxiv: mergeSection(BUILTIN_SOURCES.arxiv, user.arxiv),
@@ -109,7 +114,7 @@ async function loadSourcesConfig() {
       rss: mergeSection(BUILTIN_SOURCES.rss, user.rss),
       kickstarter: mergeSection(BUILTIN_SOURCES.kickstarter, user.kickstarter),
       github: mergeSection(BUILTIN_SOURCES.github, user.github),
-      xTwitter: mergeSection(BUILTIN_SOURCES.xTwitter, user.xTwitter),
+      xTwitter,
       feed: mergeSection(BUILTIN_SOURCES.feed, user.feed),
     };
   } catch (e) {
@@ -117,7 +122,9 @@ async function loadSourcesConfig() {
       console.warn(
         "default-sources.json not found — using built-in defaults.",
       );
-      return structuredClone(BUILTIN_SOURCES);
+      const c = structuredClone(BUILTIN_SOURCES);
+      c.filter.skipThesisForTwitter = c.xTwitter.skipThesisFilter !== false;
+      return c;
     }
     throw new Error(`default-sources.json: ${e.message}`);
   }
@@ -168,6 +175,15 @@ function passesPositiveThesis(item, filter) {
   return true;
 }
 
+function passesExcludeOnly(item, filter) {
+  if (!filter) return true;
+  const text = itemTextForFilter(item);
+  for (const kw of filter.excludeKeywords || []) {
+    if (kw && text.includes(String(kw).toLowerCase())) return false;
+  }
+  return true;
+}
+
 function passesPevcFilter(item, filter) {
   if (!filter) return true;
   const text = itemTextForFilter(item);
@@ -181,6 +197,9 @@ function filterForSource(item, filter, kind) {
   if (!filter) return true;
   const flag = APPLY_FLAG[kind];
   if (flag && filter[flag] === false) return true;
+  if (kind === "twitter" && filter.skipThesisForTwitter) {
+    return passesExcludeOnly(item, filter);
+  }
   return passesPevcFilter(item, filter);
 }
 
@@ -557,55 +576,96 @@ function sleep(ms) {
   return new Promise((r) => setTimeout(r, ms));
 }
 
+const X_USER_BATCH = 100;
+const X_TIMELINE_MIN_RESULTS = 5;
+
+async function twitterResolveUsers(apiBase, headers, handles) {
+  const map = new Map();
+  for (let i = 0; i < handles.length; i += X_USER_BATCH) {
+    const chunk = handles.slice(i, i + X_USER_BATCH);
+    const q = chunk.map((h) => h.trim()).join(",");
+    const url = `${apiBase}/users/by?usernames=${encodeURIComponent(q)}&user.fields=id,username,name`;
+    try {
+      const res = await fetch(url, { headers });
+      if (!res.ok) {
+        console.warn(`X users/by batch ${i}: HTTP ${res.status}`);
+        continue;
+      }
+      const j = await res.json();
+      for (const u of j.data || []) {
+        const un = (u.username || "").toLowerCase();
+        if (un)
+          map.set(un, {
+            id: u.id,
+            username: u.username,
+            name: u.name || u.username,
+          });
+      }
+      if (j.errors?.length) {
+        for (const er of j.errors) {
+          console.warn("X users/by:", er.detail || er.title || er);
+        }
+      }
+    } catch (e) {
+      console.warn(`X users/by batch ${i}:`, e.message);
+    }
+    await sleep(400);
+  }
+  return map;
+}
+
 async function twitterFetch(cfg, filter) {
   if (!cfg?.enabled) return [];
-  const token = process.env.TWITTER_BEARER_TOKEN;
+  const token =
+    process.env.TWITTER_BEARER_TOKEN || process.env.X_BEARER_TOKEN;
   if (!token) {
     console.warn(
-      "xTwitter.enabled but TWITTER_BEARER_TOKEN unset — skipping X (set GitHub Actions secret).",
+      "xTwitter.enabled but TWITTER_BEARER_TOKEN / X_BEARER_TOKEN unset — skipping X (set GitHub Actions secret).",
     );
     return [];
   }
+  const apiBase = String(cfg.apiBase || "").replace(/\/$/, "") ||
+    "https://api.twitter.com/2";
   const headers = { Authorization: `Bearer ${token}` };
   const leaders = (cfg.aiLeaders || []).map((x) => ({
-    handle: String(x.handle || "").replace(/^@/, ""),
+    handle: String(x.handle || "").replace(/^@/, "").toLowerCase(),
     maxTweets: Math.min(10, Math.max(1, x.maxTweets ?? 3)),
     role: "leader",
   }));
   const investors = (cfg.aiInvestors || []).map((x) => ({
-    handle: String(x.handle || "").replace(/^@/, ""),
+    handle: String(x.handle || "").replace(/^@/, "").toLowerCase(),
     maxTweets: Math.min(10, Math.max(1, x.maxTweets ?? 3)),
     role: "investor",
   }));
   const accounts = [...leaders, ...investors].filter((a) => a.handle);
   const maxRun = Math.max(1, cfg.maxAccountsPerRun ?? 8);
   const slice = accounts.slice(0, maxRun);
+  const uniqueHandles = [...new Set(slice.map((a) => a.handle))];
+  const userMap = await twitterResolveUsers(apiBase, headers, uniqueHandles);
   const items = [];
 
   for (const acc of slice) {
     try {
-      const ur = await fetch(
-        `https://api.twitter.com/2/users/by/username/${encodeURIComponent(acc.handle)}?user.fields=id,username`,
-        { headers },
-      );
-      if (!ur.ok) {
-        console.warn(`Twitter @${acc.handle} user lookup: ${ur.status}`);
+      const meta = userMap.get(acc.handle);
+      if (!meta?.id) {
+        console.warn(`X @${acc.handle}: user not found in batch lookup`);
         continue;
       }
-      const uj = await ur.json();
-      const uid = uj.data?.id;
-      if (!uid) continue;
-
+      const maxResults = Math.min(
+        100,
+        Math.max(X_TIMELINE_MIN_RESULTS, acc.maxTweets),
+      );
       const tr = await fetch(
-        `https://api.twitter.com/2/users/${uid}/tweets?max_results=${acc.maxTweets}&tweet.fields=created_at,public_metrics&exclude=retweets,replies`,
+        `${apiBase}/users/${meta.id}/tweets?max_results=${maxResults}&tweet.fields=created_at,public_metrics&exclude=retweets,replies`,
         { headers },
       );
       if (!tr.ok) {
-        console.warn(`Twitter @${acc.handle} tweets: ${tr.status}`);
+        console.warn(`X @${acc.handle} tweets: HTTP ${tr.status}`);
         continue;
       }
       const tj = await tr.json();
-      const tweets = tj.data || [];
+      const tweets = (tj.data || []).slice(0, acc.maxTweets);
+      const displayUser = meta.username || acc.handle;
       for (const tw of tweets) {
         const text = (tw.text || "").replace(/\s+/g, " ").trim().slice(0, 280);
         if (!text) continue;
@@ -614,8 +674,10 @@ async function twitterFetch(cfg, filter) {
           id: `tw-${tw.id}`,
           type: "social_en",
           title: text,
-          url: `https://twitter.com/${acc.handle}/status/${tw.id}`,
-          source: `twitter_${acc.handle}`,
+          url: `https://x.com/${displayUser}/status/${tw.id}`,
+          source: `twitter_${displayUser}`,
+          authorHandle: displayUser,
+          authorName: meta.name,
           publishedAt: tw.created_at || new Date().toISOString(),
           summaryHint: tw.public_metrics
             ? `likes ${tw.public_metrics.like_count ?? 0}`
@@ -626,7 +688,7 @@ async function twitterFetch(cfg, filter) {
       }
       await sleep(900);
     } catch (e) {
-      console.warn(`Twitter @${acc.handle}:`, e.message);
+      console.warn(`X @${acc.handle}:`, e.message);
     }
   }
   return items;
