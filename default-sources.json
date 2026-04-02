@@ -72,7 +72,61 @@
       "mocap",
       "virtual production",
       "real-time rendering",
-      "neural asset"
+      "neural asset",
+
+      "短剧",
+      "short drama",
+      "mini-series",
+      "miniseries",
+
+      "physical commonsense",
+      "物理常识",
+      "predictive latent space",
+      "预测潜空间",
+      "jepa",
+      "joint-embedding predictive",
+      "scaling laws video",
+      "video scaling law",
+      "视频缩放",
+      "neural simulation",
+      "神经仿真",
+
+      "3dgs",
+      "mesh extraction",
+      "网格提取",
+      "text-to-4d",
+      "text to 4d",
+      "文生4d",
+      "rigging automation",
+      "自动骨骼",
+      "骨骼绑定",
+      "generative asset pipeline",
+      "生成式资产管线",
+
+      "temporal consistency",
+      "时序一致性",
+      "controllable video generation",
+      "可控视频生成",
+      "diffusion transformer",
+      "diffusion transformers",
+      "cinematic ai",
+      "电影级 ai",
+      "virtual cinematography",
+      "personalized ip avatar",
+      "个性化 ip",
+      "ip avatar",
+
+      "ai npc",
+      "llm-powered agent",
+      "llm powered agent",
+      "infinite game",
+      "无限游戏",
+      "generative social space",
+      "生成式社交空间",
+      "ugc 2.0",
+      "aigc",
+      "multimodal interaction",
+      "多模态交互"
     ],
     "excludeKeywords": [
       "NFT",
@@ -136,14 +190,23 @@
       {
         "url": "https://news.google.com/rss/search?q=AI+3D+generative+video+game+startup+funding+Series+seed&hl=en&gl=US&ceid=US:en",
         "sourceLabel": "google_news_en_deals",
-        "maxItems": 8,
+        "maxItems": 10,
         "mapToType": "news",
         "itemTags": ["us", "funding", "deal_rss"]
       },
       {
         "url": "https://news.google.com/rss/search?q=%E8%9E%8D%E8%B5%84+%E6%96%87%E7%94%9F%E8%A7%86%E9%A2%91+%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B+3D+%E6%B8%B8%E6%88%8F+A%E8%BD%AE+B%E8%BD%AE&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
         "sourceLabel": "google_news_cn_deals",
-        "maxItems": 8,
+        "maxItems": 12,
+        "skipThesisFilter": true,
+        "mapToType": "news",
+        "itemTags": ["china", "funding", "deal_rss"]
+      },
+      {
+        "url": "https://news.google.com/rss/search?q=site%3A36kr.com+%28%E8%9E%8D%E8%B5%84+OR+%E8%8E%B7%E6%8A%95%29+%28AI+OR+%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+OR+%E5%A4%A7%E6%A8%A1%E5%9E%8B+OR+3D+OR+%E8%A7%86%E9%A2%91%29&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "sourceLabel": "google_news_cn_36kr_deals",
+        "maxItems": 14,
+        "skipThesisFilter": true,
         "mapToType": "news",
         "itemTags": ["china", "funding", "deal_rss"]
       }
@@ -214,21 +277,24 @@
       {
         "url": "https://36kr.com/feed",
         "sourceLabel": "36kr",
-        "maxItems": 8,
+        "maxItems": 20,
+        "skipThesisFilter": true,
         "mapToType": "news",
         "itemTags": ["china", "funding"]
       },
       {
         "url": "https://www.jiqizhixin.com/feed",
         "sourceLabel": "jiqizhixin",
-        "maxItems": 8,
+        "maxItems": 12,
+        "skipThesisFilter": true,
         "mapToType": "news",
         "itemTags": ["china", "funding"]
       },
       {
         "url": "https://www.qbitai.com/feed",
         "sourceLabel": "qbitai",
-        "maxItems": 8,
+        "maxItems": 12,
+        "skipThesisFilter": true,
         "mapToType": "news",
         "itemTags": ["china", "funding"]
       }
@@ -287,11 +353,11 @@
   },
 
   "feed": {
-    "maxTotalItems": 130,
+    "maxTotalItems": 150,
     "maxItemAgeDays": 7,
     "capsByType": {
-      "funding": 24,
-      "news": 42,
+      "funding": 40,
+      "news": 48,
       "oss": 20,
       "social_en": 24,
       "paper": 14,

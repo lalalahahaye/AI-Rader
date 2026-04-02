@@ -225,6 +225,15 @@ function filterForSource(item, filter, kind) {
   return passesPevcFilter(item, filter);
 }
 
+/** Per-feed RSS/Google News: skip includeKeywords when true (e.g. 36kr 融资稿标题常不含 nerf). */
+function filterRssFeedItem(item, filter, kind, feedRow) {
+  if (!filter) return true;
+  const flag = APPLY_FLAG[kind];
+  if (flag && filter[flag] === false) return true;
+  if (feedRow?.skipThesisFilter) return passesExcludeOnly(item, filter);
+  return filterForSource(item, filter, kind);
+}
+
 /** RSS / Google News only: if title+summary looks like a funding item, set type funding and copy verbatim round/amount snippets when regex matches. Never invent investors. */
 const FUNDING_SIGNAL_RES = [
   /\bseries\s+[a-z]\b/i,
@@ -232,13 +241,12 @@ const FUNDING_SIGNAL_RES = [
   /\braised\b/i,
   /\bfunding\s+round\b/i,
   /\bcloses?\s+\$[\d.,]/i,
-  /融资/,
-  /领投/,
-  /跟投/,
-  /战略投资/,
-  /完成.{0,12}轮/,
-  /获.{0,20}投资/,
-  /亿元|千万|百万|万美元/,
+  /\$\s*[\d.,]+\s*(million|billion)\b/i,
+  /融资|募资|获投|领投|跟投|战略投资|定增/,
+  /完成.{0,15}轮|获.{0,25}(投资|融资)|宣布.{0,8}融资/,
+  /36氪首发|硬氪获悉|氪金/,
+  /近亿元|数亿元|超\d+亿|千万级|百万美元级|亿元级|千万美元|亿美元/,
+  /[\d.,]+\s*万美[金元]/,
 ];
 
 function applyFundingHeuristic(item) {
@@ -252,7 +260,7 @@ function applyFundingHeuristic(item) {
     tags: Array.from(new Set([...(item.tags || []), "deal_signal"])),
   };
   const roundM = blob.match(
-    /\b(?:Series\s+[A-Z]|Pre-[A-Z]|Seed|Pre-Seed)\b|(?:天使|种子|战略)轮|[ABCDE]轮融资?/i,
+    /\b(?:Series\s+[A-Z]|Pre-[A-Z]|Pre-A|Seed|Pre-Seed)\b|(?:天使|种子|战略)轮|[ABCDE]\+?轮融资?/i,
   );
   if (roundM) out.round = roundM[0].trim();
   const usd = blob.match(/\$\s*[\d.,]+\s*[MmBbKk](?:illion)?/i);
@@ -372,7 +380,7 @@ async function rssFeedsBlock(cfg, filter, kind) {
         itemTags: f.itemTags,
       }).slice(0, maxItems);
       for (const it of items) {
-        if (!filterForSource(it, filter, kind)) continue;
+        if (!filterRssFeedItem(it, filter, kind, f)) continue;
         all.push(
           kind === "rss" || kind === "googlenews"
             ? applyFundingHeuristic(it)

@@ -48,9 +48,11 @@ One line: date + title (e.g. `AI 创投雷达 — YYYY-MM-DD`).
 
 Tier A / B / C per [sourcing-deals.md](sourcing-deals.md) — **每 tier 最多 3–6 行**，每行 **一行一事 + 链接**，无展开废话。
 
-### 5. Mapping 增量（压缩）
+### 5. Mapping 增量（压缩 · 垂直深度）
 
-**5–8 bullets**，每 bullet **一行**：segment / player / what changed。无开场段。
+**6–10 bullets**，每 bullet **一行**：segment / player / what changed。无开场段。
+
+**子赛道覆盖（强制自检）**：从本周条目能映射到的范围内，尽量各至少 **1 条**（若无合格条目则单行写「本窗口无明显增量：世界模型/仿真」「…：AI 3D·神经渲染·资产」「…：生成视频/文娱」「…：游戏·引擎·工具」「…：社交·数字人·avatar」以免 Mapping 变成泛 AI 流水账）。
 
 ### 6. 执行摘要（可选 · 极短）
 
