@@ -1,0 +1,10 @@
+{
+  "name": "pevc-ai-radar-scripts",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "fetch-feed": "node fetch-feed.mjs",
+    "build-feed": "node build-feed.mjs"
+  }
+}

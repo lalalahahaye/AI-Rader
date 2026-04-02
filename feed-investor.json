@@ -1,0 +1,36 @@
+﻿{
+  "version": 1,
+  "updatedAt": "2026-04-02T12:00:00Z",
+  "items": [
+    {
+      "id": "sample-funding-001",
+      "type": "funding",
+      "title": "Example: AI video startup raises Series A (placeholder)",
+      "url": "https://example.com/press",
+      "source": "manual_curator",
+      "publishedAt": "2026-04-01T10:00:00Z",
+      "summaryHint": "Replace with real entries from your CI or editor.",
+      "tags": ["ai_video", "series_a"]
+    },
+    {
+      "id": "sample-oss-001",
+      "type": "oss",
+      "title": "Example: trending 3D / world-model related repo (placeholder)",
+      "url": "https://github.com/topics/gaussian-splatting",
+      "source": "github_topic",
+      "publishedAt": "2026-04-02T08:00:00Z",
+      "summaryHint": "Curate repos from GitHub topics or releases.",
+      "tags": ["ai_3d", "world_models"]
+    },
+    {
+      "id": "sample-social-cn-001",
+      "type": "social_cn",
+      "title": "示例：微信公众号 / 小红书条目由维护者写入 feed（占位）",
+      "url": "https://example.com/article",
+      "source": "wechat_or_xhs_curator",
+      "publishedAt": "2026-04-02T06:00:00Z",
+      "summaryHint": "中文社交内容通常需中央侧策展后进入本 JSON。",
+      "tags": ["china", "ai_app"]
+    }
+  ]
+}

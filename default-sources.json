@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "comment": "Edit this file to change what build-feed.mjs pulls — no code changes needed. Disable a section with enabled: false.",
+
+  "hackerNews": {
+    "enabled": true,
+    "scanTopIds": 15,
+    "maxStories": 8,
+    "itemTags": ["generative", "us"]
+  },
+
+  "reddit": {
+    "enabled": true,
+    "subreddits": [
+      { "name": "MachineLearning", "limit": 5 },
+      { "name": "LocalLLaMA", "limit": 5 },
+      { "name": "artificial", "limit": 3 }
+    ],
+    "defaultItemTags": ["ai_social"]
+  },
+
+  "github": {
+    "enabled": true,
+    "searchQuery": "machine learning OR LLM OR diffusion OR \"world model\" OR gaussian-splatting",
+    "perPage": 12,
+    "sort": "updated",
+    "order": "desc",
+    "itemTags": ["oss", "generative"]
+  },
+
+  "feed": {
+    "maxTotalItems": 45
+  }
+}

@@ -1,0 +1,38 @@
+name: Validate feed
+
+on:
+  push:
+    paths:
+      - "feed-investor.json"
+      - "default-sources.json"
+      - "scripts/build-feed.mjs"
+      - ".github/workflows/validate-feed.yml"
+      - ".github/workflows/update-feed.yml"
+  pull_request:
+    paths:
+      - "feed-investor.json"
+      - "default-sources.json"
+      - "scripts/build-feed.mjs"
+      - ".github/workflows/validate-feed.yml"
+      - ".github/workflows/update-feed.yml"
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Parse default-sources.json
+        run: node -e "JSON.parse(require('fs').readFileSync('default-sources.json','utf8')); console.log('default-sources OK');"
+      - name: Parse feed-investor.json
+        run: node -e "JSON.parse(require('fs').readFileSync('feed-investor.json','utf8')); console.log('OK');"
+      - name: Check required top-level keys
+        run: |
+          node <<'NODE'
+          const j = JSON.parse(require('fs').readFileSync('feed-investor.json','utf8'));
+          for (const k of ['version','updatedAt','items']) {
+            if (!(k in j)) process.exit(1);
+          }
+          if (!Array.isArray(j.items)) process.exit(1);
+          console.log('keys OK');
+          NODE
