@@ -283,13 +283,13 @@
   },
 
   "feed": {
-    "maxTotalItems": 100,
+    "maxTotalItems": 130,
     "capsByType": {
-      "funding": 18,
-      "news": 32,
-      "oss": 14,
-      "social_en": 20,
-      "paper": 12,
+      "funding": 24,
+      "news": 42,
+      "oss": 20,
+      "social_en": 24,
+      "paper": 14,
       "crowdfunding": 6,
       "social_cn": 6
     }

@@ -1,12 +1,9 @@
 # Summarize research items
 
-For `paper` items:
+For `paper` items in the **daily digest** (high density):
 
-- **Problem** (one line)
-- **Method** (two lines max)
-- **Results** — qualitative; avoid fake precision
-- **Relevance** to world models, 3D, video, embodiment, scaling, evals
-- **Who should care**: labs, startups, big tech platforms
-- **Link** to paper or arXiv
+- **One line**: title (short) + **one** concrete contribution (method or result).
+- **Half line**: relevance to thesis (world models / 3D / video / games / social).
+- **Link**.
 
-If the item is thin, say “insufficient detail in feed” and suggest what to verify.
+Do **not** expand into multi-paragraph reviews. If the feed line is thin, write `详情见链接` and stop.

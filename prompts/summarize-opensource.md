@@ -1,11 +1,9 @@
 # Summarize OSS / GitHub items
 
-For `oss` items:
+For `oss` items in the **daily digest** (high density):
 
-- **What it is** (one sentence)
-- **Why it matters** for builders or incumbents (infra vs app vs research code)
-- **Maturity**: experiment / usable / production-adjacent
-- **License** if visible in link context (do not invent)
-- **Competitive context**: closest alternatives or stacks (brief)
+- **One line**: repo name + **stars** (from feed) + **what it does** (from title/description).
+- **Half line**: thesis / moat angle (infra vs app vs research).
+- **Link** (`url`).
 
-Keep technical terms precise; add a plain-English clause for IC skimming.
+Skip long “maturity / competitive” paragraphs unless the user asks for depth. License only if you actually saw it — do not invent.

@@ -63,19 +63,25 @@ After saving config: **immediately** run **one full digest** (`fetch → summari
 
 ## Daily digest workflow
 
-1. **Fetch**: GET `FEED_URL` or read local `feed-investor.json`; parse JSON.
-2. **Filter** (optional): by `tags` / `type` and user thesis in config. Prefer items with `type: funding` or `deal_signal` tag for deal table ordering.
-3. **Enrich (host web search, no fabrication)** — before or while writing the digest:
-   - For **Tier A** candidates and for **deal table rows** where **Investors** or **Amount** or **Round** would otherwise be **未披露**, open **1–2 public pages per company** (press release, reputable article, or public company profile) when the user’s environment allows search/browse.
-   - **Copy only** what appears on the page: investors, round name, amount. If still missing, keep **未披露**. Never infer cap table or fill blanks from memory.
-   - Stay on **thesis**; skip pages that are off-topic (e.g. quantum hardware with no AI 3D/video/game/social link).
-4. **Summarize** using:
-   - [prompts/digest-investor.md](prompts/digest-investor.md) — **order matters**: deals table first, then **Sourcing** tiers, then **Mapping**, then snapshot/OSS/social/**2–4 thesis papers max**, then Dropped.
-   - **简体中文** 或用户要求 **follow-builders 风格** 时：同时遵守 [prompts/digest-layout-builders-zh.md](prompts/digest-layout-builders-zh.md)（分节标题、X 区块「一句话结论 + 关键要点」）；X/`social_en` 条目用 [prompts/summarize-x-builders-zh.md](prompts/summarize-x-builders-zh.md) 改写，再并入主 digest。
-   - [prompts/sourcing-deals.md](prompts/sourcing-deals.md) when the user asks “sourcing”, “pipeline”, or **可跟进项目**.
-   - Type prompts: `summarize-funding.md`, `summarize-social-en.md` (split **ai_builder** vs **ai_investor** when tags present), `summarize-social-cn.md`, `summarize-opensource.md`, `summarize-papers.md` (strict cap and thesis filter per digest-investor).
-5. **Investor overlays** (lightly, not financial advice): ecosystem role, signal triangulation, fact / reported / opinion / rumor.
-6. **Deliver** per user preference.
+1. **Fetch**: GET `FEED_URL` or read local `feed-investor.json`; parse JSON. Note **`updatedAt`** so the user knows how fresh the batch is.
+2. **Partition (do not cherry-pick)** — before writing:
+   - Group `items` by **`source`** (unique labels: `36kr`, `jiqizhixin`, `github_search`, `hacker_news_algolia`, `reddit_r_*`, `twitter_*`, …) and by **`type`** (`funding`, `news`, `oss`, `paper`, `social_en`, …).
+   - **Scheduled / 定时推送** must **not** only sample a few items: cover **every source that has ≥1 item** at least once (see [digest-investor.md](prompts/digest-investor.md) **Full source coverage**). If output length is a concern, truncate **per source** with an explicit `…余下 N 条略` note, never drop whole sources without saying so.
+3. **Filter** (optional): by `tags` / `type` and user thesis in config. Sort deals by recency (`publishedAt`) for the financing block.
+4. **Enrich (host web search, no fabrication)** — for **each** financing row where **Investors / Amount / Round** is **未披露** and the company is material, open **1 public page** when possible; **copy only** visible facts. Tier A still prioritized if time is limited.
+5. **Summarize** using [prompts/digest-investor.md](prompts/digest-investor.md):
+   - **Order**: **投融资高密度** → **技术进展（OSS + 论文 + 技术向 news/HN/Reddit）** → **Sourcing（压缩）** → **Mapping（压缩）** → 社媒/X → Follow-ups → Dropped.
+   - **Density**: no boilerplate; tables/bullets; data and links first (same rules for 中文).
+   - **简体中文** / **follow-builders 风**：加 [prompts/digest-layout-builders-zh.md](prompts/digest-layout-builders-zh.md) + [prompts/summarize-x-builders-zh.md](prompts/summarize-x-builders-zh.md) for X blocks.
+   - [prompts/sourcing-deals.md](prompts/sourcing-deals.md) when the user asks sourcing / pipeline / **可跟进项目**.
+   - Type prompts: `summarize-funding.md`, `summarize-social-en.md`, `summarize-social-cn.md`, `summarize-opensource.md`, `summarize-papers.md` — keep outputs **short**; align with digest-investor caps.
+6. **Investor overlays** (light): fact vs opinion vs rumor; not financial advice.
+7. **Deliver** per user preference.
+
+### Scheduled push quality bar
+
+- **信息量**: 多信源 = 在正文里 **显式覆盖** RSS（36氪/机器之心/量子位/TC/VB/Sifted）、Google News、HN、Reddit、GitHub、arXiv、X（若有）等；缺条目则 **一行说明**，不要假装没有该渠道。
+- **信息密度**: 拒绝低信息量开场白；投融资 **逐条** 写清亮点与交易要素；技术块 **逐条 repo/论文** 有硬信息 + 链接。
 
 ## Weekly / on-demand mapping
 

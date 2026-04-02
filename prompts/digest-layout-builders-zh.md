@@ -1,6 +1,8 @@
 # 中文 digest 版式（对齐 follow-builders 阅读体验）
 
-在遵守 [digest-investor.md](digest-investor.md) **融资表 → Sourcing → Mapping → …** 的**强制顺序**前提下，**正文语言与局部排版**采用本文件的「分节 + 结论 + 要点」风格（简体中文）。
+在遵守 [digest-investor.md](digest-investor.md) 的**强制顺序**前提下（当前为：**投融资 → 技术进展 → Sourcing → Mapping → …**），**正文语言与局部排版**采用本文件的「分节 + 结论 + 要点」风格（简体中文）。
+
+**密度**：与 `digest-investor.md` 一致 — **少废话、多事实**；每个信源至少露脸一次（有条目时），见该文件 **Full source coverage**。
 
 ## 总标题
 

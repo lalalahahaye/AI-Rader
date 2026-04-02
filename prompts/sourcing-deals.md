@@ -7,16 +7,14 @@ Use after fetching the feed when the user wants **sourcing**, **pipeline**, **�
 - Items especially `funding`, deal-like `news`, strong `oss`, and `social_en` with deal hints.
 - User thesis / cheque size / geography from config if present.
 
-## Output structure
+## Output structure (keep compact when embedded in daily digest)
 
-1. **Tier A — Act now** (3–8 bullets): clearest fit to thesis; each line must have **primary link** from feed.
-2. **Tier B — Validate** (5–12 bullets): interesting but need confirmation (website, filing, second source).
-3. **Tier C — Watchlist**: long shots or noisy signal; say why low priority.
-4. **Per Tier A item** (mini block):
-   - **What** (company / project)
-   - **Why now** (one line, sourced)
-   - **Open questions** (2–4 bullets)
-   - **Suggested next step** (e.g. read S-1 excerpt, find mutual, expert call topic)
+1. **Tier A — Act now** (3–6 **one-line** bullets): clearest thesis fit; each line ends with **link** from feed.
+2. **Tier B — Validate** (3–8 one-liners): needs confirmation; link each.
+3. **Tier C — Watchlist** (2–5 one-liners): low priority + half-line why.
+4. **Per Tier A** (only if user asks for detail): mini block — What / Why now (1 line) / Open questions (2 bullets max) / Next step (1 line).
+
+In the **default daily digest**, tiers **A–C only** — skip per-item mini blocks unless asked.
 
 ## Funding rows (when type is funding or clear deal)
 
