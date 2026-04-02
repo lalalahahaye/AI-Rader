@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-02T07:42:28.078Z",
+  "updatedAt": "2026-04-02T09:00:07.870Z",
   "items": [
     {
       "id": "rss-36kr-cds9yr",
-      "type": "news",
+      "type": "funding",
       "title": "36氪首发 | 00后交大博士做仿生飞行机器人，获启高、奇绩创坛、交大母基金等投资",
       "url": "https://36kr.com/p/3748270618919424?f=rss",
       "source": "36kr",
@@ -12,8 +12,26 @@
       "summaryHint": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，仿生扑翼飞行机器人公司——深圳鹰瞰智翼科技有限公司（下称“鹰瞰智翼”）近期已完成千万元级别天使轮融资，由启高资本领投，奇绩创坛及上海交大母基金跟投。资金将主要用于产品量产、下一代具身智能飞行机器人研发，以及全球首个机器人流体仿真引擎搭建。 鹰瞰智翼2025年3月成立于深圳，是全球第一家专注于具身智能扑翼机器人的公司。创始人陈昊是上海交通大学直博生，博士期间发表四篇顶刊论文。团队核心成员均为上海交大本硕博，来自机器人、控制与机械等相关背景，全员均为00后。 目前，鹰瞰智翼已形成两条产品线： 一是消费级产品“丹丹（Dante）”：面向全球极客群体，支持二次开发，具备特技飞行能力，是市面上操纵性与灵活性最强的扑翼机之一。该产品已完成功能样机开发，累计飞行超3000小时，预计今年Q2上线Kickstarter众筹。 消费级产品“丹丹（Dante）”（图源/企业）",
       "tags": [
         "china",
-        "funding"
-      ]
+        "funding",
+        "deal_signal"
+      ],
+      "round": "天使轮"
+    },
+    {
+      "id": "rss-google_news_cn_deals-i0g8lt",
+      "type": "funding",
+      "title": "文生视频“新星”再获5.8亿元融资，多家公司已在互动平台回复合作进展 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5LMTJtMUM5Wm1nQURwaUhJR191RGdVT2cxQWUzTDVMM3ltcDlJZlNVeW5IUFZlM2ktYmxqZ25PSEE1MklkaElFRw?oc=5",
+      "source": "google_news_cn_deals",
+      "publishedAt": "2025-01-02T06:49:19.000Z",
+      "summaryHint": "文生视频“新星”再获5.8亿元融资，多家公司已在互动平台回复合作进展 &nbsp;&nbsp; 财联社",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "5.8亿元"
     },
     {
       "id": "rss-google_news_en_thesis-tuncjy",
@@ -70,11 +88,11 @@
     {
       "id": "rss-google_news_cn_thesis-lwq39u",
       "type": "news",
-      "title": "首个实时世界模型发布! AI视频实时生成! (附PixVerse R1邀请码） - qq.com",
+      "title": "首个实时世界模型发布! AI视频实时生成! (附PixVerse R1邀请码） - 腾讯新闻",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4QUMtbnN6THBObTVBN2k4aXJtRk5EOVNReWdCM3BhSXpBTVF4eDZoZkd2NzVmZVVsdzhTRUxxT1gtV1RyVjd5Z2dlbkc4dGE5S05Rc3lhOA?oc=5",
       "source": "google_news_cn_thesis",
       "publishedAt": "2026-01-14T08:00:00.000Z",
-      "summaryHint": "首个实时世界模型发布! AI视频实时生成! (附PixVerse R1邀请码） &nbsp;&nbsp; qq.com",
+      "summaryHint": "首个实时世界模型发布! AI视频实时生成! (附PixVerse R1邀请码） &nbsp;&nbsp; 腾讯新闻",
       "tags": [
         "china",
         "funding"
@@ -200,11 +218,11 @@
     {
       "id": "rss-google_news_en_thesis-yapd8c",
       "type": "news",
-      "title": "Genie 3: A new frontier for world models - Google DeepMind",
+      "title": "Genie 3: A new frontier for world models - deepmind.google",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HcVNvS2Z3dmRLQnJmYWlHUU0wb1NUemxGdG1UcndLejlhTmFIMjdPSjljd1RWZHNlRWJFSTRoRDVyTmx5TVZsSEZEU1l4NDFOc09fTEd3Si1xNVhsWm1OcDZDVFBjaXE2UFRTa0xfTGx6d2pZZlRoSA?oc=5",
       "source": "google_news_en_thesis",
       "publishedAt": "2025-08-05T07:00:00.000Z",
-      "summaryHint": "Genie 3: A new frontier for world models &nbsp;&nbsp; Google DeepMind",
+      "summaryHint": "Genie 3: A new frontier for world models &nbsp;&nbsp; deepmind.google",
       "tags": [
         "us",
         "funding"
