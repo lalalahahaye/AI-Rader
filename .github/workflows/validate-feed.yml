@@ -6,6 +6,8 @@ on:
       - "feed-investor.json"
       - "default-sources.json"
       - "scripts/build-feed.mjs"
+      - "scripts/package.json"
+      - "scripts/validate-feed-ci.mjs"
       - ".github/workflows/validate-feed.yml"
       - ".github/workflows/update-feed.yml"
   pull_request:
@@ -13,6 +15,8 @@ on:
       - "feed-investor.json"
       - "default-sources.json"
       - "scripts/build-feed.mjs"
+      - "scripts/package.json"
+      - "scripts/validate-feed-ci.mjs"
       - ".github/workflows/validate-feed.yml"
       - ".github/workflows/update-feed.yml"
   workflow_dispatch:
@@ -22,17 +26,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Parse default-sources.json
-        run: node -e "JSON.parse(require('fs').readFileSync('default-sources.json','utf8')); console.log('default-sources OK');"
-      - name: Parse feed-investor.json
-        run: node -e "JSON.parse(require('fs').readFileSync('feed-investor.json','utf8')); console.log('OK');"
-      - name: Check required top-level keys
-        run: |
-          node <<'NODE'
-          const j = JSON.parse(require('fs').readFileSync('feed-investor.json','utf8'));
-          for (const k of ['version','updatedAt','items']) {
-            if (!(k in j)) process.exit(1);
-          }
-          if (!Array.isArray(j.items)) process.exit(1);
-          console.log('keys OK');
-          NODE
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Validate JSON files
+        run: node scripts/validate-feed-ci.mjs

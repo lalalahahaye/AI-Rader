@@ -2,7 +2,9 @@
 
 面向 **PEVC** 的 **AI 市场雷达**：融资、新闻、Reddit/X、中文社交（通过中央 feed 策展）、GitHub、论文、众筹等。**阅读端零 API Key**，思路对齐 [follow-builders](https://github.com/zarazhangrui/follow-builders)。
 
-**中央 feed**：本仓库通过 **GitHub Actions**（[`.github/workflows/update-feed.yml`](.github/workflows/update-feed.yml)）在 **每日定时**、你在 `main` 上 **修改** [`default-sources.json`](default-sources.json) 或 `build-feed.mjs`、以及 **手动运行** workflow 时执行 [`scripts/build-feed.mjs`](scripts/build-feed.mjs)，从 **Hacker News**、**Reddit**、**GitHub Search** 聚合刷新 [`feed-investor.json`](feed-investor.json)。**改订阅源不用改代码**：只编辑根目录的 **`default-sources.json`**（子版块、GitHub 搜索词、条数上限等）。若文件缺失，脚本使用内置默认。X / 微信 / 小红书等仍需维护端策展或密钥扩展。
+**中央 feed**：Actions 会在 `scripts/` 下 **`npm install`** 后运行 [`scripts/build-feed.mjs`](scripts/build-feed.mjs)（见 [`.github/workflows/update-feed.yml`](.github/workflows/update-feed.yml)）。数据源包括：**RSS**（TechCrunch AI、VentureBeat AI、Sifted 等，可在 JSON 里增删）、**Hacker News**、**Reddit**、**GitHub Search**（**`minStars`** 默认 500 过滤低星仓库）、可选 **X**（[`default-sources.json`](default-sources.json) 里 **`aiLeaders` / `aiInvestors`**，需仓库 Secret **`TWITTER_BEARER_TOKEN`**）。**降噪**：`filter` 关键词与 `feed.capsByType`。
+
+**Agent 侧**：[`SKILL.md`](SKILL.md) 与 [`prompts/`](prompts/) 要求输出 **sourcing 分层**、**mapping delta**、融资表 **投资人/金额/未披露** 规则，而不只是新闻摘要。
 
 ## 安装（Cursor）
 

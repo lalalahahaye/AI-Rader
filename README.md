@@ -2,7 +2,9 @@
 
 Investor-oriented **daily AI market radar**: funding, news, Reddit/X, Chinese social (via curated feed), GitHub, papers, crowdfunding — **no API keys required for readers**, same pattern as [follow-builders](https://github.com/zarazhangrui/follow-builders).
 
-**Central feed**: this repo’s [`.github/workflows/update-feed.yml`](.github/workflows/update-feed.yml) runs **daily**, **when you change** [`default-sources.json`](default-sources.json) or `build-feed.mjs` on `main`, or **on demand** (Actions → *Update feed (daily)* → *Run workflow*). It runs [`scripts/build-feed.mjs`](scripts/build-feed.mjs) to refresh [`feed-investor.json`](feed-investor.json) using **Hacker News**, **Reddit** (public JSON), and **GitHub Search** — all **anonymous** on the runner. **You do not edit the script** to add subreddits or queries: edit **`default-sources.json`** only. X / WeChat / 小红书 still need **maintainer-side** curation or secrets if you extend the workflow.
+**Central feed**: [`.github/workflows/update-feed.yml`](.github/workflows/update-feed.yml) runs **`npm install`** in `scripts/`, then [`scripts/build-feed.mjs`](scripts/build-feed.mjs), **daily** / on push to `default-sources.json` or `scripts/*` / **manual run**. Sources: **RSS** (TechCrunch AI, VentureBeat AI, Sifted, …), **Hacker News**, **Reddit**, **GitHub Search** with **`minStars`** (default 500), optional **X** for **`aiLeaders` + `aiInvestors`** if repo secret **`TWITTER_BEARER_TOKEN`** is set. **PEVC noise control**: `filter` keywords + `feed.capsByType` in [`default-sources.json`](default-sources.json).
+
+**Agent side**: [`SKILL.md`](SKILL.md) + [`prompts/`](prompts/) drive **sourcing pipeline**, **mapping delta**, and funding rows with **investors / amount / 未披露** rules — not “news only”.
 
 ## Quick install (Cursor)
 
@@ -76,7 +78,8 @@ The skill will:
 - `prompts/` — summarization prompts  
 - `sources.md` — curator source list + fallback hints  
 - `scripts/fetch-feed.mjs` — GET JSON, no keys  
-- `scripts/build-feed.mjs` — build feed from public APIs (maintainer / CI)  
+- `scripts/build-feed.mjs` — RSS + HN + Reddit + GitHub + optional X (needs `fast-xml-parser`; CI runs `npm install` in `scripts/`)  
+- `prompts/mapping-market.md`, `prompts/sourcing-deals.md` — mapping & sourcing outputs  
 - `.github/workflows/validate-feed.yml` — validates JSON on push  
 - `.github/workflows/update-feed.yml` — daily feed rebuild + commit  
 

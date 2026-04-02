@@ -2,38 +2,48 @@
 
 ## Executive snapshot
 
-- OSS: Gaussian-splatting tooling continues to fragment; watch vertical apps bundling capture + edit.
-- Funding: (placeholder) one AI video infra deal reported; amount undisclosed in feed — verify on primary source.
-- China social: curated note on AI 应用热度上升；需区分演示与留存（占位示例）。
+- **Sourcing**: One Series A in AI infra is Tier A for “GPU-adjacent” thesis; two OSS repos above star threshold are Tier B (validate enterprise adoption).
+- **Mapping**: World-model segment shows new tooling entrants; video-gen incumbents stable in this feed window.
+- China: curated social note — distinguish demo hype vs retention (placeholder).
+
+## Sourcing pipeline
+
+- **Tier A — Act now**
+  - ExampleCo — AI serving layer; reported Series A; **amount 未披露** in feed — pull primary press. [link]
+- **Tier B — Validate**
+  - `org/neural-stack` — **stars 1200** in feed; check license and design partners. [link]
+- **Tier C — Watchlist**
+  - r/LocalLLaMA thread on tiny models — theme only, no deal ID.
 
 ## Funding & M&A
 
-| Company | Round | Lead / investors | Note | Link |
-|--------|-------|------------------|------|------|
-| ExampleCo | Series A (reported) | n/a in feed | Use of funds: model serving | https://example.com/press |
+| Company | Round | Amount | Investors | Link |
+|--------|-------|--------|-----------|------|
+| ExampleCo | Series A (reported) | 未披露 | 未披露 | https://example.com/press |
+
+## Mapping delta
+
+- **World models**: +1 new OSS repo above threshold; no new labeled funding in feed.
+- **AI video**: no new names in sample feed — replace when feed populated.
 
 ## Products & OSS
 
-- **Example topic page**: GitHub `gaussian-splatting` — new repos weekly; map which bundle full stack vs research toys.  
-  Link: https://github.com/topics/gaussian-splatting
+- `org/neural-stack`: **stars 1200** — eval + routing; thesis: infra moat if bundled with SLAs. [link]
 
-## Community signal
+## Community & X
 
-- **social_en**: r/LocalLLaMA — recurring theme: smaller models + local inference; implications for edge hardware and B2B deployment (paraphrased; check thread dates).
+### AI builders / 技术风向标
+
+- (placeholder) Karpathy-scale accounts when `ai_builder` items exist in feed.
+
+### AI investors / 机构与观点
+
+- (placeholder) a16z / Sequoia handles when `ai_investor` items exist in feed.
 
 ## Research
 
-- (placeholder) arXiv world-model / video papers: summarize only after feed includes stable links.
-
-## Crowdfunding
-
-- (placeholder) Kickstarter AI hardware — novelty high, delivery risk typical.
-
-## Market map deltas
-
-- No new segment leaders identified in sample feed — replace when `feed-investor.json` is populated.
+- (placeholder) Add when `paper` items appear in feed.
 
 ## Follow-ups
 
-- Confirm ExampleCo round with primary press or regulatory filing where applicable.
-- Track 2–3 OSS repos for release cadence and license changes.
+- Confirm ExampleCo **amount and investors** on primary source; do not infer from social alone.

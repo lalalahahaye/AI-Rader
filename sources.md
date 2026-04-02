@@ -4,71 +4,71 @@ Maintain **central** `feed-investor.json`. End users only **GET** the file.
 
 ## Automated daily build (this repo)
 
-The workflow **Update feed (daily)** runs [`scripts/build-feed.mjs`](scripts/build-feed.mjs) on GitHub Actions. **You do not edit the script** to change subreddits or search queries: edit **[`default-sources.json`](default-sources.json)** at the repo root (HN limits, Reddit list, GitHub `searchQuery`, `maxTotalItems`, `enabled` flags). If that file is missing, the builder uses safe built-in defaults.
+The workflow **Update feed (daily)** runs [`scripts/build-feed.mjs`](scripts/build-feed.mjs) after **`npm install`** in [`scripts/`](scripts/) (for `fast-xml-parser`). Configure everything in **[`default-sources.json`](default-sources.json)**:
 
-Default pull targets (overridable in JSON):
+| Block | What it does |
+|--------|----------------|
+| `filter` | `includeKeywords` / `excludeKeywords`; `requireKeywordMatch`; per-source toggles `applyToHackerNews`, `applyToReddit`, `applyToRss`, `applyToGithub`, `applyToTwitter` |
+| `rss` | List of `{ url, sourceLabel, maxItems, mapToType, itemTags }` — RSS and Atom |
+| `hackerNews` | Top stories → `news` |
+| `reddit` | Hot JSON → `social_en` |
+| `github` | Search API; **`minStars`** appended as `stars:>N` in query; results also filtered by `stargazers_count` |
+| `xTwitter` | **`aiLeaders`** (builders) + **`aiInvestors`** (VCs) handles; items tagged `ai_builder` / `ai_investor` |
+| `feed` | `maxTotalItems`, **`capsByType`** per `type` to balance funding vs news vs OSS vs social |
 
-- **Hacker News** top stories (type `news`)
-- **Reddit** hot JSON per configured subreddits (type `social_en`)
-- **GitHub** repository search from `github.searchQuery` (type `oss`)
+If `default-sources.json` is missing, built-in safe defaults apply.
 
-No API keys are required for these calls on the runner. Extend the script or add Actions secrets for **X**, paywalled APIs, or fragile scrapers — keys stay on the **maintainer side** only.
+## RSS (English / EU)
 
-## Focus tags (for filtering)
+URLs **change** on publisher sites — verify in browser if a feed fails (workflow logs a warning).
 
-Suggest tagging feed items with any of:
+- TechCrunch — category feeds (e.g. AI).
+- VentureBeat — `/category/ai/feed/`.
+- Sifted — main feed.
+- Add more in `rss.feeds` (e.g. The Verge tech, FT tech if legally OK for your use).
 
-`ai_3d`, `world_models`, `ai_video`, `ai_social`, `avatar`, `generative`, `robotics_sim`, `funding`, `china`, `us`, `eu`, `oss`, `paper`, `crowdfunding`.
+## X (Twitter) — AI 大佬 + AI 投资机构
 
-## RSS and news (English)
+- **No anonymous bulk API.** For automated pulls, add repository secret **`TWITTER_BEARER_TOKEN`** (Bearer token from a Twitter/X developer app). **Readers never see this token.**
+- Edit **`xTwitter.aiLeaders`** (researchers, founders, product leaders) and **`xTwitter.aiInvestors`** (firms, partners). Set **`xTwitter.enabled`: `true`** to run in CI.
+- **Limits**: Free/low tiers may restrict `users` + `tweets` volume; keep **`maxAccountsPerRun`** aligned with `aiLeaders.length + aiInvestors.length` (or lower `maxTweets` per account); expect occasional 429 — check Actions logs.
+- Without token: leave `enabled: false`; feed still has RSS, HN, Reddit, GitHub.
 
-- TechCrunch — venture/AI categories (RSS URLs change; verify current feed on site).
-- VentureBeat — AI section RSS.
-- Sifted — Europe tech (RSS where available).
-- The Verge / Wired — technology feeds (broader signal).
+### Curated list in `default-sources.json` (PE/VC — Physical AI & vertical apps)
 
-*Optional:* add RSS ingestion to `build-feed.mjs` or a separate maintainer job; keep reader-facing feed as **one JSON URL**.
+Handles are **without `@`**. If user lookup fails in Actions logs, the handle may have changed — verify on X.
 
-## RSS and news (Chinese)
+| Theme | Handles (in `aiInvestors`) | Notes |
+|--------|---------------------------|--------|
+| **AI 3D / world models / physical AI** | `a16z`, `sequoia`, `luxcapital`, `wolfejosh`, `DCVCvc`, `nvidiainv` | `wolfejosh` = Josh Wolfe (Lux); fund = `luxcapital`. Nvidia ventures = `nvidiainv`. DCVC = `DCVCvc`. |
+| **AI social / companions / consumer** | `lsvp`, `benchmark`, `m2jr`, `generalcatalyst`, `niko_b0n`, `foundersfund`, `collision` | Lightspeed = `lsvp`; Benchmark + Miles Grimshaw = `benchmark` + `m2jr`; GC + Niko Bonatsos = `generalcatalyst` + `niko_b0n`; Founders Fund + `collision`. |
+| **Vertical AI / apps / digital twins** | `indexventures`, `erin_l_griffith`, `greylockvc`, `reidhoffman`, `sethg`, `glasswingvc`, `amplifyvc` | Erin Griffith: if `erin_l_griffith` fails, try `eringriffith`. Greylock firm = `greylockvc`; `reidhoffman` / `sethg` = Greylock-side accounts you listed. Glasswing = `glasswingvc`. Amplify = `amplifyvc`. |
 
-- 36氪、晚点 LatePost、机器之心、量子位 — use official RSS or curator summaries into `feed-investor.json` (WeChat often needs central curation).
+**`aiLeaders`** (default): `ylecun`, `karpathy`, `gdb` — pure research/product signal, not fund flow.
 
-## Reddit (public JSON, rate-limit friendly)
+## Reddit
 
-Subreddits useful for **early signal** (not investment advice):
-
-- `r/startups`, `r/SaaS`, `r/MachineLearning`, `r/LocalLLaMA`, `r/artificial`, `r/computervision`, `r/GaussianSplatting`, `r/3Dprinting` (hardware overlap).
-
-Pattern: `https://www.reddit.com/r/<name>/hot.json` — respect Reddit ToS; prefer low frequency. Add subreddit `{ "name": "...", "limit": N }` entries under `reddit.subreddits` in [`default-sources.json`](default-sources.json).
-
-## X (Twitter)
-
-- No stable anonymous API for end users. **Curate** high-signal accounts or links into `feed-investor.json` from the maintainer side (maintainer may use API keys in **GitHub Actions secrets**, not exposed to friends).
+- `r/startups`, `r/SaaS`, `r/MachineLearning`, `r/LocalLLaMA`, `r/artificial`, … — configure under `reddit.subreddits`.
 
 ## 小红书 / 微信公众号
 
-- Typically require maintainer-side collection or manual curation into `feed-investor.json`.
-- Optional: RSS bridges (fragile); document bridge URLs in your fork if you use them.
+- Curate into `feed-investor.json` or extend maintainer scripts; not included in default builder.
 
 ## GitHub
 
-- Topics: `gaussian-splatting`, `nerf`, `world-models`, `video-generation`, `diffusion`, `3d-generation`.
-- Explore → Trending (by period) for optional maintainer scripts.
-- **Search API** is used in `build-feed.mjs` (unauthenticated quota applies).
+- `github.searchQuery` + **`minStars`** for quality bar.
+- Unauthenticated Search API: **60 requests/hour/IP** on GitHub — one run per day is fine.
 
-## Crowdfunding
+## Chinese news RSS
 
-- Kickstarter / Indiegogo: search keywords (AI video, 3D, neural, hologram, etc.); add top new projects to feed as `crowdfunding` items.
+- 36氪、机器之心、量子位等 — add entries under `rss.feeds` with `mapToType` and tags as needed.
 
-## Academic
+## Academic / crowdfunding
 
-- arXiv API: CS.CV, CS.GR, CS.LG with keyword queries.
-- Semantic Scholar public API / Hugging Face Papers for **world models**, **video**, **3D**.
+- Not in default builder; add custom scripts or manual items.
 
 ## Default FEED_URL for friends
 
-After publishing:
-
 `https://raw.githubusercontent.com/<OWNER>/<REPO>/main/feed-investor.json`
 
-Replace `OWNER`/`REPO`; optionally pin branch or release asset.
+Replace `OWNER`/`REPO`.

@@ -11,9 +11,9 @@ description: >-
 
 ## What this skill does
 
-- **Primary path**: Pulls **one public** `feed-investor.json` (HTTP GET, **no API keys** for the reader). The feed is **updated daily on the maintainer side** (GitHub Actions in this repo merges Hacker News, Reddit hot JSON, GitHub search, and optional curator-only sources into that file).
-- Summarizes items for **PEVC sourcing / market mapping** using prompts in `prompts/`.
-- Supports **onboarding**: after setup, run **one digest immediately**, then **daily** (via host scheduler).
+- **Primary path**: Pulls **one public** `feed-investor.json` (HTTP GET, **no API keys** for the reader). The feed is **built daily** on the maintainer side: RSS (tech/VC media), Hacker News, Reddit, GitHub (**`minStars` in `default-sources.json`**), optional **X** (AI leaders + AI investors, **only if** maintainer sets `TWITTER_BEARER_TOKEN` in Actions).
+- **Sourcing + mapping**: Daily digest must include a **sourcing pipeline** and **mapping delta** (see prompts). Weekly or on-demand **full market map** via dedicated prompt.
+- **Onboarding**: after setup, run **one digest immediately**, then **daily** (host scheduler).
 
 Aligns with [follow-builders](https://github.com/zarazhangrui/follow-builders): **central feed + local remix**.
 
@@ -29,63 +29,71 @@ Environment variable (optional): `FEED_URL` pointing to any public HTTPS JSON.
 
 Optional CLI (no keys): from `scripts/`, run `node fetch-feed.mjs` or `node fetch-feed.mjs <path-or-url>`.
 
+## Maintainer config (no code)
+
+- **[default-sources.json](default-sources.json)**: RSS URLs, `filter` (include/exclude keywords, `requireKeywordMatch`), `github.minStars`, `feed.capsByType`, **`xTwitter.aiLeaders` / `aiInvestors`** (handles, limits).
+
 ## Onboarding (conversational)
 
 Ask the user once, then persist preferences under `~/.pevc-ai-radar/config.json` (create directory if needed). **Do not commit this file.**
 
 1. **Cadence**: daily (default) or weekly; **local time** for digest.
 2. **Language**: English, Chinese (简体中文), or bilingual sections.
-3. **Delivery**:
-   - **Feishu + OpenClaw (recommended)**: treat digest as the message body for the **current Feishu session** — no extra channel tokens if the host posts the reply for you.
-   - **Other**: in-chat only, or user-supplied channel (Telegram/email) — if they choose external delivery, they must provide tokens **locally**; never store tokens in the repo.
+3. **Thesis** (new): sectors, geo, stage focus, cheque band (free text) — used for **mapping** and **sourcing** prioritization.
+4. **Delivery**:
+   - **Feishu + OpenClaw**: digest body in the **current session** unless another channel is configured.
+   - **Other**: in-chat, Telegram/email — tokens **local only**.
 
 After saving config: **immediately** run **one full digest** (`fetch → summarize → deliver`).
 
 ## Daily digest workflow
 
-1. **Fetch**: GET `FEED_URL` or read `feed-investor.json` next to this skill; parse JSON.
-2. **Filter** (optional): keep items whose `tags` or `type` match user focus (AI 3D, world models, AI video, AI social, etc.) — see `sources.md`.
+1. **Fetch**: GET `FEED_URL` or read local `feed-investor.json`; parse JSON.
+2. **Filter** (optional): by `tags` / `type` and user thesis in config.
 3. **Summarize** using:
-   - [prompts/digest-investor.md](prompts/digest-investor.md) for the overall digest structure.
-   - Type-specific prompts: `summarize-funding.md`, `summarize-social-en.md`, `summarize-social-cn.md`, `summarize-opensource.md`, `summarize-papers.md`.
-4. **Investor overlays** (always apply lightly, not as financial advice):
-   - Tag **ecosystem role**: infra, app, open-core, research, hardware, etc.
-   - **Signal triangulation**: note when only one weak source vs multiple public sources.
-   - Separate **fact / reported / opinion / rumor**.
-5. **Deliver** per user preference (e.g. full digest text in Feishu chat).
+   - [prompts/digest-investor.md](prompts/digest-investor.md) — must include **Sourcing pipeline** + **Mapping delta** + funding table with **investors / amount / round / link** (use **未披露** when unknown).
+   - [prompts/sourcing-deals.md](prompts/sourcing-deals.md) for tiered pipeline detail when user asks “sourcing” or “pipeline”.
+   - Type prompts: `summarize-funding.md`, `summarize-social-en.md` (split **ai_builder** vs **ai_investor** when tags present), `summarize-social-cn.md`, `summarize-opensource.md`, `summarize-papers.md`.
+4. **Investor overlays** (lightly, not financial advice): ecosystem role, signal triangulation, fact / reported / opinion / rumor.
+5. **Deliver** per user preference.
+
+## Weekly / on-demand mapping
+
+When the user asks **市场图谱**, **mapping**, **segment map**, or **赛道更新**:
+
+1. Use [prompts/mapping-market.md](prompts/mapping-market.md) with the same feed + config thesis.
+2. If no prior digest in thread, say clearly this is a **cross-section** only; if user pastes last digest, compute **delta**.
 
 ## Fallback mode (no central feed or empty feed)
 
-Use only if GET fails or `items` is empty:
-
-1. Use **public, no-key** sources listed in [sources.md](sources.md): RSS, Reddit `.json` endpoints, GitHub search/topic pages, arXiv/Semantic Scholar public APIs.
-2. **Do not** promise parity with X / 小红书 / 微信公众号 without curated feed entries or user-pasted links.
-3. State clearly in the digest that this run used **fallback** sources.
+1. Use [sources.md](sources.md) public sources; state **fallback** in the output.
+2. Do **not** promise X / 小红书 / 微信 parity without feed items or pasted links.
 
 ## Scheduling
 
-- **OpenClaw on Feishu**: use the host’s **cron or scheduled invocation** to run this digest workflow daily at the user’s time; output is the **reply in the bound Feishu conversation** unless the user configured another delivery in `config.json`.
-- **Cursor only**: use **Windows Task Scheduler** or **cron** to trigger the agent, or run digest manually — IDE has no built-in cron.
+- **OpenClaw on Feishu**: cron or scheduled invocation for daily digest; optional weekly mapping run.
+- **Cursor**: OS scheduler or manual.
 
 ## One-off requests
 
-- **Company / domain deep dive**: use [prompts/deal-signal-onepager.md](prompts/deal-signal-onepager.md) plus public web search; do not bypass paywalls.
-- **Market map update**: incremental delta vs last digest (segments, players, tech path, stage).
+- **Company / domain deep dive**: [prompts/deal-signal-onepager.md](prompts/deal-signal-onepager.md) + public search; no paywall bypass.
+- **Sourcing-only**: [prompts/sourcing-deals.md](prompts/sourcing-deals.md).
 
 ## Compliance
 
-- Only **public** content; respect site ToS and rate limits.
-- **No** scraping of logged-in-only feeds as a substitute for the central JSON.
-- Funding figures: cite **original announcement or reputable press**; flag uncertainty.
+- **Public** content only; respect ToS and rate limits.
+- **No** inventing investors, amounts, or rounds — use **未披露** when missing.
 
 ## File map
 
 | File | Role |
 |------|------|
-| [sources.md](sources.md) | Curator lists, RSS, subreddits, topics, fallback queries |
-| [default-sources.json](default-sources.json) | Maintainer: which HN/Reddit/GitHub pulls `build-feed.mjs` uses (no code edit) |
-| [feed-investor.json](feed-investor.json) | Central feed (CI-updated + optional manual items) |
-| [feed-investor.schema.json](feed-investor.schema.json) | JSON shape for maintainers |
+| [sources.md](sources.md) | RSS lists, X setup, Secrets |
+| [default-sources.json](default-sources.json) | RSS, filter, GitHub `minStars`, X lists, caps |
+| [feed-investor.json](feed-investor.json) | Central feed (CI-built) |
+| [feed-investor.schema.json](feed-investor.schema.json) | JSON shape + optional deal/OSS fields |
 | [examples/sample-digest.md](examples/sample-digest.md) | Output example |
-| `scripts/build-feed.mjs` | Maintainer: rebuild feed from public APIs (no reader keys) |
-| `.github/workflows/update-feed.yml` | Daily schedule to run `build-feed.mjs` and commit |
+| `prompts/mapping-market.md` | Full segment map |
+| `prompts/sourcing-deals.md` | Tiered sourcing pipeline |
+| `scripts/build-feed.mjs` | Build feed (RSS, HN, Reddit, GitHub, optional X) |
+| `.github/workflows/update-feed.yml` | Daily + push + `npm install` in `scripts/` |

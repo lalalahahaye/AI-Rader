@@ -1,4 +1,4 @@
-﻿{
+{
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://pevc-ai-radar.local/feed-investor.schema.json",
   "title": "PEVC AI Radar feed",
@@ -34,7 +34,19 @@
           "tags": {
             "type": "array",
             "items": { "type": "string" }
-          }
+          },
+          "company": { "type": "string", "description": "Optional; curator or post-processor" },
+          "round": { "type": "string" },
+          "amount": { "type": "string" },
+          "currency": { "type": "string" },
+          "investors": {
+            "description": "Lead/participants when known from source",
+            "oneOf": [
+              { "type": "string" },
+              { "type": "array", "items": { "type": "string" } }
+            ]
+          },
+          "stars": { "type": "number", "description": "GitHub stargazers when type is oss" }
         },
         "additionalProperties": true
       }

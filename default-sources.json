@@ -1,34 +1,140 @@
 {
   "version": 1,
-  "comment": "Edit this file to change what build-feed.mjs pulls — no code changes needed. Disable a section with enabled: false.",
+  "comment": "Edit sections below — no code changes. RSS URLs may change; verify in browser. X needs TWITTER_BEARER_TOKEN in GitHub Actions Secrets (maintainer only).",
+
+  "filter": {
+    "includeKeywords": [
+      "AI",
+      "LLM",
+      "ML",
+      "venture",
+      "VC",
+      "funding",
+      "raised",
+      "Series",
+      "Seed",
+      "融资",
+      "投资",
+      "初创",
+      "startup",
+      "open source",
+      "GitHub",
+      "model",
+      "GPU",
+      "chip",
+      "robotics",
+      "world model",
+      "3D",
+      "simulation",
+      "physical AI",
+      "digital twin"
+    ],
+    "excludeKeywords": ["NFT", "memecoin", "airdrop", "抽奖", "casino"],
+    "requireKeywordMatch": false,
+    "applyToHackerNews": true,
+    "applyToReddit": true,
+    "applyToRss": true,
+    "applyToGithub": false,
+    "applyToTwitter": true
+  },
 
   "hackerNews": {
     "enabled": true,
-    "scanTopIds": 15,
-    "maxStories": 8,
+    "scanTopIds": 20,
+    "maxStories": 10,
     "itemTags": ["generative", "us"]
   },
 
   "reddit": {
     "enabled": true,
     "subreddits": [
-      { "name": "MachineLearning", "limit": 5 },
-      { "name": "LocalLLaMA", "limit": 5 },
-      { "name": "artificial", "limit": 3 }
+      { "name": "MachineLearning", "limit": 4 },
+      { "name": "LocalLLaMA", "limit": 4 },
+      { "name": "artificial", "limit": 3 },
+      { "name": "startups", "limit": 4 }
     ],
     "defaultItemTags": ["ai_social"]
+  },
+
+  "rss": {
+    "enabled": true,
+    "feeds": [
+      {
+        "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+        "sourceLabel": "techcrunch_ai",
+        "maxItems": 10,
+        "mapToType": "news",
+        "itemTags": ["funding", "us"]
+      },
+      {
+        "url": "https://venturebeat.com/category/ai/feed/",
+        "sourceLabel": "venturebeat_ai",
+        "maxItems": 8,
+        "mapToType": "news",
+        "itemTags": ["funding", "us"]
+      },
+      {
+        "url": "https://www.sifted.eu/feed/",
+        "sourceLabel": "sifted",
+        "maxItems": 6,
+        "mapToType": "news",
+        "itemTags": ["eu", "funding"]
+      }
+    ]
   },
 
   "github": {
     "enabled": true,
     "searchQuery": "machine learning OR LLM OR diffusion OR \"world model\" OR gaussian-splatting",
-    "perPage": 12,
+    "minStars": 500,
+    "perPage": 15,
     "sort": "updated",
     "order": "desc",
     "itemTags": ["oss", "generative"]
   },
 
+  "xTwitter": {
+    "enabled": false,
+    "maxAccountsPerRun": 25,
+    "aiLeaders": [
+      { "handle": "ylecun", "maxTweets": 2 },
+      { "handle": "karpathy", "maxTweets": 2 },
+      { "handle": "gdb", "maxTweets": 2 }
+    ],
+    "aiInvestors": [
+      { "handle": "a16z", "maxTweets": 2 },
+      { "handle": "sequoia", "maxTweets": 2 },
+      { "handle": "luxcapital", "maxTweets": 2 },
+      { "handle": "wolfejosh", "maxTweets": 2 },
+      { "handle": "DCVCvc", "maxTweets": 2 },
+      { "handle": "nvidiainv", "maxTweets": 2 },
+      { "handle": "lsvp", "maxTweets": 2 },
+      { "handle": "benchmark", "maxTweets": 2 },
+      { "handle": "m2jr", "maxTweets": 2 },
+      { "handle": "generalcatalyst", "maxTweets": 2 },
+      { "handle": "niko_b0n", "maxTweets": 2 },
+      { "handle": "foundersfund", "maxTweets": 2 },
+      { "handle": "collision", "maxTweets": 2 },
+      { "handle": "indexventures", "maxTweets": 2 },
+      { "handle": "erin_l_griffith", "maxTweets": 2 },
+      { "handle": "greylockvc", "maxTweets": 2 },
+      { "handle": "reidhoffman", "maxTweets": 2 },
+      { "handle": "sethg", "maxTweets": 2 },
+      { "handle": "glasswingvc", "maxTweets": 2 },
+      { "handle": "amplifyvc", "maxTweets": 2 }
+    ]
+  },
+
   "feed": {
-    "maxTotalItems": 45
+    "maxTotalItems": 90,
+    "capsByType": {
+      "funding": 22,
+      "news": 28,
+      "oss": 14,
+      "social_en": 24,
+      "paper": 6,
+      "crowdfunding": 4,
+      "social_cn": 6
+    }
   }
 }
