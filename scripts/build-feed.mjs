@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Builds feed-investor.json from public APIs (+ optional RSS, X with Bearer token).
+ * Builds feed-investor.json from public APIs (RSS, HN Algolia, arXiv, Reddit, GitHub, optional X/Kickstarter).
  * Config: ../default-sources.json
  */
 import fs from "node:fs/promises";
@@ -19,21 +19,30 @@ const UA =
 const BUILTIN_SOURCES = {
   version: 1,
   filter: {
+    thesis: { orGroups: [] },
     includeKeywords: [],
     excludeKeywords: [],
     requireKeywordMatch: false,
     applyToHackerNews: true,
     applyToReddit: true,
     applyToRss: true,
-    applyToGithub: false,
+    applyToGoogleNews: true,
+    applyToArxiv: true,
+    applyToGithub: true,
     applyToTwitter: true,
+    applyToKickstarter: true,
   },
   hackerNews: {
     enabled: true,
+    algoliaQueries: [],
+    hitsPerQuery: 5,
+    firebaseTopStories: false,
     scanTopIds: 15,
     maxStories: 8,
     itemTags: ["generative", "us"],
   },
+  googleNews: { enabled: false, feeds: [] },
+  arxiv: { enabled: false, queries: [], maxResults: 5 },
   reddit: {
     enabled: true,
     subreddits: [
@@ -42,14 +51,11 @@ const BUILTIN_SOURCES = {
     ],
     defaultItemTags: ["ai_social"],
   },
-  rss: {
-    enabled: false,
-    feeds: [],
-  },
+  rss: { enabled: false, feeds: [] },
+  kickstarter: { enabled: false, discoverUrl: "", maxItems: 8 },
   github: {
     enabled: true,
-    searchQuery:
-      'machine learning OR LLM OR diffusion OR "world model" OR gaussian-splatting',
+    searchQuery: "world-model OR nerf OR gaussian-splatting",
     minStars: 0,
     perPage: 12,
     sort: "updated",
@@ -62,23 +68,31 @@ const BUILTIN_SOURCES = {
     aiLeaders: [],
     aiInvestors: [],
   },
-  feed: {
-    maxTotalItems: 60,
-    capsByType: {},
-  },
+  feed: { maxTotalItems: 60, capsByType: {} },
 };
 
 const APPLY_FLAG = {
   hn: "applyToHackerNews",
   reddit: "applyToReddit",
   rss: "applyToRss",
+  googlenews: "applyToGoogleNews",
+  arxiv: "applyToArxiv",
   github: "applyToGithub",
   twitter: "applyToTwitter",
+  kickstarter: "applyToKickstarter",
 };
 
 function mergeSection(def, over) {
   if (!over || typeof over !== "object") return { ...def };
   return { ...def, ...over };
+}
+
+function mergeFilter(def, user) {
+  const base = mergeSection(def, user);
+  if (user?.thesis || def.thesis) {
+    base.thesis = mergeSection(def.thesis || { orGroups: [] }, user?.thesis || {});
+  }
+  return base;
 }
 
 async function loadSourcesConfig() {
@@ -87,10 +101,13 @@ async function loadSourcesConfig() {
     const user = JSON.parse(raw);
     return {
       version: user.version ?? BUILTIN_SOURCES.version,
-      filter: mergeSection(BUILTIN_SOURCES.filter, user.filter),
+      filter: mergeFilter(BUILTIN_SOURCES.filter, user.filter || {}),
       hackerNews: mergeSection(BUILTIN_SOURCES.hackerNews, user.hackerNews),
+      googleNews: mergeSection(BUILTIN_SOURCES.googleNews, user.googleNews),
+      arxiv: mergeSection(BUILTIN_SOURCES.arxiv, user.arxiv),
       reddit: mergeSection(BUILTIN_SOURCES.reddit, user.reddit),
       rss: mergeSection(BUILTIN_SOURCES.rss, user.rss),
+      kickstarter: mergeSection(BUILTIN_SOURCES.kickstarter, user.kickstarter),
       github: mergeSection(BUILTIN_SOURCES.github, user.github),
       xTwitter: mergeSection(BUILTIN_SOURCES.xTwitter, user.xTwitter),
       feed: mergeSection(BUILTIN_SOURCES.feed, user.feed),
@@ -126,18 +143,32 @@ function itemTextForFilter(item) {
     .toLowerCase();
 }
 
+function passesPositiveThesis(item, filter) {
+  const text = itemTextForFilter(item);
+  const groups = filter.thesis?.orGroups;
+  if (Array.isArray(groups) && groups.length > 0) {
+    return groups.some(
+      (group) =>
+        Array.isArray(group) &&
+        group.some(
+          (kw) => kw && text.includes(String(kw).toLowerCase()),
+        ),
+    );
+  }
+  const inc = filter.includeKeywords || [];
+  if (filter.requireKeywordMatch && inc.length > 0) {
+    return inc.some((kw) => kw && text.includes(String(kw).toLowerCase()));
+  }
+  return true;
+}
+
 function passesPevcFilter(item, filter) {
   if (!filter) return true;
   const text = itemTextForFilter(item);
   for (const kw of filter.excludeKeywords || []) {
     if (kw && text.includes(String(kw).toLowerCase())) return false;
   }
-  const inc = filter.includeKeywords || [];
-  if (filter.requireKeywordMatch && inc.length > 0) {
-    const hit = inc.some((kw) => kw && text.includes(String(kw).toLowerCase()));
-    if (!hit) return false;
-  }
-  return true;
+  return passesPositiveThesis(item, filter);
 }
 
 function filterForSource(item, filter, kind) {
@@ -155,9 +186,14 @@ async function fetchJson(url, headers = {}) {
   return res.json();
 }
 
-async function fetchText(url) {
+async function fetchText(url, accept) {
   const res = await fetch(url, {
-    headers: { "User-Agent": UA, Accept: "application/rss+xml, application/atom+xml, text/xml, */*" },
+    headers: {
+      "User-Agent": UA,
+      Accept:
+        accept ||
+        "application/rss+xml, application/atom+xml, text/xml, application/xml, */*",
+    },
   });
   if (!res.ok) throw new Error(`HTTP ${res.status} ${url}`);
   return res.text();
@@ -215,6 +251,7 @@ function parseRssItems(xml, feedMeta) {
       if (typeof L === "string") link = L;
       else if (L?.["@_href"]) link = L["@_href"];
       else if (Array.isArray(L)) link = L[0]?.["@_href"] || L[0];
+      if (!link && e.id) link = stripTags(textVal(e.id));
       const pub = e.published || e.updated || new Date().toISOString();
       const desc = stripTags(textVal(e.summary || e.content)).slice(0, 400);
       if (!title || !link) continue;
@@ -233,7 +270,7 @@ function parseRssItems(xml, feedMeta) {
   return out;
 }
 
-async function rssAll(cfg, filter) {
+async function rssFeedsBlock(cfg, filter, kind) {
   if (!cfg.enabled) return [];
   const feeds = Array.isArray(cfg.feeds) ? cfg.feeds : [];
   const all = [];
@@ -249,7 +286,7 @@ async function rssAll(cfg, filter) {
         itemTags: f.itemTags,
       }).slice(0, maxItems);
       for (const it of items) {
-        if (filterForSource(it, filter, "rss")) all.push(it);
+        if (filterForSource(it, filter, kind)) all.push(it);
       }
     } catch (e) {
       console.warn(`RSS ${f.sourceLabel}:`, e.message);
@@ -258,8 +295,8 @@ async function rssAll(cfg, filter) {
   return all;
 }
 
-async function hnStories(cfg, filter) {
-  if (!cfg.enabled) return [];
+async function hnFirebaseTop(cfg, filter) {
+  if (!cfg.enabled || !cfg.firebaseTopStories) return [];
   const scan = Math.max(1, cfg.scanTopIds ?? 15);
   const maxStories = Math.max(1, cfg.maxStories ?? 8);
   const tags = Array.isArray(cfg.itemTags) ? cfg.itemTags : ["generative", "us"];
@@ -290,6 +327,96 @@ async function hnStories(cfg, filter) {
     };
     if (filterForSource(row, filter, "hn")) items.push(row);
     if (items.length >= maxStories) break;
+  }
+  return items;
+}
+
+async function hnAlgolia(cfg, filter) {
+  if (!cfg.enabled) return [];
+  const queries = Array.isArray(cfg.algoliaQueries) ? cfg.algoliaQueries : [];
+  if (queries.length === 0) return [];
+  const perQ = Math.max(1, cfg.hitsPerQuery ?? 5);
+  const items = [];
+  const seenUrl = new Set();
+
+  for (const q of queries) {
+    if (!q || !String(q).trim()) continue;
+    const url = `https://hn.algolia.com/api/v1/search?tags=story&query=${encodeURIComponent(String(q).trim())}&hitsPerPage=${perQ}`;
+    try {
+      const data = await fetchJson(url);
+      for (const hit of data.hits || []) {
+        const storyUrl =
+          hit.url ||
+          (hit.objectID
+            ? `https://news.ycombinator.com/item?id=${hit.objectID}`
+            : null);
+        if (!hit.title || !storyUrl) continue;
+        const dedupe = storyUrl;
+        if (seenUrl.has(dedupe)) continue;
+        seenUrl.add(dedupe);
+        const ts =
+          hit.created_at_i != null
+            ? new Date(Number(hit.created_at_i) * 1000)
+            : hit.created_at
+              ? new Date(hit.created_at)
+              : new Date();
+        const row = {
+          id: `hn-alg-${hit.objectID || idHash(dedupe)}`,
+          type: "news",
+          title: stripTags(String(hit.title)).slice(0, 300),
+          url: storyUrl,
+          source: "hacker_news_algolia",
+          publishedAt: Number.isNaN(ts.getTime())
+            ? new Date().toISOString()
+            : ts.toISOString(),
+          summaryHint:
+            hit.points != null ? `HN points ${hit.points}` : undefined,
+          tags: Array.isArray(cfg.itemTags) ? [...cfg.itemTags] : ["generative"],
+        };
+        if (filterForSource(row, filter, "hn")) items.push(row);
+      }
+    } catch (e) {
+      console.warn(`HN Algolia "${q}":`, e.message);
+    }
+  }
+  return items;
+}
+
+async function hnFetchAll(cfg, filter) {
+  if (!cfg.enabled) return [];
+  const algoliaItems = await hnAlgolia(cfg, filter);
+  const topItems = await hnFirebaseTop(cfg, filter);
+  return [...algoliaItems, ...topItems];
+}
+
+async function arxivFetch(cfg, filter) {
+  if (!cfg.enabled) return [];
+  const queries = Array.isArray(cfg.queries) ? cfg.queries : [];
+  const maxR = Math.min(50, Math.max(1, cfg.maxResults ?? 5));
+  const items = [];
+  const seen = new Set();
+
+  for (const q of queries) {
+    const sq = q?.searchQuery;
+    if (!sq) continue;
+    const url = `https://export.arxiv.org/api/query?search_query=${encodeURIComponent(sq)}&start=0&max_results=${maxR}&sortBy=submittedDate&sortOrder=descending`;
+    try {
+      const xml = await fetchText(url);
+      const parsed = parseRssItems(xml, {
+        sourceLabel: `arxiv_${idHash(sq).slice(0, 8)}`,
+        mapToType: "news",
+        itemTags: ["paper", ...(Array.isArray(q.itemTags) ? q.itemTags : [])],
+      });
+      for (const it of parsed) {
+        const row = { ...it, type: "paper", source: "arxiv" };
+        row.id = `arxiv-${idHash(row.url)}`;
+        if (seen.has(row.url)) continue;
+        seen.add(row.url);
+        if (filterForSource(row, filter, "arxiv")) items.push(row);
+      }
+    } catch (e) {
+      console.warn(`arXiv "${sq}":`, e.message);
+    }
   }
   return items;
 }
@@ -333,8 +460,7 @@ async function redditAll(cfg, filter) {
       ),
     );
   const chunks = await Promise.all(tasks);
-  const flat = chunks.flat();
-  return flat.filter((it) => filterForSource(it, filter, "reddit"));
+  return chunks.flat().filter((it) => filterForSource(it, filter, "reddit"));
 }
 
 async function githubRepos(cfg, filter) {
@@ -456,6 +582,54 @@ async function twitterFetch(cfg, filter) {
   return items;
 }
 
+async function kickstarterFetch(cfg, filter) {
+  if (!cfg?.enabled) return [];
+  const discoverUrl =
+    cfg.discoverUrl ||
+    "https://www.kickstarter.com/discover/advanced?sort=newest&term=AI%20game";
+  const maxItems = Math.max(1, cfg.maxItems ?? 8);
+  try {
+    const res = await fetch(discoverUrl, {
+      headers: { "User-Agent": UA, Accept: "text/html" },
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const html = await res.text();
+    const urls = new Set();
+    const re =
+      /href="(https:\/\/www\.kickstarter\.com\/projects\/[^"?]+)"/gi;
+    let m;
+    while ((m = re.exec(html)) !== null && urls.size < maxItems * 3) {
+      urls.add(m[1].split("?")[0]);
+    }
+    const items = [];
+    let i = 0;
+    for (const u of urls) {
+      if (i >= maxItems) break;
+      const parts = u.split("/").filter(Boolean);
+      const titleGuess =
+        parts.length >= 4 ? decodeURIComponent(parts[3].replace(/-/g, " ")) : "Kickstarter project";
+      const row = {
+        id: `ks-${idHash(u)}`,
+        type: "crowdfunding",
+        title: titleGuess.slice(0, 200),
+        url: u,
+        source: "kickstarter_discover",
+        publishedAt: new Date().toISOString(),
+        summaryHint: "From public discover page; verify on site.",
+        tags: ["crowdfunding"],
+      };
+      if (filterForSource(row, filter, "kickstarter")) {
+        items.push(row);
+        i++;
+      }
+    }
+    return items;
+  } catch (e) {
+    console.warn("Kickstarter:", e.message);
+    return [];
+  }
+}
+
 function mergeDedup(groups) {
   const seen = new Set();
   const out = [];
@@ -539,21 +713,45 @@ async function main() {
   const config = await loadSourcesConfig();
   const filter = config.filter;
 
-  const [hn, redditItems, rssItems, gh, tw] = await Promise.all([
-    hnStories(config.hackerNews, filter).catch((e) => {
+  const [
+    hnItems,
+    redditItems,
+    rssItems,
+    gnItems,
+    arxivItems,
+    gh,
+    tw,
+    ksItems,
+  ] = await Promise.all([
+    hnFetchAll(config.hackerNews, filter).catch((e) => {
       console.warn("HN:", e.message);
       return [];
     }),
     redditAll(config.reddit, filter),
-    rssAll(config.rss, filter),
+    rssFeedsBlock(config.rss, filter, "rss"),
+    rssFeedsBlock(config.googleNews, filter, "googlenews"),
+    arxivFetch(config.arxiv, filter).catch((e) => {
+      console.warn("arXiv:", e.message);
+      return [];
+    }),
     githubRepos(config.github, filter).catch((e) => {
       console.warn("GitHub:", e.message);
       return [];
     }),
     twitterFetch(config.xTwitter, filter),
+    kickstarterFetch(config.kickstarter, filter),
   ]);
 
-  let items = mergeDedup([hn, redditItems, rssItems, gh, tw]);
+  let items = mergeDedup([
+    hnItems,
+    redditItems,
+    rssItems,
+    gnItems,
+    arxivItems,
+    gh,
+    tw,
+    ksItems,
+  ]);
   items.sort(
     (a, b) =>
       new Date(b.publishedAt || 0) - new Date(a.publishedAt || 0),

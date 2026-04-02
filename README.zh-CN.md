@@ -2,7 +2,9 @@
 
 面向 **PEVC** 的 **AI 市场雷达**：融资、新闻、Reddit/X、中文社交（通过中央 feed 策展）、GitHub、论文、众筹等。**阅读端零 API Key**，思路对齐 [follow-builders](https://github.com/zarazhangrui/follow-builders)。
 
-**中央 feed**：Actions 会在 `scripts/` 下 **`npm install`** 后运行 [`scripts/build-feed.mjs`](scripts/build-feed.mjs)（见 [`.github/workflows/update-feed.yml`](.github/workflows/update-feed.yml)）。数据源包括：**RSS**（TechCrunch AI、VentureBeat AI、Sifted 等，可在 JSON 里增删）、**Hacker News**、**Reddit**、**GitHub Search**（**`minStars`** 默认 500 过滤低星仓库）、可选 **X**（[`default-sources.json`](default-sources.json) 里 **`aiLeaders` / `aiInvestors`**，需仓库 Secret **`TWITTER_BEARER_TOKEN`**）。**降噪**：`filter` 关键词与 `feed.capsByType`。
+**中央 feed**：Actions 会在 `scripts/` 下 **`npm install`** 后运行 [`scripts/build-feed.mjs`](scripts/build-feed.mjs)（见 [`.github/workflows/update-feed.yml`](.github/workflows/update-feed.yml)）。**Path A（CI、读者零 key）** 仅使用公开接口：**RSS**（含 36氪、机器之心、量子位等，**URL 需自行验证**）、**Google News RSS**、**HN Algolia 多关键词**、**arXiv API**（论文项）、**Reddit**、**GitHub Search**（赛道收窄的 `searchQuery` + **`minStars`**）、可选 **Kickstarter** 公开 discover 页（**默认关闭**，HTML 脆弱）、可选 **X**（需仓库 Secret **`TWITTER_BEARER_TOKEN`**）。**赛道过滤**：[`default-sources.json`](default-sources.json) 中 **`filter.thesis.orGroups`**（世界模型 / AI 3D / 文生视频 / AI 游戏与社交等）+ **`excludeKeywords`**，再配合 **`feed.capsByType`**（含 `paper`、`crowdfunding`）。
+
+**重要边界**：**无商业库 key ≠ 能自动同步 IT 桔子 / 企名片 / 天眼查 / 企查查 全库**；微信、小红书亦无稳定官方匿名 API 供 CI 批量拉取。此类信息由 **Agent 对话内联网打开单条公开页** 或 **维护者策展写入 `feed-investor.json`**，详见 [`sources.md`](sources.md) 与 [`SKILL.md`](SKILL.md)。
 
 **Agent 侧**：[`SKILL.md`](SKILL.md) 与 [`prompts/`](prompts/) 要求输出 **sourcing 分层**、**mapping delta**、融资表 **投资人/金额/未披露** 规则，而不只是新闻摘要。
 

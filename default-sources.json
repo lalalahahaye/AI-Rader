@@ -1,57 +1,112 @@
 {
   "version": 1,
-  "comment": "Edit sections below — no code changes. RSS URLs may change; verify in browser. X needs TWITTER_BEARER_TOKEN in GitHub Actions Secrets (maintainer only).",
+  "comment": "Thesis: AI 3D, world models, AI 文娱/视频/社交/游戏. RSS URLs verify in browser. X: TWITTER_BEARER_TOKEN secret. IT桔子/企名片等见 sources.md（Agent 搜索或策展，不进 CI 批量抓取）。",
 
   "filter": {
-    "includeKeywords": [
-      "AI",
-      "LLM",
-      "ML",
-      "venture",
-      "VC",
-      "funding",
-      "raised",
-      "Series",
-      "Seed",
-      "融资",
-      "投资",
-      "初创",
-      "startup",
-      "open source",
-      "GitHub",
-      "model",
-      "GPU",
-      "chip",
-      "robotics",
-      "world model",
-      "3D",
-      "simulation",
-      "physical AI",
-      "digital twin"
+    "thesis": {
+      "orGroups": [
+        ["world model", "world models", "世界模型"],
+        ["3d generation", "text-to-3d", "3d 生成", "神经辐射", "nerf", "gaussian splatting", "gaussian-splatting"],
+        ["ai video", "video generation", "文生视频", "generative video", "text-to-video", "sora", "diffusion video"],
+        ["ai game", "game ai", "游戏 ai", "npc ai", "procedural", "unity", "unreal"],
+        ["ai social", "数字人", "digital human", "companion", "avatar", "vtuber", "virtual idol"],
+        ["ai entertainment", "文娱", "immersive", "xr ", " ar ", "vr ", "mixed reality"],
+        ["digital twin", "仿真", "simulation", "physics-based", "physical ai"]
+      ]
+    },
+    "includeKeywords": [],
+    "excludeKeywords": [
+      "NFT",
+      "memecoin",
+      "airdrop",
+      "抽奖",
+      "casino",
+      "election",
+      "特朗普",
+      "拜登",
+      "加密货币喊单",
+      "现货合约"
     ],
-    "excludeKeywords": ["NFT", "memecoin", "airdrop", "抽奖", "casino"],
     "requireKeywordMatch": false,
     "applyToHackerNews": true,
     "applyToReddit": true,
     "applyToRss": true,
-    "applyToGithub": false,
-    "applyToTwitter": true
+    "applyToGoogleNews": true,
+    "applyToArxiv": true,
+    "applyToGithub": true,
+    "applyToTwitter": true,
+    "applyToKickstarter": true
   },
 
   "hackerNews": {
     "enabled": true,
+    "algoliaQueries": [
+      "world model AI",
+      "Gaussian splatting 3D",
+      "NeRF neural rendering",
+      "AI video generation diffusion",
+      "text to video model",
+      "AI game generation NPC",
+      "digital human avatar LLM"
+    ],
+    "hitsPerQuery": 6,
+    "firebaseTopStories": false,
     "scanTopIds": 20,
-    "maxStories": 10,
+    "maxStories": 12,
     "itemTags": ["generative", "us"]
+  },
+
+  "googleNews": {
+    "enabled": true,
+    "feeds": [
+      {
+        "url": "https://news.google.com/rss/search?q=world+model+AI+3D+video+game+generative&hl=en&gl=US&ceid=US:en",
+        "sourceLabel": "google_news_en_thesis",
+        "maxItems": 10,
+        "mapToType": "news",
+        "itemTags": ["us", "funding"]
+      },
+      {
+        "url": "https://news.google.com/rss/search?q=%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B+AI+3D+%E8%A7%86%E9%A2%91+%E6%B8%B8%E6%88%8F+%E6%96%87%E7%94%9F%E8%A7%86%E9%A2%91&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "sourceLabel": "google_news_cn_thesis",
+        "maxItems": 10,
+        "mapToType": "news",
+        "itemTags": ["china", "funding"]
+      }
+    ]
+  },
+
+  "arxiv": {
+    "enabled": true,
+    "maxResults": 6,
+    "queries": [
+      {
+        "searchQuery": "cat:cs.CV+AND+all:world+model",
+        "itemTags": ["world_models", "paper"]
+      },
+      {
+        "searchQuery": "cat:cs.GR+AND+all:neural+rendering",
+        "itemTags": ["ai_3d", "paper"]
+      },
+      {
+        "searchQuery": "all:%22video+generation%22+AND+all:diffusion",
+        "itemTags": ["ai_video", "paper"]
+      }
+    ]
   },
 
   "reddit": {
     "enabled": true,
     "subreddits": [
+      { "name": "GaussianSplatting", "limit": 5 },
+      { "name": "computergraphics", "limit": 4 },
+      { "name": "gamedev", "limit": 4 },
+      { "name": "Unity3D", "limit": 4 },
+      { "name": "unrealengine", "limit": 4 },
+      { "name": "videography", "limit": 3 },
+      { "name": "virtualreality", "limit": 3 },
       { "name": "MachineLearning", "limit": 4 },
-      { "name": "LocalLLaMA", "limit": 4 },
-      { "name": "artificial", "limit": 3 },
-      { "name": "startups", "limit": 4 }
+      { "name": "LocalLLaMA", "limit": 3 }
     ],
     "defaultItemTags": ["ai_social"]
   },
@@ -62,35 +117,62 @@
       {
         "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
         "sourceLabel": "techcrunch_ai",
-        "maxItems": 10,
+        "maxItems": 8,
         "mapToType": "news",
         "itemTags": ["funding", "us"]
       },
       {
         "url": "https://venturebeat.com/category/ai/feed/",
         "sourceLabel": "venturebeat_ai",
-        "maxItems": 8,
+        "maxItems": 6,
         "mapToType": "news",
         "itemTags": ["funding", "us"]
       },
       {
         "url": "https://www.sifted.eu/feed/",
         "sourceLabel": "sifted",
-        "maxItems": 6,
+        "maxItems": 5,
         "mapToType": "news",
         "itemTags": ["eu", "funding"]
+      },
+      {
+        "url": "https://36kr.com/feed",
+        "sourceLabel": "36kr",
+        "maxItems": 8,
+        "mapToType": "news",
+        "itemTags": ["china", "funding"]
+      },
+      {
+        "url": "https://www.jiqizhixin.com/feed",
+        "sourceLabel": "jiqizhixin",
+        "maxItems": 8,
+        "mapToType": "news",
+        "itemTags": ["china", "funding"]
+      },
+      {
+        "url": "https://www.qbitai.com/feed",
+        "sourceLabel": "qbitai",
+        "maxItems": 8,
+        "mapToType": "news",
+        "itemTags": ["china", "funding"]
       }
     ]
   },
 
+  "kickstarter": {
+    "enabled": false,
+    "discoverUrl": "https://www.kickstarter.com/discover/advanced?sort=newest&term=AI+video+game+3D",
+    "maxItems": 6
+  },
+
   "github": {
     "enabled": true,
-    "searchQuery": "machine learning OR LLM OR diffusion OR \"world model\" OR gaussian-splatting",
+    "searchQuery": "(\"world model\" OR nerf OR \"gaussian splatting\" OR \"3d generation\" OR text-to-3d OR \"video generation\" OR diffusion OR game-ai OR unity OR unreal) NOT tutorial",
     "minStars": 500,
     "perPage": 15,
     "sort": "updated",
     "order": "desc",
-    "itemTags": ["oss", "generative"]
+    "itemTags": ["oss", "generative", "ai_3d"]
   },
 
   "xTwitter": {
@@ -126,14 +208,14 @@
   },
 
   "feed": {
-    "maxTotalItems": 90,
+    "maxTotalItems": 100,
     "capsByType": {
-      "funding": 22,
-      "news": 28,
+      "funding": 18,
+      "news": 32,
       "oss": 14,
-      "social_en": 24,
-      "paper": 6,
-      "crowdfunding": 4,
+      "social_en": 20,
+      "paper": 12,
+      "crowdfunding": 6,
       "social_cn": 6
     }
   }
