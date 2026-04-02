@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-02T09:00:07.870Z",
+  "updatedAt": "2026-04-02T09:01:25.313Z",
   "items": [
     {
       "id": "rss-36kr-cds9yr",
@@ -218,27 +218,14 @@
     {
       "id": "rss-google_news_en_thesis-yapd8c",
       "type": "news",
-      "title": "Genie 3: A new frontier for world models - deepmind.google",
+      "title": "Genie 3: A new frontier for world models - Google DeepMind",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HcVNvS2Z3dmRLQnJmYWlHUU0wb1NUemxGdG1UcndLejlhTmFIMjdPSjljd1RWZHNlRWJFSTRoRDVyTmx5TVZsSEZEU1l4NDFOc09fTEd3Si1xNVhsWm1OcDZDVFBjaXE2UFRTa0xfTGx6d2pZZlRoSA?oc=5",
       "source": "google_news_en_thesis",
       "publishedAt": "2025-08-05T07:00:00.000Z",
-      "summaryHint": "Genie 3: A new frontier for world models &nbsp;&nbsp; deepmind.google",
+      "summaryHint": "Genie 3: A new frontier for world models &nbsp;&nbsp; Google DeepMind",
       "tags": [
         "us",
         "funding"
-      ]
-    },
-    {
-      "id": "hn-alg-44439005",
-      "type": "news",
-      "title": "Show HN: Procedurally generated 3DGS splats powered by Spark",
-      "url": "https://github.com/splatmesh/splatmesh.github.io",
-      "source": "hacker_news_algolia",
-      "publishedAt": "2025-07-01T23:49:56.000Z",
-      "summaryHint": "HN points 11",
-      "tags": [
-        "generative",
-        "us"
       ]
     },
     {
@@ -278,6 +265,20 @@
       "tags": [
         "generative",
         "us"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_deals-meep4k",
+      "type": "news",
+      "title": "“创造一个有你的世界”不再是空谈，NYXverse真能实现“文生3D”｜涌现新项目 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vb0FyS0h6S2dGd2JHd1JBWmthZXU5MDY4d2dpZ1YxaGhlY3BKY1hqcDY4c3NrTzhBQm5WN0pPZHZoSV9WVDUwcDZ4aTFBZw?oc=5",
+      "source": "google_news_cn_deals",
+      "publishedAt": "2025-04-22T07:00:00.000Z",
+      "summaryHint": "“创造一个有你的世界”不再是空谈，NYXverse真能实现“文生3D”｜涌现新项目 &nbsp;&nbsp; 36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
       ]
     },
     {
@@ -483,6 +484,19 @@
       "source": "hacker_news_algolia",
       "publishedAt": "2021-03-26T21:52:49.000Z",
       "summaryHint": "HN points 175",
+      "tags": [
+        "generative",
+        "us"
+      ]
+    },
+    {
+      "id": "hn-alg-25482481",
+      "type": "news",
+      "title": "Explosion of Neural Rendering Research in 2020",
+      "url": "https://dellaert.github.io/NeRF/",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2020-12-19T23:55:13.000Z",
+      "summaryHint": "HN points 2",
       "tags": [
         "generative",
         "us"
