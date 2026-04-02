@@ -2,7 +2,7 @@
 
 面向 **PEVC** 的 **AI 市场雷达**：融资、新闻、Reddit/X、GitHub、论文、可选众筹等。**阅读端零 API Key**，思路对齐 [follow-builders](https://github.com/zarazhangrui/follow-builders)。
 
-**中央 feed**：Actions 在 `scripts/` 下 **`npm install`** 后运行 [`scripts/build-feed.mjs`](scripts/build-feed.mjs)（见 [`.github/workflows/update-feed.yml`](.github/workflows/update-feed.yml)）。**Path A** 仅公开接口：**RSS**（含 36氪、机器之心、量子位等，URL 需自行验证）、**Google News RSS**、**HN Algolia**、**arXiv**、**Reddit**、**GitHub Search**（`searchQuery` + **`minStars`**）、可选 **Kickstarter**（默认关）、可选 **X**（仓库 Secret **`TWITTER_BEARER_TOKEN`**）。**赛道过滤**：[`default-sources.json`](default-sources.json) 里 **`filter.thesis.orGroups`**、`excludeKeywords`、`feed.capsByType`。
+**中央 feed**：Actions 在 `scripts/` 下 **`npm install`** 后运行 [`scripts/build-feed.mjs`](scripts/build-feed.mjs)（见 [`.github/workflows/update-feed.yml`](.github/workflows/update-feed.yml)）。**Path A** 仅公开接口：**RSS**（含 36氪、机器之心、量子位等，URL 需自行验证）、**Google News RSS**、**HN Algolia**、**arXiv**、**Reddit**、**GitHub Search**（`searchQuery` + **`minStars`**）、可选 **Kickstarter**（默认关）、可选 **X**（仓库 Secret **`TWITTER_BEARER_TOKEN`**）。**赛道过滤**：[`default-sources.json`](default-sources.json) 里 **`filter.includeKeywords`**（允许列表，至少命中一词）+ 少量 **`excludeKeywords`** + **`feed.capsByType`**。
 
 **边界**：无商业库 key 不能自动同步 IT 桔子 / 企名片 / 天眼查等全库；微信、小红书无稳定 CI 匿名 API。见 [`sources.md`](sources.md)、[`SKILL.md`](SKILL.md)。
 

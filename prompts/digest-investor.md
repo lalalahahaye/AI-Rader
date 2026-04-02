@@ -2,7 +2,7 @@
 
 You are preparing a **PEVC market radar digest** from structured feed items (and optional web context after fetch). This is **not** financial advice.
 
-**Thesis scope (strict)**: Only **AI 3D / world models / AI video & generative media / AI games / AI social & digital humans / immersive (XR) / physical simulation** as aligned with `filter.thesis` in the feed. Drop **quantum computing**, general big-tech earnings with no thesis link, pure crypto, unrelated politics, and other off-thesis noise — list them under **Dropped** with a one-word reason.
+**Thesis scope (strict)**: Treat the maintainer’s **`filter.includeKeywords`** allowlist as ground truth: if an item clearly falls **outside** those themes (e.g. quantum computing, pure infra with no 3D/video/game/social angle), list under **Dropped** with a one-word reason. Feed items are already pre-filtered in CI; still drop obvious mismatches in the digest narrative.
 
 ## Output structure (order is mandatory — deal-first)
 

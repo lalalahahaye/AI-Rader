@@ -17,7 +17,7 @@ The workflow **Update feed (daily)** runs [`scripts/build-feed.mjs`](scripts/bui
 
 | Block | What it does |
 |--------|----------------|
-| `filter` | **`thesis.orGroups`**: 多组 OR — 条目正文（标题 + `summaryHint` + `tags`）须 **至少命中某一组内任一关键词**；`excludeKeywords`；`includeKeywords` + `requireKeywordMatch`（无 `orGroups` 时的后备）；`applyToHackerNews` / `applyToReddit` / `applyToRss` / `applyToGoogleNews` / `applyToArxiv` / `applyToGithub` / `applyToTwitter` / `applyToKickstarter` |
+| `filter` | **`includeKeywords`**（非空时）：允许列表 — 标题 + `summaryHint` + `tags` 须 **至少命中其一**，否则丢弃；**`thesis.orGroups`** 仅在 `includeKeywords` 为空时作为多组 OR 后备；**`excludeKeywords`** 只保留少量spam/时政等；各 `applyTo*` 开关 |
 | `rss` | `{ url, sourceLabel, maxItems, mapToType, itemTags }` — RSS and Atom（含中文科技） |
 | `googleNews` | Google News **搜索 RSS** URL 列表，走与 RSS 相同的解析路径 |
 | `hackerNews` | **HN Algolia** 多 `algoliaQueries`；可选 `firebaseTopStories` 补充 top |
@@ -39,7 +39,7 @@ URLs **change** on publisher sites — verify in browser if a feed fails (workfl
 
 ## Google News RSS
 
-- 无 key；用固定搜索词生成 `news.google.com/rss/search?...` URL，与 **`filter.thesis`** 赛道对齐。
+- 无 key；用固定搜索词生成 `news.google.com/rss/search?...` URL，与 **`filter.includeKeywords`** 赛道对齐。
 - `hl` / `gl` / `ceid` 按语言与地区调整。
 
 ## Hacker News (Algolia)
@@ -54,7 +54,8 @@ URLs **change** on publisher sites — verify in browser if a feed fails (workfl
 
 ## X (Twitter) — AI 大佬 + AI 投资机构
 
-- **No anonymous bulk API.** For automated pulls, add repository secret **`TWITTER_BEARER_TOKEN`** (Bearer token from a Twitter/X developer app). **Readers never see this token.**
+- **`aiLeaders` / `aiInvestors` = which accounts to fetch**; they are **not** login credentials. X requires an app **Bearer token** to call the API — add repository secret **`TWITTER_BEARER_TOKEN`**. **Readers never see this token** (it stays in Actions).
+- **No anonymous bulk API** for arbitrary user timelines (unlike Reddit’s public JSON).
 - Edit **`xTwitter.aiLeaders`** (researchers, founders, product leaders) and **`xTwitter.aiInvestors`** (firms, partners). Set **`xTwitter.enabled`: `true`** to run in CI.
 - **Limits**: Free/low tiers may restrict `users` + `tweets` volume; keep **`maxAccountsPerRun`** aligned with `aiLeaders.length + aiInvestors.length` (or lower `maxTweets` per account); expect occasional 429 — check Actions logs.
 - Without token: leave `enabled: false`; feed still has RSS, HN, Reddit, GitHub, Google News, arXiv, …
@@ -73,7 +74,7 @@ Handles are **without `@`**. If user lookup fails in Actions logs, the handle ma
 
 ## Reddit
 
-- 默认含 **GaussianSplatting、gamedev、Unity3D、unrealengine、videography** 等与 3D / 游戏 / 视频相关 sub，外加 `MachineLearning` / `LocalLLA`；**强依赖 `thesis` 过滤** 降噪。
+- 默认含 **GaussianSplatting、gamedev、Unity3D、unrealengine、videography** 等与 3D / 游戏 / 视频相关 sub，外加 `MachineLearning` / `LocalLLaMA`；**强依赖 `includeKeywords` 允许列表** 降噪。
 - 在 `reddit.subreddits` 中增删。
 
 ## 小红书 / 微信公众号

@@ -143,8 +143,18 @@ function itemTextForFilter(item) {
     .toLowerCase();
 }
 
+/**
+ * Positive gate: allowlist-first.
+ * - If `includeKeywords` is non-empty: item must match **at least one** (substring, case-insensitive). Everything else is noise.
+ * - Else if `thesis.orGroups` is non-empty: legacy OR-of-groups match.
+ * - Else: pass (no positive gate).
+ */
 function passesPositiveThesis(item, filter) {
   const text = itemTextForFilter(item);
+  const inc = filter.includeKeywords || [];
+  if (Array.isArray(inc) && inc.length > 0) {
+    return inc.some((kw) => kw && text.includes(String(kw).toLowerCase()));
+  }
   const groups = filter.thesis?.orGroups;
   if (Array.isArray(groups) && groups.length > 0) {
     return groups.some(
@@ -154,10 +164,6 @@ function passesPositiveThesis(item, filter) {
           (kw) => kw && text.includes(String(kw).toLowerCase()),
         ),
     );
-  }
-  const inc = filter.includeKeywords || [];
-  if (filter.requireKeywordMatch && inc.length > 0) {
-    return inc.some((kw) => kw && text.includes(String(kw).toLowerCase()));
   }
   return true;
 }
