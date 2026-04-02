@@ -1,18 +1,42 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-02T05:28:44.928Z",
+  "updatedAt": "2026-04-02T07:21:48.807Z",
   "items": [
     {
-      "id": "hn-47603657",
+      "id": "hn-47610943",
       "type": "news",
-      "title": "Live: Artemis II Launch Day Updates",
-      "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
+      "title": "Claude Code users hitting usage limits 'way faster than expected'",
+      "url": "https://www.bbc.com/news/articles/ce8l2q5yq51o",
       "source": "hacker_news",
-      "publishedAt": "2026-04-01T17:11:31.000Z",
-      "summaryHint": "HN score 778, 701 comments",
+      "publishedAt": "2026-04-02T07:05:33.000Z",
+      "summaryHint": "HN score 11, 2 comments",
       "tags": [
         "generative",
         "us"
+      ]
+    },
+    {
+      "id": "rss-sifted-7cklhr",
+      "type": "news",
+      "title": "Over 100 startups left waiting for cash after EU-funded body collapses",
+      "url": "https://sifted.eu/articles/eit-manufacturing-liquidation/",
+      "source": "sifted",
+      "publishedAt": "2026-04-02T05:00:47.000Z",
+      "tags": [
+        "eu",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-sifted-aif9j",
+      "type": "news",
+      "title": "How many government AI initiatives is too many?",
+      "url": "https://sifted.eu/articles/uk-government-ai-initiatives/",
+      "source": "sifted",
+      "publishedAt": "2026-04-02T05:00:35.000Z",
+      "tags": [
+        "eu",
+        "funding"
       ]
     },
     {
@@ -22,46 +46,20 @@
       "url": "https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/",
       "source": "hacker_news",
       "publishedAt": "2026-04-02T04:08:05.000Z",
-      "summaryHint": "HN score 28, 14 comments",
+      "summaryHint": "HN score 92, 66 comments",
       "tags": [
         "generative",
         "us"
       ]
     },
     {
-      "id": "hn-47609294",
+      "id": "hn-47609694",
       "type": "news",
-      "title": "The Claude Code Leak",
-      "url": "https://build.ms/2026/4/1/the-claude-code-leak/",
+      "title": "Email obfuscation: What works in 2026?",
+      "url": "https://spencermortensen.com/articles/email-obfuscation/",
       "source": "hacker_news",
-      "publishedAt": "2026-04-02T02:26:05.000Z",
-      "summaryHint": "HN score 65, 20 comments",
-      "tags": [
-        "generative",
-        "us"
-      ]
-    },
-    {
-      "id": "hn-47608495",
-      "type": "news",
-      "title": "Quantum computing bombshells that are not April Fools",
-      "url": "https://scottaaronson.blog/?p=9665",
-      "source": "hacker_news",
-      "publishedAt": "2026-04-02T00:24:43.000Z",
-      "summaryHint": "HN score 95, 26 comments",
-      "tags": [
-        "generative",
-        "us"
-      ]
-    },
-    {
-      "id": "hn-47608058",
-      "type": "news",
-      "title": "A new C++ back end for ocamlc",
-      "url": "https://github.com/ocaml/ocaml/pull/14701",
-      "source": "hacker_news",
-      "publishedAt": "2026-04-01T23:35:02.000Z",
-      "summaryHint": "HN score 140, 9 comments",
+      "publishedAt": "2026-04-02T03:35:33.000Z",
+      "summaryHint": "HN score 44, 6 comments",
       "tags": [
         "generative",
         "us"
@@ -74,7 +72,85 @@
       "url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
       "source": "hacker_news",
       "publishedAt": "2026-04-02T03:12:24.000Z",
-      "summaryHint": "HN score 114, 40 comments",
+      "summaryHint": "HN score 213, 82 comments",
+      "tags": [
+        "generative",
+        "us"
+      ]
+    },
+    {
+      "id": "hn-47609294",
+      "type": "news",
+      "title": "The Claude Code Leak",
+      "url": "https://build.ms/2026/4/1/the-claude-code-leak/",
+      "source": "hacker_news",
+      "publishedAt": "2026-04-02T02:26:05.000Z",
+      "summaryHint": "HN score 116, 74 comments",
+      "tags": [
+        "generative",
+        "us"
+      ]
+    },
+    {
+      "id": "hn-47608495",
+      "type": "news",
+      "title": "Quantum computing bombshells that are not April Fools",
+      "url": "https://scottaaronson.blog/?p=9665",
+      "source": "hacker_news",
+      "publishedAt": "2026-04-02T00:24:43.000Z",
+      "summaryHint": "HN score 128, 36 comments",
+      "tags": [
+        "generative",
+        "us"
+      ]
+    },
+    {
+      "id": "hn-47608058",
+      "type": "news",
+      "title": "A new C++ back end for ocamlc",
+      "url": "https://github.com/ocaml/ocaml/pull/14701",
+      "source": "hacker_news",
+      "publishedAt": "2026-04-01T23:35:02.000Z",
+      "summaryHint": "HN score 158, 12 comments",
+      "tags": [
+        "generative",
+        "us"
+      ]
+    },
+    {
+      "id": "rss-techcrunch_ai-56n3x5",
+      "type": "news",
+      "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+      "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+      "source": "techcrunch_ai",
+      "publishedAt": "2026-04-01T22:12:13.000Z",
+      "summaryHint": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+      "tags": [
+        "funding",
+        "us"
+      ]
+    },
+    {
+      "id": "rss-techcrunch_ai-fin0so",
+      "type": "news",
+      "title": "Meta’s natural gas binge could power South Dakota",
+      "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+      "source": "techcrunch_ai",
+      "publishedAt": "2026-04-01T18:35:36.000Z",
+      "summaryHint": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
+      "tags": [
+        "funding",
+        "us"
+      ]
+    },
+    {
+      "id": "hn-47603657",
+      "type": "news",
+      "title": "Live: Artemis II Launch Day Updates",
+      "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
+      "source": "hacker_news",
+      "publishedAt": "2026-04-01T17:11:31.000Z",
+      "summaryHint": "HN score 842, 751 comments",
       "tags": [
         "generative",
         "us"
@@ -87,179 +163,463 @@
       "url": "https://blog.cloudflare.com/emdash-wordpress/",
       "source": "hacker_news",
       "publishedAt": "2026-04-01T16:14:38.000Z",
-      "summaryHint": "HN score 519, 366 comments",
+      "summaryHint": "HN score 544, 379 comments",
       "tags": [
         "generative",
         "us"
       ]
     },
     {
-      "id": "hn-47606840",
+      "id": "rss-techcrunch_ai-geuofy",
       "type": "news",
-      "title": "DRAM pricing is killing the hobbyist SBC market",
-      "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
+      "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+      "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+      "source": "techcrunch_ai",
+      "publishedAt": "2026-04-01T16:00:00.000Z",
+      "summaryHint": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
+      "tags": [
+        "funding",
+        "us"
+      ]
+    },
+    {
+      "id": "rss-sifted-755d74",
+      "type": "news",
+      "title": "Matt Clifford steps back from Entrepreneurs First after 15 years",
+      "url": "https://sifted.eu/articles/matt-clifford-entrepreneurs-first-steps-back/",
+      "source": "sifted",
+      "publishedAt": "2026-04-01T15:21:51.000Z",
+      "tags": [
+        "eu",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-sifted-wqfoae",
+      "type": "news",
+      "title": "UK pension providers back £200m fund aimed at supercharging homegrown startups",
+      "url": "https://sifted.eu/articles/uk-pension-providers-200m-fund/",
+      "source": "sifted",
+      "publishedAt": "2026-04-01T15:19:25.000Z",
+      "tags": [
+        "eu",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-sifted-1jmss2",
+      "type": "news",
+      "title": "EQT and Atomico go head-to-head to manage €5bn EU fund",
+      "url": "https://sifted.eu/articles/eqt-atomico-finalists-scaleup-europe-fund/",
+      "source": "sifted",
+      "publishedAt": "2026-04-01T15:04:20.000Z",
+      "tags": [
+        "eu",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-techcrunch_ai-423ncg",
+      "type": "news",
+      "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+      "url": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+      "source": "techcrunch_ai",
+      "publishedAt": "2026-04-01T14:00:00.000Z",
+      "summaryHint": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass.",
+      "tags": [
+        "funding",
+        "us"
+      ]
+    },
+    {
+      "id": "rss-sifted-mn4x3r",
+      "type": "news",
+      "title": "Monzo shuts down US operations to focus on UK and Europe",
+      "url": "https://sifted.eu/articles/monzo-us-exit-fintech/",
+      "source": "sifted",
+      "publishedAt": "2026-04-01T10:55:47.000Z",
+      "tags": [
+        "eu",
+        "funding"
+      ]
+    },
+    {
+      "id": "hn-47596739",
+      "type": "news",
+      "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
+      "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
       "source": "hacker_news",
-      "publishedAt": "2026-04-01T21:36:41.000Z",
-      "summaryHint": "HN score 391, 318 comments",
+      "publishedAt": "2026-04-01T04:14:41.000Z",
+      "summaryHint": "HN score 18, 1 comments",
       "tags": [
         "generative",
         "us"
       ]
     },
     {
-      "id": "gh-Supremohacedor-ai-python-course-fundacion-esplai",
-      "type": "oss",
-      "title": "Supremohacedor/ai-python-course-fundacion-esplai: 🤖 Explore AI and Python concepts through practical exercises and resources from Fundación Esplai's course, enhancing your skills in programming and machine learning.",
-      "url": "https://github.com/Supremohacedor/ai-python-course-fundacion-esplai",
-      "source": "github_search",
-      "publishedAt": "2026-04-02T05:28:32Z",
-      "summaryHint": "stars 0",
+      "id": "rss-techcrunch_ai-m7n26v",
+      "type": "news",
+      "title": "Anthropic is having a month",
+      "url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+      "source": "techcrunch_ai",
+      "publishedAt": "2026-03-31T23:58:26.000Z",
+      "summaryHint": "A human really borks things at Anthropic for the second time this week.",
       "tags": [
-        "oss",
-        "generative"
+        "funding",
+        "us"
       ]
     },
     {
-      "id": "gh-nhlin1005-Amazon-Review-Detector",
-      "type": "oss",
-      "title": "nhlin1005/Amazon-Review-Detector: Using Machine Learning to detect the ai review in Amazon ",
-      "url": "https://github.com/nhlin1005/Amazon-Review-Detector",
-      "source": "github_search",
-      "publishedAt": "2026-04-02T05:28:18Z",
-      "summaryHint": "stars 0",
+      "id": "rss-techcrunch_ai-8hlt5o",
+      "type": "news",
+      "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+      "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+      "source": "techcrunch_ai",
+      "publishedAt": "2026-03-31T22:46:25.000Z",
+      "summaryHint": "Slack just got a whole lot more useful.",
       "tags": [
-        "oss",
-        "generative"
+        "funding",
+        "us"
       ]
     },
     {
-      "id": "gh-Ananthmathews-ADV-house-price-prediction",
-      "type": "oss",
-      "title": "Ananthmathews/ADV-house-price-prediction: building production staged machine learning model using advaance-regression",
-      "url": "https://github.com/Ananthmathews/ADV-house-price-prediction",
-      "source": "github_search",
-      "publishedAt": "2026-04-02T05:28:17Z",
-      "summaryHint": "stars 0",
+      "id": "rss-techcrunch_ai-nxkwex",
+      "type": "news",
+      "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+      "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+      "source": "techcrunch_ai",
+      "publishedAt": "2026-03-31T21:25:04.000Z",
+      "summaryHint": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
       "tags": [
-        "oss",
-        "generative"
+        "funding",
+        "us"
       ]
     },
     {
-      "id": "gh-theumesh-s-credit-card-fraud-detection",
-      "type": "oss",
-      "title": "theumesh-s/credit-card-fraud-detection: A machine learning-based credit card fraud detection system built using Python and Random Forest. The project includes data preprocessing, handling class imbalance, and model evaluation using precision, recall, and F1-score to ensure accurate detection of frau",
-      "url": "https://github.com/theumesh-s/credit-card-fraud-detection",
-      "source": "github_search",
-      "publishedAt": "2026-04-02T05:28:15Z",
-      "summaryHint": "stars 0",
+      "id": "rss-techcrunch_ai-e3k1rt",
+      "type": "news",
+      "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
+      "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
+      "source": "techcrunch_ai",
+      "publishedAt": "2026-03-31T20:01:07.000Z",
+      "summaryHint": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
       "tags": [
-        "oss",
-        "generative"
+        "funding",
+        "us"
       ]
     },
     {
-      "id": "gh-Ramsingh45156-Machine-Learning-Practicals",
-      "type": "oss",
-      "title": "Ramsingh45156/Machine-Learning-Practicals: A collection of Machine Learning practical implementations including classification models like Logistic Regression, KNN, and performance evaluation using real-world datasets such as Iris and Breast Cancer dataset.",
-      "url": "https://github.com/Ramsingh45156/Machine-Learning-Practicals",
-      "source": "github_search",
-      "publishedAt": "2026-04-02T05:28:09Z",
-      "summaryHint": "stars 0",
+      "id": "rss-techcrunch_ai-mcdnam",
+      "type": "news",
+      "title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
+      "url": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/",
+      "source": "techcrunch_ai",
+      "publishedAt": "2026-03-31T17:41:35.000Z",
+      "summaryHint": "You can now order from Uber Eats and Grubhub using Alexa+, an experience Amazon says will be similar to chatting with a waiter at a restaurant or placing an order at a drive-thru.",
       "tags": [
-        "oss",
-        "generative"
+        "funding",
+        "us"
       ]
     },
     {
-      "id": "gh-zhaoyi010905-ammo-Machine-Learning-Guided-Design-of-Aluminum-Silicon-alloys-with-Balanced-Strength-and-Ductility",
-      "type": "oss",
-      "title": "zhaoyi010905-ammo/Machine-Learning-Guided-Design-of-Aluminum-Silicon-alloys-with-Balanced-Strength-and-Ductility",
-      "url": "https://github.com/zhaoyi010905-ammo/Machine-Learning-Guided-Design-of-Aluminum-Silicon-alloys-with-Balanced-Strength-and-Ductility",
-      "source": "github_search",
-      "publishedAt": "2026-04-02T05:28:26Z",
-      "summaryHint": "stars 0",
+      "id": "rss-venturebeat_ai-lt1nhr",
+      "type": "news",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "source": "venturebeat_ai",
+      "publishedAt": "2026-01-22T14:00:00.000Z",
+      "summaryHint": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure. TQ Ventures led the round, with participation from FPV Ventures , Redpoint",
       "tags": [
-        "oss",
-        "generative"
+        "funding",
+        "us"
       ]
     },
     {
-      "id": "gh-webmcu-ai-on-device-vision-ai",
-      "type": "oss",
-      "title": "webmcu-ai/on-device-vision-ai: Complete Seeedstudio xiao ml kit esp32s3-sense on device machine learning pipeline",
-      "url": "https://github.com/webmcu-ai/on-device-vision-ai",
-      "source": "github_search",
-      "publishedAt": "2026-04-02T05:27:59Z",
-      "summaryHint": "stars 0",
+      "id": "rss-venturebeat_ai-pw82ni",
+      "type": "news",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "venturebeat_ai",
+      "publishedAt": "2026-01-19T14:00:00.000Z",
+      "summaryHint": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive. Claude Code , Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims t",
       "tags": [
-        "oss",
-        "generative"
+        "funding",
+        "us"
       ]
     },
     {
-      "id": "gh-realA10001986-Time-Circuits-Display",
-      "type": "oss",
-      "title": "realA10001986/Time-Circuits-Display: Firmware for CircuitSetup's Time Circuits Display kit, known from the Delorean Time Machine",
-      "url": "https://github.com/realA10001986/Time-Circuits-Display",
-      "source": "github_search",
-      "publishedAt": "2026-04-02T05:27:55Z",
-      "summaryHint": "stars 17",
+      "id": "rss-venturebeat_ai-2stlo5",
+      "type": "news",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "source": "venturebeat_ai",
+      "publishedAt": "2026-01-16T14:01:00.000Z",
+      "summaryHint": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like gibberish: five strings of random numbers. The numbers were actually AI tokens. Decoded, they ",
       "tags": [
-        "oss",
-        "generative"
+        "funding",
+        "us"
       ]
     },
     {
-      "id": "gh-Nakib-Nasrullah-Dengue_Research",
+      "id": "gh-openxla-xla",
       "type": "oss",
-      "title": "Nakib-Nasrullah/Dengue_Research: Dengue forecasting uses machine learning (ML) and statistical models to predict outbreaks by analyzing environmental factors like rainfall, temperature, and humidity.",
-      "url": "https://github.com/Nakib-Nasrullah/Dengue_Research",
+      "title": "openxla/xla: A machine learning compiler for GPUs, CPUs, and ML accelerators",
+      "url": "https://github.com/openxla/xla",
       "source": "github_search",
-      "publishedAt": "2026-04-02T05:27:52Z",
-      "summaryHint": "stars 0",
+      "publishedAt": "2026-04-02T07:19:53Z",
+      "summaryHint": "stars 4128",
       "tags": [
         "oss",
         "generative"
+      ],
+      "stars": 4128
+    },
+    {
+      "id": "gh-tensorflow-tensorflow",
+      "type": "oss",
+      "title": "tensorflow/tensorflow: An Open Source Machine Learning Framework for Everyone",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "source": "github_search",
+      "publishedAt": "2026-04-02T07:19:02Z",
+      "summaryHint": "stars 194430",
+      "tags": [
+        "oss",
+        "generative"
+      ],
+      "stars": 194430
+    },
+    {
+      "id": "gh-superset-sh-superset",
+      "type": "oss",
+      "title": "superset-sh/superset: Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+      "url": "https://github.com/superset-sh/superset",
+      "source": "github_search",
+      "publishedAt": "2026-04-02T07:15:49Z",
+      "summaryHint": "stars 8459",
+      "tags": [
+        "oss",
+        "generative"
+      ],
+      "stars": 8459
+    },
+    {
+      "id": "gh-kubevirt-kubevirt",
+      "type": "oss",
+      "title": "kubevirt/kubevirt: Kubernetes Virtualization API and runtime in order to define and manage virtual machines.",
+      "url": "https://github.com/kubevirt/kubevirt",
+      "source": "github_search",
+      "publishedAt": "2026-04-02T07:12:30Z",
+      "summaryHint": "stars 6780",
+      "tags": [
+        "oss",
+        "generative"
+      ],
+      "stars": 6780
+    },
+    {
+      "id": "gh-agentscope-ai-CoPaw",
+      "type": "oss",
+      "title": "agentscope-ai/CoPaw: Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+      "url": "https://github.com/agentscope-ai/CoPaw",
+      "source": "github_search",
+      "publishedAt": "2026-04-02T07:04:12Z",
+      "summaryHint": "stars 14186",
+      "tags": [
+        "oss",
+        "generative"
+      ],
+      "stars": 14186
+    },
+    {
+      "id": "gh-apache-brpc",
+      "type": "oss",
+      "title": "apache/brpc: brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".",
+      "url": "https://github.com/apache/brpc",
+      "source": "github_search",
+      "publishedAt": "2026-04-02T07:00:43Z",
+      "summaryHint": "stars 17474",
+      "tags": [
+        "oss",
+        "generative"
+      ],
+      "stars": 17474
+    },
+    {
+      "id": "gh-huggingface-transformers",
+      "type": "oss",
+      "title": "huggingface/transformers: 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "url": "https://github.com/huggingface/transformers",
+      "source": "github_search",
+      "publishedAt": "2026-04-02T06:47:26Z",
+      "summaryHint": "stars 158670",
+      "tags": [
+        "oss",
+        "generative"
+      ],
+      "stars": 158670
+    },
+    {
+      "id": "gh-86Box-86Box",
+      "type": "oss",
+      "title": "86Box/86Box: Emulator of x86-based machines.",
+      "url": "https://github.com/86Box/86Box",
+      "source": "github_search",
+      "publishedAt": "2026-04-02T06:44:54Z",
+      "summaryHint": "stars 4118",
+      "tags": [
+        "oss",
+        "generative"
+      ],
+      "stars": 4118
+    },
+    {
+      "id": "gh-Thinklab-SJTU-awesome-ml4co",
+      "type": "oss",
+      "title": "Thinklab-SJTU/awesome-ml4co: Awesome machine learning for combinatorial optimization papers.",
+      "url": "https://github.com/Thinklab-SJTU/awesome-ml4co",
+      "source": "github_search",
+      "publishedAt": "2026-04-02T06:38:09Z",
+      "summaryHint": "stars 2090",
+      "tags": [
+        "oss",
+        "generative"
+      ],
+      "stars": 2090
+    },
+    {
+      "id": "gh-harvard-edge-cs249r_book",
+      "type": "oss",
+      "title": "harvard-edge/cs249r_book: Machine Learning Systems",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "source": "github_search",
+      "publishedAt": "2026-04-02T06:29:22Z",
+      "summaryHint": "stars 23225",
+      "tags": [
+        "oss",
+        "generative"
+      ],
+      "stars": 23225
+    },
+    {
+      "id": "gh-cloud-hypervisor-cloud-hypervisor",
+      "type": "oss",
+      "title": "cloud-hypervisor/cloud-hypervisor: A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",
+      "url": "https://github.com/cloud-hypervisor/cloud-hypervisor",
+      "source": "github_search",
+      "publishedAt": "2026-04-02T06:23:51Z",
+      "summaryHint": "stars 5439",
+      "tags": [
+        "oss",
+        "generative"
+      ],
+      "stars": 5439
+    },
+    {
+      "id": "gh-doccano-doccano",
+      "type": "oss",
+      "title": "doccano/doccano: Open source annotation tool for machine learning practitioners.",
+      "url": "https://github.com/doccano/doccano",
+      "source": "github_search",
+      "publishedAt": "2026-04-02T06:22:54Z",
+      "summaryHint": "stars 10595",
+      "tags": [
+        "oss",
+        "generative"
+      ],
+      "stars": 10595
+    },
+    {
+      "id": "gh-kubeflow-pipelines",
+      "type": "oss",
+      "title": "kubeflow/pipelines: Machine Learning Pipelines for Kubeflow",
+      "url": "https://github.com/kubeflow/pipelines",
+      "source": "github_search",
+      "publishedAt": "2026-04-02T05:55:05Z",
+      "summaryHint": "stars 4118",
+      "tags": [
+        "oss",
+        "generative"
+      ],
+      "stars": 4118
+    },
+    {
+      "id": "gh-catboost-catboost",
+      "type": "oss",
+      "title": "catboost/catboost: A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.",
+      "url": "https://github.com/catboost/catboost",
+      "source": "github_search",
+      "publishedAt": "2026-04-02T05:48:45Z",
+      "summaryHint": "stars 8870",
+      "tags": [
+        "oss",
+        "generative"
+      ],
+      "stars": 8870
+    },
+    {
+      "id": "gh-PennyLaneAI-pennylane",
+      "type": "oss",
+      "title": "PennyLaneAI/pennylane: PennyLane is an open-source quantum software platform for quantum computing, quantum machine learning, and quantum chemistry. Create meaningful quantum algorithms, from inspiration to implementation.",
+      "url": "https://github.com/PennyLaneAI/pennylane",
+      "source": "github_search",
+      "publishedAt": "2026-04-02T05:38:04Z",
+      "summaryHint": "stars 3129",
+      "tags": [
+        "oss",
+        "generative"
+      ],
+      "stars": 3129
+    },
+    {
+      "id": "rss-venturebeat_ai-wkanl4",
+      "type": "news",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "source": "venturebeat_ai",
+      "publishedAt": "2026-01-13T13:00:00.000Z",
+      "summaryHint": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees. The new Slackbot, now generally available to Business+ and Enterprise+ customers,",
+      "tags": [
+        "funding",
+        "us"
       ]
     },
     {
-      "id": "gh-Chennupati242-Customer-Segmentation-and-Targeting-",
-      "type": "oss",
-      "title": "Chennupati242/Customer-Segmentation-and-Targeting-: This project segments the UCI Online Retail dataset using Machine Learning. By applying RFM analysis and K-Means clustering, I identified 4 distinct customer personas (e.g., VIPs, churn risks). These insights enable targeted marketing strategies pr",
-      "url": "https://github.com/Chennupati242/Customer-Segmentation-and-Targeting-",
-      "source": "github_search",
-      "publishedAt": "2026-04-02T05:27:49Z",
-      "summaryHint": "stars 0",
+      "id": "rss-venturebeat_ai-69xvr0",
+      "type": "news",
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "venturebeat_ai",
+      "publishedAt": "2026-01-12T11:30:00.000Z",
+      "summaryHint": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself. The launch marks a major inflection point in the race to deliver practical AI agents to mainstream users, po",
       "tags": [
-        "oss",
-        "generative"
+        "funding",
+        "us"
       ]
     },
     {
-      "id": "gh-TEAM-zero-one-Shruti-The-News-Companion",
-      "type": "oss",
-      "title": "TEAM-zero-one/Shruti-The-News-Companion: Shruti: The News Companion is an AI-driven platform designed to enhance the way users consume news. It leverages machine learning and natural language processing (NLP) to classify, summarize, and provide interactive insights into news articles.",
-      "url": "https://github.com/TEAM-zero-one/Shruti-The-News-Companion",
-      "source": "github_search",
-      "publishedAt": "2026-04-02T05:27:40Z",
-      "summaryHint": "stars 2",
+      "id": "rss-venturebeat_ai-o3ucts",
+      "type": "news",
+      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "source": "venturebeat_ai",
+      "publishedAt": "2026-01-07T20:00:00.000Z",
+      "summaryHint": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia&#x27;s latest B200 graphics processors . The model, called NousCoder-14B , is another entry in a crowded field of AI coding as",
       "tags": [
-        "oss",
-        "generative"
+        "funding",
+        "us"
       ]
     },
     {
-      "id": "gh-Maxeats12-car-price-predictor-using-ml",
-      "type": "oss",
-      "title": "Maxeats12/car-price-predictor-using-ml: 🚗 Predict car prices using advanced machine learning techniques for high accuracy and real-time insights. Explore our effective regression models.",
-      "url": "https://github.com/Maxeats12/car-price-predictor-using-ml",
-      "source": "github_search",
-      "publishedAt": "2026-04-02T05:27:38Z",
-      "summaryHint": "stars 0",
+      "id": "rss-venturebeat_ai-k9er74",
+      "type": "news",
+      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
+      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
+      "source": "venturebeat_ai",
+      "publishedAt": "2026-01-05T07:45:00.000Z",
+      "summaryHint": "When the creator of the world&#x27;s most advanced coding agent speaks, Silicon Valley doesn&#x27;t just listen — it takes notes. For the past week, the engineering community has been dissecting a thread on X from Boris Cherny , the creator and head of Claude Code at Anthropic . What began as a casual sharing of his personal terminal setup has spiraled into a viral manifesto on the future of softw",
       "tags": [
-        "oss",
-        "generative"
+        "funding",
+        "us"
       ]
     }
   ]
