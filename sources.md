@@ -96,8 +96,6 @@ Handles are **without `@`**. If user lookup fails in Actions logs, the handle ma
 - **`kickstarter.enabled`** 默认 `false`；开启后解析失败 **不导致** 整 job 失败（catch + warn）。
 - HTML 结构变化会导致失效 — 仅作补充信号。
 
-## Default FEED_URL for friends
+## Public feed URL
 
-`https://raw.githubusercontent.com/<OWNER>/<REPO>/main/feed-investor.json`
-
-Replace `OWNER`/`REPO`.
+`https://raw.githubusercontent.com/<OWNER>/<REPO>/main/feed-investor.json` — replace `OWNER`/`REPO`, or set `FEED_URL` to any public JSON.
