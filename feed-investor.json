@@ -1,624 +1,485 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-02T07:21:48.807Z",
+  "updatedAt": "2026-04-02T07:41:42.985Z",
   "items": [
     {
-      "id": "hn-47610943",
+      "id": "rss-36kr-cds9yr",
       "type": "news",
-      "title": "Claude Code users hitting usage limits 'way faster than expected'",
-      "url": "https://www.bbc.com/news/articles/ce8l2q5yq51o",
-      "source": "hacker_news",
-      "publishedAt": "2026-04-02T07:05:33.000Z",
-      "summaryHint": "HN score 11, 2 comments",
+      "title": "36氪首发 | 00后交大博士做仿生飞行机器人，获启高、奇绩创坛、交大母基金等投资",
+      "url": "https://36kr.com/p/3748270618919424?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-04-02T01:10:00.000Z",
+      "summaryHint": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，仿生扑翼飞行机器人公司——深圳鹰瞰智翼科技有限公司（下称“鹰瞰智翼”）近期已完成千万元级别天使轮融资，由启高资本领投，奇绩创坛及上海交大母基金跟投。资金将主要用于产品量产、下一代具身智能飞行机器人研发，以及全球首个机器人流体仿真引擎搭建。 鹰瞰智翼2025年3月成立于深圳，是全球第一家专注于具身智能扑翼机器人的公司。创始人陈昊是上海交通大学直博生，博士期间发表四篇顶刊论文。团队核心成员均为上海交大本硕博，来自机器人、控制与机械等相关背景，全员均为00后。 目前，鹰瞰智翼已形成两条产品线： 一是消费级产品“丹丹（Dante）”：面向全球极客群体，支持二次开发，具备特技飞行能力，是市面上操纵性与灵活性最强的扑翼机之一。该产品已完成功能样机开发，累计飞行超3000小时，预计今年Q2上线Kickstarter众筹。 消费级产品“丹丹（Dante）”（图源/企业）",
       "tags": [
-        "generative",
-        "us"
-      ]
-    },
-    {
-      "id": "rss-sifted-7cklhr",
-      "type": "news",
-      "title": "Over 100 startups left waiting for cash after EU-funded body collapses",
-      "url": "https://sifted.eu/articles/eit-manufacturing-liquidation/",
-      "source": "sifted",
-      "publishedAt": "2026-04-02T05:00:47.000Z",
-      "tags": [
-        "eu",
+        "china",
         "funding"
       ]
     },
     {
-      "id": "rss-sifted-aif9j",
+      "id": "rss-google_news_en_thesis-tuncjy",
       "type": "news",
-      "title": "How many government AI initiatives is too many?",
-      "url": "https://sifted.eu/articles/uk-government-ai-initiatives/",
-      "source": "sifted",
-      "publishedAt": "2026-04-02T05:00:35.000Z",
+      "title": "The World Model Revolution: How Yoroll.ai is Building the First Engine-less Game Platform - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdmh2Q1FTRW9wbW9ydjlhcGFSRjdIRzI2Z0FTSFpxNHFOUXlkdjdPblF6cjJJVDZWOE9NRmNhX3padXB4cjhoOU1fZDRUbXdYbER6OXpKOHZkanBmbXNVOTQ3RzY2V3lrUlNOd3NzbnEtczJiRHhvNmhxdHRQRHZBdHFydkxXN3ZoNnNPTTdxd1dsWXE4OURKSTdic0xqR3VpdUVnWU9zVFh3ODZOaktJYjFBV0NIbEI4UUgyVmEzR3dwRnVPeDRzSWlPYTlqS3BUeG9Eal9rRUh1dGswVFE?oc=5",
+      "source": "google_news_en_thesis",
+      "publishedAt": "2026-02-05T08:00:00.000Z",
+      "summaryHint": "The World Model Revolution: How Yoroll.ai is Building the First Engine-less Game Platform &nbsp;&nbsp; Business Wire",
       "tags": [
-        "eu",
+        "us",
         "funding"
       ]
     },
     {
-      "id": "hn-47609882",
+      "id": "rss-google_news_cn_thesis-3c1e3q",
       "type": "news",
-      "title": "Subscription bombing and how to mitigate it",
-      "url": "https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/",
-      "source": "hacker_news",
-      "publishedAt": "2026-04-02T04:08:05.000Z",
-      "summaryHint": "HN score 92, 66 comments",
+      "title": "蚂蚁开源世界模型LingBot-World：具有分钟级记忆的实时世界模拟器 - 51CTO",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByM1JtaVJkZ3g1bl9nMnhyUGhVNm1ZamVTOFpDM0NWeFVMMDhFVWxlU3Z5d3JwdmFHaDJZaVlkQndWbUxjMzBHdEh4VlVnYnJNMW5v?oc=5",
+      "source": "google_news_cn_thesis",
+      "publishedAt": "2026-02-03T08:00:00.000Z",
+      "summaryHint": "蚂蚁开源世界模型LingBot-World：具有分钟级记忆的实时世界模拟器 &nbsp;&nbsp; 51CTO",
       "tags": [
-        "generative",
-        "us"
-      ]
-    },
-    {
-      "id": "hn-47609694",
-      "type": "news",
-      "title": "Email obfuscation: What works in 2026?",
-      "url": "https://spencermortensen.com/articles/email-obfuscation/",
-      "source": "hacker_news",
-      "publishedAt": "2026-04-02T03:35:33.000Z",
-      "summaryHint": "HN score 44, 6 comments",
-      "tags": [
-        "generative",
-        "us"
-      ]
-    },
-    {
-      "id": "hn-47609564",
-      "type": "news",
-      "title": "Steam on Linux Use Skyrocketed Above 5% in March",
-      "url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
-      "source": "hacker_news",
-      "publishedAt": "2026-04-02T03:12:24.000Z",
-      "summaryHint": "HN score 213, 82 comments",
-      "tags": [
-        "generative",
-        "us"
-      ]
-    },
-    {
-      "id": "hn-47609294",
-      "type": "news",
-      "title": "The Claude Code Leak",
-      "url": "https://build.ms/2026/4/1/the-claude-code-leak/",
-      "source": "hacker_news",
-      "publishedAt": "2026-04-02T02:26:05.000Z",
-      "summaryHint": "HN score 116, 74 comments",
-      "tags": [
-        "generative",
-        "us"
-      ]
-    },
-    {
-      "id": "hn-47608495",
-      "type": "news",
-      "title": "Quantum computing bombshells that are not April Fools",
-      "url": "https://scottaaronson.blog/?p=9665",
-      "source": "hacker_news",
-      "publishedAt": "2026-04-02T00:24:43.000Z",
-      "summaryHint": "HN score 128, 36 comments",
-      "tags": [
-        "generative",
-        "us"
-      ]
-    },
-    {
-      "id": "hn-47608058",
-      "type": "news",
-      "title": "A new C++ back end for ocamlc",
-      "url": "https://github.com/ocaml/ocaml/pull/14701",
-      "source": "hacker_news",
-      "publishedAt": "2026-04-01T23:35:02.000Z",
-      "summaryHint": "HN score 158, 12 comments",
-      "tags": [
-        "generative",
-        "us"
-      ]
-    },
-    {
-      "id": "rss-techcrunch_ai-56n3x5",
-      "type": "news",
-      "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
-      "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
-      "source": "techcrunch_ai",
-      "publishedAt": "2026-04-01T22:12:13.000Z",
-      "summaryHint": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
-      "tags": [
-        "funding",
-        "us"
-      ]
-    },
-    {
-      "id": "rss-techcrunch_ai-fin0so",
-      "type": "news",
-      "title": "Meta’s natural gas binge could power South Dakota",
-      "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
-      "source": "techcrunch_ai",
-      "publishedAt": "2026-04-01T18:35:36.000Z",
-      "summaryHint": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
-      "tags": [
-        "funding",
-        "us"
-      ]
-    },
-    {
-      "id": "hn-47603657",
-      "type": "news",
-      "title": "Live: Artemis II Launch Day Updates",
-      "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-      "source": "hacker_news",
-      "publishedAt": "2026-04-01T17:11:31.000Z",
-      "summaryHint": "HN score 842, 751 comments",
-      "tags": [
-        "generative",
-        "us"
-      ]
-    },
-    {
-      "id": "hn-47602832",
-      "type": "news",
-      "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
-      "url": "https://blog.cloudflare.com/emdash-wordpress/",
-      "source": "hacker_news",
-      "publishedAt": "2026-04-01T16:14:38.000Z",
-      "summaryHint": "HN score 544, 379 comments",
-      "tags": [
-        "generative",
-        "us"
-      ]
-    },
-    {
-      "id": "rss-techcrunch_ai-geuofy",
-      "type": "news",
-      "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
-      "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
-      "source": "techcrunch_ai",
-      "publishedAt": "2026-04-01T16:00:00.000Z",
-      "summaryHint": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
-      "tags": [
-        "funding",
-        "us"
-      ]
-    },
-    {
-      "id": "rss-sifted-755d74",
-      "type": "news",
-      "title": "Matt Clifford steps back from Entrepreneurs First after 15 years",
-      "url": "https://sifted.eu/articles/matt-clifford-entrepreneurs-first-steps-back/",
-      "source": "sifted",
-      "publishedAt": "2026-04-01T15:21:51.000Z",
-      "tags": [
-        "eu",
+        "china",
         "funding"
       ]
     },
     {
-      "id": "rss-sifted-wqfoae",
+      "id": "hn-alg-46721488",
       "type": "news",
-      "title": "UK pension providers back £200m fund aimed at supercharging homegrown startups",
-      "url": "https://sifted.eu/articles/uk-pension-providers-200m-fund/",
-      "source": "sifted",
-      "publishedAt": "2026-04-01T15:19:25.000Z",
-      "tags": [
-        "eu",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-sifted-1jmss2",
-      "type": "news",
-      "title": "EQT and Atomico go head-to-head to manage €5bn EU fund",
-      "url": "https://sifted.eu/articles/eqt-atomico-finalists-scaleup-europe-fund/",
-      "source": "sifted",
-      "publishedAt": "2026-04-01T15:04:20.000Z",
-      "tags": [
-        "eu",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-techcrunch_ai-423ncg",
-      "type": "news",
-      "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
-      "url": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
-      "source": "techcrunch_ai",
-      "publishedAt": "2026-04-01T14:00:00.000Z",
-      "summaryHint": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass.",
-      "tags": [
-        "funding",
-        "us"
-      ]
-    },
-    {
-      "id": "rss-sifted-mn4x3r",
-      "type": "news",
-      "title": "Monzo shuts down US operations to focus on UK and Europe",
-      "url": "https://sifted.eu/articles/monzo-us-exit-fintech/",
-      "source": "sifted",
-      "publishedAt": "2026-04-01T10:55:47.000Z",
-      "tags": [
-        "eu",
-        "funding"
-      ]
-    },
-    {
-      "id": "hn-47596739",
-      "type": "news",
-      "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
-      "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-      "source": "hacker_news",
-      "publishedAt": "2026-04-01T04:14:41.000Z",
-      "summaryHint": "HN score 18, 1 comments",
+      "title": "Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)",
+      "url": "https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2026-01-22T16:31:47.000Z",
+      "summaryHint": "HN points 158",
       "tags": [
         "generative",
         "us"
       ]
     },
     {
-      "id": "rss-techcrunch_ai-m7n26v",
+      "id": "hn-alg-46671170",
       "type": "news",
-      "title": "Anthropic is having a month",
-      "url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
-      "source": "techcrunch_ai",
-      "publishedAt": "2026-03-31T23:58:26.000Z",
-      "summaryHint": "A human really borks things at Anthropic for the second time this week.",
+      "title": "Crow: Crobots robotic combat for training World Model AIs",
+      "url": "https://github.com/dcgrigsby/crow",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2026-01-18T19:19:42.000Z",
+      "summaryHint": "HN points 2",
       "tags": [
-        "funding",
+        "generative",
         "us"
       ]
     },
     {
-      "id": "rss-techcrunch_ai-8hlt5o",
+      "id": "rss-google_news_cn_thesis-lwq39u",
       "type": "news",
-      "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
-      "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
-      "source": "techcrunch_ai",
-      "publishedAt": "2026-03-31T22:46:25.000Z",
-      "summaryHint": "Slack just got a whole lot more useful.",
+      "title": "首个实时世界模型发布! AI视频实时生成! (附PixVerse R1邀请码） - qq.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4QUMtbnN6THBObTVBN2k4aXJtRk5EOVNReWdCM3BhSXpBTVF4eDZoZkd2NzVmZVVsdzhTRUxxT1gtV1RyVjd5Z2dlbkc4dGE5S05Rc3lhOA?oc=5",
+      "source": "google_news_cn_thesis",
+      "publishedAt": "2026-01-14T08:00:00.000Z",
+      "summaryHint": "首个实时世界模型发布! AI视频实时生成! (附PixVerse R1邀请码） &nbsp;&nbsp; qq.com",
       "tags": [
-        "funding",
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-google_news_en_thesis-2aiukw",
+      "type": "news",
+      "title": "The Next Giant Leap For AI Is Called World Models - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObnBxMDlIRzFIbmR1Q0R2Smh5SzdnOHdFVUVQSktWNGtuSFAtbUFxVDhsUjBkc1gzbjRLaDEzODNYNG9zOHZ6cU83TDh6Q3p3TzFMdlRqOHpNdmt6UHJva3NDeUl0NE5RQ2hiNEgyRldVVnh4ZDUzdHZmNTFDWjRIZE5SNERGVGNQN2ktTnVjRGRFU05qQnNfZVNKRzV3bkVWRVBoOQ?oc=5",
+      "source": "google_news_en_thesis",
+      "publishedAt": "2025-12-08T08:00:00.000Z",
+      "summaryHint": "The Next Giant Leap For AI Is Called World Models &nbsp;&nbsp; Forbes",
+      "tags": [
+        "us",
+        "funding"
+      ]
+    },
+    {
+      "id": "hn-alg-46105437",
+      "type": "news",
+      "title": "Yann LeCun, General Intuition speaking on world models at AI event in France",
+      "url": "https://www.ai-pulse.eu/speakers",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2025-12-01T09:47:17.000Z",
+      "summaryHint": "HN points 2",
+      "tags": [
+        "generative",
         "us"
       ]
     },
     {
-      "id": "rss-techcrunch_ai-nxkwex",
+      "id": "rss-google_news_en_thesis-idsty4",
       "type": "news",
-      "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
-      "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
-      "source": "techcrunch_ai",
-      "publishedAt": "2026-03-31T21:25:04.000Z",
-      "summaryHint": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
+      "title": "Fei-Fei Li's World Labs speeds up the world model race with Marble, its first commercial product - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYkVUazZxVXdEM2hNNm8weTdwdEpMejZGRVZSX1hYSFNlWGdicWluMnI5c240ZkxEdGpTR05udlQ4Z3pPUl9uU0RjQ2FyNXd2b3NWbEN1Q1QxZGhHYmx2UWpqUGo3VG55LVpFVU5kUVQyNTNQMFNLY2ktb3JOLTZ0UUxDTTltbWp1MTNlV2tMUm96bjhDSENEVTdVY0J6RXEta0RuUTBweXVRcWVBT0ZwZ190NHJwSFN5ZFlfdXdLZHVUdWI0a0Q2ag?oc=5",
+      "source": "google_news_en_thesis",
+      "publishedAt": "2025-11-12T08:00:00.000Z",
+      "summaryHint": "Fei-Fei Li's World Labs speeds up the world model race with Marble, its first commercial product &nbsp;&nbsp; TechCrunch",
       "tags": [
-        "funding",
+        "us",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-google_news_en_thesis-texxdp",
+      "type": "news",
+      "title": "World Labs launches Marble, a commercial world model for generating entire virtual environments - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOExKYk81YmJLeFF2ZnVpNGdSUVBpV3ZTQjZrcVdRT2ZtZEFhSlJBYnEtVVVYV2I2eGdZOUVrcWlibmtEYjA0NzlPS1RhVmV5NXRnOTJvZTV3Rkk2Nk9wakwzajF0Z0lzMDlWQ0paQ3J5REpJWDZ4WkZIYWxDUGstRkxaUDRKQW55SUgwR1JmaXF5S3dnUnlpZkl3MnhRNE9Ca3I5VDZ1T3RGOTMzWWtzYV9wY0Jpd29qOHR6ZHRLWEptc0U?oc=5",
+      "source": "google_news_en_thesis",
+      "publishedAt": "2025-11-12T08:00:00.000Z",
+      "summaryHint": "World Labs launches Marble, a commercial world model for generating entire virtual environments &nbsp;&nbsp; SiliconANGLE",
+      "tags": [
+        "us",
+        "funding"
+      ]
+    },
+    {
+      "id": "hn-alg-45897221",
+      "type": "news",
+      "title": "Show HN: BindWeave – Subject-Consistent AI Video Generation",
+      "url": "https://www.bindweave1.com",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2025-11-12T07:15:17.000Z",
+      "summaryHint": "HN points 1",
+      "tags": [
+        "generative",
         "us"
       ]
     },
     {
-      "id": "rss-techcrunch_ai-e3k1rt",
+      "id": "rss-google_news_cn_thesis-lpbbnc",
       "type": "news",
-      "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
-      "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
-      "source": "techcrunch_ai",
-      "publishedAt": "2026-03-31T20:01:07.000Z",
-      "summaryHint": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
+      "title": "世界模型有了开源基座Emu3.5！拿下多模态SOTA，性能超Nano Banana - 量子位",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4ybl9CdzBDaXNjR0xZay0xNmtGUlVocnJwQi1ucVA1MEo2Qkx2S3RQTGJZQ2xzSVUzVVBUdUlZU283OG02UmhGa1BoVlcxdlR2YmRFZQ?oc=5",
+      "source": "google_news_cn_thesis",
+      "publishedAt": "2025-10-31T07:00:00.000Z",
+      "summaryHint": "世界模型有了开源基座Emu3.5！拿下多模态SOTA，性能超Nano Banana &nbsp;&nbsp; 量子位",
       "tags": [
-        "funding",
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "hn-alg-45729843",
+      "type": "news",
+      "title": "From Prompt Survival to Proof: Building a Real-World Model for AI Visibility",
+      "url": "https://www.aivojournal.org/from-prompt-survival-to-proof-building-a-real-world-model-for-ai-visibility/",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2025-10-28T06:54:37.000Z",
+      "summaryHint": "HN points 1",
+      "tags": [
+        "generative",
         "us"
       ]
     },
     {
-      "id": "rss-techcrunch_ai-mcdnam",
+      "id": "rss-google_news_cn_thesis-3qpcuh",
       "type": "news",
-      "title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
-      "url": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/",
-      "source": "techcrunch_ai",
-      "publishedAt": "2026-03-31T17:41:35.000Z",
-      "summaryHint": "You can now order from Uber Eats and Grubhub using Alexa+, an experience Amazon says will be similar to chatting with a waiter at a restaurant or placing an order at a drive-thru.",
+      "title": "腾讯混元Voyager3D世界模型发布 - 泰伯网",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9MLUxrMmdmTk1wbTI5S2hKTUFVRXVDUERsZnRxclVIYVBYX1h0U24wUFBLSmRQWVN1dDZRYUJNUGZxZw?oc=5",
+      "source": "google_news_cn_thesis",
+      "publishedAt": "2025-09-02T07:00:00.000Z",
+      "summaryHint": "腾讯混元Voyager3D世界模型发布 &nbsp;&nbsp; 泰伯网",
       "tags": [
-        "funding",
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-google_news_en_thesis-vl7k9u",
+      "type": "news",
+      "title": "Why Genie 3 Suggests AI 'World Models' Are The Path To Photorealistic Interactive VR - UploadVR",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNmxwdkJTYUVIY3hmdmVkaEU2VzB5eDQ2UDQxUU50QVlrbGFUeDIxakVodlpJdEd4RW1wZlF0aEF3OFBmUHJ2SFNqc0dfNmhHdktaYVdNNFY3U2dkMzh6RlNmd2ZsM09rTmVPQzFZajVlcnhCblhwS21NRFZzcmo1SFhNcjlSV0l0akVCY1k5MA?oc=5",
+      "source": "google_news_en_thesis",
+      "publishedAt": "2025-08-06T07:00:00.000Z",
+      "summaryHint": "Why Genie 3 Suggests AI 'World Models' Are The Path To Photorealistic Interactive VR &nbsp;&nbsp; UploadVR",
+      "tags": [
+        "us",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-google_news_en_thesis-yapd8c",
+      "type": "news",
+      "title": "Genie 3: A new frontier for world models - Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HcVNvS2Z3dmRLQnJmYWlHUU0wb1NUemxGdG1UcndLejlhTmFIMjdPSjljd1RWZHNlRWJFSTRoRDVyTmx5TVZsSEZEU1l4NDFOc09fTEd3Si1xNVhsWm1OcDZDVFBjaXE2UFRTa0xfTGx6d2pZZlRoSA?oc=5",
+      "source": "google_news_en_thesis",
+      "publishedAt": "2025-08-05T07:00:00.000Z",
+      "summaryHint": "Genie 3: A new frontier for world models &nbsp;&nbsp; Google DeepMind",
+      "tags": [
+        "us",
+        "funding"
+      ]
+    },
+    {
+      "id": "hn-alg-44439005",
+      "type": "news",
+      "title": "Show HN: Procedurally generated 3DGS splats powered by Spark",
+      "url": "https://github.com/splatmesh/splatmesh.github.io",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2025-07-01T23:49:56.000Z",
+      "summaryHint": "HN points 11",
+      "tags": [
+        "generative",
         "us"
       ]
     },
     {
-      "id": "rss-venturebeat_ai-lt1nhr",
+      "id": "hn-alg-44394926",
       "type": "news",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "source": "venturebeat_ai",
-      "publishedAt": "2026-01-22T14:00:00.000Z",
-      "summaryHint": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure. TQ Ventures led the round, with participation from FPV Ventures , Redpoint",
+      "title": "Show HN: Zeptaframe – Open-source click-and-drag precision for AI video gen",
+      "url": "https://github.com/Pablerdo/zeptaframe",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2025-06-27T08:28:11.000Z",
+      "summaryHint": "HN points 4",
       "tags": [
-        "funding",
+        "generative",
         "us"
       ]
     },
     {
-      "id": "rss-venturebeat_ai-pw82ni",
+      "id": "hn-alg-44249565",
       "type": "news",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "venturebeat_ai",
-      "publishedAt": "2026-01-19T14:00:00.000Z",
-      "summaryHint": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive. Claude Code , Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims t",
+      "title": "Show HN: Spark, An advanced 3D Gaussian Splatting renderer for Three.js",
+      "url": "https://sparkjs.dev/",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2025-06-11T17:02:56.000Z",
+      "summaryHint": "HN points 377",
       "tags": [
-        "funding",
+        "generative",
         "us"
       ]
     },
     {
-      "id": "rss-venturebeat_ai-2stlo5",
+      "id": "hn-alg-44204181",
       "type": "news",
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "source": "venturebeat_ai",
-      "publishedAt": "2026-01-16T14:01:00.000Z",
-      "summaryHint": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like gibberish: five strings of random numbers. The numbers were actually AI tokens. Decoded, they ",
+      "title": "Show HN: AI game animation sprite generator",
+      "url": "https://www.godmodeai.cloud/ai-sprite-generator",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2025-06-06T19:30:29.000Z",
+      "summaryHint": "HN points 162",
       "tags": [
-        "funding",
+        "generative",
         "us"
       ]
     },
     {
-      "id": "gh-openxla-xla",
-      "type": "oss",
-      "title": "openxla/xla: A machine learning compiler for GPUs, CPUs, and ML accelerators",
-      "url": "https://github.com/openxla/xla",
-      "source": "github_search",
-      "publishedAt": "2026-04-02T07:19:53Z",
-      "summaryHint": "stars 4128",
-      "tags": [
-        "oss",
-        "generative"
-      ],
-      "stars": 4128
-    },
-    {
-      "id": "gh-tensorflow-tensorflow",
-      "type": "oss",
-      "title": "tensorflow/tensorflow: An Open Source Machine Learning Framework for Everyone",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "source": "github_search",
-      "publishedAt": "2026-04-02T07:19:02Z",
-      "summaryHint": "stars 194430",
-      "tags": [
-        "oss",
-        "generative"
-      ],
-      "stars": 194430
-    },
-    {
-      "id": "gh-superset-sh-superset",
-      "type": "oss",
-      "title": "superset-sh/superset: Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
-      "url": "https://github.com/superset-sh/superset",
-      "source": "github_search",
-      "publishedAt": "2026-04-02T07:15:49Z",
-      "summaryHint": "stars 8459",
-      "tags": [
-        "oss",
-        "generative"
-      ],
-      "stars": 8459
-    },
-    {
-      "id": "gh-kubevirt-kubevirt",
-      "type": "oss",
-      "title": "kubevirt/kubevirt: Kubernetes Virtualization API and runtime in order to define and manage virtual machines.",
-      "url": "https://github.com/kubevirt/kubevirt",
-      "source": "github_search",
-      "publishedAt": "2026-04-02T07:12:30Z",
-      "summaryHint": "stars 6780",
-      "tags": [
-        "oss",
-        "generative"
-      ],
-      "stars": 6780
-    },
-    {
-      "id": "gh-agentscope-ai-CoPaw",
-      "type": "oss",
-      "title": "agentscope-ai/CoPaw: Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-      "url": "https://github.com/agentscope-ai/CoPaw",
-      "source": "github_search",
-      "publishedAt": "2026-04-02T07:04:12Z",
-      "summaryHint": "stars 14186",
-      "tags": [
-        "oss",
-        "generative"
-      ],
-      "stars": 14186
-    },
-    {
-      "id": "gh-apache-brpc",
-      "type": "oss",
-      "title": "apache/brpc: brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".",
-      "url": "https://github.com/apache/brpc",
-      "source": "github_search",
-      "publishedAt": "2026-04-02T07:00:43Z",
-      "summaryHint": "stars 17474",
-      "tags": [
-        "oss",
-        "generative"
-      ],
-      "stars": 17474
-    },
-    {
-      "id": "gh-huggingface-transformers",
-      "type": "oss",
-      "title": "huggingface/transformers: 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-      "url": "https://github.com/huggingface/transformers",
-      "source": "github_search",
-      "publishedAt": "2026-04-02T06:47:26Z",
-      "summaryHint": "stars 158670",
-      "tags": [
-        "oss",
-        "generative"
-      ],
-      "stars": 158670
-    },
-    {
-      "id": "gh-86Box-86Box",
-      "type": "oss",
-      "title": "86Box/86Box: Emulator of x86-based machines.",
-      "url": "https://github.com/86Box/86Box",
-      "source": "github_search",
-      "publishedAt": "2026-04-02T06:44:54Z",
-      "summaryHint": "stars 4118",
-      "tags": [
-        "oss",
-        "generative"
-      ],
-      "stars": 4118
-    },
-    {
-      "id": "gh-Thinklab-SJTU-awesome-ml4co",
-      "type": "oss",
-      "title": "Thinklab-SJTU/awesome-ml4co: Awesome machine learning for combinatorial optimization papers.",
-      "url": "https://github.com/Thinklab-SJTU/awesome-ml4co",
-      "source": "github_search",
-      "publishedAt": "2026-04-02T06:38:09Z",
-      "summaryHint": "stars 2090",
-      "tags": [
-        "oss",
-        "generative"
-      ],
-      "stars": 2090
-    },
-    {
-      "id": "gh-harvard-edge-cs249r_book",
-      "type": "oss",
-      "title": "harvard-edge/cs249r_book: Machine Learning Systems",
-      "url": "https://github.com/harvard-edge/cs249r_book",
-      "source": "github_search",
-      "publishedAt": "2026-04-02T06:29:22Z",
-      "summaryHint": "stars 23225",
-      "tags": [
-        "oss",
-        "generative"
-      ],
-      "stars": 23225
-    },
-    {
-      "id": "gh-cloud-hypervisor-cloud-hypervisor",
-      "type": "oss",
-      "title": "cloud-hypervisor/cloud-hypervisor: A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",
-      "url": "https://github.com/cloud-hypervisor/cloud-hypervisor",
-      "source": "github_search",
-      "publishedAt": "2026-04-02T06:23:51Z",
-      "summaryHint": "stars 5439",
-      "tags": [
-        "oss",
-        "generative"
-      ],
-      "stars": 5439
-    },
-    {
-      "id": "gh-doccano-doccano",
-      "type": "oss",
-      "title": "doccano/doccano: Open source annotation tool for machine learning practitioners.",
-      "url": "https://github.com/doccano/doccano",
-      "source": "github_search",
-      "publishedAt": "2026-04-02T06:22:54Z",
-      "summaryHint": "stars 10595",
-      "tags": [
-        "oss",
-        "generative"
-      ],
-      "stars": 10595
-    },
-    {
-      "id": "gh-kubeflow-pipelines",
-      "type": "oss",
-      "title": "kubeflow/pipelines: Machine Learning Pipelines for Kubeflow",
-      "url": "https://github.com/kubeflow/pipelines",
-      "source": "github_search",
-      "publishedAt": "2026-04-02T05:55:05Z",
-      "summaryHint": "stars 4118",
-      "tags": [
-        "oss",
-        "generative"
-      ],
-      "stars": 4118
-    },
-    {
-      "id": "gh-catboost-catboost",
-      "type": "oss",
-      "title": "catboost/catboost: A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.",
-      "url": "https://github.com/catboost/catboost",
-      "source": "github_search",
-      "publishedAt": "2026-04-02T05:48:45Z",
-      "summaryHint": "stars 8870",
-      "tags": [
-        "oss",
-        "generative"
-      ],
-      "stars": 8870
-    },
-    {
-      "id": "gh-PennyLaneAI-pennylane",
-      "type": "oss",
-      "title": "PennyLaneAI/pennylane: PennyLane is an open-source quantum software platform for quantum computing, quantum machine learning, and quantum chemistry. Create meaningful quantum algorithms, from inspiration to implementation.",
-      "url": "https://github.com/PennyLaneAI/pennylane",
-      "source": "github_search",
-      "publishedAt": "2026-04-02T05:38:04Z",
-      "summaryHint": "stars 3129",
-      "tags": [
-        "oss",
-        "generative"
-      ],
-      "stars": 3129
-    },
-    {
-      "id": "rss-venturebeat_ai-wkanl4",
+      "id": "hn-alg-42307286",
       "type": "news",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "source": "venturebeat_ai",
-      "publishedAt": "2026-01-13T13:00:00.000Z",
-      "summaryHint": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees. The new Slackbot, now generally available to Business+ and Enterprise+ customers,",
+      "title": "Tencent Hunyuan video: open-source text-to-video generation model",
+      "url": "https://aivideo.hunyuan.tencent.com",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2024-12-03T15:38:21.000Z",
+      "summaryHint": "HN points 5",
       "tags": [
-        "funding",
+        "generative",
         "us"
       ]
     },
     {
-      "id": "rss-venturebeat_ai-69xvr0",
+      "id": "hn-alg-42216134",
       "type": "news",
-      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "venturebeat_ai",
-      "publishedAt": "2026-01-12T11:30:00.000Z",
-      "summaryHint": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself. The launch marks a major inflection point in the race to deliver practical AI agents to mainstream users, po",
+      "title": "Wild Gaussian Splatting: 3D Reconstruction from raw images",
+      "url": "https://github.com/nerlfield/wild-gaussian-splatting",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2024-11-22T18:20:49.000Z",
+      "summaryHint": "HN points 2",
       "tags": [
-        "funding",
+        "generative",
         "us"
       ]
     },
     {
-      "id": "rss-venturebeat_ai-o3ucts",
+      "id": "hn-alg-41710227",
       "type": "news",
-      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "source": "venturebeat_ai",
-      "publishedAt": "2026-01-07T20:00:00.000Z",
-      "summaryHint": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia&#x27;s latest B200 graphics processors . The model, called NousCoder-14B , is another entry in a crowded field of AI coding as",
+      "title": "Show HN: A real time AI video agent with under 1 second of latency",
+      "url": "https://news.ycombinator.com/item?id=41710227",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2024-10-01T16:04:20.000Z",
+      "summaryHint": "HN points 455",
       "tags": [
-        "funding",
+        "generative",
         "us"
       ]
     },
     {
-      "id": "rss-venturebeat_ai-k9er74",
+      "id": "hn-alg-41437882",
       "type": "news",
-      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
-      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
-      "source": "venturebeat_ai",
-      "publishedAt": "2026-01-05T07:45:00.000Z",
-      "summaryHint": "When the creator of the world&#x27;s most advanced coding agent speaks, Silicon Valley doesn&#x27;t just listen — it takes notes. For the past week, the engineering community has been dissecting a thread on X from Boris Cherny , the creator and head of Claude Code at Anthropic . What began as a casual sharing of his personal terminal setup has spiraled into a viral manifesto on the future of softw",
+      "title": "Sora-like text-to-video model from Chinese startup Minimax, 10 examples",
+      "url": "https://twitter.com/aisolopreneur/status/1830664714902446469",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2024-09-03T18:52:31.000Z",
+      "summaryHint": "HN points 10",
       "tags": [
-        "funding",
+        "generative",
+        "us"
+      ]
+    },
+    {
+      "id": "hn-alg-40813463",
+      "type": "news",
+      "title": "I built a faceless AI video generation pipeline",
+      "url": "https://www.sabrina.dev/p/faceless-ai-video-generation-with-chatgpt-elevenlabs-stable-diffusion-and-sadtalker",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2024-06-27T18:24:04.000Z",
+      "summaryHint": "HN points 1",
+      "tags": [
+        "generative",
+        "us"
+      ]
+    },
+    {
+      "id": "hn-alg-40759333",
+      "type": "news",
+      "title": "HybridNeRF: Efficient Neural Rendering",
+      "url": "https://haithemturki.com/hybrid-nerf/",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2024-06-22T14:21:21.000Z",
+      "summaryHint": "HN points 165",
+      "tags": [
+        "generative",
+        "us"
+      ]
+    },
+    {
+      "id": "hn-alg-40719975",
+      "type": "news",
+      "title": "3D Gaussian Splatting as Markov Chain Monte Carlo",
+      "url": "https://ubc-vision.github.io/3dgs-mcmc/",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2024-06-18T17:08:36.000Z",
+      "summaryHint": "HN points 239",
+      "tags": [
+        "generative",
+        "us"
+      ]
+    },
+    {
+      "id": "hn-alg-40357784",
+      "type": "news",
+      "title": "Google announces Veo, their Sora competing text/image-to-video model",
+      "url": "https://aitestkitchen.withgoogle.com/tools/video-fx",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2024-05-14T17:39:10.000Z",
+      "summaryHint": "HN points 88",
+      "tags": [
+        "generative",
+        "us"
+      ]
+    },
+    {
+      "id": "hn-alg-39387964",
+      "type": "news",
+      "title": "OpenAI introduces Sora, its text-to-video AI model",
+      "url": "https://www.theverge.com/2024/2/15/24074151/openai-sora-text-to-video-ai",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2024-02-15T20:08:22.000Z",
+      "summaryHint": "HN points 9",
+      "tags": [
+        "generative",
+        "us"
+      ]
+    },
+    {
+      "id": "hn-alg-39386607",
+      "type": "news",
+      "title": "Sora, our text-to-video model",
+      "url": "https://twitter.com/OpenAI/status/1758192957386342435",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2024-02-15T18:43:40.000Z",
+      "summaryHint": "HN points 11",
+      "tags": [
+        "generative",
+        "us"
+      ]
+    },
+    {
+      "id": "hn-alg-38104942",
+      "type": "news",
+      "title": "UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene",
+      "url": "https://jamchaos.github.io/UE4-NeRF/",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2023-11-01T20:46:53.000Z",
+      "summaryHint": "HN points 22",
+      "tags": [
+        "generative",
+        "us"
+      ]
+    },
+    {
+      "id": "hn-alg-37470611",
+      "type": "news",
+      "title": "Show HN: Real-Time 3D Gaussian Splatting in WebGL",
+      "url": "https://antimatter15.com/splat/",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2023-09-11T17:31:50.000Z",
+      "summaryHint": "HN points 309",
+      "tags": [
+        "generative",
+        "us"
+      ]
+    },
+    {
+      "id": "hn-alg-37185383",
+      "type": "news",
+      "title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering [pdf]",
+      "url": "https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_low.pdf",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2023-08-19T04:04:24.000Z",
+      "summaryHint": "HN points 3",
+      "tags": [
+        "generative",
+        "us"
+      ]
+    },
+    {
+      "id": "hn-alg-30762578",
+      "type": "news",
+      "title": "ViewFormer: NeRF-Free Neural Rendering from Few Images Using Transformers",
+      "url": "https://jkulhanek.github.io/viewformer/",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2022-03-22T03:56:46.000Z",
+      "summaryHint": "HN points 7",
+      "tags": [
+        "generative",
+        "us"
+      ]
+    },
+    {
+      "id": "hn-alg-29340382",
+      "type": "news",
+      "title": "Neural Rendering: NeRF Takes a Walk in the Fresh Air",
+      "url": "https://www.unite.ai/neural-rendering-nerf-takes-a-walk-in-the-fresh-air/",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2021-11-25T11:25:06.000Z",
+      "summaryHint": "HN points 1",
+      "tags": [
+        "generative",
+        "us"
+      ]
+    },
+    {
+      "id": "hn-alg-26597419",
+      "type": "news",
+      "title": "PlenOctrees For Real-time Rendering of Neural Radiance Fields (NeRFs)",
+      "url": "http://alexyu.net/plenoctrees/",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2021-03-26T21:52:49.000Z",
+      "summaryHint": "HN points 175",
+      "tags": [
+        "generative",
+        "us"
+      ]
+    },
+    {
+      "id": "hn-alg-16860247",
+      "type": "news",
+      "title": "A step-by-step guide to the “World Models” AI paper",
+      "url": "https://applied-data.science/blog/hallucinogenic-deep-reinforcement-learning-using-python-and-keras",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2018-04-17T17:14:28.000Z",
+      "summaryHint": "HN points 261",
+      "tags": [
+        "generative",
         "us"
       ]
     }
