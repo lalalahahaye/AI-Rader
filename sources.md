@@ -17,7 +17,7 @@ The workflow **Update feed (daily)** runs [`scripts/build-feed.mjs`](scripts/bui
 
 | Block | What it does |
 |--------|----------------|
-| `filter` | **`includeKeywords`**（非空时）：允许列表 — 标题 + `summaryHint` + `tags` 须 **至少命中其一**，否则丢弃（**X 除外**：见 `xTwitter.skipThesisFilter`）；**`thesis.orGroups`** 仅在 `includeKeywords` 为空时作为多组 OR 后备；**`excludeKeywords`**；各 `applyTo*` 开关 |
+| `filter` | **`includeKeywords`**：对 **`rss` / `googlenews`** 等仍生效；**`xTwitter` / `hackerNews` / `reddit` / `github` / `arxiv`** 默认 **`skipThesisFilter: true`**（只走 `excludeKeywords`，避免标题里没写「nerf」就整源被删空）；**`thesis.orGroups`**、`excludeKeywords`、`applyTo*` |
 | `rss` | `{ url, sourceLabel, maxItems, mapToType, itemTags }` — RSS and Atom（含中文科技） |
 | `googleNews` | Google News **搜索 RSS** URL 列表，走与 RSS 相同的解析路径 |
 | `hackerNews` | **HN Algolia** 多 `algoliaQueries`；可选 `firebaseTopStories` 补充 top |
@@ -26,7 +26,7 @@ The workflow **Update feed (daily)** runs [`scripts/build-feed.mjs`](scripts/bui
 | `github` | Search API；**`minStars`** 追加为 `stars:>N`；结果再按 `stargazers_count` 过滤 |
 | `kickstarter` | **`enabled: false` 默认**；公开 discover HTML 正则抽链接，失败只 log |
 | `xTwitter` | **`aiLeaders`** + **`aiInvestors`**；Secret **`TWITTER_BEARER_TOKEN`** 或 **`X_BEARER_TOKEN`**；**`apiBase`** 默认 `https://api.x.com/2`；**`skipThesisFilter`**（默认 true）时 X 条目 **不** 走 `includeKeywords`，只走 `excludeKeywords`（与 follow-builders 一致）；用户 ID 用 **`/2/users/by`** 批量解析 |
-| `feed` | `maxTotalItems`, **`capsByType`**（含 `paper`、`crowdfunding`） |
+| `feed` | `maxTotalItems`, **`maxItemAgeDays`**（默认 7：早于该天数的条目不进 `feed-investor.json`，减轻 Google News 等陈旧稿）, **`capsByType`** |
 
 If `default-sources.json` is missing, built-in safe defaults apply.
 

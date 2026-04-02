@@ -99,6 +99,7 @@
 
   "hackerNews": {
     "enabled": true,
+    "skipThesisFilter": true,
     "algoliaQueries": [
       "world model AI",
       "Gaussian splatting 3D",
@@ -151,6 +152,7 @@
 
   "arxiv": {
     "enabled": true,
+    "skipThesisFilter": true,
     "maxResults": 6,
     "queries": [
       {
@@ -170,6 +172,7 @@
 
   "reddit": {
     "enabled": true,
+    "skipThesisFilter": true,
     "subreddits": [
       { "name": "GaussianSplatting", "limit": 5 },
       { "name": "computergraphics", "limit": 4 },
@@ -240,6 +243,7 @@
 
   "github": {
     "enabled": true,
+    "skipThesisFilter": true,
     "searchQuery": "(\"world model\" OR nerf OR \"gaussian splatting\" OR \"3d generation\" OR text-to-3d OR \"video generation\" OR diffusion OR game-ai OR unity OR unreal) NOT tutorial",
     "minStars": 500,
     "perPage": 15,
@@ -284,6 +288,7 @@
 
   "feed": {
     "maxTotalItems": 130,
+    "maxItemAgeDays": 7,
     "capsByType": {
       "funding": 24,
       "news": 42,

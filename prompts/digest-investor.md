@@ -32,13 +32,10 @@ One line: date + title (e.g. `AI 创投雷达 — YYYY-MM-DD`).
 
 ### 2. 近期投融资与交易（最高优先级 · 高密度）
 
-- Include **every** `type: funding` and **news** items that are clearly financings / M&A / strategic investment (use `deal_signal` when present).
-- **Per event** (table row **or** tight bullet block), **all** of the following when known from feed or **enriched** pages (no fabrication):
-  - **公司/项目**
-  - **做什么**（核心亮点 2–4 个短语：赛道、产品、差异化，来自 title/summary/打开的页面）
-  - **轮次** | **金额** | **领投/跟投/投资方**
-  - **链接**（`url`）
-- Unknown → **未披露**. Enrich from public pages when the workflow allows (see SKILL).
+- **Recency**: Central feed uses **`maxItemAgeDays`** (default **7**). Still **drop** financing rows whose **`publishedAt` is older than 7 days** vs digest date if they slip through. For **本周-only** digests: **only** include rows with `publishedAt` in the last **7** days; add a one-line note if you skipped stale rows.
+- **Table columns** (mandatory): **公布日期**（`publishedAt` → **YYYY-MM-DD**）| **公司/项目** | **做什么/亮点** | **轮次** | **金额** | **投资方** | **来源**（`source`）| **链接**
+- Include **every** qualifying `type: funding` and financing-like **news** (`deal_signal` when present), after the date rule.
+- Unknown → **未披露**. Enrich from public pages when allowed (see SKILL).
 
 ### 3. 技术进展（第二块：GitHub / 论文 / 技术向信源）
 

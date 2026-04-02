@@ -95,6 +95,16 @@ When the user asks **市场图谱**, **mapping**, **segment map**, or **赛道�
 1. Use [sources.md](sources.md) public sources; state **fallback** in the output.
 2. Do **not** promise X / 小红书 / 微信 parity without feed items or pasted links.
 
+## If sections look empty (OSS / 论文 / X / Reddit)
+
+1. **Confirm `FEED_URL`** points to the **latest** `feed-investor.json` (check top-level **`updatedAt`**). Re-run **Update feed** on GitHub if stale.
+2. **`type: oss` missing**: unauthenticated GitHub Search can **rate-limit** or fail in CI — see Actions logs. Locally run `node scripts/build-feed.mjs` to verify.
+3. **`paper` missing**: arXiv fetch errors are logged as warnings; check network.
+4. **X empty**: need **`xTwitter.enabled: true`** + Secret **`TWITTER_BEARER_TOKEN` or `X_BEARER_TOKEN`**.
+5. **Reddit empty (older builds)**: was often caused by **`includeKeywords`** filtering titles — defaults now use **`skipThesisFilter: true`** on Reddit/GitHub/HN/arXiv (exclude-only) so these buckets populate; RSS/Google News stay allowlist-strict.
+
+**Staleness**: Maintainer sets **`feed.maxItemAgeDays`** in [default-sources.json](default-sources.json) (default **7**) so items older than that are **dropped in CI**; financing tables must still show **`publishedAt` as a date column** (see [digest-investor.md](prompts/digest-investor.md)).
+
 ## Scheduling
 
 - **OpenClaw on Feishu**: cron or scheduled invocation for daily digest; optional weekly mapping run.

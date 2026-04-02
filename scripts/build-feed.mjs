@@ -34,6 +34,7 @@ const BUILTIN_SOURCES = {
   },
   hackerNews: {
     enabled: true,
+    skipThesisFilter: true,
     algoliaQueries: [],
     hitsPerQuery: 5,
     firebaseTopStories: false,
@@ -42,9 +43,10 @@ const BUILTIN_SOURCES = {
     itemTags: ["generative", "us"],
   },
   googleNews: { enabled: false, feeds: [] },
-  arxiv: { enabled: false, queries: [], maxResults: 5 },
+  arxiv: { enabled: false, skipThesisFilter: true, queries: [], maxResults: 5 },
   reddit: {
     enabled: true,
+    skipThesisFilter: true,
     subreddits: [
       { name: "MachineLearning", limit: 5 },
       { name: "LocalLLaMA", limit: 5 },
@@ -55,6 +57,7 @@ const BUILTIN_SOURCES = {
   kickstarter: { enabled: false, discoverUrl: "", maxItems: 8 },
   github: {
     enabled: true,
+    skipThesisFilter: true,
     searchQuery: "world-model OR nerf OR gaussian-splatting",
     minStars: 0,
     perPage: 12,
@@ -70,7 +73,7 @@ const BUILTIN_SOURCES = {
     aiLeaders: [],
     aiInvestors: [],
   },
-  feed: { maxTotalItems: 60, capsByType: {} },
+  feed: { maxTotalItems: 60, maxItemAgeDays: 7, capsByType: {} },
 };
 
 const APPLY_FLAG = {
@@ -102,18 +105,26 @@ async function loadSourcesConfig() {
     const raw = await fs.readFile(sourcesPath, "utf8");
     const user = JSON.parse(raw);
     const xTwitter = mergeSection(BUILTIN_SOURCES.xTwitter, user.xTwitter);
+    const hackerNews = mergeSection(BUILTIN_SOURCES.hackerNews, user.hackerNews);
+    const arxiv = mergeSection(BUILTIN_SOURCES.arxiv, user.arxiv);
+    const reddit = mergeSection(BUILTIN_SOURCES.reddit, user.reddit);
+    const github = mergeSection(BUILTIN_SOURCES.github, user.github);
     const filter = mergeFilter(BUILTIN_SOURCES.filter, user.filter || {});
     filter.skipThesisForTwitter = xTwitter.skipThesisFilter !== false;
+    filter.skipThesisForHn = hackerNews.skipThesisFilter !== false;
+    filter.skipThesisForArxiv = arxiv.skipThesisFilter !== false;
+    filter.skipThesisForReddit = reddit.skipThesisFilter !== false;
+    filter.skipThesisForGithub = github.skipThesisFilter !== false;
     return {
       version: user.version ?? BUILTIN_SOURCES.version,
       filter,
-      hackerNews: mergeSection(BUILTIN_SOURCES.hackerNews, user.hackerNews),
+      hackerNews,
       googleNews: mergeSection(BUILTIN_SOURCES.googleNews, user.googleNews),
-      arxiv: mergeSection(BUILTIN_SOURCES.arxiv, user.arxiv),
-      reddit: mergeSection(BUILTIN_SOURCES.reddit, user.reddit),
+      arxiv,
+      reddit,
       rss: mergeSection(BUILTIN_SOURCES.rss, user.rss),
       kickstarter: mergeSection(BUILTIN_SOURCES.kickstarter, user.kickstarter),
-      github: mergeSection(BUILTIN_SOURCES.github, user.github),
+      github,
       xTwitter,
       feed: mergeSection(BUILTIN_SOURCES.feed, user.feed),
     };
@@ -124,6 +135,10 @@ async function loadSourcesConfig() {
       );
       const c = structuredClone(BUILTIN_SOURCES);
       c.filter.skipThesisForTwitter = c.xTwitter.skipThesisFilter !== false;
+      c.filter.skipThesisForHn = c.hackerNews.skipThesisFilter !== false;
+      c.filter.skipThesisForArxiv = c.arxiv.skipThesisFilter !== false;
+      c.filter.skipThesisForReddit = c.reddit.skipThesisFilter !== false;
+      c.filter.skipThesisForGithub = c.github.skipThesisFilter !== false;
       return c;
     }
     throw new Error(`default-sources.json: ${e.message}`);
@@ -197,8 +212,15 @@ function filterForSource(item, filter, kind) {
   if (!filter) return true;
   const flag = APPLY_FLAG[kind];
   if (flag && filter[flag] === false) return true;
-  if (kind === "twitter" && filter.skipThesisForTwitter) {
-    return passesExcludeOnly(item, filter);
+  const skipPairs = [
+    ["twitter", "skipThesisForTwitter"],
+    ["hn", "skipThesisForHn"],
+    ["reddit", "skipThesisForReddit"],
+    ["github", "skipThesisForGithub"],
+    ["arxiv", "skipThesisForArxiv"],
+  ];
+  for (const [k, sk] of skipPairs) {
+    if (kind === k && filter[sk]) return passesExcludeOnly(item, filter);
   }
   return passesPevcFilter(item, filter);
 }
@@ -756,6 +778,18 @@ function mergeDedup(groups) {
   return out;
 }
 
+/** Drop items older than maxDays (by publishedAt). 0 or missing = no cutoff. */
+function filterByMaxAge(items, maxDays) {
+  const n = Number(maxDays);
+  if (!n || n <= 0 || !Array.isArray(items)) return items;
+  const cutoff = Date.now() - n * 86400000;
+  return items.filter((it) => {
+    const t = new Date(it.publishedAt || 0).getTime();
+    if (Number.isNaN(t)) return false;
+    return t >= cutoff;
+  });
+}
+
 function applyCapsAndLimit(items, feedCfg) {
   const maxTotal = Math.max(1, feedCfg.maxTotalItems ?? 60);
   const caps = feedCfg.capsByType || {};
@@ -868,6 +902,16 @@ async function main() {
     (a, b) =>
       new Date(b.publishedAt || 0) - new Date(a.publishedAt || 0),
   );
+  const rawAge = config.feed.maxItemAgeDays;
+  const maxAge =
+    rawAge === undefined || rawAge === null ? 7 : Number(rawAge);
+  const beforeAge = items.length;
+  items = filterByMaxAge(items, maxAge);
+  if (maxAge > 0 && beforeAge !== items.length) {
+    console.warn(
+      `maxItemAgeDays=${maxAge}: dropped ${beforeAge - items.length} items older than cutoff`,
+    );
+  }
   items = applyCapsAndLimit(items, config.feed);
 
   if (items.length === 0) {

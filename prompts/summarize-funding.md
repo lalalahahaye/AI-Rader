@@ -2,6 +2,7 @@
 
 For each `funding` or deal-like `news` item:
 
+- **Date**: from **`publishedAt`** (YYYY-MM-DD) for tables — skip or flag rows **older than 7 days** when the user asked for “this week / 本周”.
 - **Company** (and parent if relevant)
 - **Round / instrument** (Seed, A, strategic, etc.) — only if stated in source; else **未披露 / not stated**
 - **Amount** — exact phrase from source with currency; if missing: **未披露 / undisclosed** (never estimate)
