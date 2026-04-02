@@ -25,7 +25,17 @@
       "特朗普",
       "拜登",
       "加密货币喊单",
-      "现货合约"
+      "现货合约",
+      "quantum computing",
+      "quantum computer",
+      "quantum chip",
+      "superconducting qubit",
+      "ion trap quantum",
+      "量子计算",
+      "量子芯片",
+      "量子比特",
+      "QKD",
+      "post-quantum"
     ],
     "requireKeywordMatch": false,
     "applyToHackerNews": true,
@@ -72,6 +82,20 @@
         "maxItems": 10,
         "mapToType": "news",
         "itemTags": ["china", "funding"]
+      },
+      {
+        "url": "https://news.google.com/rss/search?q=AI+3D+generative+video+game+startup+funding+Series+seed&hl=en&gl=US&ceid=US:en",
+        "sourceLabel": "google_news_en_deals",
+        "maxItems": 8,
+        "mapToType": "news",
+        "itemTags": ["us", "funding", "deal_rss"]
+      },
+      {
+        "url": "https://news.google.com/rss/search?q=%E8%9E%8D%E8%B5%84+%E6%96%87%E7%94%9F%E8%A7%86%E9%A2%91+%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B+3D+%E6%B8%B8%E6%88%8F+A%E8%BD%AE+B%E8%BD%AE&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "sourceLabel": "google_news_cn_deals",
+        "maxItems": 8,
+        "mapToType": "news",
+        "itemTags": ["china", "funding", "deal_rss"]
       }
     ]
   },

@@ -1,29 +1,43 @@
 # Investor digest format
 
-You are preparing a **PEVC market radar digest** from structured feed items (and optional fallback web context). This is **not** financial advice.
+You are preparing a **PEVC market radar digest** from structured feed items (and optional web context after fetch). This is **not** financial advice.
 
-## Output structure
+**Thesis scope (strict)**: Only **AI 3D / world models / AI video & generative media / AI games / AI social & digital humans / immersive (XR) / physical simulation** as aligned with `filter.thesis` in the feed. Drop **quantum computing**, general big-tech earnings with no thesis link, pure crypto, unrelated politics, and other off-thesis noise — list them under **Dropped** with a one-word reason.
 
-1. **Headline**: one line, date + “AI radar (investor)”
-2. **Executive snapshot**: 3–6 bullets — only **investable / mappable** moves (ignore pure noise)
-3. **Sourcing pipeline** (required):
-   - **Tier A / B / C** shortlists per [prompts/sourcing-deals.md](sourcing-deals.md) (compressed: 2–4 lines per tier if space tight)
-4. **Funding & deals** (`funding`, and `news` with deal angle): table or bullets with **mandatory columns**:
-   - Company | Round | **Amount** (or **未披露/undisclosed**) | **Investors** (or **未披露**) | Link  
-   - If source does not name investors or amount, write **未披露** — do not guess.
-5. **Mapping delta** (required, brief): 5–10 bullets — **segment / player / what changed** vs “last run” if user gave prior context; else **cross-section map** (who sits where)
-6. **Products & OSS** (`oss`): only repos meeting feed bar; state **stars** if present in item; why it matters for thesis
-7. **Community & X** (`social_en`):
-   - Subsection **AI builders / 技术风向标** (`ai_builder` tag if present)
-   - Subsection **AI investors / 机构与观点** (`ai_investor` tag if present)
-   - Otherwise single subsection; still mark rumor vs sourced
-8. **Research** (`paper`): practical implications, 2–5 lines each
-9. **Crowdfunding** (`crowdfunding`): stage, novelty, risks
-10. **Follow-ups**: concrete questions for calls / expert checks
+## Output structure (order is mandatory — deal-first)
+
+1. **Headline**: one line, date + “AI radar (investor / thesis)”
+
+2. **Deals & financings** (first substantive block):  
+   - One **table** (or tight bullets) covering **every** item with `type: funding` **and** `news` items that clearly describe a financing (use feed `round` / `amount` fields when present; they are **verbatim snippets** from the source, not verified).  
+   - **Mandatory columns**: **Company / project** | **What they do** (1 line, from title+summary only unless you enriched from a linked page) | **Round** | **Amount** | **Investors** | **Link**  
+   - Use **未披露 / undisclosed** for any column missing in the source; **do not guess** investors, amounts, or rounds.  
+   - If `tags` include `deal_signal`, treat as higher-confidence deal shape but still obey **no fabrication**.
+
+3. **Sourcing pipeline** (required, immediately after the table):  
+   - **Tier A / B / C** per [prompts/sourcing-deals.md](sourcing-deals.md) (compressed: 2–4 lines per tier if space tight).  
+   - Tier A must prioritize rows from the deals table that best fit the thesis.
+
+4. **Mapping delta** (required): 5–10 bullets — **segment / player / what changed** vs prior digest if the user provided context; else a **cross-section map** (who sits where on the thesis map).
+
+5. **Executive snapshot**: 3–6 bullets — only **investable / mappable** moves (may echo Tier A headlines).
+
+6. **Products & OSS** (`oss`): repos from feed; **stars** if present; one line **thesis relevance** each.
+
+7. **Community & social** (`social_en`, `social_cn`):  
+   - Subsections **AI builders** vs **AI investors** when `ai_builder` / `ai_investor` tags exist.  
+   - Mark **fact / reported / opinion / rumor** for non-deal chatter.
+
+8. **Research** (`paper`): **At most 2–4 papers**, only those **directly** tied to today’s thesis (world models, neural 3D/video, game/social AI, etc.). One or two lines **why it matters for the map** each. Omit or one-line-dismiss the rest; do **not** run a generic arXiv roundup.
+
+9. **Crowdfunding** (`crowdfunding`): brief — stage, novelty, risks.
+
+10. **Follow-ups**: concrete next checks (calls, second sources).
+
+11. **Dropped for noise** (footer, required): up to 8 items skipped as **off-thesis** (e.g. quantum, pure infra with no 3D/video/game/social angle), each with **one-word reason**.
 
 ## Rules
 
-- Every material claim needs a **link** from the item `url` or explicit search result URL.
+- Every material claim needs a **link** from the item `url` or an explicit URL you opened during enrichment (see skill workflow).
 - If the user asked for **Chinese**, use 简体中文 for body; keep company names in original form where helpful.
-- **Bilingual**: English block then 中文摘要 block.
-- **Dropped for noise** (optional footer): up to 5 items skipped as off-thesis, with one-word reason.
+- **Bilingual**: English block then 中文摘要 block when requested.

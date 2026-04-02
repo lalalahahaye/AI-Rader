@@ -57,13 +57,17 @@ After saving config: **immediately** run **one full digest** (`fetch → summari
 ## Daily digest workflow
 
 1. **Fetch**: GET `FEED_URL` or read local `feed-investor.json`; parse JSON.
-2. **Filter** (optional): by `tags` / `type` and user thesis in config.
-3. **Summarize** using:
-   - [prompts/digest-investor.md](prompts/digest-investor.md) — must include **Sourcing pipeline** + **Mapping delta** + funding table with **investors / amount / round / link** (use **未披露** when unknown).
-   - [prompts/sourcing-deals.md](prompts/sourcing-deals.md) for tiered pipeline detail when user asks “sourcing” or “pipeline”.
-   - Type prompts: `summarize-funding.md`, `summarize-social-en.md` (split **ai_builder** vs **ai_investor** when tags present), `summarize-social-cn.md`, `summarize-opensource.md`, `summarize-papers.md`.
-4. **Investor overlays** (lightly, not financial advice): ecosystem role, signal triangulation, fact / reported / opinion / rumor.
-5. **Deliver** per user preference.
+2. **Filter** (optional): by `tags` / `type` and user thesis in config. Prefer items with `type: funding` or `deal_signal` tag for deal table ordering.
+3. **Enrich (host web search, no fabrication)** — before or while writing the digest:
+   - For **Tier A** candidates and for **deal table rows** where **Investors** or **Amount** or **Round** would otherwise be **未披露**, open **1–2 public pages per company** (press release, reputable article, or public company profile) when the user’s environment allows search/browse.
+   - **Copy only** what appears on the page: investors, round name, amount. If still missing, keep **未披露**. Never infer cap table or fill blanks from memory.
+   - Stay on **thesis**; skip pages that are off-topic (e.g. quantum hardware with no AI 3D/video/game/social link).
+4. **Summarize** using:
+   - [prompts/digest-investor.md](prompts/digest-investor.md) — **order matters**: deals table first, then **Sourcing** tiers, then **Mapping**, then snapshot/OSS/social/**2–4 thesis papers max**, then Dropped.
+   - [prompts/sourcing-deals.md](prompts/sourcing-deals.md) when the user asks “sourcing”, “pipeline”, or **可跟进项目**.
+   - Type prompts: `summarize-funding.md`, `summarize-social-en.md` (split **ai_builder** vs **ai_investor** when tags present), `summarize-social-cn.md`, `summarize-opensource.md`, `summarize-papers.md` (strict cap and thesis filter per digest-investor).
+5. **Investor overlays** (lightly, not financial advice): ecosystem role, signal triangulation, fact / reported / opinion / rumor.
+6. **Deliver** per user preference.
 
 ## Weekly / on-demand mapping
 

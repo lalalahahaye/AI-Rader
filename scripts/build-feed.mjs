@@ -178,6 +178,45 @@ function filterForSource(item, filter, kind) {
   return passesPevcFilter(item, filter);
 }
 
+/** RSS / Google News only: if title+summary looks like a funding item, set type funding and copy verbatim round/amount snippets when regex matches. Never invent investors. */
+const FUNDING_SIGNAL_RES = [
+  /\bseries\s+[a-z]\b/i,
+  /\b(pre-)?seed\b/i,
+  /\braised\b/i,
+  /\bfunding\s+round\b/i,
+  /\bcloses?\s+\$[\d.,]/i,
+  /融资/,
+  /领投/,
+  /跟投/,
+  /战略投资/,
+  /完成.{0,12}轮/,
+  /获.{0,20}投资/,
+  /亿元|千万|百万|万美元/,
+];
+
+function applyFundingHeuristic(item) {
+  if (item.type !== "news" && item.type !== "funding") return item;
+  const blob = `${item.title} ${item.summaryHint || ""}`;
+  const hit = FUNDING_SIGNAL_RES.some((re) => re.test(blob));
+  if (!hit) return item;
+  const out = {
+    ...item,
+    type: "funding",
+    tags: Array.from(new Set([...(item.tags || []), "deal_signal"])),
+  };
+  const roundM = blob.match(
+    /\b(?:Series\s+[A-Z]|Pre-[A-Z]|Seed|Pre-Seed)\b|(?:天使|种子|战略)轮|[ABCDE]轮融资?/i,
+  );
+  if (roundM) out.round = roundM[0].trim();
+  const usd = blob.match(/\$\s*[\d.,]+\s*[MmBbKk](?:illion)?/i);
+  if (usd) out.amount = usd[0].replace(/\s+/g, " ").trim();
+  else {
+    const cny = blob.match(/[\d.,]+\s*(?:亿|千万|百万|万)元?/);
+    if (cny) out.amount = cny[0].replace(/\s+/g, "").trim();
+  }
+  return out;
+}
+
 async function fetchJson(url, headers = {}) {
   const res = await fetch(url, {
     headers: { "User-Agent": UA, ...headers },
@@ -286,7 +325,12 @@ async function rssFeedsBlock(cfg, filter, kind) {
         itemTags: f.itemTags,
       }).slice(0, maxItems);
       for (const it of items) {
-        if (filterForSource(it, filter, kind)) all.push(it);
+        if (!filterForSource(it, filter, kind)) continue;
+        all.push(
+          kind === "rss" || kind === "googlenews"
+            ? applyFundingHeuristic(it)
+            : it,
+        );
       }
     } catch (e) {
       console.warn(`RSS ${f.sourceLabel}:`, e.message);

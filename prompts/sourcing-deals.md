@@ -30,5 +30,5 @@ Never fabricate amounts or investor names.
 
 ## Rules
 
-- **Noise control**: drop items that fail thesis fit; list **“Dropped (reason)”** (3–5 max) so the user trusts the filter.
+- **Noise control**: drop items that fail thesis fit (e.g. **quantum computing**, pure crypto, unrelated politics); list **“Dropped (reason)”** (3–8 max) so the user trusts the filter.
 - Separate **fact / reported / opinion / rumor** for social-sourced leads.
