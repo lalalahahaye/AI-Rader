@@ -302,16 +302,17 @@
   },
 
   "kickstarter": {
-    "enabled": false,
+    "enabled": true,
+    "skipThesisFilter": true,
     "discoverUrl": "https://www.kickstarter.com/discover/advanced?sort=newest&term=AI+video+game+3D",
-    "maxItems": 6
+    "maxItems": 8
   },
 
   "github": {
     "enabled": true,
     "skipThesisFilter": true,
     "searchQuery": "(\"world model\" OR nerf OR \"gaussian splatting\" OR \"3d generation\" OR text-to-3d OR \"video generation\" OR diffusion OR game-ai OR unity OR unreal) NOT tutorial",
-    "minStars": 500,
+    "minStars": 200,
     "perPage": 15,
     "sort": "updated",
     "order": "desc",

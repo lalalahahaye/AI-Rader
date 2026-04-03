@@ -54,7 +54,12 @@ const BUILTIN_SOURCES = {
     defaultItemTags: ["ai_social"],
   },
   rss: { enabled: false, feeds: [] },
-  kickstarter: { enabled: false, discoverUrl: "", maxItems: 8 },
+  kickstarter: {
+    enabled: false,
+    discoverUrl: "",
+    maxItems: 8,
+    skipThesisFilter: true,
+  },
   github: {
     enabled: true,
     skipThesisFilter: true,
@@ -109,12 +114,14 @@ async function loadSourcesConfig() {
     const arxiv = mergeSection(BUILTIN_SOURCES.arxiv, user.arxiv);
     const reddit = mergeSection(BUILTIN_SOURCES.reddit, user.reddit);
     const github = mergeSection(BUILTIN_SOURCES.github, user.github);
+    const kickstarter = mergeSection(BUILTIN_SOURCES.kickstarter, user.kickstarter);
     const filter = mergeFilter(BUILTIN_SOURCES.filter, user.filter || {});
     filter.skipThesisForTwitter = xTwitter.skipThesisFilter !== false;
     filter.skipThesisForHn = hackerNews.skipThesisFilter !== false;
     filter.skipThesisForArxiv = arxiv.skipThesisFilter !== false;
     filter.skipThesisForReddit = reddit.skipThesisFilter !== false;
     filter.skipThesisForGithub = github.skipThesisFilter !== false;
+    filter.skipThesisForKickstarter = kickstarter.skipThesisFilter !== false;
     return {
       version: user.version ?? BUILTIN_SOURCES.version,
       filter,
@@ -123,7 +130,7 @@ async function loadSourcesConfig() {
       arxiv,
       reddit,
       rss: mergeSection(BUILTIN_SOURCES.rss, user.rss),
-      kickstarter: mergeSection(BUILTIN_SOURCES.kickstarter, user.kickstarter),
+      kickstarter,
       github,
       xTwitter,
       feed: mergeSection(BUILTIN_SOURCES.feed, user.feed),
@@ -139,6 +146,7 @@ async function loadSourcesConfig() {
       c.filter.skipThesisForArxiv = c.arxiv.skipThesisFilter !== false;
       c.filter.skipThesisForReddit = c.reddit.skipThesisFilter !== false;
       c.filter.skipThesisForGithub = c.github.skipThesisFilter !== false;
+      c.filter.skipThesisForKickstarter = c.kickstarter.skipThesisFilter !== false;
       return c;
     }
     throw new Error(`default-sources.json: ${e.message}`);
@@ -218,6 +226,7 @@ function filterForSource(item, filter, kind) {
     ["reddit", "skipThesisForReddit"],
     ["github", "skipThesisForGithub"],
     ["arxiv", "skipThesisForArxiv"],
+    ["kickstarter", "skipThesisForKickstarter"],
   ];
   for (const [k, sk] of skipPairs) {
     if (kind === k && filter[sk]) return passesExcludeOnly(item, filter);
