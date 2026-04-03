@@ -16,6 +16,13 @@ const sourcesPath = path.join(root, "default-sources.json");
 const UA =
   "pevc-ai-radar-feed-builder/1.0 (+https://github.com/pevc-ai-radar/pevc-ai-radar)";
 
+/** Reddit API rules: unique UA + contact; do not impersonate a browser. */
+const REDDIT_UA =
+  "PEVC-AI-Radar:build-feed:1.0 (contact: https://github.com/lalalahahaye/AI-Rader)";
+
+let redditAppToken = null;
+let redditAppTokenUntil = 0;
+
 const BUILTIN_SOURCES = {
   version: 1,
   filter: {
@@ -47,6 +54,8 @@ const BUILTIN_SOURCES = {
   reddit: {
     enabled: true,
     skipThesisFilter: true,
+    requestDelayMs: 1000,
+    maxRetries: 2,
     subreddits: [
       { name: "MachineLearning", limit: 5 },
       { name: "LocalLLaMA", limit: 5 },
@@ -302,6 +311,10 @@ async function fetchText(url, accept) {
   return res.text();
 }
 
+function sleep(ms) {
+  return new Promise((r) => setTimeout(r, ms));
+}
+
 function idHash(s) {
   let h = 0;
   for (let i = 0; i < s.length; i++) h = ((h << 5) - h + s.charCodeAt(i)) | 0;
@@ -529,12 +542,58 @@ async function arxivFetch(cfg, filter) {
   return items;
 }
 
-async function redditSub(sub, limit, defaultTags) {
-  const url = `https://www.reddit.com/r/${sub}/hot.json?limit=${limit + 2}`;
-  const data = await fetchJson(url);
+async function fetchRedditRaw(url, extraHeaders = {}) {
+  return fetch(url, {
+    headers: {
+      "User-Agent": REDDIT_UA,
+      ...extraHeaders,
+    },
+  });
+}
+
+async function fetchRedditJsonWithRetry(url, maxRetries) {
+  const n = Math.max(0, Number(maxRetries) || 0);
+  let lastErr;
+  for (let attempt = 0; attempt <= n; attempt++) {
+    try {
+      const res = await fetchRedditRaw(url, { Accept: "application/json" });
+      if (res.ok) return res.json();
+      const msg = `HTTP ${res.status} ${url}`;
+      if (res.status !== 403 && res.status !== 429) throw new Error(msg);
+      lastErr = new Error(msg);
+    } catch (e) {
+      lastErr = e;
+    }
+    if (attempt < n) await sleep(attempt === 0 ? 2000 : 5000);
+  }
+  throw lastErr;
+}
+
+async function redditGetAppToken(clientId, clientSecret) {
+  const now = Date.now();
+  if (redditAppToken && now < redditAppTokenUntil - 60_000) return redditAppToken;
+  const auth = Buffer.from(`${clientId}:${clientSecret}`).toString("base64");
+  const res = await fetch("https://www.reddit.com/api/v1/access_token", {
+    method: "POST",
+    headers: {
+      Authorization: `Basic ${auth}`,
+      "Content-Type": "application/x-www-form-urlencoded",
+      "User-Agent": REDDIT_UA,
+    },
+    body: "grant_type=client_credentials",
+  });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const j = await res.json();
+  if (!j.access_token) throw new Error("no access_token in response");
+  redditAppToken = j.access_token;
+  redditAppTokenUntil = now + (j.expires_in || 3600) * 1000;
+  return redditAppToken;
+}
+
+function mapRedditHotJson(data, sub, limit, defaultTags) {
   const children = data?.data?.children || [];
   const tags =
-    Array.isArray(defaultTags) && defaultTags.length ? defaultTags : ["ai_social"];
+    Array.isArray(defaultTags) && defaultTags.length ? [...defaultTags] : ["ai_social"];
   return children
     .map((c) => c.data)
     .filter((d) => d && !d.stickied && d.title)
@@ -553,22 +612,109 @@ async function redditSub(sub, limit, defaultTags) {
     }));
 }
 
+async function redditSubOAuth(sub, limit, token, defaultTags) {
+  const url = `https://oauth.reddit.com/r/${sub}/hot?limit=${limit + 2}`;
+  const res = await fetchRedditRaw(url, {
+    Accept: "application/json",
+    Authorization: `Bearer ${token}`,
+  });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const data = await res.json();
+  return mapRedditHotJson(data, sub, limit, defaultTags);
+}
+
+async function redditSubJson(sub, limit, defaultTags, maxRetries) {
+  const url = `https://www.reddit.com/r/${sub}/hot.json?limit=${limit + 2}`;
+  const data = await fetchRedditJsonWithRetry(url, maxRetries);
+  return mapRedditHotJson(data, sub, limit, defaultTags);
+}
+
+async function fetchRedditRssText(url) {
+  const res = await fetchRedditRaw(url, {
+    Accept: "application/rss+xml, application/atom+xml, text/xml, */*",
+  });
+  if (!res.ok) throw new Error(`HTTP ${res.status} ${url}`);
+  return res.text();
+}
+
+async function redditSubRss(sub, limit, defaultTags) {
+  const url = `https://www.reddit.com/r/${sub}/hot.rss?limit=${limit + 2}`;
+  const xml = await fetchRedditRssText(url);
+  const parsed = parseRssItems(xml, {
+    sourceLabel: `reddit_r_${sub}`,
+    mapToType: "news",
+    itemTags: Array.isArray(defaultTags) ? [...defaultTags] : ["ai_social"],
+  }).slice(0, limit);
+  return parsed
+    .filter((it) => it.title && it.url)
+    .map((it) => ({
+      id: `reddit-rss-${idHash(it.url)}`,
+      type: "social_en",
+      title: it.title.slice(0, 300),
+      url: it.url,
+      source: `reddit_r_${sub}`,
+      publishedAt: it.publishedAt || new Date().toISOString(),
+      summaryHint: it.summaryHint?.slice(0, 240) || undefined,
+      tags: Array.isArray(defaultTags) && defaultTags.length ? [...defaultTags] : ["ai_social"],
+    }));
+}
+
+async function redditFetchOneSub(sub, limit, defaultTags, maxRetries, oauthToken) {
+  if (oauthToken) {
+    try {
+      const rows = await redditSubOAuth(sub, limit, oauthToken, defaultTags);
+      if (rows.length) return rows;
+    } catch (e) {
+      console.warn(`Reddit OAuth r/${sub}:`, e.message);
+    }
+  }
+  try {
+    const rows = await redditSubJson(sub, limit, defaultTags, maxRetries);
+    if (rows.length) return rows;
+  } catch (e) {
+    console.warn(`Reddit JSON r/${sub}:`, e.message);
+  }
+  try {
+    return await redditSubRss(sub, limit, defaultTags);
+  } catch (e) {
+    console.warn(`Reddit RSS r/${sub}:`, e.message);
+    return [];
+  }
+}
+
 async function redditAll(cfg, filter) {
   if (!cfg.enabled) return [];
   const subs = Array.isArray(cfg.subreddits) ? cfg.subreddits : [];
   const defaultTags = cfg.defaultItemTags ?? ["ai_social"];
-  const tasks = subs
-    .filter((s) => s && s.name)
-    .map((s) =>
-      redditSub(String(s.name).replace(/^r\//, ""), Math.max(1, s.limit ?? 5), defaultTags).catch(
-        (e) => {
-          console.warn(`Reddit r/${s.name}:`, e.message);
-          return [];
-        },
-      ),
+  const delayMs = Math.max(0, Number(cfg.requestDelayMs ?? 1000) || 0);
+  const maxRetries = Math.max(0, Number(cfg.maxRetries ?? 2) || 0);
+  const cid = (process.env.REDDIT_CLIENT_ID || "").trim();
+  const csec = (process.env.REDDIT_CLIENT_SECRET || "").trim();
+  let oauthToken = null;
+  if (cid && csec) {
+    try {
+      oauthToken = await redditGetAppToken(cid, csec);
+    } catch (e) {
+      console.warn("Reddit OAuth token:", e.message);
+    }
+  }
+  const list = subs.filter((s) => s && s.name);
+  const out = [];
+  for (let i = 0; i < list.length; i++) {
+    const s = list[i];
+    const sub = String(s.name).replace(/^r\//, "");
+    const limit = Math.max(1, s.limit ?? 5);
+    const rows = await redditFetchOneSub(
+      sub,
+      limit,
+      defaultTags,
+      maxRetries,
+      oauthToken,
     );
-  const chunks = await Promise.all(tasks);
-  return chunks.flat().filter((it) => filterForSource(it, filter, "reddit"));
+    out.push(...rows);
+    if (i < list.length - 1 && delayMs > 0) await sleep(delayMs);
+  }
+  return out.filter((it) => filterForSource(it, filter, "reddit"));
 }
 
 async function githubRepos(cfg, filter) {
@@ -609,10 +755,6 @@ async function githubRepos(cfg, filter) {
     if (filterForSource(row, filter, "github")) out.push(row);
   }
   return out;
-}
-
-function sleep(ms) {
-  return new Promise((r) => setTimeout(r, ms));
 }
 
 const X_USER_BATCH = 100;

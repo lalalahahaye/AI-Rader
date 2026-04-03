@@ -236,6 +236,8 @@
   "reddit": {
     "enabled": true,
     "skipThesisFilter": true,
+    "requestDelayMs": 1000,
+    "maxRetries": 2,
     "subreddits": [
       { "name": "GaussianSplatting", "limit": 5 },
       { "name": "computergraphics", "limit": 4 },
@@ -245,7 +247,8 @@
       { "name": "videography", "limit": 3 },
       { "name": "virtualreality", "limit": 3 },
       { "name": "MachineLearning", "limit": 4 },
-      { "name": "LocalLLaMA", "limit": 3 }
+      { "name": "LocalLLaMA", "limit": 3 },
+      { "name": "artificial", "limit": 4 }
     ],
     "defaultItemTags": ["ai_social"]
   },

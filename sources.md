@@ -6,7 +6,7 @@ Maintain **central** `feed-investor.json`. End users only **GET** the file.
 
 | Path | What runs in CI (`build-feed.mjs`) | Keys / login |
 |------|-------------------------------------|--------------|
-| **A — automated** | Public HTTP only: RSS / Atom, **Google News RSS**, **HN Algolia**, **arXiv API**, Reddit hot JSON, GitHub Search, optional **Kickstarter** HTML discover (fragile, default **off**), optional **X** if `TWITTER_BEARER_TOKEN` **or** `X_BEARER_TOKEN` | Readers: **none**. X: maintainer secret only (same mechanism as [follow-builders](https://github.com/zarazhangrui/follow-builders)). |
+| **A — automated** | Public HTTP only: RSS / Atom, **Google News RSS**, **HN Algolia**, **arXiv API**, Reddit (**hot.json** with compliant UA + serial fetch + retry, **`hot.rss` fallback**), GitHub Search, optional **Kickstarter** HTML discover (fragile, default **off**), optional **X** if `TWITTER_BEARER_TOKEN` **or** `X_BEARER_TOKEN`; optional Reddit **`REDDIT_CLIENT_ID`** + **`REDDIT_CLIENT_SECRET`** (OAuth app-only) if JSON/RSS still 403 from CI | Readers: **none**. X / Reddit OAuth: maintainer secrets only. |
 | **B — search / curator** | **企名片、鲸准、清科、IT 桔子、企查查、天眼查** 等结构化融资库；**微信、小红书** 无稳定匿名官方 API | Often **login / pay / ToS**; no bulk scraping in CI. Agent opens **one public page** per company, or you **paste / hand-edit** into `feed-investor.json`. |
 
 **RSS URLs** (36氪、机器之心、量子位、Google News 等) **需人工在浏览器验证** — 站点改版会导致 feed 失效；工作流只打 warning，不阻断整次构建。
@@ -22,7 +22,7 @@ The workflow **Update feed (daily)** runs [`scripts/build-feed.mjs`](scripts/bui
 | `googleNews` | Google News **搜索 RSS** URL 列表，走与 RSS 相同的解析路径 |
 | `hackerNews` | **HN Algolia** 多 `algoliaQueries`；可选 `firebaseTopStories` 补充 top |
 | `arxiv` | `export.arxiv.org/api/query`，条目 `type: paper` |
-| `reddit` | Hot JSON → `social_en` |
+| `reddit` | **`subreddits`**, **`requestDelayMs`**, **`maxRetries`**；优先 OAuth（若配 `REDDIT_CLIENT_ID`/`REDDIT_CLIENT_SECRET`）→ 公开 **`hot.json`** → **`hot.rss`** 回退；→ `social_en` |
 | `github` | Search API；**`minStars`** 追加为 `stars:>N`；结果再按 `stargazers_count` 过滤 |
 | `kickstarter` | **`enabled: false` 默认**；公开 discover HTML 正则抽链接，失败只 log |
 | `xTwitter` | **`aiLeaders`** + **`aiInvestors`**；Secret **`TWITTER_BEARER_TOKEN`** 或 **`X_BEARER_TOKEN`**；**`apiBase`** 默认 `https://api.x.com/2`；**`skipThesisFilter`**（默认 true）时 X 条目 **不** 走 `includeKeywords`，只走 `excludeKeywords`（与 follow-builders 一致）；用户 ID 用 **`/2/users/by`** 批量解析 |
