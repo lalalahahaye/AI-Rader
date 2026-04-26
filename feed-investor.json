@@ -1,20 +1,35 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-25T07:47:32.812Z",
+  "updatedAt": "2026-04-26T07:56:19.314Z",
   "items": [
     {
-      "id": "rss-36kr-1uuy7m",
+      "id": "rss-36kr-uoadhn",
       "type": "funding",
-      "title": "司美格鲁肽专利到期月余未见“国产首证”，多家申报企业称审批因数据保护期“暂缓”",
-      "url": "https://36kr.com/newsflashes/3781834150976773?f=rss",
+      "title": "36氪首发 | 全球唯二、中国唯一造出微米级磁悬浮魔毯，已大规模量产",
+      "url": "https://36kr.com/p/3782960065108996?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-04-25T06:00:38.000Z",
-      "summaryHint": "司美格鲁肽核心化合物专利到期已月余，国内暂无国产司美格鲁肽获批。记者近日以投资者身份从多家国产司美生产企业获悉，《中国-瑞士自由贸易协定》的相关条款约束或是最主要原因。其中，九源基因称，“我们没有拿到批件的核心原因，是相关数据仍处于保护状态”“现在（审批）只是暂停的状态，也没有说给批或者不给批，所以很难有一个结论”。丽珠集团证券部则称，受中瑞自贸协定条款影响，公司司美审批目前处于暂停状态，“从公司层面来说，我们所有（应）交的资料都已经交了，审批的流程都已经走到最后一个（环节）。”联邦制药则表示，“我们现在也是在等待批件，大家未获批件原因是一样的”。（财联社）",
+      "publishedAt": "2026-04-26T01:06:18.000Z",
+      "summaryHint": "作者丨欧雪 编辑丨袁斯来 在传统工厂里，流水线像是被固定在铁轨上的火车——高效但僵硬。这种“效率与柔性不可兼得”的痛点，正被一家中国公司用“磁悬浮”技术破解。 佛山市增广智能科技有限公司（下称“增广智能”）成立于2018年，总部位于佛山，是全球唯二、中国唯一掌握六自由度平面磁悬浮输送系统核心技术的企业。 “这个技术涉及面很广——通信、控制、操作系统、磁场仿真，每个点想做到完美很难。”公司创始人黄安杰回忆。经过5年研发，增广智能在2023年正式对外发布磁悬浮产品，并在随后的2年内成功实现大规模量产销售。 增广智能的核心产品——平面磁悬浮智能输送系统（磁悬浮魔毯），看起来像一张由正方形定子方块拼成的“桌面”。产品动子（载板）可以在桌面上无接触悬浮，并以最高2G的加速度、微米级的定位精度自由运动。 由方块定子拼接成的“桌面型”产线（图源/企业） 与传统传送带的“铁路模式”不同，磁悬浮魔毯实现了“",
       "tags": [
         "china",
         "funding",
         "deal_signal"
       ]
+    },
+    {
+      "id": "rss-36kr-mddhuv",
+      "type": "funding",
+      "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
+      "url": "https://36kr.com/p/3782137908403457?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-04-25T11:15:26.000Z",
+      "summaryHint": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 当前，制造业正站在从“自动化”向“智能化”跨越的关键节点。 2026年是海康机器人成立十周年。作为工业智能化领域的创新者与实践者，海康机器人近年持续推进机器视觉、移动机器人与柔性制造技术的深度融合，构建起“眼、脚、手”一体化的全栈技术能力，形成了以机器视觉、关节机器人和移动机器人为核心的三大业务体系。 2025年全年，海康机器人营收突破64.52亿元，其中机器视觉类产品累计出货量超 1000 万台，移动机器人累计下线突破 18 万台。基于完善的硬件产品线，其自研工业软件授权用户超60万人次，全球服务客户超2万家。 2026年4月22日至24日，「海康机器人·智造大会2026」在杭州桐庐举办。海康机器人首席执行官贾永华提出“具身智造”的概念。他表示，传统自动化体系正面临灵活性不足的问题，难以适应需求碎片化与用工结构变",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "amount": "64亿"
     },
     {
       "id": "rss-36kr-iu8m2o",
@@ -48,11 +63,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-984t71",
       "type": "funding",
-      "title": "Buzzy完成2000万美元融资：定位「视频版Photoshop」，会说话就能够剪辑 - 36氪",
+      "title": "Buzzy完成2000万美元融资：定位「视频版Photoshop」，会说话就能够剪辑 - 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yVTBscEhVVW1rcWJNMmN6cThsa0NzcXBpeFVHQk01MlRJTFdWcjNwRDFkZ2JuOS11UFRyRkRjWFZjUGg0ZU9WV3dwNmhSZw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-04-24T09:40:00.000Z",
-      "summaryHint": "Buzzy完成2000万美元融资：定位「视频版Photoshop」，会说话就能够剪辑 &nbsp;&nbsp; 36氪",
+      "summaryHint": "Buzzy完成2000万美元融资：定位「视频版Photoshop」，会说话就能够剪辑 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -62,76 +77,13 @@
       "amount": "2000万"
     },
     {
-      "id": "rss-36kr-ca7hkt",
+      "id": "rss-google_news_cn_36kr_deals-4v5r7c",
       "type": "funding",
-      "title": "融了2000万美金，这家2000万美金ARR的AI公司，推出“视频版Photoshop”「Buzzy」",
-      "url": "https://36kr.com/p/3780352721851397?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-04-24T04:58:37.000Z",
-      "summaryHint": "文｜周鑫雨 编辑｜杨轩 一句话介绍 Buzzy（https://www.buzzy.now/）是AI内容创作公司“感知阶跃”旗下的视频编辑Agent平台，主要面向C端内容创作者和中小型商家。 好比“视频版的PhotoShop”，用户只需下达自然语言指令，就能驱动Agent对视频进行背景去除、光线修正、产品替换、背景/视角更改等编辑操作。 团队介绍 “感知阶跃”创始人兼CEO Ella Zhang（张诗莹），曾在苹果、Oculus VR、Google负责核心产品。 在苹果��间，她曾为AirPods产品线创始团队核心成员，负责产品的系统集成和全周期设计落地，包括音频产品的架构设计、元器件选型、原理图绘制、版图设计、验证以及大规模生产。 此后，张诗莹又在Google担任AR产品的系统架构师，负责Glass、Reflector等产品的算法和架构研发。 “感知阶跃”其余核心成员，来自Adobe、小",
-      "tags": [
-        "china",
-        "funding",
-        "deal_signal"
-      ],
-      "amount": "2000万"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-m4jy4t",
-      "type": "funding",
-      "title": "获2000万美金融资！2000万美金ARR的AI公司推出“视频版Photoshop”「Buzzy」 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2UW1Nay1CTThtMXlTZnZEWF9ncU85WGFRVlNab242U2NqYlY4eHlOU0Z2b1R0NC1SdlMzaGdmNVFpYWZxT3VoaUpJMTdydmpDeTdv?oc=5",
+      "title": "200亿美元：DeepSeek要的不仅是钱，更是AI的定价权 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ReURqVENKcnhrOGZHUWc4ZGdSN25mZ3A3WVE3Z2c4YWItUUNMeXI4N0hxTlRTdl9BNndSa01BZWVGTjVzY3BuQ09vaHZlUQ?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-04-24T04:58:00.000Z",
-      "summaryHint": "获2000万美金融资！2000万美金ARR的AI公司推出“视频版Photoshop”「Buzzy」 &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "2000万"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-yi6t4b",
-      "type": "funding",
-      "title": "人工智能初创公司Cognition AI进行融资谈判，估值达250亿美元 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1NjJHbmYzbFE2SVZxMDVGMjllcUViN0o3RHVab3h1THVyZTYxVm9BTWhYNllzekFFZWJGeTkxYUJZR3RjakpKS3ZhNFpoOHpuVzJuaUpTazQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-04-24T02:12:14.000Z",
-      "summaryHint": "人工智能初创公司Cognition AI进行融资谈判，估值达250亿美元 &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "250亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-fdk0ti",
-      "type": "funding",
-      "title": "ElorianAI获5500万美元融资，以“视觉推理”探索物理世界AGI - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vOVJWNWZDR0lWSG5fUE1SeUhkaG5VcVQ5bVdnWGV5N0RSZmxjTHJER3R5ZHg5aFgtRE1aVWhaQkxoSGd6ZHJ5TVlsSjkxYWtCcU5B?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-04-23T13:19:00.000Z",
-      "summaryHint": "ElorianAI获5500万美元融资，以“视觉推理”探索物理世界AGI &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "5500万"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-jf27yq",
-      "type": "funding",
-      "title": "200亿美元！DeepSeek瞄准的不只是资金，更是AI定价权 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGRWdVdGtTQVdQYnRrVUtyZWV4Ykl3QkJ6YkhfRjBsQXFiSV9QMEl0Y3pjanRBcE1BTDZtcTlQWF9ac1BqS3hqUzlqcnRlTkUtS0t3?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-04-23T08:09:00.000Z",
-      "summaryHint": "200亿美元！DeepSeek瞄准的不只是资金，更是AI定价权 &nbsp;&nbsp; 36氪",
+      "publishedAt": "2026-04-24T05:15:41.000Z",
+      "summaryHint": "200亿美元：DeepSeek要的不仅是钱，更是AI的定价权 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -141,13 +93,29 @@
       "amount": "200亿"
     },
     {
+      "id": "rss-google_news_cn_36kr_deals-yi6t4b",
+      "type": "funding",
+      "title": "人工智能初创公司Cognition AI进行融资谈判，估值达250亿美元 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1NjJHbmYzbFE2SVZxMDVGMjllcUViN0o3RHVab3h1THVyZTYxVm9BTWhYNllzekFFZWJGeTkxYUJZR3RjakpKS3ZhNFpoOHpuVzJuaUpTazQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-04-24T02:12:14.000Z",
+      "summaryHint": "人工智能初创公司Cognition AI进行融资谈判，估值达250亿美元 &nbsp;&nbsp; 36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "250亿"
+    },
+    {
       "id": "rss-google_news_cn_36kr_deals-wwa4pt",
       "type": "funding",
-      "title": "普渡机器人完成近10亿元融资，估值突破100亿元 - 36氪",
+      "title": "普渡机器人完成近10亿元融资，估值突破100亿元 - 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RUFpnQTFoNW8ydDRVU3lLRmRRRDlNdUQ1eno5S0VpUG5qcHo2a0RkY2txTHdwNm03NDRxbUdvWWFZdTZtcnNCNkI0N2l0Zw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-04-23T03:00:00.000Z",
-      "summaryHint": "普渡机器人完成近10亿元融资，估值突破100亿元 &nbsp;&nbsp; 36氪",
+      "summaryHint": "普渡机器人完成近10亿元融资，估值突破100亿元 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -157,13 +125,29 @@
       "amount": "10亿元"
     },
     {
+      "id": "rss-google_news_cn_36kr_deals-2hsl0f",
+      "type": "funding",
+      "title": "开年连融两轮的“可以玩的抖音”，又融了5000万美金｜涌现新项目 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZMExQb0cyTzRoNlI2RWJGUEpuQ1Y1M3c1S2JHTnlkT0FkVV9paUVHWkZkRFpiZHdEaGltNUxjUGo0akNNYVVsektLWVlMUQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-04-23T02:24:16.000Z",
+      "summaryHint": "开年连融两轮的“可以玩的抖音”，又融了5000万美金｜涌现新项目 &nbsp;&nbsp; 36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "5000万"
+    },
+    {
       "id": "rss-google_news_cn_36kr_deals-qbvkv6",
       "type": "funding",
-      "title": "中国AI爆款诞生：Loopit融资1亿美元 - 36氪",
+      "title": "中国AI爆款诞生：Loopit融资1亿美元 - 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrMlVnWnlqVFJJSEs2cDFuR3l1T3RTVHV4c29YNS1sUnZwNS05OWtjX2tPSlFaUUJjU1EwYjZ2SVQydDRMb1ZSQjVQWXduUQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-04-22T01:31:00.000Z",
-      "summaryHint": "中国AI爆款诞生：Loopit融资1亿美元 &nbsp;&nbsp; 36氪",
+      "summaryHint": "中国AI爆款诞生：Loopit融资1亿美元 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -175,11 +159,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-239djw",
       "type": "funding",
-      "title": "曝贝索斯融资100亿美元，押注物理AI - 36氪",
+      "title": "曝贝索斯融资100亿美元，押注物理AI - 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PSURnbEVsV1F0a09uQWRRZTJORUNlVFY0S2FmRDdaNkJxTmFzQ3o3ekh2X3JDZ2NsN3NMYk5iUEE3V3JnRUpHbXB1eHVMZw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-04-22T00:46:00.000Z",
-      "summaryHint": "曝贝索斯融资100亿美元，押注物理AI &nbsp;&nbsp; 36氪",
+      "summaryHint": "曝贝索斯融资100亿美元，押注物理AI &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -191,11 +175,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-dsacgf",
       "type": "funding",
-      "title": "奇世智能CheeChips完成天使轮融资，专注AI+母婴智能硬件生态｜最前线 - 36氪",
+      "title": "奇世智能CheeChips完成天使轮融资，专注AI+母婴智能硬件生态｜最前线 - 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rX2VfTXE3S2FzSDQtcWMxNzJ6eTE4aU1rNFZRZm9XY3BOS0d5T3hjb3FxZUh2TDREWm5rVkNxSzNibkR1dF9NSm9Ia2lrZw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-04-21T04:45:00.000Z",
-      "summaryHint": "奇世智能CheeChips完成天使轮融资，专注AI+母婴智能硬件生态｜最前线 &nbsp;&nbsp; 36氪",
+      "summaryHint": "奇世智能CheeChips完成天使轮融资，专注AI+母婴智能硬件生态｜最前线 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -207,11 +191,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-82ea1w",
       "type": "funding",
-      "title": "贝佐斯旗下人工智能实验室融资交易接近敲定，估值逼近380亿美元 - 36氪",
+      "title": "贝佐斯旗下人工智能实验室融资交易接近敲定，估值逼近380亿美元 - 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15MUlobi1GcUMxeG1PdlNUR0VZOGlYeC1KcGNIQXZ0YXFoSS1zY1BWTHB2UGxOUU1hM2NYdzh2MldTU3J0WHRMZkk5SXZtcEpLLTNsZV9yWWJwOFpDd0E?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-04-21T01:52:32.000Z",
-      "summaryHint": "贝佐斯旗下人工智能实验室融资交易接近敲定，估值逼近380亿美元 &nbsp;&nbsp; 36氪",
+      "summaryHint": "贝佐斯旗下人工智能实验室融资交易接近敲定，估值逼近380亿美元 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -223,11 +207,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-9ya2qj",
       "type": "funding",
-      "title": "DeepSeek终于要融资了？而五家国产大模型都找到了赚钱的路 - 36氪",
+      "title": "DeepSeek终于要融资了？而五家国产大模型都找到了赚钱的路 - 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZcDV3OUQ1YURwS1l0UmtTQlRWa1lWQy1PSzEtVjlTUV9SaWRvbDdWdEJnQTIzdlQ4RTNiRFJGQ3RGZFhhSmdsclk0MUJPUQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-04-20T02:33:00.000Z",
-      "summaryHint": "DeepSeek终于要融资了？而五家国产大模型都找到了赚钱的路 &nbsp;&nbsp; 36氪",
+      "summaryHint": "DeepSeek终于要融资了？而五家国产大模型都找到了赚钱的路 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -236,26 +220,247 @@
       ]
     },
     {
-      "id": "rss-36kr-sf0z6n",
+      "id": "rss-36kr-mjhh6q",
       "type": "news",
-      "title": "我国单机容量最大“超级充电宝”3号机组顺利投运",
-      "url": "https://36kr.com/newsflashes/3781921407507459?f=rss",
+      "title": "上海国际旅游度假区10年累计接待游客超1.8亿人次",
+      "url": "https://36kr.com/newsflashes/3783320490630148?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-04-25T07:29:24.000Z",
-      "summaryHint": "记者今天（25日）从三峡集团获悉，我国单机容量最大的抽水蓄能电站——浙江天台抽水蓄能电站3号机组顺利投运，为今年6月电站实现全容量投产目标奠定了基础。总装机容量170万千瓦浙江天台抽蓄电站，由上水库、下水库、输水系统、地下厂房等组成。电站共安装4台单机容量42.5万千瓦的可逆式水泵水轮发电机组，不仅单机容量位居全球同类在建项目之首，上下水库固定水位差达724米，也是目前在建抽水蓄能电站中的最高值。（央视新闻）",
+      "publishedAt": "2026-04-26T07:52:32.000Z",
+      "summaryHint": "2026年4月26日，上海国际旅游度假区迎来开放十周年。据上海国际旅游度假区管委会消息，十年间，这里累计接待游客逾1.8亿人次，实现旅游产业总收入1164亿元。（澎湃）",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-inwnc5",
+      "id": "rss-36kr-qque1j",
       "type": "news",
-      "title": "越南延长电动汽车特别消费税优惠政策",
-      "url": "https://36kr.com/newsflashes/3781899851406339?f=rss",
+      "title": "摩尔线程：一季报营收7.38亿元，同比增长155.35%",
+      "url": "https://36kr.com/newsflashes/3783351447460869?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-04-25T07:07:28.000Z",
-      "summaryHint": "越南国会24日通过关于修改和补充《特别消费税法》等若干条款的法律，决定将24座以下电动汽车特别消费税优惠政策延长至2030年底，电动汽车税率将继续享受所有车辆类别中的最低税率。（财联社）",
+      "publishedAt": "2026-04-26T07:44:06.000Z",
+      "summaryHint": "36氪获悉，摩尔线程发布2026年一季报与2025年报。报告显示，2026年一季度，摩尔线程实现营收7.38亿元，同比增长155.35%；归母净利润0.29亿元，同比增加1.42亿元；归母扣非净利润亏损0.54亿元，亏损同比收窄60.10%。2025年实现营收15.05亿元，同比增长243.37%；毛利总额达到9.87亿元，较上年同期增长218.43%；归母净利润、归母扣非净利润分别较上年同期亏损收窄38.16%、33.38%。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-pxduaw",
+      "type": "news",
+      "title": "捷佳伟创：第一季度净利润同比下降61.83%",
+      "url": "https://36kr.com/newsflashes/3783349951864065?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-04-26T07:42:35.000Z",
+      "summaryHint": "36氪获悉，捷佳伟创发布2026年一季度业绩报告。报告显示，2026年第一季度实现营业收入14.95亿元，同比下降63.52%；归属于上市公司股东的净利润为2.70亿元，同比下降61.83%。业绩变动主要系受行业阶段性调整，下游需求大幅下降所致。小财注：公司Q1净利润2.7亿，据2025年业绩快报估算，2025年Q4净利润-0.71亿，据此计算，Q1净利润环比扭亏为盈。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-hh8ude",
+      "type": "news",
+      "title": "“海上高速路”再扩容，青岛港开通西非新集装箱航线",
+      "url": "https://36kr.com/newsflashes/3783319954480131?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-04-26T07:30:00.000Z",
+      "summaryHint": "4月26日，青岛港开通西非新集装箱航线，这是青岛港今年开通的第二条非洲航线。截至目前，青岛港已累计开通11条非洲集装箱航线，覆盖了东非、西非、北非等核心市场，同时与32条国际班列高效衔接，构建起贯通23个共建“一带一路”国家的海铁联运网络，对外贸易海上黄金通道愈发畅通。2026年一季度，青岛口岸对非出口总值突破435.6亿元，同比增长26.3%，其中机电产品、高新技术产品出口增速分别达到37.4%和25.7%。（央视新闻）",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-qahjt8",
+      "type": "news",
+      "title": "陈茂波：今年以来香港新股集资额继续位列全球首位",
+      "url": "https://36kr.com/newsflashes/3783317153209348?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-04-26T07:09:13.000Z",
+      "summaryHint": "香港特区政府财政司司长陈茂波今日（26日）表示，承接去年的佳绩，香港今年以来新股集资额继续位列全球首位。截至上周，港股新股集资额已超过1400亿港元；3月份至今，港股日均成交额超过2800亿港元，这些发展印证了即使外围风云变幻，香港金融市场的发展依然势不可挡。陈茂波指出，内地五一黄金周将至，特区政府入境处预计假期期间将有约98万人次内地旅客访港，较去年同期增加约7%。特区政府会做好各项配套及热门景点的人流管理，期望为旅客提供更好的体验，也让餐饮及零售等行业持续受惠。 （大湾区之声）",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-u38orm",
+      "type": "news",
+      "title": "乘联分会崔东树：1-3月中国汽车进口10万辆，同比增3%",
+      "url": "https://36kr.com/newsflashes/3783278185389313?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-04-26T06:29:35.000Z",
+      "summaryHint": "36氪获悉，乘联分会秘书长崔东树发文表示，由于2025年1月基数低，虽然美国与伊朗战争导致运输受阻，3月进口车进口下滑较大，但2026年1-3月进口汽车10万辆，同比增3%，这仍是近期少见的1-3月增长，主要原因是因为25年末的低基数。随着国产车的崛起和国际品牌本土化加速，近几年汽车进口持续低迷，进口车持续3年负增长，如果熨平波动，则是连续8年的负增长。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-nlmup8",
+      "type": "news",
+      "title": "欧莱雅BRANDSTORM 2026中国总决赛落幕，AI成美妆创新核心议题｜最前线",
+      "url": "https://36kr.com/p/3783249100397570?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-04-26T06:00:34.000Z",
+      "summaryHint": "欧莱雅全球青年创新策划大赛BRANDSTORM 2026中国总决赛于4月24日在上海收官。本届赛事聚焦奢华香氛领域，中国赛区吸引超72000人报名，经多轮选拔后六支队伍进入总决赛。最终，UNIBLOCK、SOS和Move with Scent三支队伍分获冠亚季军，将代表中国赛区赴巴黎参加全球总决赛。 BRANDSTORM大赛已举办34年，覆盖全球40多个国家和地区，累计参与人数超37万。中国赛区自2003年启动以来，累计参与人数已超过7万。 今年赛事与欧莱雅高档化妆品部合作，赛程持续六个多月，参赛者可获取欧莱雅业务专家提供的市场数据和品牌案例。 欧莱雅北亚总裁及中国首席执行官博万尚在活动中表示，青年人才是变革的推动者，公司希望支持青年将对美的创意转化为行业解决方案 。欧莱雅中国副首席执行官及高档化妆品部总经理马晓宇则指出，年轻参赛者关注人的情感和生活瞬间，为品牌提供了来自新一代消费者的视角",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-fqbro5",
+      "type": "news",
+      "title": "去年全国大型演唱会票房295.58亿",
+      "url": "https://36kr.com/newsflashes/3783242589691144?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-04-26T05:53:22.000Z",
+      "summaryHint": "报告显示，2025年，全国大型演唱会票房295.58亿元，观演人次近3800万，跨城观演比例超六成，成为地方文旅消费的强力引擎。（新华社）",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-ywmtde",
+      "type": "news",
+      "title": "全球首个医疗视频理解大模型开源！6k+组精标测试集与英雄榜同步上线，开发者速来！",
+      "url": "https://www.qbitai.com/2026/04/407486.html",
+      "source": "qbitai",
+      "publishedAt": "2026-04-26T05:24:56.000Z",
+      "summaryHint": "开源，是最好的探针",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-h1yyxd",
+      "type": "news",
+      "title": "申万宏源：市场超跌反弹后震荡休整或将延续，二季度关注5月关键事件验证",
+      "url": "https://36kr.com/newsflashes/3783182326062085?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-04-26T05:21:57.000Z",
+      "summaryHint": "36氪获悉，申万宏源发布研报称，重申回归“两阶段上涨行情”的中期判断。短期市场超跌反弹，后续还有震荡休整阶段，26H2可能还有新一轮创新高行情。二季度需关注5月关键事件验证；新增景气来源等。该行认为，下阶段，新能源、新能源汽车和出口链，可能是景气验证增加的方向，后续同样可能演绎独立行情。短期可能演绎主题扩散行情的方向，关注商业航天和半导体。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-e4tsuw",
+      "type": "news",
+      "title": "京东启动AI硬件孵化计划",
+      "url": "https://36kr.com/newsflashes/3783158630948103?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-04-26T05:02:53.000Z",
+      "summaryHint": "36氪获悉，4月26日，京东宣布启动“Aidol创造营”计划，面向全球征集AI智能硬件项目，希望联合产业伙伴在今年孵化101个AI硬件标杆。据京东介绍，报名截止到5月15日，首期“Aidol创造营”活动将于5月25日至6月18日落地。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-5ldtyz",
+      "type": "news",
+      "title": "长三角海铁联运提前14天突破百万标箱，同比增长11.3%",
+      "url": "https://36kr.com/newsflashes/3783153957788680?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-04-26T04:44:08.000Z",
+      "summaryHint": "据中国铁路上海局集团有限公司，截至4月25日，长三角铁路今年已完成海铁联运100.6万标箱，同比增长11.3%，较去年提前14天突破百万标箱。今年以来，长三角持续增强沿海港口与内陆间的海铁联运通道能力。目前，上海港、宁波舟山港等主要港口海铁联运日均到发箱量已近8800标箱；固定班列开行数增至119条，重点服务光伏组件、白色家电、五金件等商品出口。（央视新闻）",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-52smj5",
+      "type": "news",
+      "title": "DeepSeek阮翀加盟元戎首秀，详解基座VLA，研发提效10倍",
+      "url": "https://www.qbitai.com/2026/04/407465.html",
+      "source": "qbitai",
+      "publishedAt": "2026-04-26T04:16:23.000Z",
+      "summaryHint": "V4作者之一",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-ma5pxk",
+      "type": "news",
+      "title": "润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革",
+      "url": "https://36kr.com/p/3782901034785801?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-04-26T00:08:39.000Z",
+      "summaryHint": "4月25日，以“芯视野·新格局”为主题的润芯微战略与产品发布会在北京车展期间举行。作为行业稀缺的“芯片+操作系统+AI”全栈解决方案提供商，润芯微首次完整展示已打造的可应用于多端场景的“国产软硬一体AI智能基座”。本次发布会通过战略、技术、产品、生态的完整呈现，全面展现润芯微在多端智能领域的进展情况。从百万量产上车到openvela通过兼容性认证，从车载座舱到两轮车智能终端、机器人算力平台，体现润芯微“国产软硬一体AI智能基座”产品及解决方案的核心竞争力持续凸显。 &nbsp;当天活动上，润芯微正式发布“1+4+N”战略体系。该体系是以知芯·国产计算平台+知微·AIOS+知润·端侧模型为核心，打造自主可控的国产AI智能基座，赋能车端、移动端、AI智能硬件、具身智能四大赛道。润芯微提及，将与合作伙伴一起推动智能向出行、工业制造等场景延伸，通过技术复用与生态协同实现场景智能规模化落地，致力成为",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-techcrunch_ai-szw79t",
+      "type": "news",
+      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "source": "techcrunch_ai",
+      "publishedAt": "2026-04-25T17:17:56.000Z",
+      "summaryHint": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+      "tags": [
+        "funding",
+        "us"
+      ]
+    },
+    {
+      "id": "rss-36kr-lfw0wp",
+      "type": "news",
+      "title": "科氪 | 国民好车深蓝L06增程版亮相北京车展 京东PLUS会员购车直减7000多元",
+      "url": "https://36kr.com/p/3782437007039488?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-04-25T16:13:59.000Z",
+      "summaryHint": "4月24日，2026北京国际汽车展览会在京正式开幕。京东汽车与深蓝汽车联合推出的国民好车2.0——深蓝L06增程版登陆深蓝汽车展台，以行业首创会员购车折扣、车展专属权益及越级产品实力，吸引更多汽车用户关注。 官方图片 京东汽车联合深蓝汽车共同推出京东PLUS会员购车可享整车95折权益，将平台会员价值从日常消费延伸至整车购买、用车全链路，开创“电商+车企”合作新范式。深蓝L06增程版推出245Ultra激光版、245Ultra+激光版两款配置，官方指导价分别为 134900元、146900元。叠加京东 PLUS会员95折后，两款车型折后价分别低至127155元、138555元，高配车型至高直降7345元，优惠金额可覆盖用户全年油费与基础保养支出，真正实现高配不溢价。即日起至6月20日，用户下单99元限时首发权益且在6月20日前支付“深蓝L06增程版”定金，还可限时享1000元尾款抵扣权益，多",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-6c1b26",
+      "type": "news",
+      "title": "科氪|北京车展重磅发布！京东汽车独家线上销售212全民越野车T01 METTA",
+      "url": "https://36kr.com/p/3782434723355655?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-04-25T16:11:41.000Z",
+      "summaryHint": "4月25日，在2026北京国际汽车展览会现场，京东汽车与212越野车宣布达成战略合作。京东汽车将作为线上独家渠道，销售212越野车首个越野生态系列METTA旗下全新车型——T01 METTA和T01 METTA巴丹吉林，新车上市指导价分别为18.99万元和21.99万元，京东PLUS会员购车更可享至高3000元购车补贴。同时，京东汽车还将联合越野e族发起“全民越野合伙人”招募计划，邀请合作伙伴共赢越野市场新机遇。即日起，在京东APP搜索“全民越野”，即可预订T01 METTA的全新车型。 官方照片 如今，越野早已不是少数人的专属。它的边界正在被不断拓展，可以是赛道的激情、远方的探索，也可以是日常生活的个性表达，越野产品正从出行工具属性转向生活方式属性。中汽协数据显示，过去5年间，中国硬派越野车销量从14.5万辆攀升至39.3万辆，市场规模增长率超过170%，越野文化也正加速走向大众。 基于",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-oox3bg",
+      "type": "news",
+      "title": "华为发布ADS 5！强化世界模型路线，今年投入180亿",
+      "url": "https://www.qbitai.com/2026/04/407363.html",
+      "source": "qbitai",
+      "publishedAt": "2026-04-25T15:38:18.000Z",
+      "summaryHint": "“为自动驾驶而来”",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-qe0o9c",
+      "type": "news",
+      "title": "自动驾驶赛道DeepSeek，轻舟智航率先进军物理AI",
+      "url": "https://www.qbitai.com/2026/04/407026.html",
+      "source": "qbitai",
+      "publishedAt": "2026-04-25T07:22:22.000Z",
+      "summaryHint": "500TOPS上车世界模型",
       "tags": [
         "china",
         "funding"
@@ -275,45 +480,6 @@
       ]
     },
     {
-      "id": "rss-36kr-li5hbo",
-      "type": "news",
-      "title": "本田在华研发转向中方主导",
-      "url": "https://36kr.com/newsflashes/3781884274318344?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-04-25T06:51:37.000Z",
-      "summaryHint": "2026北京国际车展开幕当日，本田汽车宣布，计划在中国市场推出由合资伙伴主导开发、挂本田品牌的电动汽车。这一研发策略的调整是为了应对中国本土品牌竞争加剧及销量下滑，本田正在寻求优化其在中国的研发体系，以重振业务。广汽本田副总经理林志斌在2026北京国际车展上回应了当前公司面临的情况：“现阶段整体处于全域战略转型阶段，产能、产线、技术布局均同步优化调整。广州燃油产线调整，核心为结构性优化与效能升级。主要目的是淘汰低效能、老旧产能，聚焦高效产出，贴合未来新产品、新技术生产需求，杜绝产能资源浪费。”（新浪财经）",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-lnc25y",
-      "type": "news",
-      "title": "下游需求激增，CPU重回AI核心，A股布局公司梳理",
-      "url": "https://36kr.com/newsflashes/3781844281007361?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-04-25T06:21:51.000Z",
-      "summaryHint": "AI算力需求持续爆发之际，CPU（中央处理器）行业或掀起新一轮涨价潮。据媒体报道，近日，有ODM厂商（原始设计制造厂商）表示，自今年3月起，消费电子及服务器CPU价格涨幅分别达5%~10％及10％~20％。供应链透露，国际大厂酝酿三季度再进行新一轮涨价。据数据宝统计，A股市场涉及CPU相关业务的上市公司数量不到20家。截至4月24日收盘，概念股合计A股市值达到1.29万亿元。海光信息、澜起科技、龙芯中科是CPU概念三大核心标的，其中海光信息A股市值最高，达到6624.36亿元。从机构关注度方面来看，据数据宝统计，今年以来共有13只CPU概念股获得机构调研。5股获机构调研3次及以上，分别是复旦微电、国芯科技、龙芯中科、北京君正、希荻微。（证券时报）",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-50wlc7",
-      "type": "news",
-      "title": "五菱与华为乾崑签署深化战略合作协议，华境S 5月8日正式上市",
-      "url": "https://36kr.com/newsflashes/3781847846264071?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-04-25T06:14:34.000Z",
-      "summaryHint": "4月24日，北京国际车展现场，上汽通用五菱与华为乾崑正式签署全面深化战略合作协议。双方合作模式由此前的“三智”（智能制造、辅助驾驶、智能座舱）技术合作迈向全面深入合作，合作车型从“华境S”拓展至华境系列，其中华境S将于5月8日正式上市。未来，将有更多搭载华为乾崑智能汽车解决方案的全新车型亮相。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
       "id": "rss-qbitai-ka03v6",
       "type": "news",
       "title": "AI自主监测宠物健康，陪狗都不用自己来了！涂鸦Hey Tuya打造全屋智能“超级入口”",
@@ -327,19 +493,6 @@
       ]
     },
     {
-      "id": "rss-36kr-4hi6lv",
-      "type": "news",
-      "title": "市场消息：日产汽车已完成旗下电动汽车全固态电池组原型机的性能指标考核",
-      "url": "https://36kr.com/newsflashes/3781787983813890?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-04-25T05:40:36.000Z",
-      "summaryHint": "市场消息：日产汽车已完成旗下电动汽车全固态电池组原型机的性能指标考核，这家日本车企由此进一步靠近2028财年的量产计划。（新浪财经）",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
       "id": "rss-qbitai-ynkspc",
       "type": "news",
       "title": "燃油SUV车主熬出头了！华为乾崑智驾加持，全新奥迪Q5L率先实现智能化",
@@ -347,45 +500,6 @@
       "source": "qbitai",
       "publishedAt": "2026-04-25T05:31:57.000Z",
       "summaryHint": "六年磨一剑",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-3dv6oz",
-      "type": "news",
-      "title": "亚洲首个盐穴储氢工程投产运行",
-      "url": "https://36kr.com/newsflashes/3781785011412226?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-04-25T05:10:39.000Z",
-      "summaryHint": "今天（4月25日），由中国科学院武汉岩土力学研究所与中国平煤神马集团等单位共同建设的亚洲首个百万方级盐穴储氢示范工程，在河南平顶山正式投产运行，该工程补齐了氢能大规模、低成本储存关键短板，标志着我国氢能“制—储—输—用”正式迈入产业化新阶段。（央视新闻）",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-didb7c",
-      "type": "news",
-      "title": "首个全国产控制系统水光互补项目今天投运",
-      "url": "https://36kr.com/newsflashes/3781761309400068?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-04-25T04:46:32.000Z",
-      "summaryHint": "记者从中国华能获悉，今天（4月25日）上午，在云南大理，随着德安、龙街等光伏场站并网发电，我国首个全国产控制系统水光互补项目正式投运。项目总装机容量达543万千瓦，其中水电装机420万千瓦，光伏项目装机规模超123万千瓦。项目通过“水���协同、储送一体”，有效破解光伏大规模并网带来的波动性难题，确保电力安全稳定供应。（央视新闻）",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-cfk76t",
-      "type": "news",
-      "title": "天猫618推家电\"送装一体\"，覆盖全国95%区域",
-      "url": "https://36kr.com/newsflashes/3781735819222022?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-04-25T04:33:31.000Z",
-      "summaryHint": "36氪获悉，4月24日，天猫召开大家电商家大会，会上透露，今年618天猫将在全国范围内集中推进，家电官方\"送装一体\"服务——配送和安装一次上门完成，用户无需二次预约。目前该服务覆盖全国2700多个区县，约全国95%的区域，配套队伍规模超5万人。据了解，该服务去年8月先在电视品类试点，有接入商家转化率提升约50%，目前已扩大到空调、洗衣机、热水器、厨房电器等品类。",
       "tags": [
         "china",
         "funding"
@@ -437,7 +551,7 @@
       "url": "https://36kr.com/p/3780910411193602?f=rss",
       "source": "36kr",
       "publishedAt": "2026-04-24T14:21:58.000Z",
-      "summaryHint": "随着全球卫星星座计划加速部署，在轨卫星数量激增，太空交通安全问题正在从理论风险变成现实问题。 有数据显示，过去半年，全球最大的卫星星座仅半年内就实施了超过5万次主动避碰操作。而当未来星座建设规模达到数万颗、甚至百万颗体量，传统依靠地面站24小时人工监测管控的模式将会面临管理难度陡增、成本高企、传输受限等难题，高速率、高稳定、高安全的星间通信与智能化在轨管理成为技术趋势。 要实现这一目标，既需要高可靠的激光通信终端，也需要AI大模型自主分析、自主决策能力的加持。 在4月24日举办的“2026中国航天日”商���航天产业高质量发展论坛上，中科天塔正式发布了公司新一代星载激光通信终端。 中科天塔副总经理景振龙在会上提到，中科天塔此次发布的新一代终端，在传输速率、链路稳定性、环境适应性和数据安全性等方面实现全面升级。相比传统微波通信，激光通信具有带宽大、时延低、波束窄、保密性强、抗干扰能力突出等优",
+      "summaryHint": "随着全球卫星星座计划加速部署，在轨卫星数量激增，太空交通安全问题正在从理论风险变成现实问题。 有数据显示，过去半年，全球最大的卫星星座仅半年内就实施了超过5万次主动避碰操作。而当未来星座建设规模达到数万颗、甚至百万颗体量，传统依靠地面站24小时人工监测管控的模式将会面临管理难度陡增、成本高企、传输受限等难题，高速率、高稳定、高安全的星间通信与智能化在轨管理成为技术趋势。 要实现这一目标，既需要高可靠的激光通信终端，也需要AI大模型自主分析、自主决策能力的加持。 在4月24日举办的“2026中国航天日”商业航天产业高质量发展论坛上，中科天塔正式发布了公司新一代星载激光通信终端。 中科天塔副总经理景振龙在会上提到，中科天塔此次发布的新一代终端，在传输速率、链路稳定性、环境适应性和数据安全性等方面实现全面升级。相比传统微波通信，激光通信具有带宽大、时延低、波束窄、保密性强、抗干扰能力突出等优势，",
       "tags": [
         "china",
         "funding"
@@ -456,128 +570,13 @@
       ]
     },
     {
-      "id": "rss-36kr-rcrqsb",
-      "type": "news",
-      "title": "氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法",
-      "url": "https://36kr.com/p/3777694346548482?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-04-24T11:32:16.000Z",
-      "summaryHint": "大公司： 京东和格力推出空调换新全包服务 36氪获悉，近日，京东与格力正式签署深度合作协议，推出空调换新全包服务，覆盖全国超过300个城市。 据了解，京东与格力已合作多年，在去年双方合作安装空调量达数百万台。 如祺出行与黑芝麻智能达成战略合作 4月24日，出行科技与服务公司如祺出行和车规级智能汽车计算芯片及解决方案供应商黑芝麻智能达成战略合作。根据协议，如祺出行将依托有人网约车与Robotaxi混合运营沉淀的真实场景数据闭环与商业化运营标准，为方案输出算力需求定义；黑芝麻智能则提供华山及武当系列芯片平台及完整工具链的技术支撑，满足L4级自动驾驶对高性能、低功耗与高可靠性的要求。 美团万亿级参数大模型开放测试，训练全程由国产算力集群完成 36氪获悉，4月24日，美团新一代基础大模型LongCat-2.0-Preview已经开放测试，该模型总参数规模突破万亿，训练全程由国产算力集群完成。据了解",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-a982xj",
-      "type": "news",
-      "title": "PPIO首批上线DeepSeek-V4预览版，1M超长上下文能力开箱即用",
-      "url": "https://www.qbitai.com/2026/04/406802.html",
-      "source": "qbitai",
-      "publishedAt": "2026-04-24T10:23:30.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-likbn8",
-      "type": "news",
-      "title": "DeepSeek-V4发布，华为云首发适配",
-      "url": "https://www.qbitai.com/2026/04/406791.html",
-      "source": "qbitai",
-      "publishedAt": "2026-04-24T10:10:16.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-abcfot",
-      "type": "news",
-      "title": "科氪|高配不溢价，20万内首选！国民好车2.0深蓝L06增程版折后价低至127155元起",
-      "url": "https://36kr.com/p/3780654186535941?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-04-24T10:09:31.000Z",
-      "summaryHint": "4月23日，京东汽车与深蓝汽车联合推出的国民好车2.0车型——深蓝L06增程版正式公布售价，开启大定。京东汽车宣布京东PLUS会员购车可享95折，深蓝L06增程版叠加会员折扣后价格低至127155元起。这也是汽车行业首次开创平台会员直接享受整车价格折扣的新模式，标志着“电商+车企”合作模式迈向了新阶段，平台会员价值也从日常消费延伸到了涵盖购车、用车等更广阔链路。 官方图片 &nbsp;\b 深蓝L06增程版提供 245Ultra 激光版和245Ultra + 激光版两款配置，官方指导价分别为134900元、146900元。在叠加京东 PLUS 会员 95 折，车型折后价分别低至127155元起、138555元起，不仅击穿同级别智能增程轿跑价格区间，甚至低于同车系纯电版本定价。此外，双方还为深蓝L06增程版用户准备了限时权益，即日起至6月20日前下定的用户下单99元限时首发权益且在6月20日前",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-5y1r82",
-      "type": "news",
-      "title": "Mobileye 2026财年一季度营收增长27%，自动驾驶商业化进程持续推进",
-      "url": "https://www.qbitai.com/2026/04/406775.html",
-      "source": "qbitai",
-      "publishedAt": "2026-04-24T09:45:43.000Z",
-      "summaryHint": "表现超出此前市场预期。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-jocsnp",
-      "type": "news",
-      "title": "100%主流车企的共同选择：一个AI“通用底座”正在汽车行业成型",
-      "url": "https://www.qbitai.com/2026/04/406767.html",
-      "source": "qbitai",
-      "publishedAt": "2026-04-24T09:40:54.000Z",
-      "summaryHint": "从被动响应到主动服务",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-f3y1xz",
-      "type": "news",
-      "title": "最前线｜AI收入破亿后的路径选择：微盟推行AI First战略与B端交付的挑战",
-      "url": "https://36kr.com/p/3780556402531330?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-04-24T08:21:20.000Z",
-      "summaryHint": "文｜张子怡 编辑｜袁斯来 在SaaS行业普遍面临增长瓶颈、寻求数智化转型的背景下，微盟于2026年4月22日在上海总部举办了城市峰会，正式对外呈现其“AI First”战略全景。 根据微盟2025年财报披露，其AI相关业务收入已首次突破亿元大关，且2025年下半年的环比增长率达到130%。在此财务数据基础上，微盟试图通过战略升维，将AI从原有的产品辅助插件地位提升至业务底座高度。 微盟此次提出的“AI First”战略，核心覆盖了AI+SaaS、AI+营销、AI+出海及AI To C等方向。 在技术架构层面，微盟将其升级为“Agent+Skills”。这一转变的底层逻辑在于：将原本复杂的SaaS系统功能（Skills）封装成更易交互的形态，由智能体（Agent）调用，从而降低商家操作复杂系统的门槛。 微盟集团执行董事兼集团总裁游凤椿表示，AI正在从简单的对话交互向自主执行演进。 目前，这一",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-298dnt",
-      "type": "news",
-      "title": "DeepSeek V4终于发布，但它留下的5道主观题还没有答案",
-      "url": "https://36kr.com/p/3780375304312072?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-04-24T05:20:31.000Z",
-      "summaryHint": "文｜周鑫雨 资料整理｜钟楚笛 编辑｜苏建勋 杨轩 靴子终于落地。 被调侃“Next Week”近3个月的DeepSeek V4，终于显露真身。 1.6T的最大参数量、1M的上下文窗口、针对Agent的性能优化，以及基于MoE（混合专家模型）和稀疏注意力机制DSA，降低计算和显存需求——这些曾被外界纷纷猜测的参数和性能，随着V4的官宣，一锤定音。 DeepSeek V4性能测评结果。 姗姗来迟的原由，与V4将训练框架从英伟达迁移到华为昇腾上有关，也与DeepSeek内部的决策变动有关。我们得知，2025年年中，DeepSeek曾面临一次较为严重的训练失败。 “当时，DeepSeek面临重新适配芯片的问题。”一名知情者提到，“内部有关训练方向的意见也不完全统一。梁文锋提出了一些自己的要求，但在执行层面很难折中。” 不过，与外界关于“新模型支持多模态生成和理解”的猜测不同，V4依然是个语言模型。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-61sjuq",
-      "type": "news",
-      "title": "茅台向经销商「要利润」",
-      "url": "https://36kr.com/p/3780191213229314?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-04-24T04:25:05.000Z",
-      "summaryHint": "作者 | &nbsp;谢芸子 编辑 |&nbsp; 张帆&nbsp; 蹲守在A股市场的投资人们可能被“吓了一跳”。 4月16日晚间，贵州茅台发布了2025年财报数据，营收达到1720.54亿元，同比下降1.2%；归母净利润为823.2亿元，同比下降4.53%。这是茅台自2001年上市以来的首次“双降”，至此终结了此前二十余年持续的正增长纪录。 受此影响，贵州茅台股价次日开盘一度跌破1400元大关，最终收跌3.8%，市值单日蒸发近700亿元。 简单拆分财报，公司的核心产品“飞天茅台”算是稳住了基本盘。上一年度，茅台酒营收为1465亿元，同比增加0.39%。 一度被寄予厚望，被视作“第二增长曲线”的系列酒——如茅台王子酒、茅台1935则表现惨淡。2025年，茅台集团“系列酒”产品的总营收为222.75亿元，同比下跌9.76%。 再单看“大幅低于市场预期”的第四季度。报告期内，贵州茅台的归母净利",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-2qe03b",
       "type": "news",
-      "title": "强如DeepSeek，还是向资本低头了 - 36氪",
+      "title": "强如DeepSeek，还是向资本低头了 - 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xeERhcjRHN284eUpkbnVSbWQ5aW9YWHYyR3dZRzRwbjVjSXFPYld4RjF3dVpzZXZaVVBtWXFqbEJidWpWNm1QUXEtUTdsQQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-04-23T12:53:00.000Z",
-      "summaryHint": "强如DeepSeek，还是向资本低头了 &nbsp;&nbsp; 36氪",
+      "summaryHint": "强如DeepSeek，还是向资本低头了 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -587,11 +586,25 @@
     {
       "id": "rss-google_news_cn_36kr_deals-s2siie",
       "type": "news",
-      "title": "200亿估值，阿里、腾讯争投，梁文锋会拿谁的钱？ - 36氪",
+      "title": "200亿估值，阿里、腾讯争投，梁文锋会拿谁的钱？ - 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQajdQSFFCdlFKbG9fSFAwOF9RNUdvdmRQa2R0ZEpmMWdvOVhMc0N1bDVaLTd0b3lpcjdzWmtha0VQRndxZktCZExXcmR1QQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-04-23T10:33:00.000Z",
-      "summaryHint": "200亿估值，阿里、腾讯争投，梁文锋会拿谁的钱？ &nbsp;&nbsp; 36氪",
+      "summaryHint": "200亿估值，阿里、腾讯争投，梁文锋会拿谁的钱？ &nbsp;&nbsp; 36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-e9s0yj",
+      "type": "news",
+      "title": "“深圳四小龙”，谁是3D打印第一？ - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53a2VpQjFTVmJpTkJHQXJXQ09NVW1YMlZfUUM2RzBpby1jSzByRHhXRjJLOGtjcjVWdVpsSFR1bDZ3Mm1mWVNSQ0pTNlB2Zw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-04-23T01:31:48.000Z",
+      "summaryHint": "“深圳四小龙”，谁是3D打印第一？ &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -601,11 +614,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-6dcob4",
       "type": "news",
-      "title": "2026福布斯AI 50榜单发布 - 36氪",
+      "title": "2026福布斯AI 50榜单发布 - 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wa2xJVmpfMk1tN3hOQ3RqUlBNRXMydzJNcnFpWmc0UDVOOHdoeDRxckswTG15eUdpY1UwRWw5NC1DTVZFeFp5OEl6Q0RMUQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-04-21T10:20:00.000Z",
-      "summaryHint": "2026福布斯AI 50榜单发布 &nbsp;&nbsp; 36氪",
+      "summaryHint": "2026福布斯AI 50榜单发布 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -613,73 +626,253 @@
       ]
     },
     {
-      "id": "reddit-rss-uxaama",
+      "id": "reddit-rss-facaj8",
       "type": "social_en",
-      "title": "Possible to move simple cubes from unreal 4 to unreal 5?",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1sv36wk/possible_to_move_simple_cubes_from_unreal_4_to/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-04-25T05:22:32.000Z",
-      "summaryHint": "I have some maps blocked out on unreal 4 is it possible to move these simple objects to 5? &#32; submitted by &#32; /u/meowmix141414 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-dyfqot",
-      "type": "social_en",
-      "title": "How to find to 'collaborate' with Professors to get funding for my research papers? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1sv1473/how_to_find_to_collaborate_with_professors_to_get/",
-      "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-04-25T03:37:32.000Z",
-      "summaryHint": "So, I have a few research papers, which I feel are good enough for top conferences&#39; workshops or adjacent proceedings, and maybe even the main conference itself. I recently, submitted to and got accepted at a CVPR Archival Workshop (whi",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-tc1wz6",
-      "type": "social_en",
-      "title": "When you share something AI-generated with a non-technical friend, what format do you actually use?",
-      "url": "https://www.reddit.com/r/artificial/comments/1sv0gas/when_you_share_something_aigenerated_with_a/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-04-25T03:06:08.000Z",
-      "summaryHint": "Hey guys, happy Friday! I&#39;ve been thinking about this a lot lately. PDF is universal, anyone can open it, anywhere, on any device. But when AI generates something interactive, like a calculator, a dashboard, a birthday card with animati",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-mzqq3h",
-      "type": "social_en",
-      "title": "Got into the Anthropic Claude Partner Network — have spots for people who want CCAF cert access",
-      "url": "https://www.reddit.com/r/artificial/comments/1sv02t1/got_into_the_anthropic_claude_partner_network/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-04-25T02:48:43.000Z",
-      "summaryHint": "Just got accepted into the Anthropic Claude Partner Network. Part of the requirement is completing the CPN learning path with 10 people under our org’s domain. The learning path is 4 courses on Anthropic Academy — Agent Skills, Claude API, ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-rrhywr",
-      "type": "social_en",
-      "title": "AI can generate art, but why can’t it properly vectorize it yet?",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1suxn9g/ai_can_generate_art_but_why_cant_it_properly/",
+      "title": "Fratal rendered by program i wrote",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1sw0idj/fratal_rendered_by_program_i_wrote/",
       "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-04-25T00:55:09.000Z",
-      "summaryHint": "I’ve been thinking about something and wanted to get opinions from designers and digital artists here. Do you think AI will be able to properly vectorize artwork in the near future? Right now, it feels like AI still struggles to match human",
+      "publishedAt": "2026-04-26T07:08:48.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/AlexeyGal [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-xwfynn",
+      "id": "reddit-rss-zgyaf7",
       "type": "social_en",
-      "title": "Got 400+ wishlists on day one… now what? (feels like I should be doing something, but I have no idea what)",
-      "url": "https://www.reddit.com/r/gamedev/comments/1suwa3k/got_400_wishlists_on_day_one_now_what_feels_like/",
+      "title": "We finally cracked the code on 3DGS collisions in games!",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1sw0feq/we_finally_cracked_the_code_on_3dgs_collisions_in/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-04-26T07:04:16.000Z",
+      "summaryHint": "We finally cracked the code on 3DGS collisions in games! Here’s a video showing it in action. &#32; submitted by &#32; /u/Low_Exercise_4432 [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-89iilt",
+      "type": "social_en",
+      "title": "Hello, I made some characters : elf,sorcerer,knight,dwarf and A Dragon, they are fully rigged, Also there's some plants models , it's available for free and cc0",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1svw61w/hello_i_made_some_characters/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-04-26T03:19:42.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/LoquatPutrid2894 [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-1txoxm",
+      "type": "social_en",
+      "title": "I can’t believe I can say “ugh I don’t feel like fixing this function, it’s too complex” and I can literally just tell my computer to fix it for me. I didn’t understand what they meant by “people will start paying for intelligence” but now I do.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1svu9xe/i_cant_believe_i_can_say_ugh_i_dont_feel_like/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-04-26T01:46:23.000Z",
+      "summaryHint": "And in this case it’s free! Aside from the electricity haha I hope these things aren’t conscious. I’d feel awful demanding them to work on my code! &#32; submitted by &#32; /u/Borkato [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-rmzzja",
+      "type": "social_en",
+      "title": "Trump fires the entire National Science Board",
+      "url": "https://www.reddit.com/r/artificial/comments/1svthww/trump_fires_the_entire_national_science_board/",
+      "source": "reddit_r_artificial",
+      "publishedAt": "2026-04-26T01:08:56.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/esporx [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-49nyov",
+      "type": "social_en",
+      "title": "Blueprint Stack v2 is releasing this week!",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1svrdco/blueprint_stack_v2_is_releasing_this_week/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-04-25T23:30:44.000Z",
+      "summaryHint": "I am excited to share that after a lot of hard work, we will be releasing blueprint stack v2, which will feature: - Local LLM support - Voice mode to talk directly to the agent - Cursor and OpenCode integration - 100+ tools - 3D animation a",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-83u4dv",
+      "type": "social_en",
+      "title": "Why pixel art looks blurry in asset browsers/online (and how I detected it automatically)",
+      "url": "https://www.reddit.com/r/gamedev/comments/1svqhi9/why_pixel_art_looks_blurry_in_asset/",
       "source": "reddit_r_gamedev",
-      "publishedAt": "2026-04-24T23:52:50.000Z",
-      "summaryHint": "Hi everyone, I launched the Steam page and trailer for my game yesterday, and it got a bit over 400 wishlists on the first day, which I believe is a good sign… but I honestly have no idea how to interpret it. It feels like there is some kin",
+      "publishedAt": "2026-04-25T22:51:55.000Z",
+      "summaryHint": "Spent a chunk of last month figuring out why almost every general-purpose image tool renders pixel art like it has been smeared with butter. Wrote it up for 2 reasons, I think it&#39;s actually interesting I am genuinely curious if anyone h",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-f5nidb",
+      "type": "social_en",
+      "title": "NYC Winter Storm Fern",
+      "url": "https://www.reddit.com/r/videography/comments/1svpe8e/nyc_winter_storm_fern/",
+      "source": "reddit_r_videography",
+      "publishedAt": "2026-04-25T22:05:20.000Z",
+      "summaryHint": "This is a personal project I’ve had halfway finished since February. Decided to hit export on it today. Feedback is appreciated. &#32; submitted by &#32; /u/Shotsbystevn [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-dtggga",
+      "type": "social_en",
+      "title": "Gemini AI is doing free marketing for my private discord community 💀",
+      "url": "https://www.reddit.com/r/artificial/comments/1svna3s/gemini_ai_is_doing_free_marketing_for_my_private/",
+      "source": "reddit_r_artificial",
+      "publishedAt": "2026-04-25T20:39:06.000Z",
+      "summaryHint": "But in the wrong way Crazy encounter 🤣 Another reason to use claude daily &#32; submitted by &#32; /u/Odd-Pension-5078 [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-2b3rkg",
+      "type": "social_en",
+      "title": "Marketing insight: How to talk about game dev to people who don't know how to talk about games",
+      "url": "https://www.reddit.com/r/gamedev/comments/1svmchd/marketing_insight_how_to_talk_about_game_dev_to/",
+      "source": "reddit_r_gamedev",
+      "publishedAt": "2026-04-25T20:03:17.000Z",
+      "summaryHint": "Hi everyone! I&#39;m currently part of an incubator program for startups where I work on founding an indie game studio. I&#39;m a bit of an outlier in the program, as there are pretty much no other participants from any creative industries.",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-oyvx3",
+      "type": "social_en",
+      "title": "Need help",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1svm8um/need_help/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-04-25T19:59:22.000Z",
+      "summaryHint": "I’m working on a co-op mechanic where two players carry a crate together, similar to a stretcher. I&#39;m looking for some advice on how to handle the logic. The core idea is that the players must maintain a fixed distance from each other. ",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-1ie1fx",
+      "type": "social_en",
+      "title": "Don't blink",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1svjop9/dont_blink/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-04-25T18:21:26.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/beanionMaster [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-tns57q",
+      "type": "social_en",
+      "title": "I turned a \"Clair Obscur: Expedition 33\" photomode session into an interactive 1M Gaussian Splat scene.",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1svjl51/i_turned_a_clair_obscur_expedition_33_photomode/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-04-25T18:17:40.000Z",
+      "summaryHint": "Lune at Esquie’s Nest, reconstructed from in-game photomode shots. Pipeline: RealityScan for camera alignment (3 798 screenshots) LichtFeld-Studio for splat generation (based on 330 screenshots) Explore it here: https://superspl.at/scene/14",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-lx1lsl",
+      "type": "social_en",
+      "title": "Palantir employees are talking about company's \"descent into fascism\". Slack messages, interviews with current and former works paint picture of company in turmoil.",
+      "url": "https://www.reddit.com/r/artificial/comments/1svitaf/palantir_employees_are_talking_about_companys/",
+      "source": "reddit_r_artificial",
+      "publishedAt": "2026-04-25T17:48:39.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/esporx [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-8a0i8w",
+      "type": "social_en",
+      "title": "Working on a Silhouette POM custom shader node after seeing the Crimson Desert SPOM explanation video :), I'll post it for free once I get it in a good state",
+      "url": "https://www.reddit.com/r/Unity3D/comments/1svhl8s/working_on_a_silhouette_pom_custom_shader_node/",
+      "source": "reddit_r_Unity3D",
+      "publishedAt": "2026-04-25T17:01:21.000Z",
+      "summaryHint": "ignore the geometry at the end, I was using to test out some vertex painting stuff this is done without geometry displacement &#32; submitted by &#32; /u/AdamNapper [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-esgaju",
+      "type": "social_en",
+      "title": "I made my most popular pack free on FAB",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1svgav3/i_made_my_most_popular_pack_free_on_fab/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-04-25T16:11:28.000Z",
+      "summaryHint": "I made this one during Covid in 2021, It has been my best seller for many years and last year it was part of the limited time free offer. Now I decided to make it free forever as a thank you to the game dev community. &#32; submitted by &#3",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-69un7",
+      "type": "social_en",
+      "title": "We're making a new tactical VR shooter",
+      "url": "https://www.reddit.com/r/virtualreality/comments/1svg1rc/were_making_a_new_tactical_vr_shooter/",
+      "source": "reddit_r_virtualreality",
+      "publishedAt": "2026-04-25T16:01:36.000Z",
+      "summaryHint": "Think a proper, visually satisfying tactical shooter that focuses on realism, intense and high stakes breaching gameplay plus believable NPC behavior. We&#39;re making great progress with COVR. ( but it&#39;s still alpha ) I know it&#39;s n",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-9n7ig9",
+      "type": "social_en",
+      "title": "Gen Alpha boys are preferring “AI girlfriends” over real ones",
+      "url": "https://www.reddit.com/r/artificial/comments/1svesyt/gen_alpha_boys_are_preferring_ai_girlfriends_over/",
+      "source": "reddit_r_artificial",
+      "publishedAt": "2026-04-25T15:12:53.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/Beautiful_Bee4090 [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-2e2rfg",
+      "type": "social_en",
+      "title": "Hey everyone, I’ve been working with Gaussian training for a while, and I have a question: is it possible to train using LIDAR point clouds from a terrestrial scanner and also use the 360 photos captured by that scanner",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1svdss3/hey_everyone_ive_been_working_with_gaussian/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-04-25T14:33:10.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/Lima_Denis [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-8aeo16",
+      "type": "social_en",
+      "title": "EllipseLab – Interactive ellipse geometry laboratory",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1sv892l/ellipselab_interactive_ellipse_geometry_laboratory/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-04-25T10:12:09.000Z",
+      "summaryHint": "I built an interactive lab to explore the ellipse through 39 construction modes: La Hire roulette, evolute, astroid, osculating circles, Dandelin spheres, projective pencils, isoperimetric families, orbital dynamics and more. All visual and",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-qm5eeu",
+      "type": "social_en",
+      "title": "Snow with shifting, still WIP",
+      "url": "https://www.reddit.com/r/Unity3D/comments/1sv7grz/snow_with_shifting_still_wip/",
+      "source": "reddit_r_Unity3D",
+      "publishedAt": "2026-04-25T09:26:06.000Z",
+      "summaryHint": "Hey! I am making a snow system. A Unity tool that can do more than just indent snow at a single point; it lets you push and shift it around. It’s still a work in progress, but I want to show at least some of the progress I’ve made. To make ",
       "tags": [
         "ai_social"
       ]
@@ -697,102 +890,6 @@
       ]
     },
     {
-      "id": "reddit-rss-f08csm",
-      "type": "social_en",
-      "title": "'We don't have to fire 1000 people to keep it working': Facepunch Studios says paying s&box game developers is sustainable, with '$500,000 paid out to date'",
-      "url": "https://www.reddit.com/r/gamedev/comments/1suuem8/we_dont_have_to_fire_1000_people_to_keep_it/",
-      "source": "reddit_r_gamedev",
-      "publishedAt": "2026-04-24T22:32:05.000Z",
-      "summaryHint": "Developers can also export their games standalone to Steam: &quot;No hidden percentages, no rug pulls, your work is yours.&quot; What do you people think about this? The s&amp;box engine and platform is being developed by less than 20 peopl",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-akdwn9",
-      "type": "social_en",
-      "title": "I just launched my Steam page for a pretty unusual Unity project",
-      "url": "https://www.reddit.com/r/Unity3D/comments/1suu6ye/i_just_launched_my_steam_page_for_a_pretty/",
-      "source": "reddit_r_Unity3D",
-      "publishedAt": "2026-04-24T22:23:26.000Z",
-      "summaryHint": "Hi everyone, I just published the Steam page and trailer for a game I have been imagining for years. I come from both a technical and artistic background, and in this project I handled the art, the story, and the overall direction. I had he",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-1p6c3f",
-      "type": "social_en",
-      "title": "UE5 plugin for Steam capsules + GIF creation (Screenshot Studio now on FAB)",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1susnh5/ue5_plugin_for_steam_capsules_gif_creation/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-04-24T21:21:59.000Z",
-      "summaryHint": "Hello everyone! I wanted to share a tool I&#39;ve been working on to create marketing materials and formatting store page assets. My new plugin, Screenshot Studio , is now live on FAB! It&#39;s a pure C++ editor-only plugin (zero runtime im",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-fd2zxe",
-      "type": "social_en",
-      "title": "Should I Use Megalights for Rendered Cinematics?",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1suqgng/should_i_use_megalights_for_rendered_cinematics/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-04-24T19:59:42.000Z",
-      "summaryHint": "I&#39;m still learning the pros and cons for megalights, as I assume there&#39;s a quality sacrifice in using them. I exclusively work in pre-rendered cinematics, so performance isn&#39;t a concern for me. Is there actually a quality differ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-rlby7w",
-      "type": "social_en",
-      "title": "This is where we are right now, LocalLLaMA",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1suqfba/this_is_where_we_are_right_now_localllama/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-04-24T19:58:25.000Z",
-      "summaryHint": "the future is now &#32; submitted by &#32; /u/jacek2023 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-r429fe",
-      "type": "social_en",
-      "title": "Is it possible to use just Metahuman eye materials/textures for a custom character’s eyes?",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1suq1ti/is_it_possible_to_use_just_metahuman_eye/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-04-24T19:44:05.000Z",
-      "summaryHint": "I’m trying to use the materials and textures from a metahuman for a character I am using. The character already has eye meshes with morph targets assigned to them so if possible I’d like to avoid using whole new meshes from the metahumans s",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-3vldwk",
-      "type": "social_en",
-      "title": "Liquefaction | Me | 2026 | The full version (no watermark) is in the comments",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1sunopl/liquefaction_me_2026_the_full_version_no/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-04-24T18:17:18.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/has_some_chill [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-wbxybv",
-      "type": "social_en",
-      "title": "Debut FLIP Simulation",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1sunmiw/debut_flip_simulation/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-04-24T18:15:07.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/keffffffffffffffffff [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
       "id": "reddit-rss-ia21qs",
       "type": "social_en",
       "title": "Weekly VR - What Did you Play?",
@@ -802,114 +899,6 @@
       "summaryHint": "Hey r/virtualreality ! Another week in the VR space. Did a certain game or experience stand out to you? This is your spot to chat, share, and discover. When sharing, you might consider sharing: Name of the game or experience. A brief insigh",
       "tags": [
         "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-l5oo",
-      "type": "social_en",
-      "title": "There Will Be a Scientific Theory of Deep Learning [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1sun588/there_will_be_a_scientific_theory_of_deep/",
-      "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-04-24T17:58:00.000Z",
-      "summaryHint": "Hi, all! I&#39;m the lead author on this ambitious (14-author!) perspective paper on deep learning theory. We&#39;ve all been working seriously, and more or less exclusively, on deep learning for many years now. We believe that a theory is ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-gh3b53",
-      "type": "social_en",
-      "title": "Remember the 15 year-old who posted a VR idea here and got told to need prototype? I made it and analysis result as the another paper. Please check it and let me know what you guys think!",
-      "url": "https://www.reddit.com/r/virtualreality/comments/1sumoym/remember_the_15_yearold_who_posted_a_vr_idea_here/",
-      "source": "reddit_r_virtualreality",
-      "publishedAt": "2026-04-24T17:41:35.000Z",
-      "summaryHint": "I&#39;m 15 years old high school student from Japan. (currently in Toronto) A couple weeks ago, I posted this on this community. https://www.reddit.com/r/virtualreality/comments/1scfs3u/i_have_an_innovative_idea_of_vr_devices_if_you/ I got ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-2cqvv5",
-      "type": "social_en",
-      "title": "Antigravity A1 - Gaussian Splatting Review",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1sulqzn/antigravity_a1_gaussian_splatting_review/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-04-24T17:07:38.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/fuzzywobs [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-g1i557",
-      "type": "social_en",
-      "title": "President Biden | Lighting & Grip BTS",
-      "url": "https://www.reddit.com/r/videography/comments/1sujwop/president_biden_lighting_grip_bts/",
-      "source": "reddit_r_videography",
-      "publishedAt": "2026-04-24T16:01:56.000Z",
-      "summaryHint": "For the key, we started with just a Litemat Plus 4. To get more wrap under the chin, we had to make the key taller, but didn’t have enough room to the left side of the frame to add a second Litemat below it. Instead, I opted to loosely drap",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-o28g3g",
-      "type": "social_en",
-      "title": "After nearly 6 months of work, we have finally released our Unity Demo on Steam! It's called Barely Breathing",
-      "url": "https://www.reddit.com/r/Unity3D/comments/1sujtgf/after_nearly_6_months_of_work_we_have_finally/",
-      "source": "reddit_r_Unity3D",
-      "publishedAt": "2026-04-24T15:58:59.000Z",
-      "summaryHint": "Try demo if you&#39;re interested: https://store.steampowered.com/app/4514070/Barely_Breathing/ Thank you everyone for the support in this community! Our first social media that went &quot;viral&quot; was posted here in this subreddit all t",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-tbbtx",
-      "type": "social_en",
-      "title": "White House Accuses China of Industrial-Scale Theft of AI Technology",
-      "url": "https://www.reddit.com/r/artificial/comments/1suj8ne/white_house_accuses_china_of_industrialscale/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-04-24T15:38:07.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/SgtHawk [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-t4ewva",
-      "type": "social_en",
-      "title": "I turned one of the interior rooms of Golestan Palace into 3D, and it’s also listed as a UNESCO World Heritage Site in Tehran, Iran. It’s very upsetting to see such beautiful historical architecture being damaged by ongoing attacks. I truly hope the war ends soon.",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1suh8cw/i_turned_one_of_the_interior_rooms_of_golestan/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-04-24T14:24:29.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/KSzkodaGames [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-5s06y8",
-      "type": "social_en",
-      "title": "Built an open-source one-script pipeline: video → 3D Gaussian Splat (COLMAP + 3DGRUT, Linux/WSL2)",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1su92sf/built_an_opensource_onescript_pipeline_video_3d/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-04-24T07:48:12.000Z",
-      "summaryHint": "Wanted to share a tool I built called quicksplat — it takes a single video and turns it into a .ply Gaussian Splat with one command. The full pipeline under the hood: - ffmpeg — extracts frames, auto-targets ~150 frames, handles portrait-mo",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "ks-7pbvh7",
-      "type": "crowdfunding",
-      "title": "feed.atom",
-      "url": "https://www.kickstarter.com/projects/feed.atom",
-      "source": "kickstarter_discover",
-      "publishedAt": "2026-04-25T07:46:07.745Z",
-      "summaryHint": "From public discover page; verify on site.",
-      "tags": [
-        "crowdfunding"
       ]
     },
     {
@@ -925,15 +914,15 @@
       ]
     },
     {
-      "id": "reddit-rss-9te4ta",
-      "type": "social_en",
-      "title": "AI swarms could hijack democracy without anyone noticing",
-      "url": "https://www.reddit.com/r/artificial/comments/1su3976/ai_swarms_could_hijack_democracy_without_anyone/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-04-24T02:44:34.000Z",
-      "summaryHint": "A recent policy forum paper published in Science describes how large groups of AI-generated personas can convincingly imitate human behavior online. These systems can enter digital communities, participate in discussions, and influence view",
+      "id": "ks-7pbvh7",
+      "type": "crowdfunding",
+      "title": "feed.atom",
+      "url": "https://www.kickstarter.com/projects/feed.atom",
+      "source": "kickstarter_discover",
+      "publishedAt": "2026-04-26T07:54:52.577Z",
+      "summaryHint": "From public discover page; verify on site.",
       "tags": [
-        "ai_social"
+        "crowdfunding"
       ]
     },
     {
