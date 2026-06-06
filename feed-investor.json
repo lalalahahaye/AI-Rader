@@ -1,21 +1,52 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T10:17:53.718Z",
+  "updatedAt": "2026-06-06T08:48:03.757Z",
   "items": [
     {
-      "id": "rss-36kr-p2pnkt",
+      "id": "rss-36kr-tjr0uw",
       "type": "funding",
-      "title": "香港金管局：5月底官方外汇储备资产为4465亿美元",
-      "url": "https://36kr.com/newsflashes/3840119620962564?f=rss",
+      "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
+      "url": "https://36kr.com/p/3840996342073604?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-05T10:11:41.000Z",
-      "summaryHint": "36氪获悉，6月5日，香港金管局公布，香港于2026年5月底的官方外汇储备资产为4465亿美元（2026年4月底为4421亿美元）。连同未交收外汇合约在内，香港于2026年5月底的外汇储备资产为4462亿美元（2026年4月底为4421亿美元）。为数4465亿美元的外汇储备资产总额，相当于香港流通货币5倍多，或港元货币供应M3约38%。",
+      "publishedAt": "2026-06-06T01:07:19.000Z",
+      "summaryHint": "今日热点导览 SpaceX据悉将其IPO的日本融资目标提高至25亿美元 二手房挂牌量回落新房库存下降，楼市供需关系向好 B站宣布启动AI创造公开赛 TOP3大新闻 数据显示，豆包推出付费后月活减少610万&nbsp; 据全球人工智能市场追踪机构Aicpb.com周三发布的数据显示，在豆包推出订阅选项后，该应用5月份的月活跃用户（MAU）减少了610万，这是自2023年推出以来该应用罕见的下滑。Aicpb.com创始人李邦竹表示：“中国的免费人工智能服务时代还远未结束，所以豆包的商业化可能确实为时过早。”&nbsp; 有分析人士认为，字节跳动过早地将盈利模式商业化，可能会使其在中国竞争激烈的消费人工智能市场中失去领先地位。此前，其旗舰聊天机器人豆包在试水付费订阅模式后流失了数百万用户。（南华早报） Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险 &nbsp; 据《华尔街日报",
       "tags": [
         "china",
         "funding",
         "deal_signal"
       ],
-      "amount": "4465亿"
+      "amount": "610万"
+    },
+    {
+      "id": "rss-36kr-30x26i",
+      "type": "funding",
+      "title": "氪星晚报 ｜日本或通过抛售美债，为创纪录规模的日元汇市干预筹资；俞浩内部发文：未来将继续心无旁骛做实业",
+      "url": "https://36kr.com/p/3840267945969929?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-05T12:50:46.000Z",
+      "summaryHint": "大公司： 首关15亿元，英诺科创三期基金持续聚焦早期科技投资 36氪获悉，6月5日，英诺基金宣布旗下英诺科创三期基金完成首轮关账，规模15亿元。该基金聚焦早期科技投资，重点布局前沿科技及人工智能领域。 比特币“金库”公司市值蒸发620亿美元 比特币本周下跌约14%，至四个月低点附近。随着加密货6月5日下午，追觅科技创始人俞浩在公司内部大群发文，表示未来将继续心无旁骛做实业，坚持技术创新，去啃全球最难的市场。（界面）币整体滑坡，数字资产“金库型”公司的股票也持续下挫，其中许多的跌幅远远超过它们所持有的加密货币本身。Artemis的数据显示，这些比特币金库公司的完全稀释股票总市值，已从去年10月初的近期顶点近1340亿美元，降至约720亿美元，也就是减少了620亿美元。Tokenize Capital管理合伙人Tokenize Capital表示：“随着价格回落，数字资产金库公司正面临一个严峻",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "amount": "15亿元"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-nflu4r",
+      "type": "funding",
+      "title": "星连资本被投企业趋境科技完成数亿元Pre-A轮融资，加速建设高品质AI Token生产基础设施 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TZC1wUnRySWtWX2ljMVNqYy1kNEJwWTJrSXRTUklvVlprRW5xTGRTcTg5SGt3eHo1LWx0UWFHU0VBeU8yYzRlSnlGRQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-06-05T03:00:31.000Z",
+      "summaryHint": "星连资本被投企业趋境科技完成数亿元Pre-A轮融资，加速建设高品质AI Token生产基础设施 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "Pre-A"
     },
     {
       "id": "rss-36kr-2y4d14",
@@ -40,7 +71,7 @@
       "url": "https://36kr.com/p/3838835333253385?f=rss",
       "source": "36kr",
       "publishedAt": "2026-06-05T01:00:00.000Z",
-      "summaryHint": "作者&nbsp;|&nbsp;邱晓芬 编辑&nbsp;|&nbsp;袁斯来 硬氪独家获悉，具身智能企业「原力灵机」近期完成新一轮融资，资方主要为数家大模型公司，包括 智谱、阶跃星辰、商汤科技。 此外， 华勤、上汽恒旭 等产业投资方持续加注 。 「原力灵机」 是一家通用具身大模型公司，2025年3月由旷视科技联合创始人兼CTO 唐文斌 创立，团队核心创始成员为旷视科技原班人马。 有意思的是，此次融资也是商汤、旷视这两家曾经的对手，在具身智能的热潮中罕见“会师”； 另外，算上A+轮独家领投的 阿里 ，这也是具身智能赛道罕见同时聚齐国内四家大模型厂商——此前，智谱仅通过Z基金小范围投资具身智能领域，阶跃星辰则几乎未出手具身智能。 而这一集体动作也释放出一个信号，当 大模型竞争的主战从Token向Action转移 ，拥有物理世界交互能力的具身模型，已成为模型公司们锚定的下一片高地。 伴随着此次融资",
+      "summaryHint": "作者&nbsp;|&nbsp;邱晓芬 编辑&nbsp;|&nbsp;袁��来 硬氪独家获悉，具身智能企业「原力灵机」近期完成新一轮融资，资方主要为数家大模型公司，包括 智谱、阶跃星辰、商汤科技。 此外， 华勤、上汽恒旭 等产业投资方持续加注 。 「原力灵机」 是一家通用具身大模型公司，2025年3月由旷视科技联合创始人兼CTO 唐文斌 创立，团队核心创始成员为旷视科技原班人马。 有意思的是，此次融资也是商汤、旷视这两家曾经的对手，在具身智能的热潮中罕见“会师”； 另外，算上A+轮独家领投的 阿里 ，这也是具身智能赛道罕见同时聚齐国内四家大模型厂商——此前，智谱仅通过Z基金小范围投资具身智能领域，阶跃星辰则几乎未出手具身智能。 而这一集体动作也释放出一个信号，当 大模型竞争的主战从Token向Action转移 ，拥有物理世界交互能力的具身模型，已成为模型公司们锚定的下一片高地。 伴随着此次融",
       "tags": [
         "china",
         "funding",
@@ -78,22 +109,6 @@
       "amount": "150亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-5n8yx2",
-      "type": "funding",
-      "title": "重磅！星连资本被投企业趋境科技完成数亿元Pre - A轮融资，全力加速高品质AI Token生产基础设施建设 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xZVZlMnpraXBFRVBtRlVuZk9vUlh0ZnJIUVlhVGxSSURaR2hwQTRFSXJKTUY4aG9NaVIwY0lLOFg3QzluRUJSdDYzbUdNR3U5aTB3?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-04T11:53:00.000Z",
-      "summaryHint": "重磅！星连资本被投企业趋境科技完成数亿元Pre - A轮融资，全力加速高品质AI Token生产基础设施建设 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "A轮融资"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-sqi9xk",
       "type": "funding",
       "title": "国家队下场做AI虚拟细胞，「百曜科技」完成数千万元新一轮融资｜36氪首发 - 36 Kr",
@@ -107,6 +122,22 @@
         "deal_rss",
         "deal_signal"
       ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-wyh1q3",
+      "type": "funding",
+      "title": "AI树洞「found」切入心理健康市场，寻求天使轮融资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00UWNUMkZMYjZJUUxuNk1BbkJXdENtdFRzU1gtUnlYUUFkelVObTV2bUw4YVJkQUp1RndudkZndUp6T1huYV9lSXJGMA?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-06-04T07:21:32.000Z",
+      "summaryHint": "AI树洞「found」切入心理健康市场，寻求天使轮融资 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "天使轮"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-jz1l5e",
@@ -124,35 +155,35 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-l0id5",
+      "id": "rss-google_news_cn_36kr_deals-2hm373",
       "type": "funding",
-      "title": "3个月融资10亿，又一机器人独角兽杀出 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80VExTaUhaM1VoU29MMGJYY1RwMWtYLVptc3lqRThucFZyamhFcTg1czVkV29vQ2xJLUdCa3ZXYjREd1I1ZHprSG5QWWN3QQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-03T14:05:04.000Z",
-      "summaryHint": "3个月融资10亿，又一机器人独角兽杀出 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "10亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-cqv081",
-      "type": "funding",
-      "title": "腾讯构建生态、宁德聚焦电表：DeepSeek 融资背后暗藏双重算盘 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oS09QeEN1ZjBZMW9EZTZrUXhkWk0xX0lWT3FVQU1kZXFyZjhGQ3BBekNQNFVGVmRvRHA1bHk5eDVHdFM4bENXeXNTUW1HRjBfLU5n?oc=5",
+      "title": "腾讯算生态、宁德算电表：DeepSeek 融资暗藏双重算盘 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43NFVxaXp1Mkt3a3hsclUzV2lyZlVGN1YySnhJUE9KRzZSWExIS1Q2OWVJUGRMbnFMLVJBcWJ2WlpOSkpNcXppZUhrbDRwSTda?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-06-03T12:05:00.000Z",
-      "summaryHint": "腾讯构建生态、宁德聚焦电表：DeepSeek 融资背后暗藏双重算盘 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "腾讯算生态、宁德算电表：DeepSeek 融资暗藏双重算盘 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
       ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-ixa7j",
+      "type": "funding",
+      "title": "快手旗下可灵AI正进行融资：投前估值180亿美元，计划2027年赴港上市 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Zc1NaMThsWUhndjlreWdvazJRalF0ZUhsTEk2clk0Wm94a2tQRzI2UEhYTzdvVmI3UXZFWFRQbjhPNjl5VFRZcExMRmpCdVhJYUhvTlhnczFiWHJTV1E?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-06-03T06:51:13.000Z",
+      "summaryHint": "快手旗下可灵AI正进行融资：投前估值180亿美元，计划2027年赴港上市 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "180亿"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-j7dj1g",
@@ -187,44 +218,13 @@
       "amount": "5亿元"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-hqe24d",
+      "id": "rss-google_news_cn_36kr_deals-6lyr7r",
       "type": "funding",
-      "title": "Lumora监测AI时代品牌可见度，寻求融资 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LWTZ3Mm95c2tkcG9tOVFJUVE3VlFFaTRMRDhPdkhlOTFZWUM5ZTcxYXdnU256SVVSRUo5aUt0T19NWXhQS2hCMjN2MFpta3VN?oc=5",
+      "title": "“哲学AI”破解哲学普及痛点，诚寻天使轮融资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RXzExVTFZcVo3bjI0d2UyNHJwenlXa0FHN21sSi1maGJCbjI4YzM1ZUJfVWtJcEM0bEwxclBoa1BpbzV1MWtiZTRsaXJFbm83dUhR?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-02T08:34:45.000Z",
-      "summaryHint": "Lumora监测AI时代品牌可见度，寻求融资 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-b6bz1",
-      "type": "funding",
-      "title": "首轮融资数千万美元、估值2.5亿美元，「Aippy」正在打造下一代AI游戏社区 | 36氪首发 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XVndJN0FWdy15OXJqMkJPYzNZOEpDNGgzc3BWRk5ENU5fRFUxc1NKbGEtTTFhWkFEVVQtbHMyOHVsNjNkSzdXRzhkMXlwZw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-02T00:00:00.000Z",
-      "summaryHint": "首轮融资数千万美元、估值2.5亿美元，「Aippy」正在打造下一代AI游戏社区 | 36氪首发 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "2.5亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-b1w5pa",
-      "type": "funding",
-      "title": "量坤科技获数亿元天使轮融资，AI4S急需量子级精度数据 | 36氪独家 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5reUY3Vzd3YzluS1Y5YldKNGd0bGNWT0xnazVXZlg2anVvb0RrNEdXbElfckU5ZE9iaWdwWm5WTlU1TmtqaElMWWVtbThEZw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-01T11:06:00.000Z",
-      "summaryHint": "量坤科技获数亿元天使轮融资，AI4S急需量子级精度数据 | 36氪独家 &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-06-02T11:53:00.000Z",
+      "summaryHint": "“哲学AI”破解哲学普及痛点，诚寻天使轮融资 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -232,6 +232,21 @@
         "deal_signal"
       ],
       "round": "天使轮"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-70hh8l",
+      "type": "funding",
+      "title": "Lumora：监测AI时代品牌可见度，正寻求融资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MNGszd21Dc2V3Y0QyTS1NRm0wYmo0UmJvSkEwVGRDMGhIZGpvdmd5dE96c2R5WDFaVnZROWp5VksyVUNPZ0s4OURZcmpjZjN6QV9j?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-06-02T07:44:00.000Z",
+      "summaryHint": "Lumora：监测AI时代品牌可见度，正寻求融资 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-hxdteq",
@@ -250,117 +265,206 @@
       "amount": "800亿"
     },
     {
-      "id": "rss-36kr-nf4ba3",
+      "id": "rss-36kr-ky2s1q",
       "type": "news",
-      "title": "证监会同意嘉立创深市主板IPO注册申请",
-      "url": "https://36kr.com/newsflashes/3840116677069060?f=rss",
+      "title": "刘伟担任中基协新一届监事长",
+      "url": "https://36kr.com/newsflashes/3841428159301893?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-05T10:08:41.000Z",
-      "summaryHint": "36氪获悉，证监会日前下发关于同意深圳嘉立创科技集团股份有限公司首次公开发行股票注册的批复，同意该公司在深交所主板上市的注册申请。",
+      "publishedAt": "2026-06-06T08:22:47.000Z",
+      "summaryHint": "上证报记者6月6日从中国证券投资基金业协会（下称“中基协”）第四届会员代表大会上获悉，刘伟担任中基协新一届监事长。（上海证券报）",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-swx3q8",
+      "id": "rss-36kr-7nxnjy",
       "type": "news",
-      "title": "腾讯云发布WorkBuddy企业版",
-      "url": "https://36kr.com/newsflashes/3840103073139209?f=rss",
+      "title": "2026年第二批医保参照药预沟通论证顺利实施",
+      "url": "https://36kr.com/newsflashes/3841423767603465?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-05T10:04:42.000Z",
-      "summaryHint": "36氪获悉，6月5日，腾讯云在京召开AI产业应用大会，腾讯正式发布WorkBuddy企业版（WorkBuddy Enterprise）及办公智能体套件Agent Suite。WorkBuddy企业版及办公智能体套件，是行业内首套“AI原生组织进化解决方案”。作为企业AI智能工作台，WorkBuddy企业版提供7×24专家数字员工、支持人与AI协作的“团队”模式、企业级管理后台三大核心能力。",
+      "publishedAt": "2026-06-06T08:18:19.000Z",
+      "summaryHint": "据国家医保局消息，近期，国家医疗保障局收到了企业提交的第二批28个参照药预沟通申报信息。经形式审查、信息公示后，来自中华医学会、中国医疗保险研究会、部分医疗机构、高校的临床、药学、药物经济学专家以及医保管理专家，对第二批申报药品进行了论证，结果已正式反馈各申报企业。目前2026年医保药品目录申报工作已经开始，根据《参照药预沟通办法（试行）》，对前两批论证结果有异议且希望再次开展论证的药品，如果申报了2026年药品目录调整，参照药将在目录调整综合评审阶段按流程论证确定，并以评审确定的参照药为准。（证券时报）",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-l2567x",
+      "id": "rss-36kr-f2tiyi",
       "type": "news",
-      "title": "安克创新：发行H股获得中国证监会备案",
-      "url": "https://36kr.com/newsflashes/3840101445241094?f=rss",
+      "title": "5日国际金价和银价显著下跌 全周均累计大幅下跌",
+      "url": "https://36kr.com/newsflashes/3841422772455689?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-05T10:00:07.000Z",
-      "summaryHint": "36氪获悉，安克创新公告，公司正在进行申请发行境外上市外资股（H股）并在香港联合交易所有限公司主板挂牌上市的相关工作。公司于近日收到中国证监会出具的《关于安克创新科技股份有限公司境外发行上市备案通知书》。备案通知书显示，公司拟发行不超过6850.89万股境外上市普通股并在香港联交所上市。",
+      "publishedAt": "2026-06-06T08:17:19.000Z",
+      "summaryHint": "受美债收益率和美元指数上涨、主要黄金消费国印度实物黄金需求低迷等因素拖累，国际金价几乎抹去了年内全部涨幅，银价跌至年内低点。截至收盘，纽约商品交易所8月交割的黄金期价报每盎司4365.30美元，跌幅为3.10%；7月交割的白银期价报每盎司69.103美元，跌幅为6.58%。本周，纽约黄金期货主力合约价格累计下跌近5%，白银期货主力合约价格累计下跌超8.9%。（央视新闻）",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-ebwk36",
+      "id": "rss-36kr-xguy2a",
       "type": "news",
-      "title": "京东五星电器在南阳成立新公司",
-      "url": "https://36kr.com/newsflashes/3840072508328199?f=rss",
+      "title": "尚太科技：原材料价格存在不同程度增长 公司多角度综合应对",
+      "url": "https://36kr.com/newsflashes/3841419758192900?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-05T09:57:41.000Z",
-      "summaryHint": "36氪获悉，天眼查App显示，近日，京东五星电器（南阳）有限公司成立，法定代表人为董永恩，注册资本100万人民币，经营范围包括家用电器销售、家用电器零配件销售、电子产品销售、日用电器修理等。股东信息显示，该公司由京东五星电器集团有限公司全资持股。",
+      "publishedAt": "2026-06-06T08:14:15.000Z",
+      "summaryHint": "尚太科技在互动平台表示，受宏观经济形势，相关行业需求情况，公司原材料价格存在不同程度的增长，公司多种角度综合应对原材料价格波动的挑战，应对措施包含积极与下游客户开展磋商，建立科学有效的定价机制，进行合理适度的价格传导。需要注意的是，原材料价格波动能否通过产品定价向下游传导，取决于市场环境等多重因素。（第一财经）",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-uw5gal",
+      "id": "rss-36kr-jsqxa4",
       "type": "news",
-      "title": "药明康德：6月5日耗资1.06亿港元回购84.32万股",
-      "url": "https://36kr.com/newsflashes/3840089048615424?f=rss",
+      "title": "易方达董事长刘晓艳担任中基协新一届理事会兼职会长",
+      "url": "https://36kr.com/newsflashes/3841417483995656?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-05T09:51:31.000Z",
-      "summaryHint": "36氪获悉，药明康德公告，6月5日，公司以123.5-129.3港元/股的价格，于香港联交所回购84.32万股，占有关事件前现有已发行股份（不包括库存股份）数目的0.1679%，付出的价格总额约1.06亿港元。截至6月5日，公司根据购回授权在香港联交所购回股份总数为902.29万股，占购回授权决议获通过当日已发行股份（不包括库存股份）数目的0.3024%。",
+      "publishedAt": "2026-06-06T08:11:56.000Z",
+      "summaryHint": "上证报记者6月6日从中国证券投资基金业协会（下称“中基协”）第四届会员代表大会上获悉，易方达董事长刘晓艳担任中基协新一届理事会兼职会长。（上证时报）",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-iseiln",
+      "id": "rss-36kr-5asvgw",
       "type": "news",
-      "title": "追觅产业基金人士：目前基金运营一切正常",
-      "url": "https://36kr.com/newsflashes/3840099622766855?f=rss",
+      "title": "富途老虎长桥之后，未被“点名”的华盛证券也将清理内地业务",
+      "url": "https://36kr.com/newsflashes/3841373065791747?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-05T09:51:20.000Z",
-      "summaryHint": "据蓝鲸新闻，有地方对辖区内企业与追觅的合作情况开展摸排的消息，再次引发关注。摸排内容涵盖合作项目、总体规模、资金投入、财政及国资参与情况、当前经营状况等。对此，追觅一位负责产业基金运作的人士向记者表示：“或是相关事宜有人员行事过于高调，但现阶段基金运营一切正常。” （财联社）",
+      "publishedAt": "2026-06-06T07:26:45.000Z",
+      "summaryHint": "继富途、老虎、长桥之后，又一家跨境券商宣布清理内地存量业务。华盛证券于6月6日上午向客户发布的通知称，自北京时间6月15日起，华盛证券将对存量投资者账户在中国内地的服务进行相应调整：一是在中国内地交易服务：暂停股票等所有品种的新开仓、加仓交易，仅支持卖出、平仓操作；二是在中国内地资金划转服务：暂停资金及证券转入，转出功能保持正常。通知显示，此次调整是为落实2年集中整治期的行业监管要求，推动跨境证券业务规范发展，并强调本次调整不影响为存量投资者在境外提供服务，也不影响全体客户现有资产安全，客户可正常查询账户、持有及卖出已有持仓。这也意味着，除5月22日被中国证监会直接“点名”的3家券商外，部分中小券商也将开启存量非法业务整治。6月2日以来，老虎、长桥、富途已陆续发出相关通知，宣布自6月12日起对存量投资者在中国内地的服务进行调整。（第一财经）",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-dcdwwb",
+      "id": "rss-36kr-avmutk",
       "type": "news",
-      "title": "“世界杯”将成为小红书App一级入口",
-      "url": "https://36kr.com/newsflashes/3840098268645636?f=rss",
+      "title": "证监会主席吴清：坚决遏制概念炒作、复杂嵌套、过度投机、通道空转等伪创新、乱创新",
+      "url": "https://36kr.com/newsflashes/3841354006645248?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-05T09:49:57.000Z",
-      "summaryHint": "36氪独家获悉，小红书App即将上线“世界杯”专区，与\"关注\"\"发现\"并列，成为App一级入口。此前，小红书官宣成为2026年美加墨世界杯持权转播商。",
+      "publishedAt": "2026-06-06T07:07:22.000Z",
+      "summaryHint": "证监会官网发布吴清主席在中国证券投资基金业协会第四届会员代表大会上的致辞。吴清表示，随着人工智能等前沿技术蓬勃发展，基金行业经营模式和发展生态正在发生深刻变革。行业机构要持续提升产品、服务、业务、组织等方面创新的广度和深度，更加全面、更加有效对接市场需求。要加强科技赋能，稳妥有序探索运用人工智能、大数据等新技术，有效赋能投资投研、客户服务、内控管理等重点场景，加快数字化、智能化转型。要突出错位发展，头部机构要全面提升综合竞争实力，中小机构不要拼规模要拼特色，要立足自身资源禀赋与核心优势，聚焦重点业务领域深耕细作，走出特色化、精品化发展路线。要统筹好发展与安全，加强创新全过程风险防控，坚持创新节奏、力度与管理能力相适配，坚决遏制概念炒作、复杂嵌套、过度投机、通道空转等伪创新、乱创新。（证券时报）",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-6u7uwd",
+      "id": "rss-36kr-gg63kh",
       "type": "news",
-      "title": "浦东建设：公司及子公司近期中标多个项目，金额总计约为13.81亿元",
-      "url": "https://36kr.com/newsflashes/3840087347169545?f=rss",
+      "title": "证监会主席吴清：提升投资运作稳健性 努力为投资者创造更可持续的中长期收益",
+      "url": "https://36kr.com/newsflashes/3841347938388227?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-05T09:48:46.000Z",
-      "summaryHint": "36氪获悉，浦东建设公告，近日，上海浦东建设股份有限公司的子公司上海市浦东新区建设（集团）有限公司、上海浦东路桥（集团）有限公司、上海南汇建工建设（集团）有限公司和上海浦东建筑设计研究院有限公司中标多项重大项目，中标金额总计约为13.81亿元。",
+      "publishedAt": "2026-06-06T07:01:11.000Z",
+      "summaryHint": "证监会官网发布吴清主席在中国证券投资基金业协会第四届会员代表大会上的致辞。吴清表示，要坚持客户为本，始终注重投资者利益优先。无论是公募基金还是私募基金，都要坚守“受人之托、代客理财”的信义义务，持续强化制度约束和利益重构，加快实现从“重规模”向“重回报”的转型。当前公募基金改革迎来了“棋至中盘”的关键节点，行业声誉有所回升，必须要毫不放松、再接再厉，持续巩固拓展改革发展成果。要强化利益绑定，在公司治理、产品发行、投资运作、绩效考核等各个方面落实好监管新规和改革要求，提升投资运作稳健性，增强逆周期思维，努力为投资者创造更可持续的中长期收益，坚决遏制赌押赛道、风格漂移、高位发行等顽疾，更不能回到“冲规模、赚快钱”的老路上去。要注重权益投资，这是行业服务投资者的优势所在、关键所在，要下更大力气加强投研专业能力建设，强化权益投资的行业影响力和竞争力。要加强供需适配，重视含权低波等稳健类产品创设，推",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-r3ya32",
+      "id": "rss-qbitai-xq5rte",
       "type": "news",
-      "title": "西部黄金：全资子公司新疆美盛计划于6月6日复产",
-      "url": "https://36kr.com/newsflashes/3840086770141699?f=rss",
+      "title": "今年CVPR看点是广东：何恺明再获至高大奖，广工大打破大厂名校垄断",
+      "url": "https://www.qbitai.com/2026/06/431186.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-06T07:00:06.000Z",
+      "summaryHint": "广东上大分！",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-99zuyy",
+      "type": "news",
+      "title": "银之杰：“被立案调查”等传闻不实 公司已报案追究造谣者法律责任",
+      "url": "https://36kr.com/newsflashes/3841346737768712?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-05T09:44:44.000Z",
-      "summaryHint": "36氪获悉，西部黄金公告，全资子公司新疆美盛矿业有限公司所处地区因遭遇罕见的强降雪极端天气，当地气温骤降，大雪封山，电力供应及交通运输受阻，公司于2026年2月28日决定临时停产。停产期间，新疆美盛持续推进全域道路清雪和电力恢复相关工作，现运输通行条件和电力供应已恢复。经开展复产相关配套工作，现已达到复产条件，计划于2026年6月6日复产。",
+      "publishedAt": "2026-06-06T06:59:58.000Z",
+      "summaryHint": "银之杰6月6日发布严正声明称，近日，网络平台出现关于公司“被立案调查”等不实传闻。对此，公司已于6月3日发布澄清公告。经核实，公司、公司各子公司以及公司主要股东、董事、监事、高级管理人员均不存在被任何有权机关立案调查的情况。上述传闻内容与事实严重不符，属于不实信息。为维护公司合法权益及正常市场秩序。公司已第一时间就相关谣传事件向公安机关报案并已收到报案回执，公司将尽最大努力坚决对造谣者依法追究法律责任。目前公司生产经营活动正常开展，各项业务运行平稳，不存在根据法律法规及监管要求应披露而未披露的重大事项。（证券时报）",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-sf5cyg",
+      "type": "news",
+      "title": "证监会主席吴清：持续完善程序化交易监管的机制安排 坚决打击操纵市场、扰乱市场秩序等违法违规行为",
+      "url": "https://36kr.com/newsflashes/3841345628424452?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-06T06:58:50.000Z",
+      "summaryHint": "6月6日，证监会官网发布吴清主席在中国证券投资基金业协会第四届会员代表大会上的致辞。吴清表示，近年来，程序化交易已成为包括我国在内的全球各主要资本市场的重要交易方式。除了大家熟知的量化私募外，外资、公募及其他专业机构投资者，甚至一些个人投资者，都不同程度采用程序化交易的方式。充分考虑个人投资者占大多数的国情市情，先后出台了一系列程序化交易监管规则制度，建立交易报告机制，强化针对性监测监控，从严监管异常交易行为，引导降频降速，强化交易业务单元管理等。在此基础上，我们还将深入调研，持续完善程序化交易监管的机制安排，更突出公平和规范，加强针对性监管，切实防范滥用技术优势，坚决打击操纵市场、扰乱市场秩序等违法违规行为。（证券时报）",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-zh90ek",
+      "type": "news",
+      "title": "港股鞋王千百度，一夜完成AI数据公司转型",
+      "url": "https://www.qbitai.com/2026/06/431056.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-06T03:35:47.000Z",
+      "summaryHint": "形成「鞋履+人工智能数据」双主业",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-kbt3sc",
+      "type": "news",
+      "title": "有人靠CPU把AI算力密度卷到了新高度",
+      "url": "https://www.qbitai.com/2026/06/431045.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-05T13:16:53.000Z",
+      "summaryHint": "Agentic AI的算力焦虑，英特尔给来了一剂「猛药」",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-4pbkrx",
+      "type": "news",
+      "title": "智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制",
+      "url": "https://www.qbitai.com/2026/06/431033.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-05T10:53:01.000Z",
+      "summaryHint": "研究表明，睡眠中的记忆重激活参与调控睡眠动态，为理解“记忆-睡眠”双向作用机制提供了新的实验证据。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-82w7vc",
+      "type": "news",
+      "title": "华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”",
+      "url": "https://www.qbitai.com/2026/06/431027.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-05T10:46:59.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-gio8vx",
+      "type": "news",
+      "title": "国星宇航与腾讯云签署“星算”计划战略合作协议，携手领航AI云服务新生态",
+      "url": "https://www.qbitai.com/2026/06/430757.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-05T09:40:44.000Z",
       "tags": [
         "china",
         "funding"
@@ -399,7 +503,7 @@
       "url": "https://36kr.com/p/3840016255126016?f=rss",
       "source": "36kr",
       "publishedAt": "2026-06-05T08:28:25.000Z",
-      "summaryHint": "作者 | 邓咏仪 编辑 | 张雨忻 “在国产化算力供应受限的情况下，华为云现在不太在乎Token总量是多少，也不太在乎收入的总量是多少，在乎的是国产化的算力系统所生产出来的Tokens的健康度，并且要代表着生产力提升，而不仅仅是情绪价值。” 6月5日，2026华为云 INSPIRE 创想者大会在上海开幕，华为云CEO周跃峰表示。 他举了个例子：一个人闲来无事在手机上问 AI 一个问题，也会产生 Token，但这种 Token 的价值有多大很难说明。在他看来，衡量一朵云做得好不好，不该强调它跑出了多少万亿 Token，而该看这些 Token 替企业提了多少效率。 华为云CEO周跃峰 过去两年，中国云厂商围绕 Token 打了一场旷日持久的价格战：2024年5月，在DeepSeek V2打响降价的第一枪后，火山引擎豆包以0.0008元/千 Token 的定价点燃战火，而后阿里，百度、腾讯、讯飞",
+      "summaryHint": "作者 | 邓咏仪 编辑 | 张雨忻 “在当前国产化算力正在成长的情况下，华为云现在不太在乎Token总量是多少，也不太在乎收入的总量是多少，在乎的是国产化的算力系统所生产出来的Tokens的健康度，并且要代表着生产力提升，而不仅仅是情绪价值。” 6月5日，2026华为云 INSPIRE 创想者大会在上海开幕，华为云CEO周跃峰表示。 他举了个例子：一个人闲来无事在手机上问 AI 一个问题，也会产生 Token，但这种 Token 的价值有多大很难说明。在他看来，衡量一朵云做得好不好，不该强调它跑出了多少万亿 Token，而该看这些 Token 替企业提了多少效率。 华为云CEO周跃峰 过去两年，中国云厂商围绕 Token 打了一场旷日持久的价格战：2024年5月，在DeepSeek V2打响降价的第一枪后，火山引擎豆包以0.0008元/千 Token 的定价点燃战火，而后阿里，百度、腾讯、",
       "tags": [
         "china",
         "funding"
@@ -444,19 +548,6 @@
       ]
     },
     {
-      "id": "rss-qbitai-bb0xf3",
-      "type": "news",
-      "title": "活久见！奥特曼Dario哈萨比斯同仇敌忾：DNA得查了",
-      "url": "https://www.qbitai.com/2026/06/429711.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-05T06:56:03.000Z",
-      "summaryHint": "科技领袖呼吁DNA安全立法",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
       "id": "rss-36kr-yigbgj",
       "type": "news",
       "title": "探店13家，理想/蔚来/问界如何征服50万客群？",
@@ -464,45 +555,6 @@
       "source": "36kr",
       "publishedAt": "2026-06-05T06:52:26.000Z",
       "summaryHint": "一周之内，三款“9系”旗舰SUV密集上市，高端新能源市场竞争战况升级。 5月15日，理想发布新一代L9，其中Livis版本搭载800V主动悬架、线控制动、线控转向的全线控底盘，售价50.98万元起。 5月27日，蔚来ES9与问界新M9同天发布。姚明也称“空间大”的蔚来ES9，起售价49.8万元；在高端市场已经破局的问界M9，起售价49.98万元。 冲击50万元级的高端市场，似乎已成为头部新能源车品牌的共识。这背后是战略需要，也是直接的财务驱动。 2026年一季度，理想汽车销量同比增长，但由于70%订单为L6、i6等入门车型。销量结构的下沉，让理想这家最早盈利的新造车公司再度陷入季度亏损。 蔚来则通过定价40万元级的ES8，将主力销售区间从30万元抬升至40万元级别，配合销量增长带来的规模效应，一季度亏损大幅收窄。 在新能源市场多年的配置与价格内卷下，平价入门车型的利润空间已日益稀薄。 新势",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-ev6wz2",
-      "type": "news",
-      "title": "全球首个机器人训练楼盘开盘：30万套中国住宅，机器人拎包入住",
-      "url": "https://www.qbitai.com/2026/06/429349.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-05T06:33:37.000Z",
-      "summaryHint": "具身智能的房地产开发商来了！",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-dysax3",
-      "type": "news",
-      "title": "阶跃Step 3.7 Flash登顶AA榜：速度、性价比、端到端三项第一",
-      "url": "https://www.qbitai.com/2026/06/429294.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-05T06:12:16.000Z",
-      "summaryHint": "不仅快，还省钱",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-s64yqx",
-      "type": "news",
-      "title": "刚刚，姚顺雨现身！公开回应腾讯AI落后了吗？",
-      "url": "https://www.qbitai.com/2026/06/429285.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-05T04:18:10.000Z",
-      "summaryHint": "现场爆满！",
       "tags": [
         "china",
         "funding"
@@ -528,70 +580,20 @@
       "url": "https://36kr.com/p/3836116289877385?f=rss",
       "source": "36kr",
       "publishedAt": "2026-06-05T00:49:39.000Z",
-      "summaryHint": "文｜贺哲馨 编辑｜乔芊 2026年6月2日，NBA现役金州勇士队球星斯蒂芬·库里（Stephen Curry）在其个人社交媒体上宣布，个人品牌“库里品牌”（Curry Brand）将与李宁正式���约。 ESPN援引知情人士称，这份合同有效期长达十年，内容涵盖篮球产品、运动休闲服饰、库里以个人品牌签约运动员的权利，以及完整的高尔夫球杆产品线，合同具体金额未披露。 李宁由此成为库里自2025年11月结束与安德玛（Under Armour）十二年合作之后的新东家。值得注意的是，在李宁之前，安踏也曾与库里方面有过接触，也有一度达成合作的传言，但最终未能成型。有媒体推测，除了报价之外，真正让天平倾向李宁的是后者愿意给出的自主权，这是一个比金额更难复制的筹码。 这其实非常符合库里“不选主流品牌”的一贯逻辑。 十三年前，库里没有与耐克续约，转投了当时还是运动品牌“新秀”的安德玛（Under Armou",
+      "summaryHint": "文｜贺哲馨 编辑｜乔芊 2026年6月2日，NBA现役金州勇士队球星斯蒂芬·库里（Stephen Curry）在其个人社交媒体上宣布，个人品牌“库里品牌”（Curry Brand）将与李宁正式签约。 ESPN援引知情人士称，这份合同有效期长达十年，内容涵盖篮球产品、运动休闲服饰、库里以个人品牌签约运动员的权利，以及完整的高尔夫球杆产品线，合同具体金额未披露。 李宁由此成为库里自2025年11月结束与安德玛（Under Armour）十二年合作之后的新东家。值得注意的是，在李宁之前，安踏也曾与库里方面有过接触，也有一度达成合作的传言，但最终未能成型。有媒体推测，除了报价之外，真正让天平倾向李宁的是后者愿意给出的自主权，这是一个比金额更难复制的筹码。 这其实非常符合库里“不选主流品牌”的一贯逻辑。 十三年前，库里没有与耐克续约，转投了当时还是运动品牌“新秀”的安德玛（Under Armour）",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-xh2vpz",
+      "id": "rss-google_news_cn_36kr_deals-2bad6e",
       "type": "news",
-      "title": "8点1氪丨分析师曝苹果Vision Pro产品线被移除；黄仁勋将首次亮相综艺节目；粉笔CEO就骂人大学生“活该找不到工作”道歉",
-      "url": "https://36kr.com/p/3839505332161026?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-04T23:46:55.000Z",
-      "summaryHint": "今日热点导览 微信正与手机厂商合作推出Agent-to-Agent助手能力 擅用“LABUBU”相近标识商业推广，泡泡玛特告奈雪的茶获赔32万 腾讯客服回应与华为、小米等合作 神农旅游集团就国道收费进行道歉 苹果智能眼镜推迟至2029年，无显示屏AI眼镜仍将于2027年推出 TOP 3 大新闻 分析师曝苹果Vision Pro产品线被移除，2027年推AI眼镜 知名苹果分析师郭明錤发布最新供应链调查称，苹果已正式从其XR头显与智能眼镜路线图中移除Vision Pro系列后续产品，资源全面转向更具大众市场潜力的AI眼镜品类。据悉，这一重大战略调整已获苹果下一任CEO约翰·特努斯批准。 郭明錤表示，他大约一年前整理的苹果眼镜路线图“已不再是有效的参考”，目前路线图上仅剩两款智能眼镜产品处于活跃开发状态。其中，配备光学波导显示屏的AR/XR智能眼镜已推迟至2029年发布；而不含显示屏、类似Ray",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-ram17g",
-      "type": "news",
-      "title": "重估比亚迪，从智驾开始",
-      "url": "https://www.qbitai.com/2026/06/429192.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-04T13:10:19.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-eie8k7",
-      "type": "news",
-      "title": "中国足球小将夺冠，比亚迪携手足球少年走向世界",
-      "url": "https://www.qbitai.com/2026/06/429186.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-04T13:00:31.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-w9qc2k",
-      "type": "news",
-      "title": "00后创业者站上C位，「go big or go home」｜36氪离线聚会第二期",
-      "url": "https://36kr.com/p/3838702884604421?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-04T10:12:58.000Z",
-      "summaryHint": "“妨碍真理发现过程的，不是谎言，而是极其精辟的错误见解。”德国物理学家兼讽刺作家利希滕贝格在面对启蒙运动中的种种愚昧时，戏谑式地写下了这一句名言。 许多误判之所以危险，恰恰因为它们看上去过于正确。它们能在一个短周期里解释世界，也容易在世界已经变化之后，继续以“共识”的面貌停留在原地。 AI也曾经历类似的混沌阶段。 过去两年，人们习惯用一些简单指标理解这场变化：谁拥有更多GPU，谁训练了更大参数的模型，谁的团队烧掉了更多Token。以至于硅谷一度流行“Token消耗量”的隐形竞赛，以证明到底谁是最AI&nbsp;Native的公司。 但现实是，Token消耗量可以衡量投入的程度，却无法衡量投入的方向——方向错了，消耗本身就是一种浪费。这也是Token最容易被误读的地方。 5月29日晚上， 36氪联合光源资本在北京举办“离线聚会第二期·&nbsp;TokenAge” 。这次我们不过多关注消耗量",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-vrbu7j",
-      "type": "news",
-      "title": "收费才是DeepSeek的“成人礼” - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mNkxTTU9vUDhzdHhMbHVHNVlUbXVYM3FHdlc2NHRIaXk4cERIV2Zjbm1nS1g5WmZiOUFBTDZpYS1jRlVfNDVVbnBnYjdxZw?oc=5",
+      "title": "复旦学姐，估值1000亿 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1scDRPYWM5cjFsR1FUcm5nRmhpQV9Id0JBd1R0MlE1bXo4UjZVSkVmbE0wT0UtTkR3Mzk5aURya3FmTzdEeHh1TUpQXzhfdw?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-03T17:51:00.000Z",
-      "summaryHint": "收费才是DeepSeek的“成人礼” &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-05-30T10:23:00.000Z",
+      "summaryHint": "复旦学姐，估值1000亿 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -599,313 +601,313 @@
       ]
     },
     {
-      "id": "reddit-rss-sscwtv",
+      "id": "reddit-rss-m8vpep",
       "type": "social_en",
-      "title": "Are We Underestimating Small Edge AI Models?[D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1txgeu0/are_we_underestimating_small_edge_ai_modelsd/",
+      "title": "Using FC26 to simulate the world cup ? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tybqrx/using_fc26_to_simulate_the_world_cup_d/",
       "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-06-05T09:55:39.000Z",
-      "summaryHint": "A lot of recent discussion around Edge AI focuses on running increasingly larger local LLMs. Meanwhile modern smartphones already have enough compute for many practical computer vision tasks that don&#39;t require massive models at all. I r",
+      "publishedAt": "2026-06-06T08:34:37.000Z",
+      "summaryHint": "maybe this should be asked in the Fc26 game subreddit but not sure. Anyway I just saw a video of someone predicting the winner of the world cup using the simulate match feature in the game but he only did it once. Would running this feature",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-ue60on",
+      "id": "reddit-rss-selp5a",
       "type": "social_en",
-      "title": "3DGS Render update: experimental splat rigging/light baking + .ply sequence export",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1txfyqb/3dgs_render_update_experimental_splat/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-06-05T09:30:04.000Z",
-      "summaryHint": "Hey everyone, Joe from KIRI Engine here. I wanted to share the new update to our 3DGS Render addon because this one is very much aimed at people experimenting on the outer limits of splat workflows. The addon is now updated for Blender 5.1,",
+      "title": "In this video, I go over my approach to creating a Dark Energy Orb effect using Niagara and materials in Unreal Engine.",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1tybj1w/in_this_video_i_go_over_my_approach_to_creating_a/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-06-06T08:21:40.000Z",
+      "summaryHint": "It&#39;s not a full step-by-step tutorial. Instead, I break down the techniques and workflow I used to get to the final result and explain how the effect was built. Watch it here: https://youtu.be/9OwxkKf33EY?si=iVND_AF4TOE6OsP8 &#32; submi",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-ovy6eh",
+      "id": "reddit-rss-bu7tvo",
       "type": "social_en",
-      "title": "anthropic wants a global ai freeze. they're also about to ipo at $1 trillion.",
-      "url": "https://www.reddit.com/r/artificial/comments/1txeysy/anthropic_wants_a_global_ai_freeze_theyre_also/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-06-05T08:32:45.000Z",
-      "summaryHint": "so anthropic just dropped a blog post calling for a global pause on frontier ai development, warning that models could start recursively self-improving and spiral beyond human control. sounds scary. sounds noble. let&#39;s talk about what&#",
+      "title": "Virtual camera question",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1ty9uv4/virtual_camera_question/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-06-06T06:45:24.000Z",
+      "summaryHint": "Connected my phone to use as the virtual camera, to make some found footage videos but my problem is walking, the joystick does not do a great job of making a believable walking If i want to do something like horror found footage where the ",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-dqu8bp",
+      "id": "reddit-rss-if7ss",
       "type": "social_en",
-      "title": "What software do you use?",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1txduc4/what_software_do_you_use/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-06-05T07:25:12.000Z",
-      "summaryHint": "Hello I started working with Brush on my mac. My first results are not so good, maybe because I&#39;m a beginner in gaussian splatting method. Maybe photo set doesn&#39;t have a quality I need. I want to ask you what software do you use? Po",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-39ecpy",
-      "type": "social_en",
-      "title": "Gemma 4 12B is my new main squeeze",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txdcj9/gemma_4_12b_is_my_new_main_squeeze/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-06-05T06:57:14.000Z",
-      "summaryHint": "The Unsloth Q5_K_XL is officially my main squeeze for local coding. I started out with the Q4_K_XL, but found myself fixing syntax errors a little too often. It wasn&#39;t terrible, but I had one file where I had to make 23 edits just for s",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-bs23lv",
-      "type": "social_en",
-      "title": "Turns out femboy baiting is a pretty solid marketing strategy in Chinese social platform.",
-      "url": "https://www.reddit.com/r/gamedev/comments/1txd5ig/turns_out_femboy_baiting_is_a_pretty_solid/",
+      "title": "Are Developers Forgetting That Most Gamers Don't Have High-End PCs?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1ty91vd/are_developers_forgetting_that_most_gamers_dont/",
       "source": "reddit_r_gamedev",
-      "publishedAt": "2026-06-05T06:46:08.000Z",
-      "summaryHint": "I am posting content on a Chinese social platform called Heybox(小黑盒). Post game content: 1-2k views, 10 likes, 3 comments. Post a picture of myself dressing up with game content: 60k views, 3k likes, 450 comments. Lots of the viewers actual",
+      "publishedAt": "2026-06-06T06:00:32.000Z",
+      "summaryHint": "I sometimes feel like developers are forgetting that most gamers don&#39;t have high-end PCs.One thing I think developers underestimate is how much accessibility contributes to a game&#39;s success. Games like CS:GO, Minecraft, Valorant, El",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-t7b9fo",
+      "id": "reddit-rss-1c21zd",
       "type": "social_en",
-      "title": "Finally got closer to the NFS-style engine sound for my Unreal car physics plugin",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1txaa6v/finally_got_closer_to_the_nfsstyle_engine_sound/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-06-05T04:12:30.000Z",
-      "summaryHint": "Finally got much closer to the NFS-style engine sound I was aiming for. When I released my Unreal Engine car physics plugin, most people liked the NFS-style driving feel, especially the stable handling and drifting. But almost everyone poin",
+      "title": "3 years, $5k, 250 wishlists. I now know why I make games.",
+      "url": "https://www.reddit.com/r/gamedev/comments/1ty8ot1/3_years_5k_250_wishlists_i_now_know_why_i_make/",
+      "source": "reddit_r_gamedev",
+      "publishedAt": "2026-06-06T05:40:45.000Z",
+      "summaryHint": "My second big project dropped last week. I launched with ~250 wishlists. I did marketing when I could, in the capacity that I could. I&#39;m not new to this. None of this is surprising. I always hit that wall of &quot;I COULD do a media pos",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-chyetl",
+      "id": "reddit-rss-aqrrec",
       "type": "social_en",
-      "title": "Finally finished my LLM server: EPYC 9575F, 4× RTX 3090 (96GB VRAM), 768GB ECC RAM",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tx9tf2/finally_finished_my_llm_server_epyc_9575f_4_rtx/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-06-05T03:49:25.000Z",
-      "summaryHint": "Took a while, but Nalthis is finally up and assembled. Specs: Supermicro H13SSL-N AMD EPYC 9575F (64C/128T Zen 5) 768GB DDR5-5600 ECC RDIMM 4× RTX 3090 (96GB VRAM total) 1× 2TB NVMe OS 2× 3.94TB NVMe data 2050W ATX 3.1 PSU Corsair 9000D Pla",
+      "title": "Feedback Appreciated! Unity URP Sci Fi Environment",
+      "url": "https://www.reddit.com/r/Unity3D/comments/1ty8bcr/feedback_appreciated_unity_urp_sci_fi_environment/",
+      "source": "reddit_r_Unity3D",
+      "publishedAt": "2026-06-06T05:21:07.000Z",
+      "summaryHint": "I have been working on this project for about a year and a half. Every model is custom made in blender and every texture is custom made in Aesprite and I use Unity as my game engine. Any targeted feedback at getting better lighting or setti",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-e0ky77",
+      "id": "reddit-rss-uobdpz",
       "type": "social_en",
-      "title": "Console games need to be on the newest engine version?",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1tx9bzi/console_games_need_to_be_on_the_newest_engine/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-06-05T03:25:42.000Z",
-      "summaryHint": "My game is near completion, and I’ve recently heard that due to the frequent expiration of GDKs, major consoles require your games to be on the newest version of Unreal. Is this true? Aren’t there people still making UE4 games? I’m sure the",
+      "title": "Benefits and Risks of AI at Harvard Class Day 2026",
+      "url": "https://www.reddit.com/r/artificial/comments/1ty7pt5/benefits_and_risks_of_ai_at_harvard_class_day_2026/",
+      "source": "reddit_r_artificial",
+      "publishedAt": "2026-06-06T04:49:30.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/chunmunsingh [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-w9ftay",
+      "id": "reddit-rss-sh5iz2",
       "type": "social_en",
-      "title": "Steam Frame and Steam Machine shipping this summer",
-      "url": "https://www.reddit.com/r/virtualreality/comments/1tx7wsy/steam_frame_and_steam_machine_shipping_this_summer/",
+      "title": "Immersed visor employees are at the spurs game promoting and being disrespectful.",
+      "url": "https://www.reddit.com/r/virtualreality/comments/1ty4yh3/immersed_visor_employees_are_at_the_spurs_game/",
       "source": "reddit_r_virtualreality",
-      "publishedAt": "2026-06-05T02:18:08.000Z",
-      "summaryHint": "https://store.steampowered.com/news/group/4145017/view/716780409378048027 &#32; submitted by &#32; /u/Benbye1 [link] &#32; [comments]",
+      "publishedAt": "2026-06-06T02:31:57.000Z",
+      "summaryHint": "The only reason i know about this is because they are promoting it and yelling about it. Every time defense chants are called, Knicks are shooting free throws, they are yelling “Immersed visor order now”. Arena workers told them to stop, th",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-8do2ir",
+      "id": "reddit-rss-diqs92",
       "type": "social_en",
-      "title": "I am now negotiating with AI as part of my job, and it's going like you would expect. How can I circumvent it to speak to a representative?",
-      "url": "https://www.reddit.com/r/artificial/comments/1tx56d7/i_am_now_negotiating_with_ai_as_part_of_my_job/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-06-05T00:15:01.000Z",
-      "summaryHint": "TLDR - auto lenders are using AI bots to negotiate insurance settlements with inaccurate information. How can I Captain Kirk them and get a live person on the phone? I am an insurance claims adjuster. Recently, several high-interest auto lo",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-y8amw7",
-      "type": "social_en",
-      "title": "finally",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tx4yjo/finally/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-06-05T00:05:11.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/KvAk_AKPlaysYT [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-72waif",
-      "type": "social_en",
-      "title": "Steam nuked Popular Upcoming",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tx42yd/steam_nuked_popular_upcoming/",
-      "source": "reddit_r_gamedev",
-      "publishedAt": "2026-06-04T23:26:43.000Z",
-      "summaryHint": "The new version was in Steam beta for some time, and today it went live. Now only huge games are allowed in the list. The common advice to get 7k wishlists to get into PU is now obsolete, but hey we got the capybara tag. They did add a new ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-1dp5uj",
-      "type": "social_en",
-      "title": "ArtiFixer code and weights have been released",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1tx3h29/artifixer_code_and_weights_have_been_released/",
+      "title": "TripoSplat & QWEN w. Lora - Move To Any New Camera Angle Fast",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1ty4s9k/triposplat_qwen_w_lora_move_to_any_new_camera/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-06-04T23:00:47.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/corysama [link] &#32; [comments]",
+      "publishedAt": "2026-06-06T02:23:29.000Z",
+      "summaryHint": "tl;dr just give me the ComfyUI workflows (download from here) (Reddit suggested I post it into this group, so I am doing so. I&#39;ve been waiting for GSplats to converge on my work in ComfyUI, and this is the moment it finally did. This is",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-jio7br",
+      "id": "reddit-rss-radx30",
       "type": "social_en",
-      "title": "DLSS 4.5 Unreal Engine Plugin Now Available",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1tx1ypf/dlss_45_unreal_engine_plugin_now_available/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-06-04T21:59:43.000Z",
-      "summaryHint": "The new DLSS 4.5 Unreal Engine plugin is now available and supports DLSS 4.5 Dynamic Multi Frame Generation, Multi Frame Generation 6x Mode, and the second-generation transformer for Super Resolution. It includes updated APIs, documentation",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-6zh2d6",
-      "type": "social_en",
-      "title": "bitwise hypercube in rust wgpu (1 million surfels - vec 4 + live audio)",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1tx0ntz/bitwise_hypercube_in_rust_wgpu_1_million_surfels/",
+      "title": "Made earth holograms from all of earths data updating in real time. What do we want in the sdk and may I share progression as I build it with you all? It's my first build.",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1ty2lhz/made_earth_holograms_from_all_of_earths_data/",
       "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-06-04T21:10:11.000Z",
-      "summaryHint": "the audio is just a transform on the visual data I was kind of tip toeing around simulating an actual hypercube so I wanted to just make this and have it in my pocket I run out of surfels once this thing hits 11D and the lines stop showing,",
+      "publishedAt": "2026-06-06T00:40:22.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/Existing_Leopard_231 [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-ojs2j",
+      "id": "reddit-rss-jyd7ec",
       "type": "social_en",
-      "title": "For so long I wanted to create this satisfying animation when removing terrain, I finally did it!",
-      "url": "https://www.reddit.com/r/Unity3D/comments/1twxsi9/for_so_long_i_wanted_to_create_this_satisfying/",
-      "source": "reddit_r_Unity3D",
-      "publishedAt": "2026-06-04T19:24:24.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/vhalenn [link] &#32; [comments]",
+      "title": "OpenLumara - A different kind of AI agent, written from scratch, not vibecoded. Extremely token-efficient, super small system prompt, made for local models. Everything is modular.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txxgpq/openlumara_a_different_kind_of_ai_agent_written/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-06-05T21:05:08.000Z",
+      "summaryHint": "Hi locallama community! Yes, I know, yet another AI agent announcement post. There are a dime a dozen out there... most of them though, are vibecoded, often very sloppy, and eat through context like no tomorrow. This is different. This runs",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-qpgnqn",
+      "id": "reddit-rss-o22whu",
       "type": "social_en",
-      "title": "Fab - Add Option To Block Vendors",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1twuzr9/fab_add_option_to_block_vendors/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-06-04T17:47:12.000Z",
-      "summaryHint": "Since late last year, Daz3D has been absolutely FLOODING the marketplace with shitty, overpriced assets. Can we please get an option to filter out certain vendors? &#32; submitted by &#32; /u/5paceCat [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-i66qf2",
-      "type": "social_en",
-      "title": "$2.5T in AI spending this year. 95% produces zero P&L impact.",
-      "url": "https://www.reddit.com/r/artificial/comments/1twupqt/25t_in_ai_spending_this_year_95_produces_zero_pl/",
+      "title": "I launched a brand-new author identity with zero web presence. An AI cited him correctly in 6 days — while a firewall blocked every AI crawler from the site the whole time",
+      "url": "https://www.reddit.com/r/artificial/comments/1txvhd1/i_launched_a_brandnew_author_identity_with_zero/",
       "source": "reddit_r_artificial",
-      "publishedAt": "2026-06-04T17:37:45.000Z",
-      "summaryHint": "Gartner updated their 2026 forecast to $2.5 trillion in global AI spending. Same week, MIT&#39;s NANDA Initiative dropped a follow-up: 95% of enterprise gen AI projects deliver zero measurable return. Not low return. Zero. I&#39;ve been on ",
+      "publishedAt": "2026-06-05T19:50:47.000Z",
+      "summaryHint": "I ran a small experiment on myself and the result broke my mental model of how AI &quot;knows&quot; things, so I&#39;m sharing it. The setup: on May 11 I created a brand-new pseudonymous fantasy author entity (&quot;Marin T. Kael&quot;) wit",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-sfqvr",
+      "id": "reddit-rss-efjypx",
       "type": "social_en",
-      "title": "Probably the most beautiful graphics in VR I've seen this year",
-      "url": "https://www.reddit.com/r/virtualreality/comments/1twqil8/probably_the_most_beautiful_graphics_in_vr_ive/",
-      "source": "reddit_r_virtualreality",
-      "publishedAt": "2026-06-04T15:11:22.000Z",
-      "summaryHint": "Game is called Fatekeeper, playing in VR with UEVR. High res full video here with download links It&#39;s in very early access but cheap at $8 right now, it looks so freaking good visually &#32; submitted by &#32; /u/lunchanddinner [link] &",
+      "title": "Don’t act like y’all ain’t thinking it. I’m just saying the quiet part out loud. /s",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txufl9/dont_act_like_yall_aint_thinking_it_im_just/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-06-05T19:11:50.000Z",
+      "summaryHint": "Of course I’m thankful for all that Qwen has bequeathed us, but deep down in the darkest pit of our souls, every last one of us are just all sitting here waiting for Qwen to say “Hey Google, hold my beer while I drop the best GD model of al",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-aikq4g",
+      "id": "reddit-rss-4wsajo",
       "type": "social_en",
-      "title": "After 1.5 years of hard work, we've finally released a demo on itch.",
-      "url": "https://www.reddit.com/r/Unity3D/comments/1twpxm2/after_15_years_of_hard_work_weve_finally_released/",
+      "title": "Genuine question - is Fab usable for anyone?",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1txtoer/genuine_question_is_fab_usable_for_anyone/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-06-05T18:44:47.000Z",
+      "summaryHint": "Im at a bit of a loss. Unreal is a godsend for me and blueprints allowed me to learn an engine and change the course of my life. Literally. So this isnt coming from a &quot;I hate everything about Epic and Unreal&quot; place. But what the f",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-brhgup",
+      "type": "social_en",
+      "title": "How do make Gameplay Effects work with turn-based combat?",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1txtmvr/how_do_make_gameplay_effects_work_with_turnbased/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-06-05T18:43:16.000Z",
+      "summaryHint": "I have been implementing Gameplay Effects into my game. And I was wondering how I would tool it to work with a turn-based system. As the tutorials I have found all exclusively talk about real time gameplay. And how to set durative gameplay ",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-a5vjgq",
+      "type": "social_en",
+      "title": "10+ years building a racing game in Unity",
+      "url": "https://www.reddit.com/r/Unity3D/comments/1txt1f2/10_years_building_a_racing_game_in_unity/",
       "source": "reddit_r_Unity3D",
-      "publishedAt": "2026-06-04T14:50:59.000Z",
-      "summaryHint": "We made this on URP, but used lots of different plugins for the final visuals. Special kudos to AdaptiveGI. Also, the combat system and the dungeon generation has been built from scratch. I used principles laid out by Enter the Gungeon&#39;",
+      "publishedAt": "2026-06-05T18:21:21.000Z",
+      "summaryHint": "I&#39;ve been working on this racing project for over 10 years. Outside of game development, I&#39;m also involved in real-world motorsports. The goal of this project has always been to build an ultimate, highly dynamic racing experience - ",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-uxituo",
+      "id": "reddit-rss-r7y0qv",
       "type": "social_en",
-      "title": "Being exploited as a corporate videographer. Anyone else?",
-      "url": "https://www.reddit.com/r/videography/comments/1twote7/being_exploited_as_a_corporate_videographer/",
+      "title": "Weekly VR - What Did you Play?",
+      "url": "https://www.reddit.com/r/virtualreality/comments/1txsgnf/weekly_vr_what_did_you_play/",
+      "source": "reddit_r_virtualreality",
+      "publishedAt": "2026-06-05T18:00:39.000Z",
+      "summaryHint": "Hey r/virtualreality ! Another week in the VR space. Did a certain game or experience stand out to you? This is your spot to chat, share, and discover. When sharing, you might consider sharing: Name of the game or experience. A brief insigh",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-8k26uf",
+      "type": "social_en",
+      "title": "Why the Great Calculator Debate of the 1980s is still relevant today and how Isaac Asimov got AI right in 1956",
+      "url": "https://www.reddit.com/r/artificial/comments/1txrw9m/why_the_great_calculator_debate_of_the_1980s_is/",
+      "source": "reddit_r_artificial",
+      "publishedAt": "2026-06-05T17:40:07.000Z",
+      "summaryHint": "Back in the 1980s a debate raged about whether it was okay to let children use calculators in elementary school. Critics warned that giving kids calculators would lead to the &quot;destruction of student math skills.&quot; A similar debate ",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-bwxrl6",
+      "type": "social_en",
+      "title": "Mercurial I | Me | 2026 | The full version (no watermark) is in the comments",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1txqgxv/mercurial_i_me_2026_the_full_version_no_watermark/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-06-05T16:49:30.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/has_some_chill [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-qlwx8w",
+      "type": "social_en",
+      "title": "Gemma 4 with quantization-aware training",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txpeo0/gemma_4_with_quantizationaware_training/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-06-05T16:11:21.000Z",
+      "summaryHint": "Google&#39;s collections: https://huggingface.co/collections/google/gemma-4-qat-q4-0 https://huggingface.co/collections/google/gemma-4-qat-mobile And Unsloth&#39;s: https://huggingface.co/collections/unsloth/gemma-4-qat Unsloth&#39;s analys",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-5d0uqu",
+      "type": "social_en",
+      "title": "The strange thing about LLM reasoning research: we're now trying to remove the chain-of-thought traces",
+      "url": "https://www.reddit.com/r/artificial/comments/1txp7ah/the_strange_thing_about_llm_reasoning_research/",
+      "source": "reddit_r_artificial",
+      "publishedAt": "2026-06-05T16:04:12.000Z",
+      "summaryHint": "After spending the last few weeks reading through the reasoning literature, I noticed a trend that seems worth discussing. For the past 2–3 years, a large fraction of progress in LLM reasoning came from making models generate more intermedi",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-srnled",
+      "type": "social_en",
+      "title": "Cyberpunk: Edgerunners Moon Scene Recreation | Blender 4.5 Cycles",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1txoxzf/cyberpunk_edgerunners_moon_scene_recreation/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-06-05T15:55:23.000Z",
+      "summaryHint": "Fan art recreation of Lucy and David&#39;s moon scene from Cyberpunk: Edgerunners. Rendered entirely in Blender 4.5 using Cycles. Most of the work went into balancing the Earth lighting, lunar surface materials, and preserving the recogniza",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-a6sfgb",
+      "type": "social_en",
+      "title": "Found SD Card",
+      "url": "https://www.reddit.com/r/videography/comments/1txn00x/found_sd_card/",
       "source": "reddit_r_videography",
-      "publishedAt": "2026-06-04T14:10:23.000Z",
-      "summaryHint": "I’m at my wits end but I don’t have any other options. I’m am the in-house videographer of a large corporate company. It is only me. We have a big shoot coming up where we will be shooting 8 different people talking to a teleprompter - They",
+      "publishedAt": "2026-06-05T14:45:07.000Z",
+      "summaryHint": "Just helping someone else on Facebook find the possible owner of this lost SD card in New York, files dated May 9, 2026. &#32; submitted by &#32; /u/knsaber [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-btond5",
+      "id": "reddit-rss-em1ji6",
       "type": "social_en",
-      "title": "Claude is completely unusable now",
-      "url": "https://www.reddit.com/r/artificial/comments/1twn3m7/claude_is_completely_unusable_now/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-06-04T13:05:10.000Z",
-      "summaryHint": "Has anyone else experienced this recently? It’s been getting worse for a while but 4.8 is distinctly worse for me. Claude does everything it can to get out of work and frequently uses its “end conversation” tool inappropriately with me. It ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-i4d0gp",
-      "type": "social_en",
-      "title": "On-policy distillation: one of the hottest terms on PapersWithCode [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1twmhud/onpolicy_distillation_one_of_the_hottest_terms_on/",
+      "title": "How do you identify researchers who are good? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1txlxm6/how_do_you_identify_researchers_who_are_good_d/",
       "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-06-04T12:40:48.000Z",
-      "summaryHint": "Hi, Niels here from the open-source team at Hugging Face. At paperswithcode.co I am trying to make it easier for people to learn about the newest techniques used across AI papers. One of the hottest terms in AI research that I&#39;ve recent",
+      "publishedAt": "2026-06-05T14:04:59.000Z",
+      "summaryHint": "About 10 years ago, I got into the basics of ML (like regression, KNN&#39;s, LVQ&#39;s) and read a few papers before taking a break a few years back. It feels like now, there&#39;s a lot of researchers in AI. How do you identify the ones wh",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-cuuppr",
+      "id": "reddit-rss-tfhjc8",
       "type": "social_en",
-      "title": "WGPU DEM 3D Renderer, my learning project to learn Rust, wgpu and working with geospatial data",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1twh8ex/wgpu_dem_3d_renderer_my_learning_project_to_learn/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-06-04T08:13:05.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/Foreign-Expert-9722 [link] &#32; [comments]",
+      "title": "A quick Spatial Studio update for large 3DGS scene handling.",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1txiiuc/a_quick_spatial_studio_update_for_large_3dgs/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-06-05T11:42:44.000Z",
+      "summaryHint": "We&#39;ve been iterating on our Gaussian Splatting pipeline and recently shipped a few major upgrades to our publishing stack. Recent additions: LCC integrated into the production workflow Migration to the latest PlayCanvas foundation LOD s",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-3kki31",
+      "id": "reddit-rss-3hw5i7",
       "type": "social_en",
-      "title": "CGI - Architecture",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1tvsua3/cgi_architecture/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-06-03T15:30:05.000Z",
-      "summaryHint": "https://www.behance.net/gallery/250329595/Corten-Autumn-Living &#32; submitted by &#32; /u/Such_Fisherman_7900 [link] &#32; [comments]",
+      "title": "What if the entire Earth could be streamed as a photorealistic 3D world? — billions of Gaussian splats, in a browser (PlayCanvas, WebGPU + WebGL)",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1txhzu5/what_if_the_entire_earth_could_be_streamed_as_a/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-06-05T11:17:20.000Z",
+      "summaryHint": "🌍 What if the entire Earth could be streamed as a photorealistic 3D world? This is a prototype that renders billions of 3D Gaussian splats directly in the browser — no install, just a tab. Powered by the PlayCanvas engine, running on WebGP",
       "tags": [
         "ai_social"
       ]
@@ -942,18 +944,6 @@
       "source": "reddit_r_MachineLearning",
       "publishedAt": "2026-05-31T02:30:27.000Z",
       "summaryHint": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you&#39;re looking for] For Those looking for jobs please use this template Want to",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-bandbq",
-      "type": "social_en",
-      "title": "Weekly VR - What Did you Play?",
-      "url": "https://www.reddit.com/r/virtualreality/comments/1tra4k9/weekly_vr_what_did_you_play/",
-      "source": "reddit_r_virtualreality",
-      "publishedAt": "2026-05-29T18:00:37.000Z",
-      "summaryHint": "Hey r/virtualreality ! Another week in the VR space. Did a certain game or experience stand out to you? This is your spot to chat, share, and discover. When sharing, you might consider sharing: Name of the game or experience. A brief insigh",
       "tags": [
         "ai_social"
       ]
