@@ -1,7 +1,38 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06T08:48:03.757Z",
+  "updatedAt": "2026-06-07T09:41:10.987Z",
   "items": [
+    {
+      "id": "rss-36kr-xqoiyv",
+      "type": "funding",
+      "title": "沪市公司将密集分红 未来一周A股分红近千亿元",
+      "url": "https://36kr.com/newsflashes/3842799319435784?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-07T07:58:28.000Z",
+      "summaryHint": "记者从上交所了解到，统计显示，未来一周（6月8日至6月12日），共有近200家公司将实施2025年度期末分红，合计对应年度分红金额919亿元，其中，中国平安、中信银行A股派现额近187亿元、79亿元，均将于6月10日“到账”。近期，沪市上市公司2025年年报现金分红进入密集实施期，沪市公司以真金白银回馈投资者。截至6月5日，已有438家沪市公司派发2025年年报现金红利，实际派现金额合计约2810亿元，分红实施进度已达四分之一，整体推进节奏平稳有序，同时，意味着还有超8000亿“年度红包”尚在途，将在未来密集落地。（证券时报）",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "amount": "919亿元"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-2qamkd",
+      "type": "funding",
+      "title": "星连资本被投企业珀乐互动完成天使轮融资，以AI+IP重塑数字内容生态 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01ZEZ2RUpXNWQ1cDNyODlBUXZQYnVTY2VKN1JXa1prN2RQQmpsX05KWjRuT0lnZW5YOUpHNThDMDhONHhoaGlNbW9Ka1N4SUxw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-06-07T02:26:49.000Z",
+      "summaryHint": "星连资本被投企业珀乐互动完成天使轮融资，以AI+IP重塑数字内容生态 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "天使轮"
+    },
     {
       "id": "rss-36kr-tjr0uw",
       "type": "funding",
@@ -109,6 +140,23 @@
       "amount": "150亿"
     },
     {
+      "id": "rss-google_news_cn_36kr_deals-osevjl",
+      "type": "funding",
+      "title": "隔空交互项目获3000万元A轮融资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WUFJacjZTckZOZlF2VEgxdXZCRXF1Z0NGRmtQcU1vaEFuZGpYY0FGWHp5bXVuTTB3bHJzNVNIeGJBaTQwWFVwTTVHTQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-06-04T12:34:00.000Z",
+      "summaryHint": "隔空交互项目获3000万元A轮融资 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "A轮融资",
+      "amount": "3000万元"
+    },
+    {
       "id": "rss-google_news_cn_36kr_deals-sqi9xk",
       "type": "funding",
       "title": "国家队下场做AI虚拟细胞，「百曜科技」完成数千万元新一轮融资｜36氪首发 - 36 Kr",
@@ -122,22 +170,6 @@
         "deal_rss",
         "deal_signal"
       ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-wyh1q3",
-      "type": "funding",
-      "title": "AI树洞「found」切入心理健康市场，寻求天使轮融资 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00UWNUMkZMYjZJUUxuNk1BbkJXdENtdFRzU1gtUnlYUUFkelVObTV2bUw4YVJkQUp1RndudkZndUp6T1huYV9lSXJGMA?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-04T07:21:32.000Z",
-      "summaryHint": "AI树洞「found」切入心理健康市场，寻求天使轮融资 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "天使轮"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-jz1l5e",
@@ -168,22 +200,6 @@
         "deal_rss",
         "deal_signal"
       ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-ixa7j",
-      "type": "funding",
-      "title": "快手旗下可灵AI正进行融资：投前估值180亿美元，计划2027年赴港上市 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Zc1NaMThsWUhndjlreWdvazJRalF0ZUhsTEk2clk0Wm94a2tQRzI2UEhYTzdvVmI3UXZFWFRQbjhPNjl5VFRZcExMRmpCdVhJYUhvTlhnczFiWHJTV1E?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-03T06:51:13.000Z",
-      "summaryHint": "快手旗下可灵AI正进行融资：投前估值180亿美元，计划2027年赴港上市 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "180亿"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-j7dj1g",
@@ -265,104 +281,182 @@
       "amount": "800亿"
     },
     {
-      "id": "rss-36kr-ky2s1q",
+      "id": "rss-36kr-wo3hee",
       "type": "news",
-      "title": "刘伟担任中基协新一届监事长",
-      "url": "https://36kr.com/newsflashes/3841428159301893?f=rss",
+      "title": "新宙邦：与宁德时代签订电解液合作协议 预计2026-2028年采购量合计30万吨",
+      "url": "https://36kr.com/newsflashes/3842865935796488?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-06T08:22:47.000Z",
-      "summaryHint": "上证报记者6月6日从中国证券投资基金业协会（下称“中基协”）第四届会员代表大会上获悉，刘伟担任中基协新一届监事长。（上海证券报）",
+      "publishedAt": "2026-06-07T09:30:15.000Z",
+      "summaryHint": "新宙邦公告称，公司与宁德时代签订《电解液合作协议》，约定2026年至2028年期间，宁德时代预计向公司采购电解液量分别为5万吨、10万吨和15万吨，合计30万吨。协议有效期至2028年12月31日，具体采购以实际订单为准。若违约，需赔偿2500万元。该协议预计对公司2026-2028年经营成果产生积极影响。",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-7nxnjy",
+      "id": "rss-36kr-tv9uhk",
       "type": "news",
-      "title": "2026年第二批医保参照药预沟通论证顺利实施",
-      "url": "https://36kr.com/newsflashes/3841423767603465?f=rss",
+      "title": "派瑞股份：公司股票被实施其他风险警示 6月9日起简称变更为“ST派瑞”",
+      "url": "https://36kr.com/newsflashes/3842804170918147?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-06T08:18:19.000Z",
-      "summaryHint": "据国家医保局消息，近期，国家医疗保障局收到了企业提交的第二批28个参照药预沟通申报信息。经形式审查、信息公示后，来自中华医学会、中国医疗保险研究会、部分医疗机构、高校的临床、药学、药物经济学专家以及医保管理专家，对第二批申报药品进行了论证，结果已正式反馈各申报企业。目前2026年医保药品目录申报工作已经开始，根据《参照药预沟通办法（试行）》，对前两批论证结果有异议且希望再次开展论证的药品，如果申报了2026年药品目录调整，参照药将在目录调整综合评审阶段按流程论证确定，并以评审确定的参照药为准。（证券时报）",
+      "publishedAt": "2026-06-07T09:15:24.000Z",
+      "summaryHint": "派瑞股份公告称，公司收到证监会陕西监管局下发的《行政处罚事先告知书》，因公司2024年年度报告和2025年半年度报告存在虚假记载，根据相关规定，公司股票交易将被实施其他风险警示。公司股票自2026年6月8日开市起停牌一天，将于6月9日开市起复牌，股票简称由“派瑞股份”变更为“ST派瑞”，日涨跌幅限制仍为20%。公司已对相关财务报表进行会计差错更正，并启动财务内控专项提升行动。（财联社）",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-f2tiyi",
+      "id": "rss-36kr-kowsvt",
       "type": "news",
-      "title": "5日国际金价和银价显著下跌 全周均累计大幅下跌",
-      "url": "https://36kr.com/newsflashes/3841422772455689?f=rss",
+      "title": "金时科技：控股子公司拟投建千吨级多孔炭产线项目",
+      "url": "https://36kr.com/newsflashes/3842802928306434?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-06T08:17:19.000Z",
-      "summaryHint": "受美债收益率和美元指数上涨、主要黄金消费国印度实物黄金需求低迷等因素拖累，国际金价几乎抹去了年内全部涨幅，银价跌至年内低点。截至收盘，纽约商品交易所8月交割的黄金期价报每盎司4365.30美元，跌幅为3.10%；7月交割的白银期价报每盎司69.103美元，跌幅为6.58%。本周，纽约黄金期货主力合约价格累计下跌近5%，白银期货主力合约价格累计下跌超8.9%。（央视新闻）",
+      "publishedAt": "2026-06-07T09:00:01.000Z",
+      "summaryHint": "6月7日，金时科技(002951.SZ)公告称，控股子公司金时新能拟投资建设“千吨级多孔炭产线建设项目”，预计总投资2.30亿元，建成后将形成年产1000吨多孔炭的生产能力。（每经网）",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-xguy2a",
+      "id": "rss-36kr-ezl7zn",
       "type": "news",
-      "title": "尚太科技：原材料价格存在不同程度增长 公司多角度综合应对",
-      "url": "https://36kr.com/newsflashes/3841419758192900?f=rss",
+      "title": "孚能科技：股东拟合计减持不超2%公司股份",
+      "url": "https://36kr.com/newsflashes/3842801849076233?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-06T08:14:15.000Z",
-      "summaryHint": "尚太科技在互动平台表示，受宏观经济形势，相关行业需求情况，公司原材料价格存在不同程度的增长，公司多种角度综合应对原材料价格波动的挑战，应对措施包含积极与下游客户开展磋商，建立科学有效的定价机制，进行合理适度的价格传导。需要注意的是，原材料价格波动能否通过产品定价向下游传导，取决于市场环境等多重因素。（第一财经）",
+      "publishedAt": "2026-06-07T08:45:05.000Z",
+      "summaryHint": "孚能科技(688567)6月7日公告，合计持股3.5843%的股东江西立达新材料产业创业投资中心（有限合伙）北京立达高新创业投资中心（有限合伙）、共青城立达投资管理合伙企业（有限合伙）、深圳立达新能源和先进制造创业投资合伙企业（有限合伙）计划通过大宗交易方式和/或集中竞价方式减持其持有的公司股份，拟减持股份数量合计不超过2444.21万股，拟减持股份合计占公司总股本的比例不超过2%。（e公司）",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-jsqxa4",
+      "id": "rss-36kr-al5r37",
       "type": "news",
-      "title": "易方达董事长刘晓艳担任中基协新一届理事会兼职会长",
-      "url": "https://36kr.com/newsflashes/3841417483995656?f=rss",
+      "title": "华恒生物：香港联交所审议公司发行H股并在主板挂牌上市申请",
+      "url": "https://36kr.com/newsflashes/3842801052174601?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-06T08:11:56.000Z",
-      "summaryHint": "上证报记者6月6日从中国证券投资基金业协会（下称“中基协”）第四届会员代表大会上获悉，易方达董事长刘晓艳担任中基协新一届理事会兼职会长。（上证时报）",
+      "publishedAt": "2026-06-07T08:30:13.000Z",
+      "summaryHint": "6月7日，华恒生物发布公告，公司正在进行申请发行境外上市股份（H股）并在香港联合交易所有限公司主板挂牌上市的相关工作。香港联交所上市委员会于2026年6月4日举行上市聆讯，审议公司本次发行上市的申请。公司本次发行上市的保荐人已于2026年6月5日收到香港联交所向其发出的信函，其中指出香港联交所上市委员会已审阅公司的上市申请，但该信函不构成正式的上市批准，香港联交所仍有对公司的上市申请提出进一步意见的权力。（界面）",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-5asvgw",
+      "id": "rss-36kr-aedyx7",
       "type": "news",
-      "title": "富途老虎长桥之后，未被“点名”的华盛证券也将清理内地业务",
-      "url": "https://36kr.com/newsflashes/3841373065791747?f=rss",
+      "title": "优必选：优世界超仿生人形机器人首发预订单量累计��2110台",
+      "url": "https://36kr.com/newsflashes/3842800238692609?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-06T07:26:45.000Z",
-      "summaryHint": "继富途、老虎、长桥之后，又一家跨境券商宣布清理内地存量业务。华盛证券于6月6日上午向客户发布的通知称，自北京时间6月15日起，华盛证券将对存量投资者账户在中国内地的服务进行相应调整：一是在中国内地交易服务：暂停股票等所有品种的新开仓、加仓交易，仅支持卖出、平仓操作；二是在中国内地资金划转服务：暂停资金及证券转入，转出功能保持正常。通知显示，此次调整是为落实2年集中整治期的行业监管要求，推动跨境证券业务规范发展，并强调本次调整不影响为存量投资者在境外提供服务，也不影响全体客户现有资产安全，客户可正常查询账户、持有及卖出已有持仓。这也意味着，除5月22日被中国证监会直接“点名”的3家券商外，部分中小券商也将开启存量非法业务整治。6月2日以来，老虎、长桥、富途已陆续发出相关通知，宣布自6月12日起对存量投资者在中国内地的服务进行调整。（第一财经）",
+      "publishedAt": "2026-06-07T08:15:25.000Z",
+      "summaryHint": "6月7日，优必选科技宣布，旗下消费级人形机器人品牌优世界超仿生人形机器人首发预订单量6天累计达2110+台。（界面）",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-avmutk",
+      "id": "rss-36kr-bsnbx9",
       "type": "news",
-      "title": "证监会主席吴清：坚决遏制概念炒作、复杂嵌套、过度投机、通道空转等伪创新、乱创新",
-      "url": "https://36kr.com/newsflashes/3841354006645248?f=rss",
+      "title": "百度成立数字人创新业务部",
+      "url": "https://36kr.com/newsflashes/3842798722812164?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-06T07:07:22.000Z",
-      "summaryHint": "证监会官网发布吴清主席在中国证券投资基金业协会第四届会员代表大会上的致辞。吴清表示，随着人工智能等前沿技术蓬勃发展，基金行业经营模式和发展生态正在发生深刻变革。行业机构要持续提升产品、服务、业务、组织等方面创新的广度和深度，更加全面、更加有效对接市场需求。要加强科技赋能，稳妥有序探索运用人工智能、大数据等新技术，有效赋能投资投研、客户服务、内控管理等重点场景，加快数字化、智能化转型。要突出错位发展，头部机构要全面提升综合竞争实力，中小机构不要拼规模要拼特色，要立足自身资源禀赋与核心优势，聚焦重点业务领域深耕细作，走出特色化、精品化发展路线。要统筹好发展与安全，加强创新全过程风险防控，坚持创新节奏、力度与管理能力相适配，坚决遏制概念炒作、复杂嵌套、过度投机、通道空转等伪创新、乱创新。（证券时报）",
+      "publishedAt": "2026-06-07T07:44:59.000Z",
+      "summaryHint": "6月7日消息，百度MEG（移动生态事业群组）进行了新的一轮组织调整：合并商业部与电商事业部，成立大商业事业部，数字人创新业务部也升级为独立部门。（北京商报）",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-gg63kh",
+      "id": "rss-36kr-xuos9c",
       "type": "news",
-      "title": "证监会主席吴清：提升投资运作稳健性 努力为投资者创造更可持续的中长期收益",
-      "url": "https://36kr.com/newsflashes/3841347938388227?f=rss",
+      "title": "黄仁勋会见韩国两大游戏商代表共商游戏AI合作方案",
+      "url": "https://36kr.com/newsflashes/3842764594792708?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-06T07:01:11.000Z",
-      "summaryHint": "证监会官网发布吴清主席在中国证券投资基金业协会第四届会员代表大会上的致辞。吴清表示，要坚持客户为本，始终注重投资者利益优先。无论是公募基金还是私募基金，都要坚守“受人之托、代客理财”的信义义务，持续强化制度约束和利益重构，加快实现从“重规模”向“重回报”的转型。当前公募基金改革迎来了“棋至中盘”的关键节点，行业声誉有所回升，必须要毫不放松、再接再厉，持续巩固拓展改革发展成果。要强化利益绑定，在公司治理、产品发行、投资运作、绩效考核等各个方面落实好监管新规和改革要求，提升投资运作稳健性，增强逆周期思维，努力为投资者创造更可持续的中长期收益，坚决遏制赌押赛道、风格漂移、高位发行等顽疾，更不能回到“冲规模、赚快钱”的老路上去。要注重权益投资，这是行业服务投资者的优势所在、关键所在，要下更大力气加强投研专业能力建设，强化权益投资的行业影响力和竞争力。要加强供需适配，重视含权低波等稳健类产品创设，推",
+      "publishedAt": "2026-06-07T07:30:10.000Z",
+      "summaryHint": "据报道，英伟达首席执行官（CEO）黄仁勋7日在首尔江南区的网吧先后会见韩国游戏公司KRAFTON创始人兼董事长蔣柄圭和游戏开发商NCSOFT代表金泽辰。据悉，当天黄仁勋和蔣柄圭可能就物理AI等人形机器人，以及基于英伟达近期发布的首款AI笔记本电脑系列“RTX Spark”的游戏领域合作等进行讨论。KRAFTON长期与英伟达合作研发AI功能，并将其融入游戏之中。通过游戏结成的合作关系还推动了双方有关物理AI合作的讨论。KRAFTON主要高管去年4月访问英伟达位于美国加州的总部，同黄仁勋就包括机器人在内的新一代技术合作方向进行了探讨。在结束与KRAFTON高管的会面后，黄仁勋移步附近的另一家网吧，同金泽辰以及NCSOFT高层会面。黄仁勋还同金泽辰“闪现”网络直播，就游戏产业和AI技术的发展方向等交换意见。（财联社）",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-dbaved",
+      "type": "news",
+      "title": "京东方A：布局玻璃基封装载板、钙钛矿和MicroLED光互联相关应用作为未来业务发展的重要方向】",
+      "url": "https://36kr.com/newsflashes/3842735724333569?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-07T07:15:01.000Z",
+      "summaryHint": "京东方A在机构调研时表示，围绕公司多年来积累的显示技术、玻璃基加工能力和大规模集成智造能力三大核心优势，根据“第N曲线”理论指导下的“屏之物联”战略，公司通过相关能力的复用，布局玻璃基封装载板、钙钛矿和MicroLED光互联相关应用作为未来业务发展的重要方向。（财联社）",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-htcs7q",
+      "type": "news",
+      "title": "教你用AI一节课收17万，华尔街精英排着队付费",
+      "url": "https://www.qbitai.com/2026/06/431487.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-07T03:10:13.000Z",
+      "summaryHint": "花旗美银都是客户",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-3zfbl4",
+      "type": "news",
+      "title": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
+      "url": "https://www.qbitai.com/2026/06/431401.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-07T01:13:21.000Z",
+      "summaryHint": "高一致性、低延迟、实时超分全梭哈",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-6vgs40",
+      "type": "news",
+      "title": "马斯克是SpaceX面子，她才是里子",
+      "url": "https://www.qbitai.com/2026/06/431371.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-06T10:14:54.000Z",
+      "summaryHint": "造火箭的正在批量造巨富",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-4fhod0",
+      "type": "news",
+      "title": "大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
+      "url": "https://www.qbitai.com/2026/06/431287.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-06T07:15:13.000Z",
+      "summaryHint": "观众投币定前十！",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-xdd3ej",
+      "type": "news",
+      "title": "Hinton吹哨了：AI已经有意识！",
+      "url": "https://www.qbitai.com/2026/06/431349.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-06T07:08:15.000Z",
+      "summaryHint": "人类得接受自己不再是唯一智能生命体",
       "tags": [
         "china",
         "funding"
@@ -376,32 +470,6 @@
       "source": "qbitai",
       "publishedAt": "2026-06-06T07:00:06.000Z",
       "summaryHint": "广东上大分！",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-99zuyy",
-      "type": "news",
-      "title": "银之杰：“被立案调查”等传闻不实 公司已报案追究造谣者法律责任",
-      "url": "https://36kr.com/newsflashes/3841346737768712?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-06T06:59:58.000Z",
-      "summaryHint": "银之杰6月6日发布严正声明称，近日，网络平台出现关于公司“被立案调查”等不实传闻。对此，公司已于6月3日发布澄清公告。经核实，公司、公司各子公司以及公司主要股东、董事、监事、高级管理人员均不存在被任何有权机关立案调查的情况。上述传闻内容与事实严重不符，属于不实信息。为维护公司合法权益及正常市场秩序。公司已第一时间就相关谣传事件向公安机关报案并已收到报案回执，公司将尽最大努力坚决对造谣者依法追究法律责任。目前公司生产经营活动正常开展，各项业务运行平稳，不存在根据法律法规及监管要求应披露而未披露的重大事项。（证券时报）",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-sf5cyg",
-      "type": "news",
-      "title": "证监会主席吴清：持续完善程序化交易监管的机制安排 坚决打击操纵市场、扰乱市场秩序等违法违规行为",
-      "url": "https://36kr.com/newsflashes/3841345628424452?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-06T06:58:50.000Z",
-      "summaryHint": "6月6日，证监会官网发布吴清主席在中国证券投资基金业协会第四届会员代表大会上的致辞。吴清表示，近年来，程序化交易已成为包括我国在内的全球各主要资本市场的重要交易方式。除了大家熟知的量化私募外，外资、公募及其他专业机构投资者，甚至一些个人投资者，都不同程度采用程序化交易的方式。充分考虑个人投资者占大多数的国情市情，先后出台了一系列程序化交易监管规则制度，建立交易报告机制，强化针对性监测监控，从严监管异常交易行为，引导降频降速，强化交易业务单元管理等。在此基础上，我们还将深入调研，持续完善程序化交易监管的机制安排，更突出公平和规范，加强针对性监管，切实防范滥用技术优势，坚决打击操纵市场、扰乱市场秩序等违法违规行为。（证券时报）",
       "tags": [
         "china",
         "funding"
@@ -459,44 +527,6 @@
       ]
     },
     {
-      "id": "rss-qbitai-gio8vx",
-      "type": "news",
-      "title": "国星宇航与腾讯云签署“星算”计划战略合作协议，携手领航AI云服务新生态",
-      "url": "https://www.qbitai.com/2026/06/430757.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-05T09:40:44.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-o6fd9y",
-      "type": "news",
-      "title": "WPS笔记正式发布：AI贯穿记录、整理与复用全过程",
-      "url": "https://www.qbitai.com/2026/06/431014.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-05T09:16:04.000Z",
-      "summaryHint": "AI笔记不是聊天框，而是信息入口。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-g1mmhq",
-      "type": "news",
-      "title": "从超级个体到超级团队，腾讯云发布WorkBuddy企业版",
-      "url": "https://www.qbitai.com/2026/06/430758.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-05T08:55:29.000Z",
-      "summaryHint": "打造企业AI效率工具新标配",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
       "id": "rss-36kr-dnp4w4",
       "type": "news",
       "title": "Token大战中，华为云选择了第三条路｜最前线",
@@ -517,31 +547,6 @@
       "source": "36kr",
       "publishedAt": "2026-06-05T08:25:49.000Z",
       "summaryHint": "“曾有外国友人让我推荐中国的最佳旅行目的地，我的回答是：你应该看看中国的山。” 最近的一场入境游研讨会，携程集团联合创始人兼董事局主席梁建章这样回答。在他的表述中，中国有世界最高的山——喜马拉雅；全世界最美的山，则在中国南方最独特的喀斯特地貌——桂林。 与此同时，他正将这份“私藏推荐”转化为全球旅行者的实际行动。 近期 ，携程集团宣布了一项新的战略计划：未来五年，公司将引入2亿人次的入境游客。 在同期进行的桂林之夜入境游推广活动上，国际影星成龙也以“携程入境游大使”的身份亮相活动现场。当成龙遇上桂林山水，携程决心赋能入境游整体链条的变革正拉开序幕。 国际影星成龙成为“携程入境游大使” 01. “中国入境游应做到世界第一” 近年来，国家密集出台的便利外籍人员来华政策，也让“China Travel”在全球社交媒体上蔚然成风。 据国家统计局公布的数据，2025年我国入境外国游客（不含港澳台）已",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-ivwcuw",
-      "type": "news",
-      "title": "B站宣布启动AI创造公开赛 打造中国版Build in Public",
-      "url": "https://www.qbitai.com/2026/06/430752.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-05T07:38:08.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-3lcjgr",
-      "type": "news",
-      "title": "100亿砸向人形，不如先让10万台机器狗走进家庭",
-      "url": "https://www.qbitai.com/2026/06/429968.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-05T07:21:20.000Z",
-      "summaryHint": "所有通用技术，最后都要回到消费市场。",
       "tags": [
         "china",
         "funding"
@@ -587,13 +592,13 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-2bad6e",
+      "id": "rss-google_news_cn_36kr_deals-7uw60i",
       "type": "news",
-      "title": "复旦学姐，估值1000亿 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1scDRPYWM5cjFsR1FUcm5nRmhpQV9Id0JBd1R0MlE1bXo4UjZVSkVmbE0wT0UtTkR3Mzk5aURya3FmTzdEeHh1TUpQXzhfdw?oc=5",
+      "title": "山东诞生一家AI黑马 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qSWs5eXFMNzJBMWFqcm5zY0pDaUhHNDVtVEk5M0NZQmpQaTRNUFdkZkJJMUVrVUtKVndwanhrSGJwZVZDRHFBdVJOUTF0QQ?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-05-30T10:23:00.000Z",
-      "summaryHint": "复旦学姐，估值1000亿 &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-06-01T11:56:00.000Z",
+      "summaryHint": "山东诞生一家AI黑马 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -601,73 +606,277 @@
       ]
     },
     {
-      "id": "reddit-rss-m8vpep",
+      "id": "reddit-rss-rfkb3a",
       "type": "social_en",
-      "title": "Using FC26 to simulate the world cup ? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tybqrx/using_fc26_to_simulate_the_world_cup_d/",
-      "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-06-06T08:34:37.000Z",
-      "summaryHint": "maybe this should be asked in the Fc26 game subreddit but not sure. Anyway I just saw a video of someone predicting the winner of the world cup using the simulate match feature in the game but he only did it once. Would running this feature",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-selp5a",
-      "type": "social_en",
-      "title": "In this video, I go over my approach to creating a Dark Energy Orb effect using Niagara and materials in Unreal Engine.",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1tybj1w/in_this_video_i_go_over_my_approach_to_creating_a/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-06-06T08:21:40.000Z",
-      "summaryHint": "It&#39;s not a full step-by-step tutorial. Instead, I break down the techniques and workflow I used to get to the final result and explain how the effect was built. Watch it here: https://youtu.be/9OwxkKf33EY?si=iVND_AF4TOE6OsP8 &#32; submi",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-bu7tvo",
-      "type": "social_en",
-      "title": "Virtual camera question",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1ty9uv4/virtual_camera_question/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-06-06T06:45:24.000Z",
-      "summaryHint": "Connected my phone to use as the virtual camera, to make some found footage videos but my problem is walking, the joystick does not do a great job of making a believable walking If i want to do something like horror found footage where the ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-if7ss",
-      "type": "social_en",
-      "title": "Are Developers Forgetting That Most Gamers Don't Have High-End PCs?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1ty91vd/are_developers_forgetting_that_most_gamers_dont/",
-      "source": "reddit_r_gamedev",
-      "publishedAt": "2026-06-06T06:00:32.000Z",
-      "summaryHint": "I sometimes feel like developers are forgetting that most gamers don&#39;t have high-end PCs.One thing I think developers underestimate is how much accessibility contributes to a game&#39;s success. Games like CS:GO, Minecraft, Valorant, El",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-1c21zd",
-      "type": "social_en",
-      "title": "3 years, $5k, 250 wishlists. I now know why I make games.",
-      "url": "https://www.reddit.com/r/gamedev/comments/1ty8ot1/3_years_5k_250_wishlists_i_now_know_why_i_make/",
-      "source": "reddit_r_gamedev",
-      "publishedAt": "2026-06-06T05:40:45.000Z",
-      "summaryHint": "My second big project dropped last week. I launched with ~250 wishlists. I did marketing when I could, in the capacity that I could. I&#39;m not new to this. None of this is surprising. I always hit that wall of &quot;I COULD do a media pos",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-aqrrec",
-      "type": "social_en",
-      "title": "Feedback Appreciated! Unity URP Sci Fi Environment",
-      "url": "https://www.reddit.com/r/Unity3D/comments/1ty8bcr/feedback_appreciated_unity_urp_sci_fi_environment/",
+      "title": "I got sick of typing out \"version notes\", so I made a pointless tool for it.",
+      "url": "https://www.reddit.com/r/Unity3D/comments/1tz7e64/i_got_sick_of_typing_out_version_notes_so_i_made/",
       "source": "reddit_r_Unity3D",
-      "publishedAt": "2026-06-06T05:21:07.000Z",
-      "summaryHint": "I have been working on this project for about a year and a half. Every model is custom made in blender and every texture is custom made in Aesprite and I use Unity as my game engine. Any targeted feedback at getting better lighting or setti",
+      "publishedAt": "2026-06-07T09:22:45.000Z",
+      "summaryHint": "Now I don&#39;t have to be formatting text or &quot;keeping things neat&quot; when typing it all out. Completely pointless to some, but I like it. Was pretty fun playing with Unity&#39;s editor window (little bit of a challenge) Maybe usefu",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-fi1oay",
+      "type": "social_en",
+      "title": "Research collection of Arxiv whitepapers [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tz7014/research_collection_of_arxiv_whitepapers_r/",
+      "source": "reddit_r_MachineLearning",
+      "publishedAt": "2026-06-07T08:59:58.000Z",
+      "summaryHint": "I read and collected Arxiv whitepapers starting after the launch of ChatGPT. I copied and pasted excerpts into Word to track them. Then migrated to Obsidian. That vault of some 1700 papers is now online. I figured it was time to see if othe",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-273mik",
+      "type": "social_en",
+      "title": "Open models to win ✌",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tz6h86/open_models_to_win/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-06-07T08:27:51.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/pmttyji [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-98sjb3",
+      "type": "social_en",
+      "title": "What's the longest you've worked on your solo game dev project and how do you keep going?",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tz61t6/whats_the_longest_youve_worked_on_your_solo_game/",
+      "source": "reddit_r_gamedev",
+      "publishedAt": "2026-06-07T08:02:02.000Z",
+      "summaryHint": "They say attention span in shrinking. I always thought I have an attention span of a goldfish, but now it&#39;s more of an amoeba. My sweet spot is ~2 weeks, past that point, I already start doom scrolling far deeper xD Currently, I managed",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-u7obrd",
+      "type": "social_en",
+      "title": "You don't need a GPU to run gemma-4-26B-A4B",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tz5ffp/you_dont_need_a_gpu_to_run_gemma426ba4b/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-06-07T07:24:27.000Z",
+      "summaryHint": "I&#39;ve been running LLMs on my old potato i5-8500 with 32GB of RAM and *no GPU* for awhile now, running up to 12B dense models which run slow but perfectly useable. But this Gemma-4-26B-A4B simply flies on this CPU - only machine using Ko",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-ohqpb2",
+      "type": "social_en",
+      "title": "What to do with a showreel",
+      "url": "https://www.reddit.com/r/videography/comments/1tz53i6/what_to_do_with_a_showreel/",
+      "source": "reddit_r_videography",
+      "publishedAt": "2026-06-07T07:04:59.000Z",
+      "summaryHint": "So I’ve worked on a number of paid and passion projects over the past year and this is my showreel for it. I’m now trying to figure out what I should do with this and who should I be sending it to, any advice would be tremendously helpful! ",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-jccl8a",
+      "type": "social_en",
+      "title": "Every time I make a post about my game I want to vomit",
+      "url": "https://www.reddit.com/r/gamedev/comments/1tz4g7a/every_time_i_make_a_post_about_my_game_i_want_to/",
+      "source": "reddit_r_gamedev",
+      "publishedAt": "2026-06-07T06:28:27.000Z",
+      "summaryHint": "I am proud of my game and feel it&#39;s really fun to play, but making a post about it still feels like walking up to a stranger and demanding their attention for my hobby art project. It&#39;s cringy. And I think that probably comes throug",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-qwl6z4",
+      "type": "social_en",
+      "title": "creating pipes",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1tz42d8/creating_pipes/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-06-07T06:06:22.000Z",
+      "summaryHint": "I have created a pipe in UE5, like modelled it in UE5. is there a way for me to take the piece i have modelled and essentially tranform it into pipe ends, pipe junctions, slopes and other shapes without having to model from scratch each tim",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-gtgtl2",
+      "type": "social_en",
+      "title": "The Current Entity Component System Actually Rocks",
+      "url": "https://www.reddit.com/r/Unity3D/comments/1tz2e74/the_current_entity_component_system_actually_rocks/",
+      "source": "reddit_r_Unity3D",
+      "publishedAt": "2026-06-07T04:35:56.000Z",
+      "summaryHint": "I made this game in unity, i&#39;ve been using unity for over fifteen years now and I was frustrated when there was little news of DOTS this years, but the ECS system as it stands is actually awesome! (I have to admit) I have well over a th",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-6j490n",
+      "type": "social_en",
+      "title": "“AI vs creativity” is the wrong debate imo",
+      "url": "https://www.reddit.com/r/artificial/comments/1tz1zg1/ai_vs_creativity_is_the_wrong_debate_imo/",
+      "source": "reddit_r_artificial",
+      "publishedAt": "2026-06-07T04:14:23.000Z",
+      "summaryHint": "the interesting shift is when AI stops sitting in a chat box and starts sharing the browser with you. &#32; submitted by &#32; /u/Old_Command_7050 [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-wv4fys",
+      "type": "social_en",
+      "title": "Fractal Spectral walls raytracing by pgmatg on DeviantArt",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1tz0vv0/fractal_spectral_walls_raytracing_by_pgmatg_on/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-06-07T03:19:11.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/AlexeyGal [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-medw4k",
+      "type": "social_en",
+      "title": "Zooming Fractal - interactive Mandelbrot exploration and export",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1tyz1vu/zooming_fractal_interactive_mandelbrot/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-06-07T01:48:45.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/MusicToThyEars [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-unrx6z",
+      "type": "social_en",
+      "title": "ML reading group to read recent interesting and trending papers from ICML/ICLR/NeurIPS [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1tyy0vj/ml_reading_group_to_read_recent_interesting_and/",
+      "source": "reddit_r_MachineLearning",
+      "publishedAt": "2026-06-07T00:58:14.000Z",
+      "summaryHint": "Hi, I am a PhD student and trying to run a ML reading group focused on interpretability and robustness every weekend. Its always nice to hear different takes and opinions on a paper and this discussion group could serve the purpose. If you ",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-qc0dep",
+      "type": "social_en",
+      "title": "Arizona Sunshine goes Flatscreen ! (Officially)",
+      "url": "https://www.reddit.com/r/virtualreality/comments/1tyvt07/arizona_sunshine_goes_flatscreen_officially/",
+      "source": "reddit_r_virtualreality",
+      "publishedAt": "2026-06-06T23:14:22.000Z",
+      "summaryHint": "Vertigo games https://www.youtube.com/watch?v=uzBDuoZXTH0 Gee if that isn&#39;t an indication of how bad things are gaming wise for VR, i don&#39;t know what is Instead of making new VR games, they are porting their VR games to flatscreen &",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-t94zgs",
+      "type": "social_en",
+      "title": "Convert to World Partition seems to be completely broken in 5.7",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1tytmvm/convert_to_world_partition_seems_to_be_completely/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-06-06T21:39:52.000Z",
+      "summaryHint": "So I created a brand new level and forgot to use the 3D world option, there&#39;s nothing in it, it&#39;s just a completely empty level . It does have a landscape though without an auto material. So I figured I would just go into window wor",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-1knpzo",
+      "type": "social_en",
+      "title": "We built a AAA-looking Unreal 3D car configurator that runs on a normal laptop. The tires nearly broke us.",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1tyqdtl/we_built_a_aaalooking_unreal_3d_car_configurator/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-06-06T19:26:01.000Z",
+      "summaryHint": "Built a Complete Unreal Engine 5 Vehicle Configurator Platform | 100+ Accessories, VIN, SaaS &amp; AR So a 4x4 shop owner came to us with a problem. His customers drop $10k to $15k building out their Jeeps. Bumpers, lift kits, big tires, th",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-hdqmih",
+      "type": "social_en",
+      "title": "AI keeps getting blamed for tech layoffs, but the numbers don't really line up",
+      "url": "https://www.reddit.com/r/artificial/comments/1tyq91e/ai_keeps_getting_blamed_for_tech_layoffs_but_the/",
+      "source": "reddit_r_artificial",
+      "publishedAt": "2026-06-06T19:20:48.000Z",
+      "summaryHint": "I keep seeing &quot;AI took these jobs&quot; every time a company does layoffs, and I&#39;m not convinced it&#39;s the main driver. A few things I keep coming back to. The industry cut around 122,500 jobs in 2025, down from about 153,000 in",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-9qz8p7",
+      "type": "social_en",
+      "title": "I'm starting to edit a documentary using Gaussian Splatting.",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1tyq0da/im_starting_to_edit_a_documentary_using_gaussian/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-06-06T19:11:07.000Z",
+      "summaryHint": "Just a quick note, but I&#39;m beginning the edit of a documentary for French television that makes very heavy use of Gaussian Splatting. It&#39;s a film about a real crime story that took place in 1920, in a small French town, revolving ar",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-cnmbwz",
+      "type": "social_en",
+      "title": "How to program AI logic to ignore an NPC *except* when said NPC does a specific action?",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1typ1z6/how_to_program_ai_logic_to_ignore_an_npc_except/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-06-06T18:34:08.000Z",
+      "summaryHint": "I am making an AI system. And I want NPCs to be able to react to what others do. So like if one NPC sees another stealing. They would run away or report it or whatever. My current system can only ignore NPCs using a tag check. It checks if ",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-8slhaa",
+      "type": "social_en",
+      "title": "Cohere's unreleased coding model (early access for localllama)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tylzy2/coheres_unreleased_coding_model_early_access_for/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-06-06T16:36:41.000Z",
+      "summaryHint": "Hey, Nick here from Cohere. Thanks for all the feedback on Command A+ the other week everyone. I read these threads all the time about other releases so it was fun to read one about our own :) we would like to do more of it. We actually hav",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-x0k5qm",
+      "type": "social_en",
+      "title": "Does anyone else say please and thank you to AI? Or am I just wierd?",
+      "url": "https://www.reddit.com/r/artificial/comments/1tylcl1/does_anyone_else_say_please_and_thank_you_to_ai/",
+      "source": "reddit_r_artificial",
+      "publishedAt": "2026-06-06T16:11:12.000Z",
+      "summaryHint": "I don&#39;t know if I&#39;m just wierd but when I ask AI to make me a picture or cooking instructions I always say please. I can&#39;t be the only one.. &#32; submitted by &#32; /u/Smartazzme [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-a1pv63",
+      "type": "social_en",
+      "title": "I turned a 3D model into a Gaussian Splat just by screen recording it",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1tyemxl/i_turned_a_3d_model_into_a_gaussian_splat_just_by/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-06-06T11:22:38.000Z",
+      "summaryHint": "Here is my work: https://superspl.at/scene/ffbefb20 Many people think Gaussian Splatting always requires a real-world photo dataset. But recently I experimented with a different workflow: Instead of capturing a real object with a camera, I ",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-qun4t7",
+      "type": "social_en",
+      "title": "Stonehenge Splat-Off: same video, who gets the cleanest splat?",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1tyeel5/stonehenge_splatoff_same_video_who_gets_the/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-06-06T11:10:36.000Z",
+      "summaryHint": "Random idea I wanted to throw out. What if a bunch of us made Gaussian splats from the exact same Stonehenge YouTube video and compared results? Same source footage for everyone, but you do whatever you want with your pipeline: fps, COLMAP ",
       "tags": [
         "ai_social"
       ]
@@ -685,114 +894,6 @@
       ]
     },
     {
-      "id": "reddit-rss-sh5iz2",
-      "type": "social_en",
-      "title": "Immersed visor employees are at the spurs game promoting and being disrespectful.",
-      "url": "https://www.reddit.com/r/virtualreality/comments/1ty4yh3/immersed_visor_employees_are_at_the_spurs_game/",
-      "source": "reddit_r_virtualreality",
-      "publishedAt": "2026-06-06T02:31:57.000Z",
-      "summaryHint": "The only reason i know about this is because they are promoting it and yelling about it. Every time defense chants are called, Knicks are shooting free throws, they are yelling “Immersed visor order now”. Arena workers told them to stop, th",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-diqs92",
-      "type": "social_en",
-      "title": "TripoSplat & QWEN w. Lora - Move To Any New Camera Angle Fast",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1ty4s9k/triposplat_qwen_w_lora_move_to_any_new_camera/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-06-06T02:23:29.000Z",
-      "summaryHint": "tl;dr just give me the ComfyUI workflows (download from here) (Reddit suggested I post it into this group, so I am doing so. I&#39;ve been waiting for GSplats to converge on my work in ComfyUI, and this is the moment it finally did. This is",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-radx30",
-      "type": "social_en",
-      "title": "Made earth holograms from all of earths data updating in real time. What do we want in the sdk and may I share progression as I build it with you all? It's my first build.",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1ty2lhz/made_earth_holograms_from_all_of_earths_data/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-06-06T00:40:22.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/Existing_Leopard_231 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-jyd7ec",
-      "type": "social_en",
-      "title": "OpenLumara - A different kind of AI agent, written from scratch, not vibecoded. Extremely token-efficient, super small system prompt, made for local models. Everything is modular.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txxgpq/openlumara_a_different_kind_of_ai_agent_written/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-06-05T21:05:08.000Z",
-      "summaryHint": "Hi locallama community! Yes, I know, yet another AI agent announcement post. There are a dime a dozen out there... most of them though, are vibecoded, often very sloppy, and eat through context like no tomorrow. This is different. This runs",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-o22whu",
-      "type": "social_en",
-      "title": "I launched a brand-new author identity with zero web presence. An AI cited him correctly in 6 days — while a firewall blocked every AI crawler from the site the whole time",
-      "url": "https://www.reddit.com/r/artificial/comments/1txvhd1/i_launched_a_brandnew_author_identity_with_zero/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-06-05T19:50:47.000Z",
-      "summaryHint": "I ran a small experiment on myself and the result broke my mental model of how AI &quot;knows&quot; things, so I&#39;m sharing it. The setup: on May 11 I created a brand-new pseudonymous fantasy author entity (&quot;Marin T. Kael&quot;) wit",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-efjypx",
-      "type": "social_en",
-      "title": "Don’t act like y’all ain’t thinking it. I’m just saying the quiet part out loud. /s",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txufl9/dont_act_like_yall_aint_thinking_it_im_just/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-06-05T19:11:50.000Z",
-      "summaryHint": "Of course I’m thankful for all that Qwen has bequeathed us, but deep down in the darkest pit of our souls, every last one of us are just all sitting here waiting for Qwen to say “Hey Google, hold my beer while I drop the best GD model of al",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-4wsajo",
-      "type": "social_en",
-      "title": "Genuine question - is Fab usable for anyone?",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1txtoer/genuine_question_is_fab_usable_for_anyone/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-06-05T18:44:47.000Z",
-      "summaryHint": "Im at a bit of a loss. Unreal is a godsend for me and blueprints allowed me to learn an engine and change the course of my life. Literally. So this isnt coming from a &quot;I hate everything about Epic and Unreal&quot; place. But what the f",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-brhgup",
-      "type": "social_en",
-      "title": "How do make Gameplay Effects work with turn-based combat?",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1txtmvr/how_do_make_gameplay_effects_work_with_turnbased/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-06-05T18:43:16.000Z",
-      "summaryHint": "I have been implementing Gameplay Effects into my game. And I was wondering how I would tool it to work with a turn-based system. As the tutorials I have found all exclusively talk about real time gameplay. And how to set durative gameplay ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-a5vjgq",
-      "type": "social_en",
-      "title": "10+ years building a racing game in Unity",
-      "url": "https://www.reddit.com/r/Unity3D/comments/1txt1f2/10_years_building_a_racing_game_in_unity/",
-      "source": "reddit_r_Unity3D",
-      "publishedAt": "2026-06-05T18:21:21.000Z",
-      "summaryHint": "I&#39;ve been working on this racing project for over 10 years. Outside of game development, I&#39;m also involved in real-world motorsports. The goal of this project has always been to build an ultimate, highly dynamic racing experience - ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
       "id": "reddit-rss-r7y0qv",
       "type": "social_en",
       "title": "Weekly VR - What Did you Play?",
@@ -805,54 +906,6 @@
       ]
     },
     {
-      "id": "reddit-rss-8k26uf",
-      "type": "social_en",
-      "title": "Why the Great Calculator Debate of the 1980s is still relevant today and how Isaac Asimov got AI right in 1956",
-      "url": "https://www.reddit.com/r/artificial/comments/1txrw9m/why_the_great_calculator_debate_of_the_1980s_is/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-06-05T17:40:07.000Z",
-      "summaryHint": "Back in the 1980s a debate raged about whether it was okay to let children use calculators in elementary school. Critics warned that giving kids calculators would lead to the &quot;destruction of student math skills.&quot; A similar debate ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-bwxrl6",
-      "type": "social_en",
-      "title": "Mercurial I | Me | 2026 | The full version (no watermark) is in the comments",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1txqgxv/mercurial_i_me_2026_the_full_version_no_watermark/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-06-05T16:49:30.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/has_some_chill [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-qlwx8w",
-      "type": "social_en",
-      "title": "Gemma 4 with quantization-aware training",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txpeo0/gemma_4_with_quantizationaware_training/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-06-05T16:11:21.000Z",
-      "summaryHint": "Google&#39;s collections: https://huggingface.co/collections/google/gemma-4-qat-q4-0 https://huggingface.co/collections/google/gemma-4-qat-mobile And Unsloth&#39;s: https://huggingface.co/collections/unsloth/gemma-4-qat Unsloth&#39;s analys",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-5d0uqu",
-      "type": "social_en",
-      "title": "The strange thing about LLM reasoning research: we're now trying to remove the chain-of-thought traces",
-      "url": "https://www.reddit.com/r/artificial/comments/1txp7ah/the_strange_thing_about_llm_reasoning_research/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-06-05T16:04:12.000Z",
-      "summaryHint": "After spending the last few weeks reading through the reasoning literature, I noticed a trend that seems worth discussing. For the past 2–3 years, a large fraction of progress in LLM reasoning came from making models generate more intermedi",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
       "id": "reddit-rss-srnled",
       "type": "social_en",
       "title": "Cyberpunk: Edgerunners Moon Scene Recreation | Blender 4.5 Cycles",
@@ -860,54 +913,6 @@
       "source": "reddit_r_computergraphics",
       "publishedAt": "2026-06-05T15:55:23.000Z",
       "summaryHint": "Fan art recreation of Lucy and David&#39;s moon scene from Cyberpunk: Edgerunners. Rendered entirely in Blender 4.5 using Cycles. Most of the work went into balancing the Earth lighting, lunar surface materials, and preserving the recogniza",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-a6sfgb",
-      "type": "social_en",
-      "title": "Found SD Card",
-      "url": "https://www.reddit.com/r/videography/comments/1txn00x/found_sd_card/",
-      "source": "reddit_r_videography",
-      "publishedAt": "2026-06-05T14:45:07.000Z",
-      "summaryHint": "Just helping someone else on Facebook find the possible owner of this lost SD card in New York, files dated May 9, 2026. &#32; submitted by &#32; /u/knsaber [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-em1ji6",
-      "type": "social_en",
-      "title": "How do you identify researchers who are good? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1txlxm6/how_do_you_identify_researchers_who_are_good_d/",
-      "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-06-05T14:04:59.000Z",
-      "summaryHint": "About 10 years ago, I got into the basics of ML (like regression, KNN&#39;s, LVQ&#39;s) and read a few papers before taking a break a few years back. It feels like now, there&#39;s a lot of researchers in AI. How do you identify the ones wh",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-tfhjc8",
-      "type": "social_en",
-      "title": "A quick Spatial Studio update for large 3DGS scene handling.",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1txiiuc/a_quick_spatial_studio_update_for_large_3dgs/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-06-05T11:42:44.000Z",
-      "summaryHint": "We&#39;ve been iterating on our Gaussian Splatting pipeline and recently shipped a few major upgrades to our publishing stack. Recent additions: LCC integrated into the production workflow Migration to the latest PlayCanvas foundation LOD s",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-3hw5i7",
-      "type": "social_en",
-      "title": "What if the entire Earth could be streamed as a photorealistic 3D world? — billions of Gaussian splats, in a browser (PlayCanvas, WebGPU + WebGL)",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1txhzu5/what_if_the_entire_earth_could_be_streamed_as_a/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-06-05T11:17:20.000Z",
-      "summaryHint": "🌍 What if the entire Earth could be streamed as a photorealistic 3D world? This is a prototype that renders billions of 3D Gaussian splats directly in the browser — no install, just a tab. Powered by the PlayCanvas engine, running on WebGP",
       "tags": [
         "ai_social"
       ]
@@ -932,18 +937,6 @@
       "source": "reddit_r_videography",
       "publishedAt": "2026-05-31T23:00:30.000Z",
       "summaryHint": "Welcome to the /r/videography monthly camera buying megathread. All requests asking for camera buying advice must be posted in this thread. If you&#39;ve been directed here by a removal reason or moderator, you&#39;re in the right place! Be",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-r6v5gh",
-      "type": "social_en",
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1tsipvv/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-05-31T02:30:27.000Z",
-      "summaryHint": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you&#39;re looking for] For Those looking for jobs please use this template Want to",
       "tags": [
         "ai_social"
       ]
