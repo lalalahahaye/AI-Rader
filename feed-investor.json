@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-13T09:36:00.634Z",
+  "updatedAt": "2026-06-14T09:57:40.943Z",
   "items": [
     {
-      "id": "rss-36kr-qti1on",
+      "id": "rss-36kr-pyx8ws",
       "type": "funding",
-      "title": "“木头姐”买入逾4亿美元SpaceX股票",
-      "url": "https://36kr.com/newsflashes/3851373053056005?f=rss",
+      "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
+      "url": "https://36kr.com/p/3851572421432324?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-13T09:29:08.000Z",
-      "summaryHint": "“木头姐”旗下ARK方舟基金于6月12日（周五）公布了当日交易记录，显示出了投资策略的重大转变。最引人注目的操作是，旗下多只ETF合计买入3,291,184股SpaceX的股票，交易总额高达444,309,840美元，表明该基金对太空技术领域的兴趣日益浓厚。与此同时，方舟大幅减持AMD，通过ARKQ、ARKW和ARKX三只ETF共卖出80,536股，交易总值为39,337,809美元，延续了对AMD持仓的削减趋势。（新浪财经）",
+      "publishedAt": "2026-06-14T01:30:00.000Z",
+      "summaryHint": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，消费级柔性机器人公司SoulX日前已完成数千万元天使轮融资，投资方为高瓴创投，向阳资本担任独家财务顾问。资金将重点投入产品持续迭代、技术研发，并加快供应链与规模化交付体系搭建。首款机器人产品MoYa将于2026年下半年正式发布。 SoulX隶属于深圳市弘火智能科技有限公司，团队长期专注于柔性机器人技术与睡眠、压力与家庭健康关护。公司以睡眠场景为切入点，自主研发了睡眠安抚机器人MoYa。该产品融合机器人技术、神经科学与心理学，采用无摄像头设计，通过模拟拥抱帮助用户缓解身心压力。 家庭场景下的情感与健康关护，长期面临一个“人机关系”设计上的根本问题：在需要身心双重安抚的场景里，机器应该以怎样的方式“在场”？ 过去几年，不同产品从多个维度给出答案。智能床垫、白噪音机擅长改善环境与生理舒适度；可穿戴设备精于睡眠数据的连续监测；毛绒玩具在情绪投射与安全感的建立上有",
       "tags": [
         "china",
         "funding",
         "deal_signal"
       ],
-      "amount": "4亿"
+      "round": "天使轮"
     },
     {
       "id": "rss-36kr-owo1nf",
@@ -108,21 +108,6 @@
       "amount": "2.1万"
     },
     {
-      "id": "rss-36kr-x2u6mc",
-      "type": "funding",
-      "title": "氪星晚报｜SpaceX确定发行价，募资750亿美元创史上最大IPO；OpenAI CEO奥特曼推迟访韩计划；中央网信办举报中心开设“涉AI应用乱象举报专区”",
-      "url": "https://36kr.com/p/3849942472512769?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-12T13:15:02.000Z",
-      "summaryHint": "大公司： OpenAI CEO奥特曼推迟访韩计划 据报道，OpenAI首席执行官山姆·奥特曼因个人原因推迟访韩计划。奥特曼原定于14日至15日访韩，会见三星电子、Kakao、NAVER等企业负责人。 Alphabet旗下自动驾驶公司Waymo将推出30美元月费会员计划 当地时间6月11日，Alphabet旗下自动驾驶公司Waymo宣布，将推出仅限受邀用户参与的Waymo Premier30美元月费会员计划，会员可享受优先接送、每次行程10%的乘车返现（以乘车积分形式返还）、在新城市优先体验Waymo服务以及每月最多五次免费取消行程等权益。Waymo表示，最初将通过应用程序和电子邮件向美国旧金山、洛杉矶和凤凰城的数万名符合条件的乘客发送邀请，计划最终将会员计划推广到Waymo应用程序已覆盖的其他城市。 SK海力士考虑引入ChatGPT等外部人工智能服务 据业内人士周五透露，继三星电子之后，S",
-      "tags": [
-        "china",
-        "funding",
-        "deal_signal"
-      ],
-      "amount": "750亿"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-vbpq8f",
       "type": "funding",
       "title": "应用数字公司完成15.9亿美元AI债务融资 - 36 Kr",
@@ -157,11 +142,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-cwqbd",
       "type": "funding",
-      "title": "应用数字公司完成15.9亿美元AI债务融资 - 36 Kr",
+      "title": "应用数字公司完成15.9亿美元AI债务融资 - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GQl84WUNPT0pWUlF0Mzl0M2JFSEJBYXlfR3hxc09ZRkZaazZscjl1VXZKT2J6SzA1bXNMZlpIeVZYc3JObXAxNFNaOXZjaWlPemktR2JnaXVSaUY4WGZUTw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-06-11T23:58:00.000Z",
-      "summaryHint": "应用数字公司完成15.9亿美元AI债务融资 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "应用数字公司完成15.9亿美元AI债务融资 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -171,10 +156,10 @@
       "amount": "15.9亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-q9yv89",
+      "id": "rss-google_news_cn_36kr_deals-117bxq",
       "type": "funding",
       "title": "融资813亿，估值3000亿，这家AI公司创办仅一年 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rSjk5bUVaLVQ5eTVpSmV5RlhZN2pBRU1ld1NmZERsVHNQS0xPLTZoUTFrVTN1RVBLb3UxQ2M1ejNQRlR5VVZXMHhxWG01T05O?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLVG4tOV8waXI2a01GRUNHMXJkYmJQTmdGTF9qM0tmX29VdzhFVGJmRzdTNjNoeGlPLVpxMXIwb2h4SUR5bTNlSVZKald4dw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-06-11T16:23:00.000Z",
       "summaryHint": "融资813亿，估值3000亿，这家AI公司创办仅一年 &nbsp;&nbsp; 36 Kr",
@@ -204,11 +189,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-203wzi",
       "type": "funding",
-      "title": "AniShort获近亿元融资，刷新AI短剧工具赛道融资纪录！ - 36 Kr",
+      "title": "AniShort获近亿元融资，刷新AI短剧工具赛道融资纪录！ - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBocjA2MmRKYmw0RkdURnBuaHBOS1JMaXEtZ0dXWHE1bWxxM3dScTNYTUlQeWYwWFNuMmVBZEJCVWlsT0l5Y2twOEpxNVROZzNTMGZV?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-06-10T09:27:00.000Z",
-      "summaryHint": "AniShort获近亿元融资，刷新AI短剧工具赛道融资纪录！ &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "AniShort获近亿元融资，刷新AI短剧工具赛道融资纪录！ &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -279,21 +264,6 @@
       "amount": "20亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-nxuq48",
-      "type": "funding",
-      "title": "「百奥几何」完成数亿元战略融资，打造生命科学\"微观世界模型\"｜36氪首发 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MMThnVl9obmRyZnExanVxckpmUkFQb0U4Q3paRUtxNTRwaDhzVEg2NUZhcTE4TFhmaWZ1QVRxNFlIWE14Q05SZ0xQOWw3dVozQS13?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-08T09:30:00.000Z",
-      "summaryHint": "「百奥几何」完成数亿元战略融资，打造生命科学\"微观世界模型\"｜36氪首发 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-dwvta3",
       "type": "funding",
       "title": "拆解25笔超5000万A轮融资，AI最聪明的钱正在押注这三个方向 - 36 Kr",
@@ -311,117 +281,169 @@
       "amount": "5000万"
     },
     {
-      "id": "rss-36kr-skpn25",
+      "id": "rss-36kr-h3nrqu",
       "type": "news",
-      "title": "江丰电子：公司生产的先端存储芯片用高纯300mm硅靶已批量供货",
-      "url": "https://36kr.com/newsflashes/3851370635334919?f=rss",
+      "title": "外媒曝蚂蚁集团正秘密测试AI 版支付宝",
+      "url": "https://36kr.com/newsflashes/3852835263878148?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-13T09:12:37.000Z",
-      "summaryHint": "36氪获悉，江丰电子在互动平台表示，公司是全球少数几家同时具备技术领先优势与规模化供应能力的高纯金属溅射靶材制造商。公司生产的先端存储芯片用高纯300mm硅靶已批量供货，超高纯钨靶、铜锰合金靶等高端品类已应用于先进存储芯片制造中，目前只有公司及头部跨国企业掌握了生产上述产品的核心技术。",
+      "publishedAt": "2026-06-14T09:46:42.000Z",
+      "summaryHint": "6 月 14 日下午，外媒曝蚂蚁集团正秘密测试 AI 版支付宝，新版本颠覆原有用户交互，可一键切入原生AI界面，实现从服务到资金管理的智能化。消息称，新版本上线时间未定。蚂蚁集团拒绝评论。",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-f4nmx",
+      "id": "rss-36kr-um1n9y",
       "type": "news",
-      "title": "首尔禁止中小学生戴AI眼镜参加期末考试",
-      "url": "https://36kr.com/newsflashes/3851265277220103?f=rss",
+      "title": "崔东树：5月我国动力和其它电池合计产量为192GWh，同比增长38%",
+      "url": "https://36kr.com/newsflashes/3852723150525698?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-13T08:56:33.000Z",
-      "summaryHint": "韩国首都首尔市教育厅12日说，已于前一日向该市中小学校及辖区教育部门下发通知，禁止考生戴AI智能眼镜参加期末考试。据韩国《中央日报》报道，首尔市教育厅担心学生利用AI眼镜在期末考试中作弊，因此将其列入考场违禁物品清单。这份通知要求学校提前告知学生及家长，如携带这类眼镜进入考场，将一律按作弊处理。 （新华社）",
+      "publishedAt": "2026-06-14T08:30:30.000Z",
+      "summaryHint": "乘联分会崔东树称，5月，我国动力和其它电池合计产量为192GWh，同比增长38%；1-5月，我国动力和其它电池合计产量为863GWh，同比增长30%。今年电池增速从69%以上降到30%，由于动力电池需求低迷，电池需求逐步降速。2026年5月锂电池装车72GWh，同比增26%。2026年1-5月锂电池装车259GWh，同比增7%。2025年动力电池的产量中装车的比例保持到44%，2026年5月动力电池的产量中装车的比例下降到38%，其中三元电池装车率38，磷酸铁锂装车率37%。纯电动车目前主力电池能量密度区间在125到160之间。尤其2026年4-5月表现比较突出的是140到160的电池占比达到46%，同比上升14个百分点。",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-n8tzyr",
+      "id": "rss-36kr-wysbi9",
       "type": "news",
-      "title": "近六成美国人认为到2050年美国重要性将减弱",
-      "url": "https://36kr.com/newsflashes/3851267747664897?f=rss",
+      "title": "上海机场：5月浦东机场旅客吞吐量700.48万人次",
+      "url": "https://36kr.com/newsflashes/3852722731799553?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-13T08:38:39.000Z",
-      "summaryHint": "美国皮尤研究中心12日发布的一项民意调查显示，在美国独立250周年之际，美国民众普遍情绪悲观，约58%受访者认为到2050年美国在全球的重要性将减弱。这项民调结果显示，多数美国人对美国在2050年前的发展前景持消极看法：其中三分之二的受访者认为美国的政治将愈加分裂，56%认为美国的居住环境将更加危险，55%预判美国经济将走弱，54%担心美国政府系统运行将恶化。（新华社）",
+      "publishedAt": "2026-06-14T08:15:06.000Z",
+      "summaryHint": "上海机场公告，2026年5月浦东国际机场飞机起降量总计45297架次，同比减少2.25%；旅客吞吐量700.48万人次，同比减少0.98%；货邮吞吐量39.58万吨，同比增长18.00%。其中，境内航线旅客吞吐量383.1万人次，同比减少3.24%；境外航线旅客吞吐量317.38万人次，同比增长1.89%。虹桥国际机场飞机起降量总计23622架次，同比减少1.22%；旅客吞吐量420.68万人次，同比减少2.31%；货邮吞吐量3.97万吨，同比增长10.33%。",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-pklz0y",
+      "id": "rss-36kr-q6oged",
       "type": "news",
-      "title": "国家网信办就《金融信息服务数据分类分级指南》答记者问",
-      "url": "https://36kr.com/newsflashes/3851332613870856?f=rss",
+      "title": "SK海力士去年新增员工超2000人",
+      "url": "https://36kr.com/newsflashes/3852722264101889?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-13T08:18:07.000Z",
-      "summaryHint": "36氪获悉，国家互联网信息办公室有关负责同志就《指南》回答了记者提问。当前，金融信息服务有序发展，金融信息服务领域数据规模扩大、流动频繁，亟需分类分级规范管理。为落实法律法规要求，国家互联网信息办公室、中国人民银行等六部门制定印发《指南》，旨在为金融信息服务机构开展数据分类分级工作提供系统性、针对性、可操作性的指引，规范金融信息服务数据处理活动，提升数据安全水平，促进数据依法合理有效利用。在数据分类方面，《指南》按照金融信息服务数据的业务属性进行分类，其中一级分类为业务数据、用户数据和企业数据3类，在此基础上进一步细分二级分类9类、三级分类67类。",
+      "publishedAt": "2026-06-14T08:00:37.000Z",
+      "summaryHint": "业内消息人士周日透露，受全球人工智能热潮推动，存储芯片需求激增，SK海力士去年新增员工超2000人。 在韩国整体就业市场放缓的大背景下，此次扩招尤为引人注目。 数据显示，截至2025年底，SK海力士员工总数达34549人，较上年增加2159人。 同期，三星电子旗下负责芯片业务的设备解决方案部门员工数量为78064人，较上年的78699人略有减少。 截至去年年底，两家科技巨头的芯片相关从业人员总计112613人，同比增加1554人。",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-8cgbhy",
+      "id": "rss-36kr-nn12t0",
       "type": "news",
-      "title": "《金融信息服务数据分类分级指南》印发",
-      "url": "https://36kr.com/newsflashes/3851331950728194?f=rss",
+      "title": "我国首批自研海洋工程柔性智能焊接机器人投用",
+      "url": "https://36kr.com/newsflashes/3852643642053897?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-13T08:17:27.000Z",
-      "summaryHint": "36氪获悉，为指导金融信息服务机构开展数据分类分级和重要数据识别工作，提升金融信息服务数据安全水平，依据《中华人民共和国网络安全法》、《中华人民共和国数据安全法》、《中华人民共和国个人信息保护法》、《网络数据安全管理条例》、《金融信息服务管理规定》等法律法规规章和政策规定，国家互联网信息办公室、中国人民银行、国家金融监督管理总局、中国证券监督管理委员会、国家统计局、国家外汇管理局制定了《金融信息服务数据分类分级指南》。",
+      "publishedAt": "2026-06-14T07:45:39.000Z",
+      "summaryHint": "据新华社，海洋石油工程股份有限公司14日发布消息，我国首批自主研发海洋工程柔性制造智能焊接机器人设备系统在天津投用，为海洋能源领域新质生产力培育提供装备支撑。此设备系统于去年8月完成集成，随后进入测试验收阶段。经过近10个月的现场调试与工程验证，系统各项性能指标达到设计要求，实现工业化投用。",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-qrubo",
+      "id": "rss-36kr-8jlg64",
       "type": "news",
-      "title": "讯灵智能与腾讯云达成战略合作",
-      "url": "https://36kr.com/newsflashes/3851266881344521?f=rss",
+      "title": "扣子3.0正式上线专业自媒体 Skill",
+      "url": "https://36kr.com/newsflashes/3852643102741511?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-13T08:10:10.000Z",
-      "summaryHint": "36氪获悉，据腾讯云消息，近日，深圳市讯灵智能技术科技有限公司与腾讯云计算（北京）有限责任公司正式签署战略合作协议。双方将围绕技术底座共建、AI营销一体化方案、智能办公协同、行业生态与标准建设四大领域展开深度协作。",
+      "publishedAt": "2026-06-14T07:30:01.000Z",
+      "summaryHint": "扣子3.0正式上线专业自媒体Skill，面向内容创作者提供从选题到复盘的全流程辅助能力，覆盖热点监测、内容创作、平台适配、发布检查和账号诊断等场景。同时，扣子3.0支持多端协同，创作者可在PC、移动端等不同场景下连续推进选题、创作、审核与复盘任务，灵活衔接日常运营流程。",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-8uhmnc",
+      "id": "rss-36kr-ptvv2e",
       "type": "news",
-      "title": "科大讯飞发布星火多模态大模型X2-VL",
-      "url": "https://36kr.com/newsflashes/3851320295166976?f=rss",
+      "title": "中企承建马达加斯加12号国道部分竣工",
+      "url": "https://36kr.com/newsflashes/3852642326877446?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-13T08:05:35.000Z",
-      "summaryHint": "36氪获悉，据无锡发布，6月11日，在锡举行的2026长三角机器人及自动化展览会暨无锡具身智能机器人产业链伙伴大会上，科大讯飞发布星火多模态大模型X2-VL。这款国产多模态大模型，将为无锡具身智能产业搭载硬核“AI大脑”。",
+      "publishedAt": "2026-06-14T07:15:17.000Z",
+      "summaryHint": "由中铁十八局集团承建的马达加斯加12号国道一期一标段项目13日竣工。马达加斯加临时国家元首兰德里亚尼里纳和总理拉乔纳里松等出席在该国东南沿海城市陶拉纳鲁举行的竣工仪式。12号国道一期一标段位于该国阿诺西大区境内，全长约45公里，途中共设5座桥梁，竣工通车后将成为马东南部重要交通干线。",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-u2zn5d",
+      "id": "rss-36kr-ttswsp",
       "type": "news",
-      "title": "云南铜业：今年以来硫酸销售价格持续处于高位",
-      "url": "https://36kr.com/newsflashes/3851282943792133?f=rss",
+      "title": "中国裁判傅明首次亮相世界杯",
+      "url": "https://36kr.com/newsflashes/3852555218113542?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-13T07:53:30.000Z",
-      "summaryHint": "36氪获悉，云南铜业近日接受机构调研时表示，根据公司2026年度生产计划，硫酸全年计划产量为576万吨。2026年一季度，硫酸产量按计划有序推进。价格方面，硫酸作为铜冶炼的副产品，其售价受区域市场供需、运输条件及行业景气度等多重因素影响。今年以来，受下游需求旺盛、部分产区供应偏紧等影响，硫酸销售价格持续处于高位。公司紧抓市场机遇，合理安排生产与销售，实现了对经营业绩的积极贡献。同时，公司将持续关注价格变化，动态优化产销节奏。",
+      "publishedAt": "2026-06-14T07:00:42.000Z",
+      "summaryHint": "世界杯D组首轮，澳大利亚对阵土耳其。本场比赛，中国裁判傅明担任VAR辅助裁判，迎来个人执法生涯的世界杯首秀，这也是本届世界杯中国裁判的执法首秀。本届世界杯，中国有三名裁判员马宁、傅明、周飞入围裁判员名单，分别是以主裁、VAR裁判和助理裁判的身份入围。",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-1olqfg",
+      "id": "rss-36kr-aqvucu",
       "type": "news",
-      "title": "美格智能：存储芯片价格上涨成本在合理、有序向下游客户传导",
-      "url": "https://36kr.com/newsflashes/3851282375971842?f=rss",
+      "title": "中企承建马达加斯加12号国道部分竣工",
+      "url": "https://36kr.com/newsflashes/3852554726003713?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-13T07:45:57.000Z",
-      "summaryHint": "36氪获悉，美格智能6月11日接受机构调研时表示，公司目前存货金额较大，其中很大部分是存储芯片备货。在存储芯片涨价早期，公司根据研发项目、订单情况，及对存储芯片行情预测，为保证客户订单顺利交付，进行了较大金额的战略备货，对后续产品利润有正面影响。存储芯片价格上涨成本，我们在合理、有序向下游客户传导，比如车载产品、海外运营商5G产品等，都进行了价格调整。",
+      "publishedAt": "2026-06-14T06:45:10.000Z",
+      "summaryHint": "由中铁十八局集团承建的马达加斯加12号国道一期一标段项目13日竣工。马达加斯加临时国家元首兰德里亚尼里纳和总理拉乔纳里松等出席在该国东南沿海城市陶拉纳鲁举行的竣工仪式。12号国道一期一标段位于该国阿诺西大区境内，全长约45公里，途中共设5座桥梁，竣工通车后将成为马东南部重要交通干线。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-fxcw1p",
+      "type": "news",
+      "title": "陈茂波：中国香港股市1-5月日均成交额同比增长14%",
+      "url": "https://36kr.com/newsflashes/3852554342962435?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-14T06:30:48.000Z",
+      "summaryHint": "中国香港财政司司长陈茂波在周日的博客中写道，香港股市流动性持续增加，今年前五个月日均成交额超过2,700亿港元，同比增长14%。新经济公司如今占港股总市值约25%。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-8ykvrh",
+      "type": "news",
+      "title": "增长停滞两年后，H&M重组全球架构，大中华区降级｜独家",
+      "url": "https://36kr.com/p/3850942780838912?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-14T05:38:42.000Z",
+      "summaryHint": "文｜贺哲馨 编辑｜乔芊 36氪独家获悉，瑞典快时尚巨头H&amp;M正在推进一场波及全球的组织架构调整：原本按地理划分的9大区域业务板块被打散，重新拆分为26个销售市场，并以市场表现为依据归入四个新设立的“洲级”事业部管辖。 大中华区在这轮调整中降级为26个销售市场之一，归属新成立的亚太洲级事业部（Continent Asia Pacific）管理。原大中华区总裁司懿德（Saed El-Achkar）将出任该事业部董事总经理（Managing Director），任命预计在6月25日集团半年报发布前后正式对外公布，新架构于7月1日落地运转。 除大中华区外，亚太事业部还管辖东南亚（总部吉隆坡）、东北亚（东京）、印度（班加罗尔）、澳大利亚和新西兰（悉尼）四个销售市场，事业部总部仍设于上海。 伴随降级而来的是编制收缩。36氪了解到，大中华区本地团队此轮裁员40余人，约为原有规模的四分之一。 这场",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-2s8r02",
+      "type": "news",
+      "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
+      "url": "https://www.qbitai.com/2026/06/435483.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-13T12:40:30.000Z",
+      "summaryHint": "模型参数量只有1B",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-uq973h",
+      "type": "news",
+      "title": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
+      "url": "https://www.qbitai.com/2026/06/435455.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-13T08:11:07.000Z",
+      "summaryHint": "一起构建下一代物理世界的智能系统",
       "tags": [
         "china",
         "funding"
@@ -570,19 +592,6 @@
       ]
     },
     {
-      "id": "rss-36kr-3ztuvb",
-      "type": "news",
-      "title": "神秘失窃案背后，比亚迪如何“驯服”泰国工厂？｜深氪lite",
-      "url": "https://36kr.com/p/3846882883963139?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-12T06:26:00.000Z",
-      "summaryHint": "比亚迪泰国罗勇工厂，曾接连陷入神秘“失窃案”。然而盘点下来，钢材螺栓数目齐全，劳保用品甚至都没有异常消耗。 实际上，被盗的并非值钱物件，而是车间水房里，桶装水塑料标签上的“BYD”Logo（品牌符号）。 那些本应随意摆放的桶装水，总会被转成同一个角度。桶身上原本完整的BYD字样齐齐消失，只留下一道被小刀精心裁剪过的轮廓痕迹。 李有才是首批加入比亚迪罗勇项目的员工之一，他告诉36氪，直到一次受邀参加当地泰籍员工间的聚会，他才找到这些被“偷走”的BYD Logo。 “ 有一个当地人穿了一件T恤，那不是我们的工服，但胸前却有一个BYD的Logo，我凑近了看才发现，那就是桶装水上的Logo塑料片，他们用胶水小心地粘在衣服上 ”，在李有才的询问下，当地人纷纷向他展示自己的贴有BYD Logo的“周边”，有帽子、鞋子，甚至是菲亚特汽车上。 中国工业品牌第一次在海外变成了\"想要贴在身上的符号\"。 “他们",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
       "id": "rss-qbitai-xwrh64",
       "type": "news",
       "title": "“智能体最后的考试”，Fable 5竟然不敌GPT 5.5",
@@ -596,38 +605,13 @@
       ]
     },
     {
-      "id": "rss-qbitai-ht8bri",
+      "id": "rss-google_news_cn_36kr_deals-8jr1uc",
       "type": "news",
-      "title": "BEV 杀入具身智能：跨维把机器人数据带上 Scaling 快车道",
-      "url": "https://www.qbitai.com/2026/06/434761.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-12T04:11:02.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-p9va47",
-      "type": "news",
-      "title": "SpaceX一上市，连食堂阿姨都要成百万富翁了。。。",
-      "url": "https://www.qbitai.com/2026/06/434733.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-12T00:26:58.000Z",
-      "summaryHint": "光散户就给马斯克冲了700亿刀",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-18eq02",
-      "type": "news",
-      "title": "上半年狂揽15亿！这所港校毕业创业者获高瓴、红杉等一线VC押注 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uZWs4Nl9HU3FXLWpnc04tU3VvVnUxeldGaFNOYmpfd0hXN0hsOC1BZDRsOTRfczFRamlaalNmbzd3MGVDMS1QZDZDSHo5eF9TSk9j?oc=5",
+      "title": "AI疯狂猎杀：上一代独角兽的危机时刻 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94SjdMWHgxVWEwRW5zeXBaXy1DYXZzbkw0RnROUWg1R2I5SmV6OTlfaXU5NjB2bGN1ZzEweFl2MnBleVpNTXZabnJxeDE5ekhISFVZ?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-11T16:43:00.000Z",
-      "summaryHint": "上半年狂揽15亿！这所港校毕业创业者获高瓴、红杉等一线VC押注 &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-06-09T12:39:00.000Z",
+      "summaryHint": "AI疯狂猎杀：上一代独角兽的危机时刻 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -635,121 +619,49 @@
       ]
     },
     {
-      "id": "reddit-rss-7l7r0c",
+      "id": "reddit-rss-tr3q9w",
       "type": "social_en",
-      "title": "Large scale GaussiaSplats of roads, is it possible??",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1u4lyjk/large_scale_gaussiasplats_of_roads_is_it_possible/",
+      "title": "hi friends, I want to know how much I'm worth. This is the last video I made. I charge $150 for something like this. Am I undercharging?",
+      "url": "https://www.reddit.com/r/videography/comments/1u5fwz9/hi_friends_i_want_to_know_how_much_im_worth_this/",
+      "source": "reddit_r_videography",
+      "publishedAt": "2026-06-14T08:45:42.000Z",
+      "summaryHint": "I&#39;m asking because people in my area generally can&#39;t afford it, and I find it hard to find a decent job shooting and editing videos. My dream is to shoot and edit motorsports. &#32; submitted by &#32; /u/DienyaMan [link] &#32; [comm",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-le7hkq",
+      "type": "social_en",
+      "title": "Scanned my small garden with an iPhone LiDAR app and trained it into a metric 3DGS",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1u524gm/scanned_my_small_garden_with_an_iphone_lidar_app/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-06-13T08:59:09.000Z",
-      "summaryHint": "Hello everyone i make modded maps for Assetto Corsa and CarX Online(racing games) is it possible to get a GaussiaSplat from a video like this I dont need the Splat to be highrez low quality would do i just need the proper road elevation dat",
+      "publishedAt": "2026-06-13T21:03:24.000Z",
+      "summaryHint": "Small outdoor 3DGS test from a personal iPhone LiDAR capture app. I’ve been building Roomly 3D as a personal side project and tested it in my small garden. The first half shows the phone capture; the second half shows the trained Gaussian S",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-10dc44",
+      "id": "reddit-rss-9r58ys",
       "type": "social_en",
-      "title": "ML in 2010 vs ML in 2026",
-      "url": "https://www.reddit.com/r/artificial/comments/1u4jsei/ml_in_2010_vs_ml_in_2026/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-06-13T06:49:30.000Z",
-      "summaryHint": "The bitter lesson, visualized. &#32; submitted by &#32; /u/Chadddd92 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-oksr05",
-      "type": "social_en",
-      "title": "World of Claudecraft: The first opensource MMORPG made 100% by AI (Fable 5)",
-      "url": "https://www.reddit.com/r/artificial/comments/1u4h7k1/world_of_claudecraft_the_first_opensource_mmorpg/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-06-13T04:27:35.000Z",
-      "summaryHint": "Under 24h ago we launched and open-sourced a 100% vibecoded MMORPG &quot;World of Claudecraft&quot; -- seeing how far we can take AI for game development using Fable. Many developers started contributing and shipping updates, and the game h",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-hz7sxd",
-      "type": "social_en",
-      "title": "US Government Kills Fable 5: Here's What Happened",
-      "url": "https://www.reddit.com/r/artificial/comments/1u4gtk8/us_government_kills_fable_5_heres_what_happened/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-06-13T04:06:55.000Z",
-      "summaryHint": "Anthropic&#39;s two most powerful models, Fable 5 and Mythos 5, went dark tonight. Since there&#39;s a lot of speculation already, here&#39;s what&#39;s actually confirmed vs. what isn&#39;t. Confirmed (Anthropic&#39;s official statement + ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-hxlmdd",
-      "type": "social_en",
-      "title": "Indie Devs, what are the best platforms for game marketing? Do devlogs actually help build an audience?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1u4fve3/indie_devs_what_are_the_best_platforms_for_game/",
-      "source": "reddit_r_gamedev",
-      "publishedAt": "2026-06-13T03:18:28.000Z",
-      "summaryHint": "Hey indie devs, I&#39;m trying to understand the best ways to market an indie game. What platforms have worked best for you for getting attention (Reddit, TikTok, YouTube, X, Discord, Steam pages, etc.)? Also, do devlogs actually help in bu",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-yyu8fh",
-      "type": "social_en",
-      "title": "Anthropic suspends access to Claude Fable and Mythos for all users after US government order",
-      "url": "https://www.reddit.com/r/artificial/comments/1u4ef3y/anthropic_suspends_access_to_claude_fable_and/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-06-13T02:06:43.000Z",
-      "summaryHint": "https://www.anthropic.com/news/fable-mythos-access The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outs",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-crmmdp",
-      "type": "social_en",
-      "title": "A shader dissolve effect for Gaussian Splats — every splat becomes a glowing particle (PlayCanvas, WebGPU/WebGL)",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1u3x25n/a_shader_dissolve_effect_for_gaussian_splats/",
+      "title": "Help me replicate this crazy clean splat! (Scanning a new house for my mom)",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1u51ict/help_me_replicate_this_crazy_clean_splat_scanning/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-06-12T14:35:35.000Z",
-      "summaryHint": "I implemented a noise-based dissolve effect for Gaussian Splats in the PlayCanvas engine, fit for splats: there&#39;s no separate particle system. Each splat is a particle. How it works: Every splat gets a fixed value from a 3-octave noise ",
+      "publishedAt": "2026-06-13T20:37:39.000Z",
+      "summaryHint": "Hey everyone! I recently stumbled across this crazy splat ( https://superspl.at/scene/7a62d7d9 ) and my mind is totally blown by how clean it is. I saw the OP mentioned using a 360 camera, which got me thinking about my own workflow. I&#39;",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-a9qnj3",
+      "id": "reddit-rss-wxgbgt",
       "type": "social_en",
-      "title": "Someone made a \"NO-ONE IS GOING TO BUY YOUR VIDEOGAME\" Manifesto on itch.io",
-      "url": "https://www.reddit.com/r/gamedev/comments/1u3onus/someone_made_a_noone_is_going_to_buy_your/",
-      "source": "reddit_r_gamedev",
-      "publishedAt": "2026-06-12T07:42:08.000Z",
-      "summaryHint": "Credit goes to Mike Cook for making this thing ( https://illomens.itch.io/ ) for Manifesto Jam. What do you all think? &#32; submitted by &#32; /u/BoxDragonGames [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-r8cbzd",
-      "type": "social_en",
-      "title": "Experimental real-time relighting of Gaussian splat scenes (proxy mesh + per-pixel shader hook) — runnable demo in browser",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1u31bla/experimental_realtime_relighting_of_gaussian/",
+      "title": "Captures Studio v1.2.0 released: 360 Support, API and many more.",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1u4w4fy/captures_studio_v120_released_360_support_api_and/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-06-11T14:53:54.000Z",
-      "summaryHint": "Splat captures have their lighting baked in, so we&#39;ve been experimenting with relighting them at runtime in the PlayCanvas engine. This demo relights a captured church scene live: HDRI environment swap with rotation and exposure, a sun ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-4rxaol",
-      "type": "social_en",
-      "title": "6 years later, 20k+ copies sold, $135k revenue and I only launched on Console",
-      "url": "https://www.reddit.com/r/gamedev/comments/1tzff7r/6_years_later_20k_copies_sold_135k_revenue_and_i/",
-      "source": "reddit_r_gamedev",
-      "publishedAt": "2026-06-07T15:38:54.000Z",
-      "summaryHint": "Ok so this comes a bit out of nowhere and I’m LATE to the party on making this postmortem but that graphic at Summer Games Fest of over 9k+ games being launched on steam had me thinking. So here this goes. Feel free to ask me anything and I",
+      "publishedAt": "2026-06-13T17:00:13.000Z",
+      "summaryHint": "Hey everyone, We just shipped v1.2.0 of Captures Studio and wanted to share what&#39;s new: 360 image/video support : you can now feed equirectangular content straight into the Gaussian Splat reconstruction pipeline Extensive Branding Suppo",
       "tags": [
         "ai_social"
       ]
