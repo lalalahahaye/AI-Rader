@@ -1,60 +1,77 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-16T11:35:57.117Z",
+  "updatedAt": "2026-06-17T11:18:48.577Z",
   "items": [
     {
-      "id": "rss-36kr-epb911",
+      "id": "rss-36kr-wcqk5l",
       "type": "funding",
-      "title": "东山精密：拟投资12亿美元实施光芯片及光模块扩建项目",
-      "url": "https://36kr.com/newsflashes/3855759472120839?f=rss",
+      "title": "百润股份：拟定增募资不超13.05亿元，用于麦芽威士忌桶陈扩能等项目",
+      "url": "https://36kr.com/newsflashes/3857167540442376?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-16T11:21:21.000Z",
-      "summaryHint": "36氪获悉，东山精密公告，公司董事会召开会议，同意公司子公司索尔思光电及其子公司在常州等地实施光芯片及光模块扩建项目，项目总投资额12亿美元，以提升索尔思光电整体产能规模，项目投资资金来源为公司自筹资金。此次投资扩建可以提升公司高端光芯片、光模块产能，充分满足客户在AI算力服务器相关核心产品上的中长期采购需求，进一步增强公司核心竞争力。",
+      "publishedAt": "2026-06-17T11:13:43.000Z",
+      "summaryHint": "36氪获悉，百润股份公告，公司拟向特定对象发行股票募资不超过13.05亿元（含），用于麦芽威士忌桶陈扩能项目和研发检测中心项目。",
       "tags": [
         "china",
         "funding",
         "deal_signal"
       ],
-      "amount": "12亿"
+      "amount": "13.05亿元"
     },
     {
-      "id": "rss-36kr-9gzwai",
+      "id": "rss-36kr-mnfpv4",
       "type": "funding",
-      "title": "SpaceX将通过合并收购美国AI软件公司Anysphere",
-      "url": "https://36kr.com/newsflashes/3855740363560198?f=rss",
+      "title": "“纵维立方 Anycubic”完成数亿元B轮融资",
+      "url": "https://36kr.com/newsflashes/3857128736379910?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-16T11:01:55.000Z",
-      "summaryHint": "美国证交会备案文件显示，SpaceX与其全资子公司X67 Inc.与Anysphere, Inc.（“Cursor”）签署了一份合并协议与计划。根据该协议，合并子公司将与Cursor合并，Cursor在合并后存续，成为SpaceX的全资子公司。SpaceX提交的文件显示，在合并生效时，Cursor在合并生效时间之前已发行的每股普通股和每股优先股将自动转换为获得本公司A类普通股的权利，该权利基于Cursor 600亿美元的隐含股权价值，以及公司A类普通股在合并交割日前连续七个交易日的成交量加权平均收盘价作为股价。SpaceX目前预计合并将于2026年第三季度完成。（界面）",
+      "publishedAt": "2026-06-17T10:34:15.000Z",
+      "summaryHint": "36氪获悉，消费级3D打印品牌“纵维立方 Anycubic”宣布完成数亿元B轮融资。本轮融资由国泰海通、达晨联合领投，挑战者创投、Mirae Asset Capital （China）、清波基金跟投，Blacksheep Technology担任本轮融资独家财务顾问。融资将主要投向FDM多色/多材打印、高端光固化产品、核心软硬件、新材料体系及全球渠道与本地化服务能力建设，进一步提升公司在全球消费级3D打印市场的产品创新与规模化交付能力。",
       "tags": [
         "china",
         "funding",
         "deal_signal"
       ],
-      "amount": "600亿"
+      "round": "B轮融资"
     },
     {
-      "id": "rss-36kr-cyi59e",
+      "id": "rss-google_news_cn_36kr_deals-afjdzp",
       "type": "funding",
-      "title": "Deepseek首轮融资规模约75亿美元，创始人梁文锋为最大单一出资方",
-      "url": "https://36kr.com/newsflashes/3855729974367233?f=rss",
+      "title": "“NoonWake.AI”完成近千万元种子轮融资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CV3ZJaDVPOG9iVTRVTklWYl94SEpHNTduQ09IMEFIQk5sLWtJbWlIZ0lWLWxVMUY3TXdtV0VPc25lczJwQjlkQUQzWG5PR2NjT1NmR1JrNXBiLWpSQ2dObQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-06-17T07:46:04.000Z",
+      "summaryHint": "“NoonWake.AI”完成近千万元种子轮融资 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "种子轮"
+    },
+    {
+      "id": "rss-36kr-r1eeyf",
+      "type": "funding",
+      "title": "NoonWake.AI完成近千万元种子轮融资，用AI做年轻人的情绪消费品｜智能涌现首发",
+      "url": "https://36kr.com/p/3848483761493250?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-16T10:51:21.000Z",
-      "summaryHint": "36氪从投资机构获悉，Deepseek本轮融资的投资方包括创始人梁文锋、国智投、腾讯、网易、京东、宁德时代体系、正心谷投资、拾象科技、Monolith砺思资本以及 IDG 资本等，整体融资规模约510亿元，折合约75亿美元，投后估值接近4000亿元。具体来看：创始人梁文锋或出资约200亿元，为本轮融资中最大单一出资方。腾讯出资约100亿元；宁德时代体系出资约50亿元，其中包括宁德时代及溥泉资本；网易、京东、Monolith砺思资本、IDG资本分别出资约30亿元；正心谷投资、拾象科技分别出资约15亿元，国家人工智能产业投资基金出资约9.8亿元。",
+      "publishedAt": "2026-06-17T07:12:01.000Z",
+      "summaryHint": "作者｜梁键强 编辑｜王毓婵 一句话介绍 NoonWake.AI是一家以泛心理为切入点、结合AI技术做情绪消费产品的创业公司，业务覆盖软件和硬件，并同时面向国内外市场。 目前，公司产品包括国内AI陪伴应用“万象有灵”、海外应用Starot、桌面AI陪伴硬件“好运日历机”，以及正在探索的智能水晶手串等轻硬件产品。 团队介绍 NoonWake.AI创始人兼CEO吴尚，本科毕业于中南大学，MBA就读于北京大学光华管理学院。曾先后在中兴、阿里、腾讯和小米任职，参与过OS产品、SaaS、社交产品和智能硬件相关业务。在腾讯期间，吴尚曾参与早期创业项目“我岛”，该项目曾获得600万美元融资。 其他核心成员分别负责技术研发、产品与硬件设计、GTM运营等关键模块。技术负责人喜哥曾任小爱端侧模型核心工程师，主要负责公司模型工程、AI技术架构及相关研发工作。 产品设计负责人美杰曾参与天梯项目，后在字节跳动大力教育",
       "tags": [
         "china",
         "funding",
         "deal_signal"
       ],
-      "amount": "75亿"
+      "round": "种子轮",
+      "amount": "600万"
     },
     {
-      "id": "rss-36kr-658ee8",
+      "id": "rss-qbitai-ruvlxv",
       "type": "funding",
-      "title": "在大疆、影石夹缝中做智能影像生意，这家公司连续五年每年增长50%｜硬氪专访",
-      "url": "https://36kr.com/p/3853918856696834?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-16T08:28:55.000Z",
-      "summaryHint": "作者&nbsp;|&nbsp;黄楠 编辑&nbsp;|&nbsp;袁斯来 在创业者中，OBSBOT寻影CEO刘博已经是个“老人”了。 2016年，刘博浙大毕业就到深圳创业。不管是当初还是现在，在高调的“天才少年”创业者中，刘博履历都算不上特别耀眼。 他没有太多感性的故事分享。唯一一段难忘的经历，就是2019年时，因为产品定义出问题滞销，公司账户钱只够几个月，裁掉砍掉一半，相关业务暂停。那是他印象中最安静的一个冬天。 转机出现在2020年。居家办公常态化下，会议常用的Webcam需求暴增。刘博发现，市面上常见的摄像头都是固定式，而人在家里不会一直正襟危坐——会动、会起身、会改变姿势。他决定做一款能智能跟踪、自动构图的Webcam产品。2020年，寻影发布Tiny系列摄像头。 这一款产品救活了公司。此后几年，寻影在高端Webcam市占率超过50%，位居Top 1。寻影 也先后拿到了数亿美元融资",
+      "title": "头部具身大脑公司再获数亿美元融资！世界模型路线，15家VC抢着投",
+      "url": "https://www.qbitai.com/2026/06/436148.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-17T06:22:39.000Z",
+      "summaryHint": "半年三连发：从开源到端侧再到训练场",
       "tags": [
         "china",
         "funding",
@@ -62,13 +79,148 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-2jd7s8",
+      "id": "rss-qbitai-shu5t8",
       "type": "funding",
-      "title": "超级IPO、超级增发不断，天量融资之下，美股“核心亮点之一”已经没了 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mUkNySnRRZTRlM0Vma3VMdE5NZW1IQU94X3cyaFFzdXFTRHZuVTVFMHBuYTNOZ0tUOVoyWDNSQWl3b3gxa2t4Q1dDWnJZc0Jp?oc=5",
+      "title": "林俊旸新公司卜拉格亮相！首轮估值135亿，腾讯高榕红杉全投了",
+      "url": "https://www.qbitai.com/2026/06/436138.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-17T06:17:22.000Z",
+      "summaryHint": "高榕创投与红杉中国联合领投，各出资1亿美元。腾讯跟投2000万美元",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "amount": "135亿"
+    },
+    {
+      "id": "rss-36kr-zgp56s",
+      "type": "funding",
+      "title": "36氪首发 | 中科大博士做量子赛道“卖水人”，连续融资两轮",
+      "url": "https://36kr.com/p/3856755190551811?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-17T04:14:27.000Z",
+      "summaryHint": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，中性原子量子计算平台级核心供应商——太微量子（MQTEK）已连续完成天使轮、天使+轮融资。投资方包括英诺天使、东方嘉富、小苗朗程、云启资本、水木投资、远东远至等知名投资机构，慕石资本担任独家财务顾问。融资资金将主要用于三大核心产品矩阵的扩产与研发。 太微量子成立于2021年，专注于中性原子与离子阱两条量子计算路线的上游核心部件。团队成员来自中国科学技术大学、清华大学、浙江大学等国内外高校，聚集了量子、AI、光学、机械、硬件等各领域的前沿人才。创始人兼CEO王宣恺为中科大量子信息与量子物理方向博士，曾开发过显微镜、电流源、激光器等多款精密仪器。 王宣恺告诉硬氪，公司定位为“量子计算生态的卖水人”，不做整机，而是为下游整机企业与科研平台提供标准化、高稳定、可量产的关键部件。 目前，公司已形成三大产品线： 一是量子气体显微镜（QGM），用于单原子成像与操控。相",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "round": "天使轮"
+    },
+    {
+      "id": "rss-qbitai-d4cuq6",
+      "type": "funding",
+      "title": "许锦波率分子之心完成逾亿美元融资，定义全球AI蛋白质产业新基建",
+      "url": "https://www.qbitai.com/2026/06/436077.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-17T02:23:50.000Z",
+      "summaryHint": "世界级科学家领跑AI蛋白第二次范式革命",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-36kr-ylef5b",
+      "type": "funding",
+      "title": "「逆矩阵」完成超亿美元融资，创始人：通用世界基座模型窗口期已压至18个月",
+      "url": "https://36kr.com/p/3826129009234824?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-17T01:00:00.000Z",
+      "summaryHint": "文｜王毓婵 编辑｜张雨忻 2026 年以来，一级市场对世界模型的抢筹进入白热化阶段。资金不再像早期那样“广撒网”，而是高度向头部玩家集中。这其中，逆矩阵科技（Physis）就接连完成了多轮融资。 36氪智能涌现独家据悉，世界模型公司逆矩阵科技已完成超亿美元种子++轮融资；此前的 3 月，刚完成了超千万美元首轮融资。本轮由经纬创投、五源资本、光合创投等机构共同参与，并获蚂蚁集团战略投资，老股东高瓴创投、燕缘创投持续加注。 在本轮融资落定前后，逆矩阵发布了通用世界基座模型Physis-v0.1，并将其概括为“One For All”的通用物理世界应用。该模型主打物理正确、长程一致、动作因果、通用泛化四项能力，一次预训练即可服务具身智能、工业仿真、游戏物理、科学预测等多类场景。 逆矩阵计划于 2026 年底发布旗舰模型，过程中将放出开源切片和技术报告。本轮资金将主要用于通用世界基座模型的预训练研",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-36kr-21zaf0",
+      "type": "funding",
+      "title": "8点1氪丨连涨3天，SpaceX超越亚马逊跻身全球前五；支付宝启动史上最大改版；微信支付“AI专属卡”最快本周内上线",
+      "url": "https://36kr.com/p/3856525981275138?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-17T00:22:06.000Z",
+      "summaryHint": "今日热点导览 山姆中国变更董事长 海康威视7月1日上调硬盘价 5月份全球纯电和插电式混动汽车销量连续三个月增长 美国零售经纪商处的SpaceX投资者每人至少分得一股IPO股票 传苹果首款折叠屏将延期发布，产业链人士：假的 TOP 3 大新闻 连涨3天，SpaceX超越亚马逊跻身全球前五 6月16日，SpaceX开盘迅速拉升，涨幅一度扩大至17%，市值一度超越微软，盘中总市值触及2.94万亿美元，跃居世界第四大市值公司，而第三名的苹果市值为4.37万亿美元。截至收盘，SpaceX股价收涨4.8%，市值达到2.65万亿美元，较亚马逊高出约80亿美元。上市以来，SpaceX已累计飙升49%。这家刚刚完成轰动性IPO的公司，在上市第三天就超越了亚马逊，成为全球市值第五大上市公司。 据《福布斯》最新发布的全球富豪榜，特斯拉与SpaceX掌门人埃隆·马斯克的个人财富一度飙升至惊人的1.4万亿美元，刷新",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "amount": "2.94万"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-fiec8q",
+      "type": "funding",
+      "title": "AI望诊破解“辨证”难题，炳南斋开启融资之路 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nOTlLMGR0aWszVFQyNlk0blhRc0ZnUDItUjcxUDZwUjJGMjBqS2dJUUppMVlqWkpyQTloeDlRWnROdVhxSFZkSXRYR0VXRmszWjln?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-15T17:21:00.000Z",
-      "summaryHint": "超级IPO、超级增发不断，天量融资之下，美股“核心亮点之一”已经没了 &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-06-16T19:10:00.000Z",
+      "summaryHint": "AI望诊破解“辨证”难题，炳南斋开启融资之路 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-fo9foe",
+      "type": "funding",
+      "title": "“NoonWake.AI”完成近千万元种子轮融资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wRVIwLW9YRm1rU1J3X2g5YkhOWmNHdG56ZEJPNmpmZzQxYTVaS3Bod2U5enNCRk5idFVQd01Sd051STFkdWZDckZGQlo0UTJ3eG12S3NZMlBwUzRpcm1MRA?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-06-16T16:27:00.000Z",
+      "summaryHint": "“NoonWake.AI”完成近千万元种子轮融资 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "种子轮"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-bf63ab",
+      "type": "funding",
+      "title": "NoonWake.AI完成近千万元种子轮融资，用AI做年轻人的情绪消费品｜智能涌现首发 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOazB3T0JQQm5Jd3lPQ1lXcjdMM0dROXFMUWM4WEM5RW5zSFFZNGlPd2tFU3BWYjZSS1Nwc0lXbmRVY29GdWlwVkV4Q0UwTF9v?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-06-16T16:12:00.000Z",
+      "summaryHint": "NoonWake.AI完成近千万元种子轮融资，用AI做年轻人的情绪消费品｜智能涌现首发 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "种子轮"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-hnrpd9",
+      "type": "funding",
+      "title": "「逆矩阵」完成超亿美元融资，创始人：通用世界基座模型窗口期已压至18个月 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16Mm5WRHlVd0MzeEsybkZJV2dmdzlHdlVVakpTakRDZHRwQVd5WTFraTBsamVESkdfNlh3eTlickRzWjlySDUtRWJpVVl0TDU5?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-06-16T10:00:00.000Z",
+      "summaryHint": "「逆矩阵」完成超亿美元融资，创始人：通用世界基座模型窗口期已压至18个月 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-20cgo0",
+      "type": "funding",
+      "title": "独家曝光！DeepSeek融资细节揭秘，梁文锋保住控制权的策略 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HWU43Vk81cldQUzZONnBPOXdraWx3dFVHRE1heENBamZrdU5CMmxHUGpxQjhQRERHVXFlVzZhWXdqa05rbGczS19nZG9FQmw4YXFv?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-06-15T21:10:00.000Z",
+      "summaryHint": "独家曝光！DeepSeek融资细节揭秘，梁文锋保住控制权的策略 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -109,36 +261,6 @@
       "amount": "135亿"
     },
     {
-      "id": "rss-36kr-kae25l",
-      "type": "funding",
-      "title": "硬氪首发 | 海洋具身智能公司「世航智能」拿下创纪录10亿融资，朱啸虎押注",
-      "url": "https://36kr.com/p/3853011900142848?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-15T01:50:00.000Z",
-      "summaryHint": "作者&nbsp;|&nbsp;邱晓芬 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，海洋具身智能公司「世航智能」完成A轮融资，融资金额超过10亿元，这也是目前全球海洋机器人领域规模最大的单轮融资。本轮融资由两家芯片公司「摩尔线程」和「昆仑芯」的产业投资方上河动量基金、新加坡国有投资平台Vertex Growth 、上市公司大洋电机等资方出资。 另外，金沙江创投也在本轮追加投资，这已是其创始人朱啸虎第五轮投资「世航智能」，祥峰中国、华映资本、长石资本等老股东亦全部超额跟投。 「世航智能」创始人兼CEO陈晓博为1989年出生的哈尔滨工程大学校友，长期深耕水下机器人领域，在28岁时获得国防科技进步一等奖，是该奖项最年轻获奖者，并主导研发全国首台商用水下清洗机器人。 （图源/企业） 「世航智能」方面向硬氪透露，本轮融资将主要用于核心技术研发、全球化市场拓展及产业链生态建设，进一步推动海洋机器人在",
-      "tags": [
-        "china",
-        "funding",
-        "deal_signal"
-      ],
-      "round": "A轮融资",
-      "amount": "10亿"
-    },
-    {
-      "id": "rss-36kr-xfjexs",
-      "type": "funding",
-      "title": "36氪首发 | EBike变速器供应商打破海外巨头垄断，获国泰、达晨参与新一轮数千万元融资",
-      "url": "https://36kr.com/p/3853252135654660?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-15T01:30:46.000Z",
-      "summaryHint": "作者&nbsp;|&nbsp;张子怡 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，智能短出行核心零部件供应商洛梵狄智能科技（以下简称“洛梵狄”）已完成新一轮数千万元B+融资。本轮投资方包括国泰海通、达晨财智、以及广州黄埔科创母基金，老股东达晨财智在本轮中继续追加投资。 据悉，本轮融资资金将主要用于持续的研发投入、产能扩张、全球销售网络建设及日常运营流动资金。其中，研发重点将聚焦于下一代智能内变速器的深耕。 洛梵狄自2012年成立以来，专注内变速器的研发和生产，是中国第一家、全球第三家量产智能内变速器的厂商。目前公司已研发出电控内变速器、电机内置变速器（MEGS）、机械自动内变速器、智能车锁等产品。 变速器产品主要被用于出行产品中。智能电动出行厂商也是洛梵狄的主要用户。 以Ebike为例，过去三年，全球Ebike市场经历着漫长的去库存过程中。从全球市场数据来看，2024年Ebike全球市",
-      "tags": [
-        "china",
-        "funding",
-        "deal_signal"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-tta1kg",
       "type": "funding",
       "title": "融资13.5亿，估值68亿，美国工厂开始着急了 - 36 Kr",
@@ -155,60 +277,12 @@
       "amount": "13.5亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-d85ov",
-      "type": "funding",
-      "title": "94亿，机器人今年最大的一笔融资出现了 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BMVBzNDMzb2taMjRHZ0xObU5MVGtnM1IxWlB4aEFxRlVaa3pHZlpkcW1pOTZXZmFUUzhuckNqX01pdTM2SC1jYWxDd19Kak51?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-13T11:44:00.000Z",
-      "summaryHint": "94亿，机器人今年最大的一笔融资出现了 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "94亿"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-vbpq8f",
       "type": "funding",
       "title": "应用数字公司完成15.9亿美元AI债务融资 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aNnZwdTd0emdfNmE3OExULTZjZEhsdUNvdENPQjJsYmFkc1htbU4tLUpxV05Ea0lPVGJYcnhFX0pkaEtBUzhhUm5NLWNmNk9KWXNqSTk1SWdGUDdlR2c?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-06-12T00:34:08.000Z",
-      "summaryHint": "应用数字公司完成15.9亿美元AI债务融资 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "15.9亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-aaasv7",
-      "type": "funding",
-      "title": "AI机器人企业Theker获路威酩轩等投资方8500万美元融资 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhSEJkTXhPbGZHelMwOWM1dTFodXdsZVM1ckh2LWpHbzJnNWE5TnVMdjZhMkstYjRyLWNyVjBIOTh2SWlZWUhqdXM1MjBVdTlZUUVUQmI3aUh1ZFg0V0E?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-12T00:34:03.000Z",
-      "summaryHint": "AI机器人企业Theker获路威酩轩等投资方8500万美元融资 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "8500万"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-cwqbd",
-      "type": "funding",
-      "title": "应用数字公司完成15.9亿美元AI债务融资 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GQl84WUNPT0pWUlF0Mzl0M2JFSEJBYXlfR3hxc09ZRkZaazZscjl1VXZKT2J6SzA1bXNMZlpIeVZYc3JObXAxNFNaOXZjaWlPemktR2JnaXVSaUY4WGZUTw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-11T23:58:00.000Z",
       "summaryHint": "应用数字公司完成15.9亿美元AI债务融资 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
@@ -250,371 +324,290 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-81hxn0",
-      "type": "funding",
-      "title": "AniShort斩获近亿元融资，刷新AI短剧工具赛道融资纪录 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44T19pSk5IdVRLS0FSaVRXeWtDMTh0UnRjV21yMWFuX2h1QThtQzZBelgzVllLT0Iwcmx5LTVHNXlkcG1ncWRVZDVHRGdOdw?oc=5",
+      "id": "rss-36kr-xydmf9",
+      "type": "news",
+      "title": "Snap发布AR智能眼镜SPECS",
+      "url": "https://36kr.com/newsflashes/3857169236579584?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-17T11:15:27.000Z",
+      "summaryHint": "36氪获悉，Snap Inc. 今日宣布推出SPECS，一款内置于透明增强现实眼镜中的可穿戴计算设备。该产品现已开放预订，定价为2195美元。该产品预计将于今年秋季率先在美国、英国和法国市场上市。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-dbrjtc",
+      "type": "news",
+      "title": "申万期货拟吸收合并宏源期货",
+      "url": "https://36kr.com/newsflashes/3857164040082696?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-17T11:10:09.000Z",
+      "summaryHint": "36氪获悉，申银万国期货有限公司（简称“申万期货”）公告，拟吸收合并宏源期货有限公司（简称“宏源期货”）。申万期货的股东已作出同意本次合并的股东决定。本次合并中申万期货作为合并方，宏源期货为被合并方，本次合并完成后，宏源期货将依法注销法人资格。自本次合并的交割日起，合并后的申万期货将承继及承接宏源期货的全部资产、负债、业务、人员、合同、资质及其他一切权利与义务。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-eealda",
+      "type": "news",
+      "title": "千寻位置正式发布潜龙时空服务器升级版",
+      "url": "https://36kr.com/newsflashes/3857158543741954?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-17T11:04:34.000Z",
+      "summaryHint": "36氪获悉，6月17日，千寻位置正式发布潜龙时空服务器升级版iStation Pro。产品搭载千寻位置自研板卡A40s，并在网络、电源等关键环节实现多重冗余备份，可广泛应用于智慧城市、地理信息、智能交通、电力能源等领域。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-k2yh4e",
+      "type": "news",
+      "title": "江钨装备：公司无注入矿山资产的安排或活动",
+      "url": "https://36kr.com/newsflashes/3857156183282952?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-17T11:02:10.000Z",
+      "summaryHint": "36氪获悉，江钨装备披露股票交易异动公告称，针对有媒体发布相关报道称，公司可能择机注入矿山资产，经自查，公司无注入矿山资产的安排或活动，公司目前主营业务为磁选装备的研发、生产与销售，主营业务未发生变化。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-j0yvx2",
+      "type": "news",
+      "title": "圆通速递：5月快递产品收入62.4亿元，同比增长6.68%",
+      "url": "https://36kr.com/newsflashes/3857154812171273?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-17T11:00:46.000Z",
+      "summaryHint": "36氪获悉，圆通速递公告，2026年5月快递产品收入62.4亿元，同比增长6.68%；业务完成量30.57亿票，同比增长10.61%；快递产品单票收入2.04元，同比下降3.55%。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-k7gmh1",
+      "type": "news",
+      "title": "机构今日买入国瓷材料等45股，卖出广汇能源3.24亿元",
+      "url": "https://36kr.com/newsflashes/3857138991748100?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-17T10:44:41.000Z",
+      "summaryHint": "盘后数据显示，6月17日龙虎榜中，共81只个股出现了机构的身影���有45只股票呈现机构净买入，36只股票呈现机构净卖出。当天机构净买入前三的股票分别是国瓷材料、中国巨石、厦门钨业，净买入金额分别是10.53亿元、8.63亿元、6.82亿元。当天机构净卖出前三的股票分别是广汇能源、香农芯创、申昊科技，净流出金额分别是3.24亿元、2.88亿元、2.1亿元。（第一财经）",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-dnd2fe",
+      "type": "news",
+      "title": "凯迪股份：公司机器人产品仍处开发阶段，短期内暂无法形成收入",
+      "url": "https://36kr.com/newsflashes/3857127292474628?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-17T10:32:46.000Z",
+      "summaryHint": "36氪获悉，凯迪股份公告，公司股票价格6月15日、16日、17日连续三个交易日内日收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动情形。公司关注到市场对公司的机器人相关业务关注度较高，公司机器人相关业务已立项，产品仍处于开发阶段，短期内暂无法形成收入，预计不会对公司业绩造成重大影响。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-r149qp",
+      "type": "news",
+      "title": "有道词典笔获2026 EdTech Breakthrough Award年度K-12教育科技应用大奖",
+      "url": "https://36kr.com/newsflashes/3857102945244420?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-17T10:08:00.000Z",
+      "summaryHint": "36氪获悉，近日，2026 EdTech Breakthrough Award（教育科技突破奖）正式揭晓。网易有道旗下有道词典笔摘得\"年度K-12教育科技应用大奖\"。据了解，这是该奖项设立以来，中国智能学习硬件品牌首次在K-12细分赛道获得该项荣誉。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-sjtvvz",
+      "type": "news",
+      "title": "风拂阳澄，来半岛解锁夏日限定AI狂欢！",
+      "url": "https://36kr.com/p/3857051317359622?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-17T10:02:07.000Z",
+      "summaryHint": "风口已至，静候同行。&nbsp; 提起阳澄湖，你的脑海里浮现的画面是什么？&nbsp; 是远近闻名的阳澄湖大闸蟹，是波光粼粼的度假区风光，还是惬意舒展的环湖骑行赛道？在大多数人的印象里，阳澄湖半岛风光旖旎，向来是周末卸下疲惫、放松身心的度假好去处。 然而在今年盛夏，这片湖畔热土将迎来全新的科技活力。 当你再次漫步于阳澄湖畔，迎面走来的可能是身着外骨骼机甲在执勤的景区安保人员；走进喜来登等高端酒店，你会看到灵活穿梭的L4级自动驾驶无人配送车，全程无接触为旅客运送行李。越来越多充满未来感的场景，即将落地阳澄湖半岛，解锁一场专属夏日的AI嘉年华。 首届阳澄湖半岛度假区AI嘉年华，将于7月3日至4日正式启幕。本次活动旨在推动这片生态优质的热门旅游目的地，全面迈向“AI+文体旅”数字智能体新形态。 本届AI嘉年华将围绕AI+运动、AI+宠物、AI+艺术、AI+康养、AI+购物五大方向，展示多个真实的",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-8r37ui",
+      "type": "news",
+      "title": "DeepSeek，终于接下了这500亿 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwMFVrN252MFNFNC1RYnBhcnRkc1l2ZVAtekxxd0xxdnZuWlJOSnN4a0FuNEdwYmVjRmxLLWozMzlXbFlCdW9GTjNhejJkbUk0?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-10T09:27:00.000Z",
-      "summaryHint": "AniShort斩获近亿元融资，刷新AI短剧工具赛道融资纪录 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-t4y2hk",
-      "type": "funding",
-      "title": "字节AI制药开启拆分融资，AI4S进入产业化阶段 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WMm5uQ0hzWG91ZFlOQ0ptcmlHeWY2S1hIZDZQWVBpUlZHYTYwMzBaQ0FkTWhKcjNzRFVTejZsTksyNEFKb1B0bkNBTXFKSU11SnBYSjJZd2M?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-09T15:13:00.000Z",
-      "summaryHint": "字节AI制药开启拆分融资，AI4S进入产业化阶段 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-1i5x15",
-      "type": "funding",
-      "title": "独家揭秘！字节AI制药拆分融资，AI4S正式迈入产业化阶段 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15aS1WS01Id3RfcUtPQVAtMU5LdHNyV2QxV19aMjdiUHFfb2hQOTBpRElPSVI1T3JweFQ1b1ozQTRpNUNRZGRHMnJmbUliek5vVHBV?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-09T15:11:00.000Z",
-      "summaryHint": "独家揭秘！字节AI制药拆分融资，AI4S正式迈入产业化阶段 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-36kr-ycq4li",
-      "type": "news",
-      "title": "均胜电子：参股公司光模块业务已进入量产阶段",
-      "url": "https://36kr.com/newsflashes/3855764269929729?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-16T11:26:14.000Z",
-      "summaryHint": "36氪获悉，均胜电子在互动平台表示，公司看好光模块市场前景，参股公司新菲光通信技术有限公司面向全球市场拓展新业务机会，其光模块业务已进入量产阶段，目前公司也正密切关注其业务发展情况。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-9auayk",
-      "type": "news",
-      "title": "中广天择：筹划控股股东变更事项，股票17日起停牌",
-      "url": "https://36kr.com/newsflashes/3855754391622915?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-16T11:16:11.000Z",
-      "summaryHint": "36氪获悉，中广天择公告，公司控股股东长沙广播电视集团有限公司正在筹划涉及所持有公司股份转让事宜，该事项可能导致公司控股股东发生变更。公司股票于6月17日起停牌，预计停牌不超过2个交易日。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-xb3y3k",
-      "type": "news",
-      "title": "抖音升级“长辈模式”，新增反诈风险预警功能",
-      "url": "https://36kr.com/newsflashes/3855750539170823?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-16T11:12:16.000Z",
-      "summaryHint": "36氪获悉，6月16日，“2026抖音反诈万里行”活动在京启动。据介绍，针对老年人的高发网络诈骗，抖音升级“长辈模式”，新增反诈风险预警功能。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-7vh8yz",
-      "type": "news",
-      "title": "斯迪克：拟5.65亿元投建年产12亿平方米高端MLCC离型膜项目",
-      "url": "https://36kr.com/newsflashes/3855748307817480?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-16T11:10:00.000Z",
-      "summaryHint": "36氪获悉，斯迪克公告，公司全资子公司斯迪克新型材料（江苏）有限公司拟以自有资金及自筹资金，在泗洪经济开发区投资建设年产12亿平方米高端MLCC离型膜项目，该项目投资总额预计5.65亿元。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-qij5o",
-      "type": "news",
-      "title": "美银调查显示投资者6月份增加对美元的配置",
-      "url": "https://36kr.com/newsflashes/3855744482792456?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-16T11:06:06.000Z",
-      "summaryHint": "根据美国银行最新的全球基金经理调查，随着投资者押注美联储未来加息，他们在6月份增加了对美元的配置。该调查显示，投资者目前对美元的净低配比例为3%，为2025年3月以来的最低低配水平。净34%的投资者认为美元被高估，低于一个月前的50%。美银表示，该调查是在6月5日至6月11日期间进行的。（新浪财经）",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-2xnw3n",
-      "type": "news",
-      "title": "欧洲议会表决通过欧美贸易协议相关立法",
-      "url": "https://36kr.com/newsflashes/3855734159905798?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-16T10:55:36.000Z",
-      "summaryHint": "当地时间6月16日，欧洲议会全会在法国斯特拉斯堡最终表决通过欧盟-美国贸易协议相关立法。按照程序，相关立法文本随后将提交欧盟理事会批准。欧洲议会和欧盟理事会代表5月20日就欧盟-美国贸易协议相关立法提案达成一致，同意对美国输欧产品实施关税优惠措施，同时强化相关保障机制以维护欧盟及其成员国利益。（央视新闻）",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-ha24hq",
-      "type": "news",
-      "title": "爱立信任命Per Narvinger为新任总裁兼首席执行官",
-      "url": "https://36kr.com/newsflashes/3855722760475651?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-16T10:44:01.000Z",
-      "summaryHint": "爱立信宣布任命现任执行副总裁兼网络业务部主管Per Narvinger为新任总裁兼首席执行官。Borje Ekholm将于2026年9月30日卸任，并担任新任CEO的执行顾问至2027年6月15日。（界面）",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-uexch9",
-      "type": "news",
-      "title": "网易有道首席科学家段亦涛：让AI技术扎根业务场景",
-      "url": "https://www.qbitai.com/2026/06/435950.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-16T10:36:35.000Z",
-      "summaryHint": "转载来源：网易有道 本文为量子位获授权转载，观点仅为原作者所有。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-yyimn8",
-      "type": "news",
-      "title": "乘新浪潮之势，建智造创新之城，2026年番禺产业高质量发展招商大会圆满举行",
-      "url": "https://36kr.com/p/3855628692001799?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-16T09:31:45.000Z",
-      "summaryHint": "潮起湾区新机遇，科创赋能新番禺。6月16日上午，2026年番禺产业高质量发展招商大会在广州番禺良仓新造创意园举行，大会以“新浪潮·新番禺”为主题，旨在搭建高效政企对接、企企交流、资本赋能平台。 大会由广州市番禺信息技术投资发展有限公司（下称“番禺信投”）、广州市番禺交通建设投资集团有限公司（下称“番禺交投”）、广州市番禺区新造镇房地产开发公司主办（下称“新造房地产公司”），中国农业银行股份有限公司广州华南支行协办（下称“农行广州华南支行”），36氪承办，汇聚行业智库、龙头企业、优质项目、头部投资机构等多方代表逾百人，以科创为媒、以产业为桥、以资本为翼，共商发展大计，共绘产业新篇。 与此同时，为深度整合政企、金融、媒体、产业、属地资源，充分发挥各方核心优势，聚力区域产业发展、招商引资、品牌宣传、资源互通对接等工作，推动番禺区新造镇及全域产业高质量发展，番禺信投、番禺交投、新造房地产公司、农行",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-1j6efe",
-      "type": "news",
-      "title": "不儿，罗永浩、胡彦斌都来参加这场AI大赛了啊",
-      "url": "https://www.qbitai.com/2026/06/435931.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-16T09:31:02.000Z",
-      "summaryHint": "100万奖金，0门槛参赛",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-2bhh9u",
-      "type": "news",
-      "title": "融了数亿美金的「大晓机器人」，其创始人揭开了具身行业的割裂一面",
-      "url": "https://36kr.com/p/3855262364488969?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-16T08:31:50.000Z",
-      "summaryHint": "文｜周鑫雨 编辑｜张雨忻 梳理近半年的成果，大晓机器人董事长、商汤科技联合创始人王晓刚，滔滔不绝聊了10多分钟。 成立于2025年7月，大晓机器人（ACE ROBOTICS）是具身领域姗姗来迟的入局者。但一年来，这位新玩家成了赛道的“卷王”： 在模型侧，大晓新发布的具身大脑——世界模型“开悟（Kairos）3.0”，在4项全球具身智能基准测试中取得SOTA；开源的Kairos 3.0-4B，则率先实现在端侧直接驱动具身智能本体的能力。 △Kairos3.0在4个世界模型生成预测具身智能榜单中取得SOTA。图源：大晓机器人 在数据侧，大晓提出的“以人为中心”环境式采集方案，通过大规模采集人类与真实环境的交互过程，将世界模型训练数据量扩展至100万小时，达到传统真机（人遥控机器人）采集模式的10倍。 还有落地——半年前，大晓的具身大脑模组A1，落地的主要场景，还是从事道路巡检的机器狗；如今，这",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-ogj33l",
-      "type": "news",
-      "title": "SpaceX华人女孩刷屏！没有硕博学位，6年从火箭小白到「猛禽」飞行操作员",
-      "url": "https://www.qbitai.com/2026/06/435882.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-16T06:40:17.000Z",
-      "summaryHint": "她并不是一位被神话出来的「星舰女王」",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-wd8b1p",
-      "type": "news",
-      "title": "三连发！阿里发布首个具身大模型Qwen-Robot系列",
-      "url": "https://www.qbitai.com/2026/06/435873.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-16T04:39:39.000Z",
-      "summaryHint": "边走、边看、边思考",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-5upgyt",
-      "type": "news",
-      "title": "从技术向运营生产力“质变”：神州数码以AI for Process构建AI落地产业的“飞轮”",
-      "url": "https://www.qbitai.com/2026/06/435859.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-16T04:10:43.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-30fqln",
-      "type": "news",
-      "title": "沙利文权威认证：范式 Rise vGPU 获评 Tier 1 领先平台",
-      "url": "https://www.qbitai.com/2026/06/435853.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-16T02:47:51.000Z",
-      "summaryHint": "成为全球领先的通用人工智能科技公司",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-gqqs1a",
-      "type": "news",
-      "title": "上线首月吸引 10 万开发者，AnySearch 为 Agent 解锁网页之外的世界",
-      "url": "https://www.qbitai.com/2026/06/435861.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-16T01:32:25.000Z",
-      "summaryHint": "专为 Agent 设计的 AI 搜索层服务",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-gueo43",
-      "type": "news",
-      "title": "8点1氪｜山姆总部因食品安全问题被约谈；智谱股价暴涨，创上市以来单日成交新高；美伊确认达成协议，国际油价显著下跌",
-      "url": "https://36kr.com/p/3855082873476102?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-15T23:56:18.000Z",
-      "summaryHint": "今日热点导览 国内品牌金饰价格普涨 小红书公布世界杯开赛数据 阿里巴巴达摩院退出旗下科技公司 罗马仕接连变更法定代表人 遇见小面创始人向“渝见小面”致歉 TOP3大新闻 针对多发食品安全问题，市场监管总局约谈山姆总部 记者15日了解到，针对一段时期以来监管发现和媒体曝光的山姆线下门店及线上网店多发的食品安全问题，近日，市场监管总局依法对沃尔玛（中国）投资有限公司（即山姆总部）负责人进行了责任约谈，要求其严格按照《中华人民共和国食品安全法》，以及《食品销售连锁企业落实食品安全主体责任监督管理规定》《网络食品销售经营者落实食品安全主体责任监督管理规定》等法律法规规定开展食品经营活动，始终树牢食品安全意识，严格落实食品安全主体责任，自觉践行企业社会责任，严防全链条食品安全风险，切实保障公众饮食安全。 针对被市场监管总局约谈，山姆方面回应记者称，公司已由管理层牵头成立专项整改工作组，第一时间启动全",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-4x0dw2",
-      "type": "news",
-      "title": "Pocket 4P双摄来了：手机影像之外，大疆正在重做一台“口袋电影机”",
-      "url": "https://36kr.com/p/3854510160549124?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-15T14:13:11.000Z",
-      "summaryHint": "在手机影像能力不断逼近专业设备的今天，一个问题变得越来越尖锐：独立影像设备，还有存在的必要吗？ 6月15日，大疆正式发布 Osmo Pocket 4P，将这台口袋云台相机推向更专业的创作场景。作为 Pocket 系列的新一代旗舰产品，Pocket 4P 定位为“装进口袋里的电影机”，搭载双摄系统、17级动态范围与 D-Log 2 专业色彩曲线，试图在口袋级设备中进一步容纳专业影像能力。 Pocket 4P 以&nbsp;3799元起售，多平台预订量持续走高。 对于一个原本被视为“手机影像补充”的品类来说，这种热度本身就提出了一个新的问题：当手机已经足够强，为什么仍然有越来越多人愿意为一台独立影像设备买单？ 过去几年，旗舰手机几乎每一次更新都在吞噬传统相机的边界。从多摄系统、长焦镜头、计算摄影，到 Log 视频、AI 修图和一键出片，手机已经成为绝大多数普通用户最顺手的影像工具。 但另一边，",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-e7n7m2",
-      "type": "news",
-      "title": "氪星晚报 ｜我国成功发射吉星高分07C04星等8颗卫星；小红书或已准备好本月在香港提交IPO申请；智谱：公司已推出最新一代旗舰模型GLM-5.2",
-      "url": "https://36kr.com/p/3854486447510535?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-15T13:48:20.000Z",
-      "summaryHint": "大公司： 支付宝：政务AI助手“晓政”服务突破1亿次 36氪获悉，支付宝宣布，旗下政务AI助手“晓政”累计服务次数突破1亿次。截至目前，“晓政”服务已覆盖16000项服务事项，成功落地助力70余家部委及省级政务机构，业务场景全面覆盖公积金、人社、公安、不动产等民生领域。 小雨智造与地瓜机器人正式宣布达成战略合作 36氪获悉，6月12日，小雨智造与地瓜机器人正式宣布达成战略合作，双方将围绕“工业具身大脑+端侧大算力”展开深度协同，推动具身智能技术从实验室走向工业产线，共同打造面向工业制造的高性能软硬一体化解决方案，助力智能制造迈向新阶段。 小红书或已准备好本月在香港提交IPO申请 据透露，小红书科技有限公司正准备在本月底前秘密向香港提交首次公开募股（IPO）申请。（新浪财经） 深圳盒马变更负责人 36氪获悉，天眼查 App 显示，近日，深圳盒马网络科技有限公司发生工商变更，金瓯卸任法定代表人",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-9aqfnf",
-      "type": "news",
-      "title": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
-      "url": "https://www.qbitai.com/2026/06/435848.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-15T12:57:10.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-pn0c3q",
-      "type": "news",
-      "title": "从一个想法到一个产品，年轻开发者把生活观察写进代码",
-      "url": "https://36kr.com/p/3854243718550528?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-15T09:46:34.000Z",
-      "summaryHint": "6月14日，HarmonyOS创新赛·极客赛道决赛在HDC华为开发者大会（HDC 2026）落下帷幕。&nbsp; 此前，20支入围队伍从众多参赛作品中脱颖而出，在36小时极限编码中抢先使用HarmonyOS 7，围绕AI、3D空间化、用户体验等方向展开比拼。随着最终获奖名单揭晓，比赛的结果已经落定，但比奖项本身更值得被看见的，是 这些作品背后一批年轻开发者正在关注什么，又试图用代码回答什么。 翻开参赛作品的名单，我们意外地发现，这其中很多的开发者都还是在校学生，没有成熟公司的资源，没有完整的商业团队，甚至可能没有充足的开发经验。但在这场比赛里， 他们把自己的生活观察、专业背景和兴趣经验变成了一个个可运行的产品。 这些作品构成了这场创新赛值得被观察的一面：年轻开发者不再只是追逐抽象的技术命题，而是在用代码回应自己的生活。 这群年轻人是如何在生活中发现问题并用代码编写出解决方案的？一群还在校",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-cm1ses",
-      "type": "news",
-      "title": "从ICRA到CVPR，机器人圈最近到底在聊什么？｜北京·周三晚",
-      "url": "https://www.qbitai.com/2026/06/435841.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-15T09:37:40.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-h8559f",
-      "type": "news",
-      "title": "宇树机器人要登珠峰了！",
-      "url": "https://www.qbitai.com/2026/06/435817.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-15T09:17:30.000Z",
-      "summaryHint": "已登顶钦博拉索",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-ilrjae",
-      "type": "news",
-      "title": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
-      "url": "https://36kr.com/p/3853016586359817?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-15T01:50:00.000Z",
-      "summaryHint": "作者&nbsp;|&nbsp;邱晓芬 编辑&nbsp;|&nbsp;袁斯来 过去几个月，“世界模型”（World Model）从学术黑话迅速膨胀成AI和机器人行业里的关键词。 行业的目光转向背后是切实的焦虑。 一方面，经过了过去两年的野蛮生长，具身智能暴露了当前AI在物理世界中的短板——机器人能识别物体，却不懂“推杯子会掉”；能听懂指令，却无法预判“拧瓶盖需要多大的力”。世界模型正是试图补上这个短板，让机器人学会物理世界的规律、因果。 也就是说，世界模型与具身智能的关系，本质上是“大脑”与“身体”的关系。 另一面，大模型在经历了大语言、视觉模型、多模态的探索之后，需要从虚拟走向真实世界的下一阶段。 只是，当资本、技术专家、产业资源都倾注于此，世界模型到底如何上岸，人们没有答案。 在智源研究院院长王仲远看来，眼下全球围绕世界模型的探索，正被撕扯成四条截然不同的分岔路—— 第一类是以 语言为中",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-tcu9st",
-      "type": "news",
-      "title": "红杉、顺为、真格等资本押注世界模型 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PR19qdFJVcW0ybW9mYURQQm1BWjllOEV6RC1RT2tKMk9FZU93M3FWQUQwUF9QWHhFT2xhSE1JdUpmdC1iWi1mVnpMNk9JNE5mdmVN?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-14T15:56:00.000Z",
-      "summaryHint": "红杉、顺为、真格等资本押注世界模型 &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-06-17T09:32:01.000Z",
+      "summaryHint": "DeepSeek，终于接下了这500亿 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-36kr-jz1yhe",
+      "type": "news",
+      "title": "浙大系创业者冲港股IPO，仙工智能招股书五大看点",
+      "url": "https://36kr.com/p/3857011810112521?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-17T08:36:26.000Z",
+      "summaryHint": "6月15日，智能机器人公司仙工智能（06106.HK）开始招股，招股价101.60港元，每手50股，市值112.27亿港元。 仙工智能最早于2025年5月第一次向港交所递交招股书，6个月失效后，又于当年11月重新递交，直到今年6月才通过聆讯。仙工智能这次是以18C特专科技公司身份赴港上市，预计6月24日挂牌敲钟。中金独家保荐，招银国际为整体协调人。 有意思的是，这家公司的核心壁垒不在机器人本身，而在机器人的\"大脑\"——控制器。灼识咨询按销量计，仙工的机器人控制器全球第一、中国第一，市占率24.8%和45.2%。一个\"卖大脑\"的公司要上市了，但硬氪抽丝剥茧713页招股书后会发现，仙工智能有五大看点： 看着要盈利了？\"0.6%亏损率\"暗藏两处玄机 先看营收。仙工2023到2025年收入分别为2.49亿、3.39亿、4.42亿元，三年复合增速33.2%，每年都在30%以上。亏损方面：经调整净亏损",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-cuzvyv",
+      "type": "news",
+      "title": "困住医疗AI的死循环，终于有国产玩家跑通了",
+      "url": "https://www.qbitai.com/2026/06/436171.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-17T08:13:50.000Z",
+      "summaryHint": "在多项关键医疗测评上打败了GPT-5.5",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-u82e4y",
+      "type": "news",
+      "title": "把AI当「电子校医」的大学生，一个人看病不慌了",
+      "url": "https://36kr.com/p/3856958075802633?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-17T07:41:18.000Z",
+      "summaryHint": "01.深夜急诊室：校医下班后，“电子校医”上线了 深夜11点，宿舍快熄灯了，张雯的小腹突然一阵绞痛，疼得她揪紧被子，直冒冷汗。校医室这个点已经下班了，室友说陪她去校外医院。但张雯犹豫了，大半夜不想折腾，万一一会儿就缓过来了呢？ 她打开蚂蚁阿福，把自己的症状输进去，“凌晨腹部绞痛，一阵一阵的，没有拉肚子，没有发烧，也不是生理期。” 阿福很快给出分析，“大概率是腹部受凉引起的肠道痉挛，可能和夜间受凉、睡前吃了生冷辛辣的食物有关，这些都会引起小腹下坠的绞痛。”还列出了其他可能性，比如尿路小结石、排卵期疼痛等。张雯发现第一条最符合，当天确实吃了辣的东西。 阿福马上给出对策：先保暖，调整姿势，不要乱吃止痛药。如果非常痛，必须尽快就医。室友递来暖水袋，张雯敷了一会儿，腹痛果然慢慢减轻了。“居然真的管用”，第二天醒来，她跟没事人一样。 张雯腹痛时阿福给她提供对策 同样在深夜被突然情况击中的，还有大二学生",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-2ag0nd",
+      "type": "news",
+      "title": "微信支付发布AI专属卡 WorkBuddy率先接入",
+      "url": "https://www.qbitai.com/2026/06/436160.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-17T06:56:51.000Z",
+      "summaryHint": "用户可以在与智能体的对话中提出消费需求",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-71kn00",
+      "type": "news",
+      "title": "监管约谈山姆后，沃尔玛中国多位高管变动｜独家",
+      "url": "https://36kr.com/p/3856751835976706?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-17T06:29:32.000Z",
+      "summaryHint": "文｜ 彭倩、 任彩茹&nbsp; 编辑 ｜乔芊 处于监管和舆论漩涡中的山姆迎来了新的人事调整。 36氪了解到，山姆会员商店中国 CMO（首席采购官）张青已于近日提交辞呈。对此，沃尔玛中国回应称：“衷心感谢她在任职期间对山姆业务作出的卓越贡献，并诚挚祝愿她在未来一切顺利。目前我们正在全球范围内积极物色继任人选。过渡期间，Neil Maffey将出任代理山姆会员商店首席采购官。Neil曾于2013-2017年间担任山姆首席采购官，卸任后长期担任公司全职顾问至今。” 此外，据36氪独家了解，沃尔玛中国本次人事变动还包括： Tony Paladinetti，现任沃尔玛国际部战略副总裁，将加入沃尔玛中国，担任沃尔玛中国战略副总裁，直接向朱晓静汇报。内部邮件称，Tony 将在完成工作签证流程后于 2026 年 8 月正式加入中国团队，并与妻子 Meg 及孩子一起搬迁至深圳。现任沃尔玛中国战略副总裁杨智",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-iygxyz",
+      "type": "news",
+      "title": "硬氪专访 | 罗剑岚：机器人真正的Scaling Law，发生在真实部署闭环里",
+      "url": "https://36kr.com/p/3856871787189252?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-17T06:14:08.000Z",
+      "summaryHint": "作者&nbsp;|&nbsp;邱晓芬 编辑&nbsp;|&nbsp;袁斯来 过去半年，国内具身智能赛道经历了一场静悄悄的重心转移：聚光灯从硬件本体的“自由度竞赛”，逐渐移向决定机器人智能上限的深水区。 只是，当行业反复讨论“机器人能否通过暴力堆数据复刻大语言模型 ScalingLaw”时，上海创智学院副教授、智元机器人首席科学家罗剑岚，给出了一个并不随大流的判断：具身智能不能简单照搬大语言模型的发展路径。 罗剑岚的表达风格极具辨识度。他习惯在中英文专业术语之间快速切换，逻辑推进密集，很少给出模糊的折中答案。 相比停留在“数据、模型、Infra哪个更重要”的单点争论上，他更倾向于直接指出问题本身：当前具身智能的核心矛盾，不是某一个环节的单独突破，而是这些环节能否在真实部署中形成闭环。 这种判断来自他横跨学术研究与产业落地的经历。作为曾经的伯克利博士，他师从具身智能领域奠基性人物Sergey ",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-qlno8g",
+      "type": "news",
+      "title": "Grok 4.3现已在Amazon Bedrock上正式可用",
+      "url": "https://www.qbitai.com/2026/06/436134.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-17T05:59:53.000Z",
+      "summaryHint": "xAI正式成为Amazon Bedrock的模型供应商之一",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-oph6no",
+      "type": "news",
+      "title": "六连冠！文远知行再度刷新中国智驾大赛连胜纪录",
+      "url": "https://www.qbitai.com/2026/06/436130.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-17T04:35:41.000Z",
+      "summaryHint": "转载来源：文远知行 本文为量子位获授权转载，观点仅为原作者所有。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-4nbdse",
+      "type": "news",
+      "title": "天工3.1 重磅发布：上线 Skywork Design 与 Dynamic Workflows，给 AI 一张画布和一支军团",
+      "url": "https://www.qbitai.com/2026/06/436110.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-17T04:32:09.000Z",
+      "summaryHint": "天工超级智能体的收入实现了三倍增长",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-ly6ph",
+      "type": "news",
+      "title": "刚刚，Fable-5之下，智谱开源的GLM-5.2拿下AI编程第一！",
+      "url": "https://www.qbitai.com/2026/06/436085.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-17T02:42:10.000Z",
+      "summaryHint": "1M上下文",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-t6oh4",
+      "type": "news",
+      "title": "英特尔晒出未来芯片”三张底牌”：CFET、氮化镓+硅集成、钌互连",
+      "url": "https://www.qbitai.com/2026/06/436082.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-17T02:29:52.000Z",
+      "summaryHint": "详解制程节点里程碑与未来技术创新",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-l3kr3r",
+      "type": "news",
+      "title": "鸿蒙智行全面引入电池二供，国轩高科将上车问界｜36氪独家",
+      "url": "https://36kr.com/p/3855879311823873?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-16T13:24:26.000Z",
+      "summaryHint": "今年以来，市场竞争进一步加剧，内存等供应链成本大幅攀升，寻求供应链降本、使产品定价更具竞争力，成了汽车行业更为迫切的课题。 在这样的背景下，36氪从多位产业人士处了解到，稳居中高端市场的鸿蒙智行也开始全面引入多家动力电池供应商。 “除了尊界短期内规模支撑不了第二家，其他界可能都会引入多元电池供应商。”有知情人士透露。 据36氪了解，其中，长期由宁德时代独供的问界品牌，将引入中创新航、国轩高科两家二线电池供应商，问界M6现已定点了国轩高科的81度电池包，有知情人士透露，去年国轩高科便已收到了鸿蒙智行的定点信，中创新航也将进入问界的供应体系。 而就在2022年8月，赛力斯曾与宁德时代签署了五年长期战略合作协议，双方宣布问界车型，全面搭载宁德时代动力电池。去年6月，宁德时代在问界超级工厂内的产线投产，这是宁德时代首次落地“厂中厂”模式，也是它在重庆的第一条电池产线。宁德时代与问界合作程度之紧密，",
+      "tags": [
+        "china",
+        "funding"
       ]
     },
     {
@@ -631,13 +624,73 @@
       ]
     },
     {
-      "id": "reddit-rss-uavfo4",
+      "id": "reddit-rss-v738pp",
       "type": "social_en",
-      "title": "Single-video 4DGS reconstruction with dynamic subjects",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1u78ua3/singlevideo_4dgs_reconstruction_with_dynamic/",
+      "title": "Issue with Metahuman bones.",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1u85nud/issue_with_metahuman_bones/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-06-17T09:46:24.000Z",
+      "summaryHint": "Hello! &#x200B; I&#39;m having some issues with some of my Metahumans. &#x200B; Some of them have this weird offset on the hands, and some are just fine. &#x200B; Any idea where this is from, and how to fix it please? &#x200B; https://i.img",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-fxcizi",
+      "type": "social_en",
+      "title": "Unreal Fest 2026 live tomorrow",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1u7s7xo/unreal_fest_2026_live_tomorrow/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-06-16T22:25:21.000Z",
+      "summaryHint": "PSA and I guess most people here already know this - but Unreal Fest 2026 Chicago is starting tomorrow (June 17)! There is a live stream on the official UE Youtube channel https://www.youtube.com/watch?v=9ikOoOzAhPE I&#39;m guessing the maj",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-q480pa",
+      "type": "social_en",
+      "title": "Dear marketplace creators, if you sell \"low poly\" models, then your models should be... low poly",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1u7rav9/dear_marketplace_creators_if_you_sell_low_poly/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-06-16T21:49:15.000Z",
+      "summaryHint": "It&#39;s an absurd trend that I&#39;m noticing the more I gather assets for my retro-styled game. Many packs of 3D models being advertised as &quot;low poly&quot; end up having meshes with thousands of polys and nonsensical geometries. Now ",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-wgqrdi",
+      "type": "social_en",
+      "title": "Got fed up with the existing capture addons, so I built my own",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1u7nf22/got_fed_up_with_the_existing_capture_addons_so_i/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-06-16T09:41:03.000Z",
-      "summaryHint": "We’ve been working on single-video 4D Gaussian Splatting reconstruction, and this is one of our early demos. The input is just a normal video of two dogs playing. The goal is to reconstruct it as a dynamic 3D representation that can be refr",
+      "publishedAt": "2026-06-16T19:24:28.000Z",
+      "summaryHint": "I&#39;ve been rendering scenes in Blender and training Gaussian splats from them; the existing addons for setting up the capture kept frustrating me. So I built my own. The first thing that always bugged me: the standard path is to render y",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-c3qg39",
+      "type": "social_en",
+      "title": "Claireon - Our game studio's production MCP server for Unreal Editor (open-source/MIT)",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1u7hz7g/claireon_our_game_studios_production_mcp_server/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-06-16T16:12:28.000Z",
+      "summaryHint": "We open-sourced Claireon today: an Unreal Engine plugin that exposes an MCP server for working with the live editor. Claireon lets agents inspect and manipulate the actual project instead of just editing code beside it and hoping the result",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-s3ci7o",
+      "type": "social_en",
+      "title": "Macrodiorama - lichen/scorpion",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1u7gmzk/macrodiorama_lichenscorpion/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-06-16T15:23:54.000Z",
+      "summaryHint": "A tiny Italian scorpion (Euscorpius italicus) on a lichen covered twig. www.macroscans.com interactive 3d - https://superspl.at/scene/d5a6bda3 &#32; submitted by &#32; /u/macroscan [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
@@ -650,18 +703,6 @@
       "source": "reddit_r_GaussianSplatting",
       "publishedAt": "2026-06-16T09:22:58.000Z",
       "summaryHint": "This was just after a kite festival, and the scene had little bits of color caught in the trees from fallen kites. I liked how the splat kept that vibrance, along with the fine detail in the trees and paths. Captured with a dji mini 4 pro, ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-cw5gai",
-      "type": "social_en",
-      "title": "We made a free open-source tool for sorting and preparing messy 3D scan datasets",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1u74xmy/we_made_a_free_opensource_tool_for_sorting_and/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-06-16T05:49:26.000Z",
-      "summaryHint": "Hey everyone, this is Joe from KIRI Engine. If this post is too spammy since it&#39;s from a company lemme know and I can remove it - but hopefully it&#39;s useful for everyone. I make free tools for KIRI Engine and I recently came back fro",
       "tags": [
         "ai_social"
       ]
