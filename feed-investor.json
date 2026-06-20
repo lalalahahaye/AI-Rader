@@ -1,7 +1,36 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-19T10:58:36.898Z",
+  "updatedAt": "2026-06-20T09:43:53.931Z",
   "items": [
+    {
+      "id": "rss-36kr-jzdxrp",
+      "type": "funding",
+      "title": "马斯克已行使了其2018年特斯拉CEO薪酬方案的全部权利 获得了3.04亿股股票",
+      "url": "https://36kr.com/newsflashes/3861257361626112?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-20T08:34:06.000Z",
+      "summaryHint": "根据美国证券交易委员会（SEC）的一份新文件，马斯克已行使了其2018年特斯拉CEO薪酬方案的全部权利，获得了3.04亿股股票，账面收益约为1160亿美元（约合人民币7800亿元）。不过，上述股票将被锁定至2028年。届时，马斯克才能出售这些股票。（财联社）",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "amount": "3.04亿"
+    },
+    {
+      "id": "rss-36kr-7q3zi0",
+      "type": "funding",
+      "title": "上交所拟完善股票期权组合策略业务，推出单边平仓功能",
+      "url": "https://36kr.com/newsflashes/3861199831700744?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-20T07:50:49.000Z",
+      "summaryHint": "近日，记者从业内获悉，为进一步提升期权投资者资金使用效率、降低交易成本、促进期权市场健康发展，上交所发布股票期权组合策略单边平仓业务方案，拟在现有组合策略业务基础上推出单边平仓功能。上交所自2019年推出股票期权组合策略业务以来，该业务在优化保证金占用、丰富投资者策略运用方面发挥了积极作用。此次推出的单边平仓功能，允许对投资者组合策略中的义务仓单独进行买入平仓操作，从而先解除组合再各自平仓，进一步简化了交易流程。（中证网）",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ]
+    },
     {
       "id": "rss-google_news_cn_36kr_deals-2deqdt",
       "type": "funding",
@@ -34,57 +63,12 @@
       "amount": "2亿元"
     },
     {
-      "id": "rss-36kr-hx9x51",
-      "type": "funding",
-      "title": "Meta洽谈投资印度金融科技支付初创公司Cred",
-      "url": "https://36kr.com/newsflashes/3859744295965956?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-19T08:51:46.000Z",
-      "summaryHint": "至少六位知情人士向印度财经媒体透露，脸书母公司Meta近几周一直在洽谈投资印度金融科技支付初创公司Cred，这笔交易对该企业的估值达40亿美元。此次拟定40亿美元（折合3.8万亿印度卢比）的估值，略高于该公司2025年下调后的35亿美元估值，但远低于其2022年上一轮大规模融资时64亿美元的估值。（新浪财经）",
-      "tags": [
-        "china",
-        "funding",
-        "deal_signal"
-      ],
-      "amount": "40亿"
-    },
-    {
-      "id": "rss-36kr-yn8i9j",
-      "type": "funding",
-      "title": "韩国去年对美经常账户顺差六年来首次下滑",
-      "url": "https://36kr.com/newsflashes/3859736708338693?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-19T07:01:03.000Z",
-      "summaryHint": "韩国央行周五公布的数据显示，由于服务账户赤字扩大，韩国去年对美国的经常账户顺差六年来首次出现下降；与此同时，韩国对中国和日本的经常账户逆差也有所扩大。根据韩国央行的数据，韩国去年对美经常账户顺差总额为1114.2亿美元，低于2024年创下的历史最高纪录1169.7亿美元。（新浪财经）",
-      "tags": [
-        "china",
-        "funding",
-        "deal_signal"
-      ],
-      "amount": "1114.2亿"
-    },
-    {
-      "id": "rss-techcrunch_ai-8lhsft",
-      "type": "funding",
-      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
-      "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
-      "source": "techcrunch_ai",
-      "publishedAt": "2026-06-18T18:22:13.000Z",
-      "summaryHint": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
-      "tags": [
-        "funding",
-        "us",
-        "deal_signal"
-      ],
-      "amount": "$50 billion"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-r18jpu",
+      "id": "rss-google_news_cn_36kr_deals-z5y2i3",
       "type": "funding",
       "title": "Liblib 打破中国 AI 应用层融资记录：打过仗的人，不迷信错位竞争 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53R3ZyOG83bWZnTjZxN040Y1l4dDJUR09QV3dfdWVGWFFzM3Ztem9QbUtMVk1ERXU5bzlsZWdTR2VpRC0xQldrb3JzWTRSRFR5?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DVDV6UnZaeWFXZWp5cTdrNDRPRkQ4azFNZ3BqX0NsOGwyd0NEWUNTTncwQmUxaEUzY2VaSzJLb3JUYW9xMFM1bFpZWmF2UQ?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-18T04:19:37.000Z",
+      "publishedAt": "2026-06-18T06:05:19.000Z",
       "summaryHint": "Liblib 打破中国 AI 应用层融资记录：打过仗的人，不迷信错位竞争 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
@@ -141,11 +125,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-gtampi",
       "type": "funding",
-      "title": "DeepSeek获500亿融资：量化大佬梁文锋的反资本实验 - 36Kr",
+      "title": "DeepSeek获500亿融资：量化大佬梁文锋的反资本实验 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XY29GckNFdFdxbkxBVDE3MEtiUTd3MGcxMEJMRml3WW50M2F3X1R5X3lGMHZsNV84RjFqNTRCbGw4X0hCMDRPOGdFUUxwWU04b3NF?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-06-17T19:40:00.000Z",
-      "summaryHint": "DeepSeek获500亿融资：量化大佬梁文锋的反资本实验 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "DeepSeek获500亿融资：量化大佬梁文锋的反资本实验 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -157,11 +141,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-21bqbv",
       "type": "funding",
-      "title": "重磅！Flourish获5亿美元融资，构建生物级别能耗“AI大脑” - 36Kr",
+      "title": "重磅！Flourish获5亿美元融资，构建生物级别能耗“AI大脑” - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vQi1sd0otbDF5UUY5R01fRk9TbDBBVEJ0LWY3OVZ2WEx0aWVhVGtHeHQ3clJuTEp3QmRVb04ydzNoNko2cDJzNzV6eGpTallpYTJR?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-06-17T19:09:00.000Z",
-      "summaryHint": "重磅！Flourish获5亿美元融资，构建生物级别能耗“AI大脑” &nbsp;&nbsp; 36Kr",
+      "summaryHint": "重磅！Flourish获5亿美元融资，构建生物级别能耗“AI大脑” &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -173,11 +157,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-48wt1x",
       "type": "funding",
-      "title": "惊！90后字节前员工再获20亿融资 - 36Kr",
+      "title": "惊！90后字节前员工再获20亿融资 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UdWxwRXNKU1A5cjg3TDlGNGdwVkVOZTlOOFM3VFJLU0hVMlRPNEpGVVVZV3pDV3lzNGlMZVdmWDJ1TjBFTFVaenpDYmpDMzdSakNr?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-06-17T13:15:00.000Z",
-      "summaryHint": "惊！90后字节前员工再获20亿融资 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "惊！90后字节前员工再获20亿融资 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -202,21 +186,19 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-yne5w1",
+      "id": "rss-google_news_cn_36kr_deals-moa9pm",
       "type": "funding",
-      "title": "D轮融资超15亿元，让医保为减肥买单的公司长啥样？ - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90RERINjRkT2pCTkU1WEMwR0daTzJTSVYxOVBncjZkXzB6T0VKbUNDenJYOEdlbzc3VlFFbzNiTWJiUjE2RkRYWGp0STluVUhS?oc=5",
+      "title": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90Ym9HYWd6UklDOXl6OW4tUHI4Qk9NdVJ1OHVRbVRVejN2bGxZdGttMW1XNzlUQkdqeVVUVjE1ZW5oZGk0ZGZXQjlhTTYwdjVC?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-17T12:16:00.000Z",
-      "summaryHint": "D轮融资超15亿元，让医保为减肥买单的公司长啥样？ &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-06-17T10:28:00.000Z",
+      "summaryHint": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
-      ],
-      "round": "D轮融资",
-      "amount": "15亿元"
+      ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-afjdzp",
@@ -235,36 +217,19 @@
       "round": "种子轮"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-fo9foe",
+      "id": "rss-google_news_cn_36kr_deals-fiec8q",
       "type": "funding",
-      "title": "“NoonWake.AI”完成近千万元种子轮融资 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wRVIwLW9YRm1rU1J3X2g5YkhOWmNHdG56ZEJPNmpmZzQxYTVaS3Bod2U5enNCRk5idFVQd01Sd051STFkdWZDckZGQlo0UTJ3eG12S3NZMlBwUzRpcm1MRA?oc=5",
+      "title": "AI望诊破解“辨证”难题，炳南斋开启融资之路 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nOTlLMGR0aWszVFQyNlk0blhRc0ZnUDItUjcxUDZwUjJGMjBqS2dJUUppMVlqWkpyQTloeDlRWnROdVhxSFZkSXRYR0VXRmszWjln?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-16T16:27:00.000Z",
-      "summaryHint": "“NoonWake.AI”完成近千万元种子轮融资 &nbsp;&nbsp; 36Kr",
+      "publishedAt": "2026-06-16T19:10:00.000Z",
+      "summaryHint": "AI望诊破解“辨证”难题，炳南斋开启融资之路 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
-      ],
-      "round": "种子轮"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-bf63ab",
-      "type": "funding",
-      "title": "NoonWake.AI完成近千万元种子轮融资，用AI做年轻人的情绪消费品｜智能涌现首发 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOazB3T0JQQm5Jd3lPQ1lXcjdMM0dROXFMUWM4WEM5RW5zSFFZNGlPd2tFU3BWYjZSS1Nwc0lXbmRVY29GdWlwVkV4Q0UwTF9v?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-16T16:12:00.000Z",
-      "summaryHint": "NoonWake.AI完成近千万元种子轮融资，用AI做年轻人的情绪消费品｜智能涌现首发 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "种子轮"
+      ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-hnrpd9",
@@ -284,11 +249,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-20cgo0",
       "type": "funding",
-      "title": "独家曝光！DeepSeek融资细节揭秘，梁文锋保住控制权的策略 - 36Kr",
+      "title": "独家曝光！DeepSeek融资细节揭秘，梁文锋保住控制权的策略 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HWU43Vk81cldQUzZONnBPOXdraWx3dFVHRE1heENBamZrdU5CMmxHUGpxQjhQRERHVXFlVzZhWXdqa05rbGczS19nZG9FQmw4YXFv?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-06-15T21:10:00.000Z",
-      "summaryHint": "独家曝光！DeepSeek融资细节揭秘，梁文锋保住控制权的策略 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "独家曝光！DeepSeek融资细节揭秘，梁文锋保住控制权的策略 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -297,42 +262,104 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-u2m56",
-      "type": "funding",
-      "title": "硅基流动完成新一轮超 20 亿元融资 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YSlJYTHVSUWM4elJVdk1fOXJteWtkTEhMM0pKM1IxZVBHSG9nbEN0Z3lJaWVWMUM0S3kyMUx2OGJaOHNfZzVMVmlSZkxLcGtjdTJF?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-15T16:00:00.000Z",
-      "summaryHint": "硅基流动完成新一轮超 20 亿元融资 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "20亿元"
-    },
-    {
-      "id": "rss-36kr-gdkpgf",
+      "id": "rss-36kr-u5bhgh",
       "type": "news",
-      "title": "杰瑞股份：今年以来，公司燃气轮机发电机组销售价格已多次上涨",
-      "url": "https://36kr.com/newsflashes/3859744863884292?f=rss",
+      "title": "挪威将禁止小学生使用生成式人工智能",
+      "url": "https://36kr.com/newsflashes/3861257682129921?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-19T09:22:16.000Z",
-      "summaryHint": "36氪获悉，杰瑞股份日在互动平台表示，公司燃气轮机发电机组的销售定价遵循市场化原则，综合考虑北美市场需求动态、成本、技术附加值及行业竞争格局等多重因素。今年以来，受益于行业供不应求的态势，公司燃气轮机发电机组销售价格已多次上涨。",
+      "publishedAt": "2026-06-20T09:30:48.000Z",
+      "summaryHint": "挪威首相斯特勒6月19日表示，为防止对学习产生负面影响，挪威将禁止小学生使用生成式人工智能工具，同时限制人工智能工具在高年级学生教育中的使用。根据挪威政府公布的方案，6到13岁的小学生原则上不得使用人工智能工具；14到16岁的初中生可在教师的严密监管下谨慎使用此类工具。17到19岁的高中生应学习如何恰当地使用人工智能工具，以便为后续的高等教育和未来的职场环境做好准备。（央视新闻）",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-6oz2uc",
+      "id": "rss-36kr-jxlz3z",
       "type": "news",
-      "title": "商务部：将对澳大利亚进口牛肉加征55%关税",
-      "url": "https://36kr.com/newsflashes/3859875405042946?f=rss",
+      "title": "新型量子传感器可探测引力波和暗物质",
+      "url": "https://36kr.com/newsflashes/3861211883607305?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-19T09:08:18.000Z",
-      "summaryHint": "今天，商务部发布关于2026年度牛肉保障措施执行提示信息（五），全文如下：牛肉保障措施项下自澳大利亚进口的牛肉于2026年6月18日已达到商务部公告2025年第87号明确的该国家规定数量的100%。根据商务部公告2025年第87号，在澳大利亚牛肉进口数量达到规定数量100%的第3日起（6月20日零点起），自该国进口牛肉将在现行适用关税税率基础上加征55%关税。（央视新闻）",
+      "publishedAt": "2026-06-20T09:05:57.000Z",
+      "summaryHint": "英国《自然》杂志日前发布的一项新研究结果显示，一种新型量子传感器能有效消除背景噪声对测量精度的影响，可用于搜寻此前技术难以探测的微弱信号，有助于解开超大质量黑洞形成之谜。牵头这项研究的英国帝国理工学院发布新闻公报表示，了解宇宙的组成成分以及发现新的引力波源需要测量极微弱的信号。原子干涉仪利用原子物质波的干涉进行测量，但测量所需使用的激光脉冲本身具有噪声，可能会淹没信号，导致无法获得有意义的数据。 (新华社)",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-cdz4zp",
+      "type": "news",
+      "title": "中国在商用光纤端部构建了一种三维光纤微镊 输出力是传统光镊的十万倍以上",
+      "url": "https://36kr.com/newsflashes/3861209206740228?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-20T08:42:53.000Z",
+      "summaryHint": "近日，从安徽大学获悉，该校光电信息获取与防护技术全国重点实验室青年教师潘登与中国科学技术大学团队合作，提出了面向纤基集成器件的飞秒激光复合制造方法，在商用光纤端部构建了一种三维光纤微镊，实现了微米尺度目标的高精度、低损伤与可编程三维操控。研究成果日前发表于国际期刊《自然》。研究团队构建的三维光纤微镊输出力是传统光镊的十万倍以上，能够实现微米尺度目标的精准操控和复杂微结构的精确装配。（科技日报）",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-3ucwgw",
+      "type": "news",
+      "title": "张雪称自己创业时比李书福幸福",
+      "url": "https://36kr.com/newsflashes/3861205226787840?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-20T08:21:26.000Z",
+      "summaryHint": "近日，在央视财经《对话》节目录制现场，张雪直言比李书福“幸福”，他口中的“幸福”，是中国制造一步步攒出来的底气。李书福说：“当时我们造汽车，确实啥也没有。虽然啥也没有，但力量在风中回荡。有些事情定下来以后，只要认准一个方向、坚定一个信念、凝聚一股力量，最终完成一个使命。”张雪说：“我比李总幸福的地方在于，当我创业的时候，我国工业制造的高度，已经完全不是同日而语了。”（央视财经）",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-u4ux1g",
+      "type": "news",
+      "title": "6月20日全国铁路预计发送旅客1224万人次",
+      "url": "https://36kr.com/newsflashes/3861040294941699?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-20T08:00:55.000Z",
+      "summaryHint": "从中国国家铁路集团有限公司获悉， 6月20日端午节假期第2天，预计发送旅客1224万人次，计划加开旅客列车598列。6月19日，全国铁路发送旅客1936.8万人次，运输安全平稳有序。（澎湃新闻）",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-jvkktf",
+      "type": "news",
+      "title": "英国拟强制Meta、YouTube等平台推送更多本地新闻内容",
+      "url": "https://36kr.com/newsflashes/3861056590222342?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-20T07:33:04.000Z",
+      "summaryHint": "多位接近谈判的匿名人士报道，英国政府计划强制YouTube、Meta等社交媒体平台提升本地新闻内容的曝光权重。政府预计最早于本月就相关规则展开公众咨询，要求BBC、ITV、Channel 4等公共服务广播机构增加新闻内容供给。相关规则也可能延伸至全国性及区域性报纸。细节仍在最终敲定中。 （财联社）",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-td1g6w",
+      "type": "news",
+      "title": "曹德旺谈内卷：我从来不怕竞争，优秀的企业需要强有力的对手",
+      "url": "https://36kr.com/newsflashes/3861038141527303?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-20T07:08:01.000Z",
+      "summaryHint": "在福耀科技大学商学中心近日举办的一场企业家培训营上，面对中小企业如何应对市场内卷的提问，曹德旺直截了当地说：“先把内卷两个字改掉，改成竞争，心态就平衡了。”“我从来不怕竞争。一个优秀的企业，恰恰需要强有力的对手。如果没有对手跟你竞争，你自己也很难进步。所以不要把它理解成内卷。打赢对手，说明你做得更好；打输给对手，就说明自己还有差距，那就继续努力，把它打赢回来。”（澎湃新闻）",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-46ec8g",
+      "type": "news",
+      "title": "晋江文学城就部分用户充值未到账致歉：已全部处理完毕",
+      "url": "https://36kr.com/newsflashes/3861016431449092?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-20T06:45:54.000Z",
+      "summaryHint": "6月20日，@晋江文学城客小服 发布公告称，“尊敬的iOS用户，发生在2026年6月20日00：00-05：00期间，通过iOS充值渠道充值后未到账的订单，截止到2026年6月20日10：00技术已全部处理完毕，期间反馈充值未到账的友友，可移步账号余额做下确认，因此给大家带来不好的体验，深表歉意。”（界面新闻）",
       "tags": [
         "china",
         "funding"
@@ -346,84 +373,6 @@
       "source": "qbitai",
       "publishedAt": "2026-06-19T08:42:04.000Z",
       "summaryHint": "创作者的终极玩具来了",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-m3kddc",
-      "type": "news",
-      "title": "浙江首个“子母”变电站项目投运",
-      "url": "https://36kr.com/newsflashes/3859743134241799?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-19T08:08:34.000Z",
-      "summaryHint": "位于浙江省嘉兴市秀洲区的嘉兴秀北500千伏输变电工程6月19日投运，这标志着由秀北500千伏变电站与相邻布局的嘉塍220千伏变电站组成的浙江首个“500千伏+220千伏”集约建设“子母”变电站项目正式投运。（新华社）",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-avntk2",
-      "type": "news",
-      "title": "17只绩优潜力硬科技小盘股出炉",
-      "url": "https://36kr.com/newsflashes/3859737490887944?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-19T07:31:48.000Z",
-      "summaryHint": "在一段时间内，上市公司股价能稳定向上突破的因素主要具备低市值、低股份、成交相对温和、业绩成长性良好，且同时兼备热门题材等。根据上述逻辑，笔者筛选出17只绩优潜力小盘低活跃硬科技标的，条件包括：截至6月18日，最新A股市值不超过150亿元，且最新流通A股股本低于5亿股；近一个月（2026年5月19日至6月18日）日均换手率在1%—3%；2025年实现盈利且机构一致预测2026年、2027年净利润增幅均超过40%。（证券时报）",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-y55pqm",
-      "type": "news",
-      "title": "2026端午档首日电影票房破亿，上映数量创近十年同期新高",
-      "url": "https://36kr.com/newsflashes/3859735763014912?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-19T06:46:15.000Z",
-      "summaryHint": "据网络平台数据，截至目前，2026年端午档首日电影票房（含预售）突破1亿。（央视新闻）",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-58x83w",
-      "type": "news",
-      "title": "欧洲央行首席经济学家称中性利率区间上限小幅升至2.5%",
-      "url": "https://36kr.com/newsflashes/3859579789431812?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-19T06:01:24.000Z",
-      "summaryHint": "欧洲央行首席经济学家Philip Lane表示，中性利率可能高达2.5%，暗示再次加息尚不会对经济构成抑制。Lane周四在德意志银行主办的活动上发言时表示，一周前的加息决定可能还没有开始抑制经济增长。“我们上周的收紧是从明确中性的位置出发的，”Lane在伦敦北部赫特福德郡对听众表示，“我们考察了一系列中性利率模型，我们认为该区间的上限已经从2.25%升至2.5%。”（新浪财经）",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-kh4rte",
-      "type": "news",
-      "title": "西藏首座大型水电站通过竣工验收",
-      "url": "https://36kr.com/newsflashes/3859578613437705?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-19T05:40:13.000Z",
-      "summaryHint": "日前，中国电建设计承���的西藏首座大型水电站，雅鲁藏布江藏木水电站顺利通过竣工验收，成为雅鲁藏布江干流首座通过验收的大型水电工程。藏木水电站装机容量510兆瓦，最大坝高116米，是雅鲁藏布江干流规划建设的第一座大型水电站，也是西藏“十一五”时期三大重点工程之一，实现了西藏电力建设从100兆瓦级向500兆瓦级的重大跨越。（证券时报）",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-ey5cnu",
-      "type": "news",
-      "title": "必和必拓因成本攀升计提23亿澳元钾肥项目资产减值",
-      "url": "https://36kr.com/newsflashes/3859577584899336?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-19T05:11:09.000Z",
-      "summaryHint": "受扩建环节出现20亿澳元成本超支影响，必和必拓集团预计对其加拿大詹森钾肥项目计提23亿澳元资产减值。必和必拓集团宣布，计划对其位于加拿大的大型钾肥项目计提约23亿澳元资产减值。这座矿山投产后将成为全球最重要的化肥原料产地之一，如今再度曝出建设成本超支问题。（新浪财经）",
       "tags": [
         "china",
         "funding"
@@ -466,19 +415,6 @@
       "tags": [
         "china",
         "funding"
-      ]
-    },
-    {
-      "id": "rss-techcrunch_ai-gbuetm",
-      "type": "news",
-      "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
-      "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
-      "source": "techcrunch_ai",
-      "publishedAt": "2026-06-18T20:30:00.000Z",
-      "summaryHint": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
-      "tags": [
-        "funding",
-        "us"
       ]
     },
     {
@@ -629,7 +565,7 @@
       "url": "https://36kr.com/p/3858373969286148?f=rss",
       "source": "36kr",
       "publishedAt": "2026-06-18T07:58:27.000Z",
-      "summaryHint": "文丨小葵 编辑丨果脯 中国游戏产业正站在一个微妙的分水岭上。 一边，腾讯网易等头部大厂利用资本，以全球资源整合或漫长自研周期，向代表行业塔尖的3A单机游戏发起冲锋；另一边，以4399百奥为代表的腰部力量，在各自深耕的细分赛道里，通过成熟玩法复刻与精细化运营，稳守利润阵地。 今年夏日游戏节的发布会上，数十家全球顶尖游戏厂商轮番登台，发布了超过50款新作的最新消息。 在海外大厂普遍打出“老IP重制+续作”保守牌局中，腾讯和网易同时拿出3A级的单机产品，并肩出现在全球顶级展会的聚光灯下。 当大厂渴望用3A讲述中国故事建立全球品牌壁垒，腰部厂商则在存量市场中持续收割，一个向上押注3A，一个向下蚕食存量。这两条看似背道而驰的路，正共用着同一个起点。 01 本次SGF上，腾讯拿出《穿越火线：潜伏》与《古剑》堪称两张风格迥异的牌。 《穿越火线：潜伏》由That's No Moon工作室（核心成员来自顽皮",
+      "summaryHint": "文丨小葵 编辑丨果脯 中国游戏产业正站在一个微妙的分水岭上。 一边，腾讯网易等头部大厂利用资本，以全球资源整合或漫长自研周期，向代表行业塔尖的3A单机游戏发起冲锋；另一边，以4399百奥为代表的腰部力量，在各自深耕的细分赛道里，通过成熟玩法复刻与精细化运营，稳守利润阵地。 今年夏日游戏节的发布会上，数十家全球顶尖游戏厂商轮番登台，发布了超过50款新作的最新消息。 在海外大厂普遍打出“老IP重制+续作”保守牌局中，腾讯和网易同时拿出3A级的单机产品，并肩出现在全球顶级展会的聚光灯下。 当大厂渴望用3A讲述中国故事建立全球品牌壁垒，腰部厂商则在存量市场中持续收割，一个向上押注3A，一个向下蚕食存量。这两条看似背道而驰的路，正共用着同一个起点。 01 本次SGF上，腾讯拿出《穿越火线：潜伏》与《古剑》堪称两张风格迥异的牌。 《穿越火线：潜伏》由That's No Moon工作室（核心成员来���",
       "tags": [
         "china",
         "funding"
@@ -642,69 +578,94 @@
       "url": "https://36kr.com/p/3858061678760965?f=rss",
       "source": "36kr",
       "publishedAt": "2026-06-18T02:25:26.000Z",
-      "summaryHint": "作者&nbsp;|&nbsp;王晗玉 编辑&nbsp;|&nbsp;张帆 近日，市场监管总局联合中央网信办、国家铁路局，依法约谈携程、同程、去哪儿、飞猪、美团、智行火车票、高铁管家7家���游出行第三方平台，直指平台在火车票销售领域存在多项不规范经营行为。 具体来看，违规行为包括不当宣传“候补帮抢”及付费选座、不当诱导用户“买长乘短”“买短乘长”，不当收集、使用用户个人信息等问题。后续监管部门将加大监管执法力度。 此次集中约谈，不仅直指OTA平台火车票业务的乱象根源，也揭开了在线旅游行业围绕出行流量展开的深层博弈。 监管收紧的背景下， 传统OTA依赖的流量逻辑正在动摇 ，而铁路官方平台跨界拓展酒旅业务的可能性，也让整个在线出行行业迎来新一轮变数。 抢票“加速包”，OTA的“流量加速包” 每逢各大、小长假，打开OTA平台的火车票页面，“极速抢票”“候补加速”“高成功率帮抢”等标语便铺天盖地，",
+      "summaryHint": "作者&nbsp;|&nbsp;王晗玉 编辑&nbsp;|&nbsp;张帆 近日，市场监管总局联合中央网信办、国家铁路局，依法约谈携程、同程、去哪儿、飞猪、美团、智行火车票、高铁管家7家旅游出行第三方平台，直指平台在火车票销售领域存在多项不规范经营行为。 具体来看，违规行为包括不当宣传“候补帮抢”及付费选座、不当诱导用户“买长乘短”“买短乘长”，不当收集、使用用户个人信息等问题。后续监管部门将加大监管执法力度。 此次集中约谈，不仅直指OTA平台火车票业务的乱象根源，也揭开了在线旅游行业围绕出行流量展开的深层博弈。 监管收紧的背景下， 传统OTA依赖的流量逻辑正在动摇 ，而铁路官方平台跨界拓展酒旅业务的可能性，也让整个在线出行行业迎来新一轮变数。 抢票“加速包”，OTA的“流量加速包” 每逢各大、小长假，打开OTA平台的火车票页面，“极速抢票”“候补加速”“高成功率帮抢”等标语便铺天盖地，甚至",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "hn-alg-48507696",
+      "id": "rss-google_news_cn_36kr_deals-swsb03",
       "type": "news",
-      "title": "Ask HN: What happens when AI-voice becomes good enough?",
-      "url": "https://news.ycombinator.com/item?id=48507696",
-      "source": "hacker_news_algolia",
-      "publishedAt": "2026-06-12T18:30:02.000Z",
-      "summaryHint": "HN points 1",
+      "title": "DeepSeek成功揽下500亿！ - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tRjhsbHpQQWd1Y0xReTdDUGt2SWl5b0RUT3Z3R1pvdFNad2JpcUJ0MUR6Z1dzd0ppLUNFSFJ6eTR1R1RfdmJtWDZrRlRJekZLYTBv?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-06-16T18:28:00.000Z",
+      "summaryHint": "DeepSeek成功揽下500亿！ &nbsp;&nbsp; 36 Kr",
       "tags": [
-        "generative",
-        "us"
+        "china",
+        "funding",
+        "deal_rss"
       ]
     },
     {
-      "id": "reddit-rss-azohh4",
+      "id": "reddit-rss-jvl448",
       "type": "social_en",
-      "title": "what's the cheapest hard drive right now? $ per TB?",
-      "url": "https://www.reddit.com/r/videography/comments/1u9wb3c/whats_the_cheapest_hard_drive_right_now_per_tb/",
-      "source": "reddit_r_videography",
-      "publishedAt": "2026-06-19T08:28:14.000Z",
-      "summaryHint": "the inflation has got me in a tough spot, trying to delete old unused footage but its a slow process. For backing up not for actively working on, can be big and slow. Anyone know what the cheapest TB is right now? cheapest I found is 26$ pe",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-2xbkug",
-      "type": "social_en",
-      "title": "Lenticular Effect on a Switch Controller (Mobile Photography / Lichtfeld Studio)",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1u9otr2/lenticular_effect_on_a_switch_controller_mobile/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-06-19T01:47:03.000Z",
-      "summaryHint": "Of course, here it is on SuperSplat: https://superspl.at/scene/a5496071 I was really REALLY curious to see if 3DGS could capture the lenticular image changing effect om this controller. You know, the same effect from those rulers you got fr",
+      "title": "Silent Hill 2 inspired Alpha Clipping Vertex Painting :)",
+      "url": "https://www.reddit.com/r/Unity3D/comments/1uar8rp/silent_hill_2_inspired_alpha_clipping_vertex/",
+      "source": "reddit_r_Unity3D",
+      "publishedAt": "2026-06-20T08:27:18.000Z",
+      "summaryHint": "Still a WIP I can see some ways to improve but just wanted to share :). &#32; submitted by &#32; /u/AdamNapper [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-3cnmxj",
+      "id": "reddit-rss-emvh5k",
       "type": "social_en",
-      "title": "360SFM - Processing your camera footage for training Gaussian Splats in Lichtfeld.",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1u9nc9o/360sfm_processing_your_camera_footage_for/",
+      "title": "Is there any hardware that actually lets you export raw Camera Intrinsics, Extrinsics, & Trajectories for custom 3DGS pipelines?",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1uak9o0/is_there_any_hardware_that_actually_lets_you/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-06-19T00:35:28.000Z",
-      "summaryHint": "I built a new workflow app to help get your camera footage, whether its 360° or perspective, into LichtFeld Studio for training Guassian Splats. The biggest feature for me was being able to use my own custom masking, rather than one of the ",
+      "publishedAt": "2026-06-20T02:03:41.000Z",
+      "summaryHint": "Hi everyone, I&#39;m looking for the best hardware and workflows to get precise camera calibration (intrinsics/extrinsics) and trajectories/IMU for a VFX-aligned 3DGS pipeline. I&#39;m currently exploring a few options but am unsure about t",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-vh31r6",
+      "id": "reddit-rss-yp9cxa",
       "type": "social_en",
-      "title": "Finally Satisfied",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1u9enc7/finally_satisfied/",
+      "title": "Summer Flowers",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1ua5ne5/summer_flowers/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-06-18T18:42:23.000Z",
-      "summaryHint": "Yes I have posted this before. Posting again because since then I&#39;ve realized that once I have my frames, I need to mask or black out the sky. Then its turned back into a video for the blender 360 extractor at a step of 1 after all of t",
+      "publishedAt": "2026-06-19T15:52:15.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/Armand9x [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-x0bwzz",
+      "type": "social_en",
+      "title": "Interactable Gaussian Splatting",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1ua3zw3/interactable_gaussian_splatting/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-06-19T14:48:04.000Z",
+      "summaryHint": "If you thought Gaussian Splatting is just static, here is some research that proves otherwise. Very clever work by the paper authors, and I&#39;m curious to see even more exciting research coming up in the future &#32; submitted by &#32; /u",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-csbznv",
+      "type": "social_en",
+      "title": "Made a Unity + Blender game trailer looking for feedback on workflow & editing",
+      "url": "https://www.reddit.com/r/Unity3D/comments/1ua1udb/made_a_unity_blender_game_trailer_looking_for/",
+      "source": "reddit_r_Unity3D",
+      "publishedAt": "2026-06-19T13:20:13.000Z",
+      "summaryHint": "Hi everyone, We recently made a trailer for our game project using Unity for gameplay and Blender for some cinematic/animated parts. We are still improving workflow and would love feedback on things like: Capturing gameplay in a cinematic b",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-p47s5",
+      "type": "social_en",
+      "title": "Unity 6.5 is now available",
+      "url": "https://www.reddit.com/r/Unity3D/comments/1u7gor6/unity_65_is_now_available/",
+      "source": "reddit_r_Unity3D",
+      "publishedAt": "2026-06-16T15:25:39.000Z",
+      "summaryHint": "Howdy everyone! Your friendly neighborhood Community Man Trey here to share that Unity 6.5 is now available ! This is a Supported release too, so it carries the same stability and critical update commitments as our LTS versions. Worth upgra",
       "tags": [
         "ai_social"
       ]
