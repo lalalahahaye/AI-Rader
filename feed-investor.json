@@ -1,35 +1,97 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-20T09:43:53.931Z",
+  "updatedAt": "2026-06-21T10:06:42.931Z",
   "items": [
     {
-      "id": "rss-36kr-jzdxrp",
+      "id": "rss-36kr-o4i6d0",
       "type": "funding",
-      "title": "马斯克已行使了其2018年特斯拉CEO薪酬方案的全部权利 获得了3.04亿股股票",
-      "url": "https://36kr.com/newsflashes/3861257361626112?f=rss",
+      "title": "北京利尔：调整定增方案，拟募资额调减至不超10.25亿元",
+      "url": "https://36kr.com/newsflashes/3862673070625794?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-20T08:34:06.000Z",
-      "summaryHint": "根据美国证券交易委员会（SEC）的一份新文件，马斯克已行使了其2018年特斯拉CEO薪酬方案的全部权利，获得了3.04亿股股票，账面收益约为1160亿美元（约合人民币7800亿元）。不过，上述股票将被锁定至2028年。届时，马斯克才能出售这些股票。（财联社）",
+      "publishedAt": "2026-06-21T09:39:10.000Z",
+      "summaryHint": "36氪获悉，北京利尔披露修订后的2026年度向特定对象发行A股股票预案，拟募资额由不超10.34亿元调整为不超10.25亿元。原因是公司新增对共青城鼎新未来创业投资合伙企业（有限合伙）投资901万元。该笔投资属于财务性投资，从此次拟使用募集资金投资金额中进行扣减。",
       "tags": [
         "china",
         "funding",
         "deal_signal"
       ],
-      "amount": "3.04亿"
+      "amount": "10.25亿元"
     },
     {
-      "id": "rss-36kr-7q3zi0",
+      "id": "rss-qbitai-fmzsdv",
       "type": "funding",
-      "title": "上交所拟完善股票期权组合策略业务，推出单边平仓功能",
-      "url": "https://36kr.com/newsflashes/3861199831700744?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-20T07:50:49.000Z",
-      "summaryHint": "近日，记者从业内获悉，为进一步提升期权投资者资金使用效率、降低交易成本、促进期权市场健康发展，上交所发布股票期权组合策略单边平仓业务方案，拟在现有组合策略业务基础上推出单边平仓功能。上交所自2019年推出股票期权组合策略业务以来，该业务在优化保证金占用、丰富投资者策略运用方面发挥了积极作用。此次推出的单边平仓功能，允许对投资者组合策略中的义务仓单独进行买入平仓操作，从而先解除组合再各自平仓，进一步简化了交易流程。（中证网）",
+      "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
+      "url": "https://www.qbitai.com/2026/06/437198.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-21T09:18:12.000Z",
+      "summaryHint": "2026年还没过半，具身智能的融资就快要超过去年全年了，超过一半的钱都流入了机器人的“大脑”。",
       "tags": [
         "china",
         "funding",
         "deal_signal"
       ]
+    },
+    {
+      "id": "rss-36kr-wkzonn",
+      "type": "funding",
+      "title": "世嘉科技：拟定增募资不超4.03亿元，用于新能源电气精密箱体及系统集成等项目",
+      "url": "https://36kr.com/newsflashes/3862655945102338?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-21T09:12:47.000Z",
+      "summaryHint": "36氪获悉，世嘉科技公告，公司拟向特定对象发行股票募资不超过4.03亿元（含），扣除发行费用后拟用于新能源电气精密箱体及系统集成建设项目、储能集装箱专用设备箱体产业化建设项目、研发中心建设项目、补充流动资金及偿还银行贷款。",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "amount": "4.03亿元"
+    },
+    {
+      "id": "rss-36kr-hbb05y",
+      "type": "funding",
+      "title": "德美化工：下属公司拟750万美元出售境外三处土地资产",
+      "url": "https://36kr.com/newsflashes/3862642781230339?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-21T08:03:25.000Z",
+      "summaryHint": "36氪获悉，德美化工公告，公司控股子公司施华特秘鲁公司下属公司Silvateam ICA S.A.C.拟将其持有的三处土地（含土地上的建筑物、水井及其他附属设施）出售给Uvica S.A.C.，交易价格共计750万美元。此次资产出售目的是盘活公司资产，提高资产运营效率。经初步测算，交易完成后，预计增加归属于上市公司股东的净利润约95.3万美元。",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "amount": "750万"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-fe9gfu",
+      "type": "funding",
+      "title": "9600亿AI独角兽，又要融资了 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iX2pFa1hrUEd3WmoxYnhDYUx3WFJ6cE16M2w3MkgzazA1VjRST21OOGpHRlQ1cURwczlWOEZnMnJENmNqdHd2Tzctc1o4b092?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-06-20T09:49:00.000Z",
+      "summaryHint": "9600亿AI独角兽，又要融资了 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "9600亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-rx431x",
+      "type": "funding",
+      "title": "刚融资27亿！李飞飞也参与投资！ - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FWlVNV1lYNVp0NzVCZVlzbW1PNXN4MVdvMmlKeWtIcnRpNEFnQmdxQjZvOWRnUHJBaUo2dTlzcE1MTzJTRnhRYmdXcHlKV2I1R3FB?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-06-19T15:00:00.000Z",
+      "summaryHint": "刚融资27亿！李飞飞也参与投资！ &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "27亿"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-2deqdt",
@@ -61,21 +123,6 @@
       ],
       "round": "Pre-A",
       "amount": "2亿元"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-z5y2i3",
-      "type": "funding",
-      "title": "Liblib 打破中国 AI 应用层融资记录：打过仗的人，不迷信错位竞争 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DVDV6UnZaeWFXZWp5cTdrNDRPRkQ4azFNZ3BqX0NsOGwyd0NEWUNTTncwQmUxaEUzY2VaSzJLb3JUYW9xMFM1bFpZWmF2UQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-18T06:05:19.000Z",
-      "summaryHint": "Liblib 打破中国 AI 应用层融资记录：打过仗的人，不迷信错位竞争 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-m7hpvd",
@@ -125,11 +172,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-gtampi",
       "type": "funding",
-      "title": "DeepSeek获500亿融资：量化大佬梁文锋的反资本实验 - 36 Kr",
+      "title": "DeepSeek获500亿融资：量化大佬梁文锋的反资本实验 - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XY29GckNFdFdxbkxBVDE3MEtiUTd3MGcxMEJMRml3WW50M2F3X1R5X3lGMHZsNV84RjFqNTRCbGw4X0hCMDRPOGdFUUxwWU04b3NF?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-06-17T19:40:00.000Z",
-      "summaryHint": "DeepSeek获500亿融资：量化大佬梁文锋的反资本实验 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "DeepSeek获500亿融资：量化大佬梁文锋的反资本实验 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -139,29 +186,28 @@
       "amount": "500亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-21bqbv",
+      "id": "rss-google_news_cn_36kr_deals-z5y2i3",
       "type": "funding",
-      "title": "重磅！Flourish获5亿美元融资，构建生物级别能耗“AI大脑” - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vQi1sd0otbDF5UUY5R01fRk9TbDBBVEJ0LWY3OVZ2WEx0aWVhVGtHeHQ3clJuTEp3QmRVb04ydzNoNko2cDJzNzV6eGpTallpYTJR?oc=5",
+      "title": "Liblib 打破中国 AI 应用层融资记录：打过仗的人，不迷信错位竞争 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DVDV6UnZaeWFXZWp5cTdrNDRPRkQ4azFNZ3BqX0NsOGwyd0NEWUNTTncwQmUxaEUzY2VaSzJLb3JUYW9xMFM1bFpZWmF2UQ?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-17T19:09:00.000Z",
-      "summaryHint": "重磅！Flourish获5亿美元融资，构建生物级别能耗“AI大脑” &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-06-17T13:15:00.000Z",
+      "summaryHint": "Liblib 打破中国 AI 应用层融资记录：打过仗的人，不迷信错位竞争 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
-      ],
-      "amount": "5亿"
+      ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-48wt1x",
       "type": "funding",
-      "title": "惊！90后字节前员工再获20亿融资 - 36 Kr",
+      "title": "惊！90后字节前员工再获20亿融资 - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UdWxwRXNKU1A5cjg3TDlGNGdwVkVOZTlOOFM3VFJLU0hVMlRPNEpGVVVZV3pDV3lzNGlMZVdmWDJ1TjBFTFVaenpDYmpDMzdSakNr?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-06-17T13:15:00.000Z",
-      "summaryHint": "惊！90后字节前员工再获20亿融资 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "惊！90后字节前员工再获20亿融资 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -186,21 +232,6 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-moa9pm",
-      "type": "funding",
-      "title": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90Ym9HYWd6UklDOXl6OW4tUHI4Qk9NdVJ1OHVRbVRVejN2bGxZdGttMW1XNzlUQkdqeVVUVjE1ZW5oZGk0ZGZXQjlhTTYwdjVC?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-17T10:28:00.000Z",
-      "summaryHint": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-afjdzp",
       "type": "funding",
       "title": "“NoonWake.AI”完成近千万元种子轮融资 - 36 Kr",
@@ -217,19 +248,20 @@
       "round": "种子轮"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-fiec8q",
+      "id": "rss-google_news_cn_36kr_deals-eok3v8",
       "type": "funding",
-      "title": "AI望诊破解“辨证”难题，炳南斋开启融资之路 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nOTlLMGR0aWszVFQyNlk0blhRc0ZnUDItUjcxUDZwUjJGMjBqS2dJUUppMVlqWkpyQTloeDlRWnROdVhxSFZkSXRYR0VXRmszWjln?oc=5",
+      "title": "NoonWake.AI获近千万元种子轮融资，以AI打造年轻人情绪消费品 | 智能涌现首发 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IbExuaTdfTG5mSUZkRGRTTV9paGdlMVJBVDVic2hBQlNtVWowbEtJR1BOOFpKVkNsbFdxbWhvdFRsSXA5WkJsbGVRU2NqcDF4ZnNr?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-16T19:10:00.000Z",
-      "summaryHint": "AI望诊破解“辨证”难题，炳南斋开启融资之路 &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-06-16T16:12:00.000Z",
+      "summaryHint": "NoonWake.AI获近千万元种子轮融资，以AI打造年轻人情绪消费品 | 智能涌现首发 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
-      ]
+      ],
+      "round": "种子轮"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-hnrpd9",
@@ -249,11 +281,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-20cgo0",
       "type": "funding",
-      "title": "独家曝光！DeepSeek融资细节揭秘，梁文锋保住控制权的策略 - 36 Kr",
+      "title": "独家曝光！DeepSeek融资细节揭秘，梁文锋保住控制权的策略 - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HWU43Vk81cldQUzZONnBPOXdraWx3dFVHRE1heENBamZrdU5CMmxHUGpxQjhQRERHVXFlVzZhWXdqa05rbGczS19nZG9FQmw4YXFv?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-06-15T21:10:00.000Z",
-      "summaryHint": "独家曝光！DeepSeek融资细节揭秘，梁文锋保住控制权的策略 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "独家曝光！DeepSeek融资细节揭秘，梁文锋保住控制权的策略 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -262,104 +294,185 @@
       ]
     },
     {
-      "id": "rss-36kr-u5bhgh",
+      "id": "rss-google_news_cn_36kr_deals-u2m56",
+      "type": "funding",
+      "title": "硅基流动完成新一轮超 20 亿元融资 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YSlJYTHVSUWM4elJVdk1fOXJteWtkTEhMM0pKM1IxZVBHSG9nbEN0Z3lJaWVWMUM0S3kyMUx2OGJaOHNfZzVMVmlSZkxLcGtjdTJF?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-06-15T16:00:00.000Z",
+      "summaryHint": "硅基流动完成新一轮超 20 亿元融资 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "20亿元"
+    },
+    {
+      "id": "rss-36kr-jlwvz6",
       "type": "news",
-      "title": "挪威将禁止小学生使用生成式人工智能",
-      "url": "https://36kr.com/newsflashes/3861257682129921?f=rss",
+      "title": "中关村：琥珀酸美托洛尔缓释胶囊上市许可申请获受理",
+      "url": "https://36kr.com/newsflashes/3862677236339712?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-20T09:30:48.000Z",
-      "summaryHint": "挪威首相斯特勒6月19日表示，为防止对学习产生负面影响，挪威将禁止小学生使用生成式人工智能工具，同时限制人工智能工具在高年级学生教育中的使用。根据挪威政府公布的方案，6到13岁的小学生原则上不得使用人工智能工具；14到16岁的初中生可在教师的严密监管下谨慎使用此类工具。17到19岁的高中生应学习如何恰当地使用人工智能工具，以便为后续的高等教育和未来的职场环境做好准备。（央视新闻）",
+      "publishedAt": "2026-06-21T09:56:27.000Z",
+      "summaryHint": "36氪获悉，中关村公告，公司下属公司山东华素制药有限公司近日收到国家药监局签发的《受理通知书》，琥珀酸美托洛尔缓释胶囊（规格：95mg、47.5mg（以琥珀酸美托洛尔计））上市许可申请获得受理。琥珀酸美托洛尔缓释胶囊临床上用于治疗高血压、心绞痛、心力衰竭。",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-jxlz3z",
+      "id": "rss-36kr-imi30a",
       "type": "news",
-      "title": "新型量子传感器可探测引力波和暗物质",
-      "url": "https://36kr.com/newsflashes/3861211883607305?f=rss",
+      "title": "沪电股份：拟吸并全资子公司普江仓储",
+      "url": "https://36kr.com/newsflashes/3862675224777735?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-20T09:05:57.000Z",
-      "summaryHint": "英国《自然》杂志日前发布的一项新研究结果显示，一种新型量子传感器能有效消除背景噪声对测量精度的影响，可用于搜寻此前技术难以探测的微弱信号，有助于解开超大质量黑洞形成之谜。牵头这项研究的英国帝国理工学院发布新闻公报表示，了解宇宙的组成成分以及发现新的引力波源需要测量极微弱的信号。原子干涉仪利用原子物质波的干涉进行测量，但测量所需使用的激光脉冲本身具有噪声，可能会淹没信号，导致无法获得有意义的数据。 (新华社)",
+      "publishedAt": "2026-06-21T09:46:24.000Z",
+      "summaryHint": "36氪获悉，沪电股份公告，公司以现金2.07亿元收购昆山普江仓储设施有限公司（简称“普江仓储”）100%股权，将普江仓储的厂房用于产能扩建。公司于近日已完成收购，普江仓储已成为公司全资子公司。公司此次吸收合并子公司普江仓储，有利于公司对产能扩建工作实施统一规划，优化管理架构，降低管理成本，提高运营效率，符合公司发展战略。",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-cdz4zp",
+      "id": "rss-36kr-8g2u1r",
       "type": "news",
-      "title": "中国在商用光纤端部构建了一种三维光纤微镊 输出力是传统光镊的十万倍以上",
-      "url": "https://36kr.com/newsflashes/3861209206740228?f=rss",
+      "title": "高争民爆：取得不超1.8亿元回购股份专项贷款承诺函",
+      "url": "https://36kr.com/newsflashes/3862656804656131?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-20T08:42:53.000Z",
-      "summaryHint": "近日，从安徽大学获悉，该校光电信息获取与防护技术全国重点实验室青年教师潘登与中国科学技术大学团队合作，提出了面向纤基集成器件的飞秒激光复合制造方法，在商用光纤端部构建了一种三维光纤微镊，实现了微米尺度目标的高精度、低损伤与可编程三维操控。研究成果日前发表于国际期刊《自然》。研究团队构建的三维光纤微镊输出力是传统光镊的十万倍以上，能够实现微米尺度目标的精准操控和复杂微结构的精确装配。（科技日报）",
+      "publishedAt": "2026-06-21T09:28:40.000Z",
+      "summaryHint": "36氪获悉，高争民爆公告，近日，公司取得中信银行拉萨分行出具的《贷款承诺函》，贷款金额不超过1.8亿元，贷款期限不超过3年，贷款专项用于回购上市公司股票。",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-3ucwgw",
+      "id": "rss-36kr-r4sjhh",
       "type": "news",
-      "title": "张雪称自己创业时比李书福幸福",
-      "url": "https://36kr.com/newsflashes/3861205226787840?f=rss",
+      "title": "巨星科技：拟3.25亿元收购网商银行1.54%股权",
+      "url": "https://36kr.com/newsflashes/3862647835661320?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-20T08:21:26.000Z",
-      "summaryHint": "近日，在央视财经《对话》节目录制现场，张雪直言比李书福“幸福”，他口中的“幸福”，是中国制造一步步攒出来的底气。李书福说：“当时我们造汽车，确实啥也没有。虽然啥也没有，但力量在风中回荡。有些事情定下来以后，只要认准一个方向、坚定一个信念、凝聚一股力量，最终完成一个使命。”张雪说：“我比李总幸福的地方在于，当我创业的时候，我国工业制造的高度，已经完全不是同日而语了。”（央视财经）",
+      "publishedAt": "2026-06-21T09:00:33.000Z",
+      "summaryHint": "36氪获悉，巨星科技公告，公司拟以3.2元/股的价格，收购杭州禾博士电子商务有限公司（简称“禾博士”）持有的浙江网商银行股份有限公司（简称“网商银行”）0.86%股权，收购万向三农集团有限公司（简称“万向三农”）持有的网商银行0.68%股权，公司将分别向禾博士和万向三农支付股权转让款1.82亿元和1.43亿元。交易完成后，公司将持有网商银行1.54%股权。",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-u4ux1g",
+      "id": "rss-36kr-oaukbi",
       "type": "news",
-      "title": "6月20日全国铁路预计发送旅客1224万人次",
-      "url": "https://36kr.com/newsflashes/3861040294941699?f=rss",
+      "title": "博云新材：商业航天产品在2026年度暂未确认销售收入",
+      "url": "https://36kr.com/newsflashes/3862646425965575?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-20T08:00:55.000Z",
-      "summaryHint": "从中国国家铁路集团有限公司获悉， 6月20日端午节假期第2天，预计发送旅客1224万人次，计划加开旅客列车598列。6月19日，全国铁路发送旅客1936.8万人次，运输安全平稳有序。（澎湃新闻）",
+      "publishedAt": "2026-06-21T08:38:05.000Z",
+      "summaryHint": "36氪获悉，博云新材发布股票交易异常波动公告称，公司主要从事航空机轮刹车系统及刹车材料、航天用碳/碳复合材料、高性能硬质合金和稀有金属粉体材料等产品的研发、生产与销售。2025年度公司营业收入9.10亿元，其中商业航天产品营业收入200多万元，在主营业务收入中占比低（不足1%）。截至目前，公司商业航天产品在2026年度暂未确认销售收入。",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-jvkktf",
+      "id": "rss-36kr-t1pr8j",
       "type": "news",
-      "title": "英国拟强制Meta、YouTube等平台推送更多本地新闻内容",
-      "url": "https://36kr.com/newsflashes/3861056590222342?f=rss",
+      "title": "贵州茅台：2025年度每股派发现金红利28.02元，股权登记日为2026年6月25日",
+      "url": "https://36kr.com/newsflashes/3862658896385289?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-20T07:33:04.000Z",
-      "summaryHint": "多位接近谈判的匿名人士报道，英国政府计划强制YouTube、Meta等社交媒体平台提升本地新闻内容的曝光权重。政府预计最早于本月就相关规则展开公众咨询，要求BBC、ITV、Channel 4等公共服务广播机构增加新闻内容供给。相关规则也可能延伸至全国性及区域性报纸。细节仍在最终敲定中。 （财联社）",
+      "publishedAt": "2026-06-21T08:19:49.000Z",
+      "summaryHint": "36氪获悉，贵州茅台公告，公司2025年年度权益分派方案已获股东大会审议通过，以总股本扣除回购专用账户股份后的1250081601股为基数，每股派发现金红利28.02423元（含税），共计派发现金红利约350.33亿元。股权登记日为2026年6月25日，除权（息）日及现金红利发放日为2026年6月26日。",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-td1g6w",
+      "id": "rss-36kr-6i4bgm",
       "type": "news",
-      "title": "曹德旺谈内卷：我从来不怕竞争，优秀的企业需要强有力的对手",
-      "url": "https://36kr.com/newsflashes/3861038141527303?f=rss",
+      "title": "​东方盛虹：1600万吨/年炼化一体化项目装置6月底起例行检修",
+      "url": "https://36kr.com/newsflashes/3862645022643464?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-20T07:08:01.000Z",
-      "summaryHint": "在福耀科技大学商学中心近日举办的一场企业家培训营上，面对中小企业如何应对市场内卷的提问，曹德旺直截了当地说：“先把内卷两个字改掉，改成竞争，心态就平衡了。”“我从来不怕竞争。一个优秀的企业，恰恰需要强有力的对手。如果没有对手跟你竞争，你自己也很难进步。所以不要把它理解成内卷。打赢对手，说明你做得更好；打输给对手，就说明自己还有差距，那就继续努力，把它打赢回来。”（澎湃新闻）",
+      "publishedAt": "2026-06-21T08:16:40.000Z",
+      "summaryHint": "36氪获悉，东方盛虹公告，公司的1600万吨/年盛虹炼化一体化项目自2022年底打通全流程以来，已连续运营四年。根据石油化工生产装置运行规律和周期性检修的特点，公司将按计划从2026年6月底起对1600万吨/年盛虹炼化一体化项目装置进行例行性停产检修，其他部分配套装置根据检修需要陪停，净检修期预计45天，具体复产时间以装置实际开车时间为准。公司将根据检修进度适时调整，及早恢复生产。",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-46ec8g",
+      "id": "rss-qbitai-9yt2hh",
       "type": "news",
-      "title": "晋江文学城就部分用户充值未到账致歉：已全部处理完毕",
-      "url": "https://36kr.com/newsflashes/3861016431449092?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-20T06:45:54.000Z",
-      "summaryHint": "6月20日，@晋江文学城客小服 发布公告称，“尊敬的iOS用户，发生在2026年6月20日00：00-05：00期间，通过iOS充值渠道充值后未到账的订单，截止到2026年6月20日10：00技术已全部处理完毕，期间反馈充值未到账的友友，可移步账号余额做下确认，因此给大家带来不好的体验，深表歉意。”（界面新闻）",
+      "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
+      "url": "https://www.qbitai.com/2026/06/437141.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-21T04:46:07.000Z",
+      "summaryHint": "一个月只要340块",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-iutekq",
+      "type": "news",
+      "title": "英伟达开始搞机器人自己研究机器人那套了…",
+      "url": "https://www.qbitai.com/2026/06/437041.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-20T12:06:20.000Z",
+      "summaryHint": "为了让你烧token，英伟达已经卷到机器人身上了",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-nrlbqq",
+      "type": "news",
+      "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
+      "url": "https://www.qbitai.com/2026/06/437023.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-20T11:56:57.000Z",
+      "summaryHint": "全球最聪明的人之一，成了AI最狂热的布道者",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-8yfv10",
+      "type": "news",
+      "title": "撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
+      "url": "https://www.qbitai.com/2026/06/436996.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-20T10:42:35.000Z",
+      "summaryHint": "速度快7倍，成本只有Veo 3的1/2000",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-qh3vm7",
+      "type": "news",
+      "title": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将",
+      "url": "https://www.qbitai.com/2026/06/436980.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-20T09:42:18.000Z",
+      "summaryHint": "Gemini 3.5 Pro呢？",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-i1hca1",
+      "type": "news",
+      "title": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
+      "url": "https://www.qbitai.com/2026/06/436966.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-20T09:36:31.000Z",
+      "summaryHint": "抢人最猛的Meta，似乎先从内部裂开了",
       "tags": [
         "china",
         "funding"
@@ -424,33 +537,7 @@
       "url": "https://36kr.com/p/3858803016881154?f=rss",
       "source": "36kr",
       "publishedAt": "2026-06-18T14:57:40.000Z",
-      "summaryHint": "国内两轮电动车市场正悄然迎来一场深层次的“基因突变”。长期以来，大众对两轮电动车的认知被牢牢框定在“代步工具”与“大众精品”的传统叙事里。然而，在四川省体育馆的一场发布会上，爱玛正式发布了旗下专为年轻男性打造的极速运动品类品牌——“爱玛黑翼”（AIMA BLACK WING）。首位中国F1车手周冠宇化身“全速领航员”在线助力，爱玛黑翼S360电竞版、爱玛黑翼S360赛道版以及爱玛黑翼S790赛博版三款硬核新品集结亮相。这场动作透露出的创投信号再明显不过：在女性和基础通勤赛道筑牢绝对壁垒后，传统头部巨头爱玛正以一种颠覆性的姿态，正式向年轻男性性能与运动电摩赛道发起总攻。36氪通过与爱玛科技集团三位核心高管的深度专访，试图拆解两轮电动车从功能代步全面迈向体验升级的下半场逻辑，看他们如何锚定Z世代的硬核社交货币，打破行业所谓的“天花板”。 官方图片 从行业整体的商业周期来看，“油转电”已经步入了",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-hp1ep4",
-      "type": "news",
-      "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
-      "url": "https://www.qbitai.com/2026/06/436758.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-18T13:46:04.000Z",
-      "summaryHint": "M4是大脑，百小医是身体",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-tpl9q0",
-      "type": "news",
-      "title": "魔法原子牵手万机易租，全栈产品入驻2.0平台共建租赁生态",
-      "url": "https://www.qbitai.com/2026/06/436802.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-18T13:42:09.000Z",
-      "summaryHint": "全系产品入驻万机易租2.0",
+      "summaryHint": "国内两轮电动车市场正悄然迎来一场深层次的“基因突变”。长期以来，大众对两轮电动车的认知被牢牢框定在“代步工具”与“大众精品”的传统叙事里。然而，在四川省体育馆的一场发布会上，爱玛正式发布了旗下专为年轻男性打造的极速运动品类品牌——“爱玛黑翼”（AIMA BLACK WING）。首位中国F1车手周冠宇化身“全速领航员”在线助力，爱玛黑翼S360电竞版、爱玛黑翼S360赛道版以及爱玛黑翼S790赛博版三款硬核新品集结亮相。这场动作透露出的创投信号再明显不过：在女性和基础通勤赛道筑牢绝对壁垒后，传统头部巨头爱玛正以一种颠覆性的姿态，正式向年轻男性性能与运动电摩赛道发起总攻。36氪通过与爱玛科技集团三位核心高管的深度专���，试图拆解两轮电动车从功能代步全面迈向体验升级的下半场逻辑，看他们如何锚定Z世代的硬核社交货币，打破行业所谓的“天花板”。 官方图片 从行业整体的商业周期来看，“油转电”已经步",
       "tags": [
         "china",
         "funding"
@@ -496,76 +583,13 @@
       ]
     },
     {
-      "id": "rss-qbitai-edq1xr",
-      "type": "news",
-      "title": "香港特区政府财政司司长陈茂波一行到访 PPIO",
-      "url": "https://www.qbitai.com/2026/06/436751.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-18T10:14:49.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-rpuoh",
-      "type": "news",
-      "title": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根",
-      "url": "https://www.qbitai.com/2026/06/436740.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-18T09:45:11.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-gc10i7",
-      "type": "news",
-      "title": "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding",
-      "url": "https://www.qbitai.com/2026/06/436674.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-18T09:39:35.000Z",
-      "summaryHint": "已接入华为鸿蒙生态",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-ng3zg3",
-      "type": "news",
-      "title": "ABot-Earth0.5登顶Hugging Face论文三榜第一，获国际图形学权威陈宝权好评",
-      "url": "https://www.qbitai.com/2026/06/436698.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-18T09:39:05.000Z",
-      "summaryHint": "能够直接导入Unity、Unreal Engine等主流引擎进行交互开发",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-rmomca",
-      "type": "news",
-      "title": "全员本科生！何恺明组新作：文生图，258M参数就够了",
-      "url": "https://www.qbitai.com/2026/06/436518.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-18T09:12:09.000Z",
-      "summaryHint": "整篇论文一共六位作者。除了何恺明之外，其余五位都还是本科生。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
       "id": "rss-36kr-yig0wo",
       "type": "news",
       "title": "中国游戏的错位竞争：头部赌3A，腰部吃存量 | 游戏风向标",
       "url": "https://36kr.com/p/3858373969286148?f=rss",
       "source": "36kr",
       "publishedAt": "2026-06-18T07:58:27.000Z",
-      "summaryHint": "文丨小葵 编辑丨果脯 中国游戏产业正站在一个微妙的分水岭上。 一边，腾讯网易等头部大厂利用资本，以全球资源整合或漫长自研周期，向代表行业塔尖的3A单机游戏发起冲锋；另一边，以4399百奥为代表的腰部力量，在各自深耕的细分赛道里，通过成熟玩法复刻与精细化运营，稳守利润阵地。 今年夏日游戏节的发布会上，数十家全球顶尖游戏厂商轮番登台，发布了超过50款新作的最新消息。 在海外大厂普遍打出“老IP重制+续作”保守牌局中，腾讯和网易同时拿出3A级的单机产品，并肩出现在全球顶级展会的聚光灯下。 当大厂渴望用3A讲述中国故事建立全球品牌壁垒，腰部厂商则在存量市场中持续收割，一个向上押注3A，一个向下蚕食存量。这两条看似背道而驰的路，正共用着同一个起点。 01 本次SGF上，腾讯拿出《穿越火线：潜伏》与《古剑》堪称两张风格迥异的牌。 《穿越火线：潜伏》由That's No Moon工作室（核心成员来���",
+      "summaryHint": "文丨小葵 编辑丨果脯 中国游戏产业正站在一个微妙的分水岭上。 一边，腾讯网易等头部大厂利用资本，以全球资源整合或漫长自研周期，向代表行业塔尖的3A单机游戏发起冲锋；另一边，以4399百奥为代表的腰部力量，在各自深耕的细分赛道里，通过成熟玩法复刻与精细化运营，稳守利润阵地。 今年夏日游戏节的发布会上，数十家全球顶尖游戏厂商轮番登台，发布了超过50款新作的最新消息。 在海外大厂普遍打出“老IP重制+续作”保守牌局中，腾讯和网易同时拿出3A级的单机产品，并肩出现在全球顶级展会的聚光灯下。 当大厂渴望用3A讲述中国故事建立全球品牌壁垒，腰部厂商则在存量市场中持续收割，一个向上押注3A，一个向下蚕食存量。这两条看似背道而驰的路，正共用着同一个起点。 01 本次SGF上，腾讯拿出《穿越火线：潜伏》与《古剑》堪称两张风格迥异的牌。 《穿越火线：潜伏》由That's No Moon工作室（核心成员来自顽皮",
       "tags": [
         "china",
         "funding"
@@ -587,11 +611,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-swsb03",
       "type": "news",
-      "title": "DeepSeek成功揽下500亿！ - 36 Kr",
+      "title": "DeepSeek成功揽下500亿！ - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tRjhsbHpQQWd1Y0xReTdDUGt2SWl5b0RUT3Z3R1pvdFNad2JpcUJ0MUR6Z1dzd0ppLUNFSFJ6eTR1R1RfdmJtWDZrRlRJekZLYTBv?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-06-16T18:28:00.000Z",
-      "summaryHint": "DeepSeek成功揽下500亿！ &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "DeepSeek成功揽下500亿！ &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -599,73 +623,85 @@
       ]
     },
     {
-      "id": "reddit-rss-jvl448",
+      "id": "reddit-rss-a3an92",
       "type": "social_en",
-      "title": "Silent Hill 2 inspired Alpha Clipping Vertex Painting :)",
-      "url": "https://www.reddit.com/r/Unity3D/comments/1uar8rp/silent_hill_2_inspired_alpha_clipping_vertex/",
-      "source": "reddit_r_Unity3D",
-      "publishedAt": "2026-06-20T08:27:18.000Z",
-      "summaryHint": "Still a WIP I can see some ways to improve but just wanted to share :). &#32; submitted by &#32; /u/AdamNapper [link] &#32; [comments]",
+      "title": "manage it! - Store Manager Simulator | v1.1 Update",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1ublyyi/manage_it_store_manager_simulator_v11_update/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-06-21T09:47:31.000Z",
+      "summaryHint": "A new update for manage it! - Store Manager Simulator is now available. NEW FEATURES: Advertising Panels You can now add panels, assign advertisements to them and use them to help grow your store. Ads can affect customer behavior, store per",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-emvh5k",
+      "id": "reddit-rss-e76flm",
       "type": "social_en",
-      "title": "Is there any hardware that actually lets you export raw Camera Intrinsics, Extrinsics, & Trajectories for custom 3DGS pipelines?",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1uak9o0/is_there_any_hardware_that_actually_lets_you/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-06-20T02:03:41.000Z",
-      "summaryHint": "Hi everyone, I&#39;m looking for the best hardware and workflows to get precise camera calibration (intrinsics/extrinsics) and trajectories/IMU for a VFX-aligned 3DGS pipeline. I&#39;m currently exploring a few options but am unsure about t",
+      "title": "Camera flips when character rotates",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1ubh8uu/camera_flips_when_character_rotates/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-06-21T05:05:49.000Z",
+      "summaryHint": "Hi! I&#39;m very new to Unreal Engine, and I&#39;m currently doing a little project for University for some basic 2D character animations. I&#39;ve run into a problem where the camera flips/moves elsewhere when the character goes left and r",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-yp9cxa",
+      "id": "reddit-rss-8powlj",
       "type": "social_en",
-      "title": "Summer Flowers",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1ua5ne5/summer_flowers/",
+      "title": "For those worried about UE6",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1ubbleq/for_those_worried_about_ue6/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-06-21T00:11:23.000Z",
+      "summaryHint": "Just to put things in perspective: UE5 was released in April 2022. Stellar blade was made on UE4 (not UE5) and released on April 2024. You might like the game or not (thats not the point) but it sold very well. And the dev kept on using UE4",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-qu0y7k",
+      "type": "social_en",
+      "title": "4DGS with only 12 cameras",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1ub9ft6/4dgs_with_only_12_cameras/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-06-19T15:52:15.000Z",
+      "publishedAt": "2026-06-20T22:30:27.000Z",
+      "summaryHint": "Most of the nice 4D Gaussian Splatting results out there require massive camera rigs, which is a huge barrier to entry. We&#39;ve been experimenting with 4DGS in setups with way fewer cameras and less controlled environments. The clip here ",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-ew4xz",
+      "type": "social_en",
+      "title": "What is Verse like?",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1ub289q/what_is_verse_like/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-06-20T17:25:42.000Z",
+      "summaryHint": "What with the startling news of Blueprints being dropped in favour of Verse, and with no Verse experience myself, I am keen to hear from people who have actually used Verse in a serious capacity. What is using it like? What is your previous",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-bha6hg",
+      "type": "social_en",
+      "title": "Strawberry",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1ub0cw5/strawberry/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-06-20T16:07:58.000Z",
       "summaryHint": "&#32; submitted by &#32; /u/Armand9x [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-x0bwzz",
+      "id": "reddit-rss-finw3o",
       "type": "social_en",
-      "title": "Interactable Gaussian Splatting",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1ua3zw3/interactable_gaussian_splatting/",
+      "title": "Turn a picture into a 3D model.",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1uax5af/turn_a_picture_into_a_3d_model/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-06-19T14:48:04.000Z",
-      "summaryHint": "If you thought Gaussian Splatting is just static, here is some research that proves otherwise. Very clever work by the paper authors, and I&#39;m curious to see even more exciting research coming up in the future &#32; submitted by &#32; /u",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-csbznv",
-      "type": "social_en",
-      "title": "Made a Unity + Blender game trailer looking for feedback on workflow & editing",
-      "url": "https://www.reddit.com/r/Unity3D/comments/1ua1udb/made_a_unity_blender_game_trailer_looking_for/",
-      "source": "reddit_r_Unity3D",
-      "publishedAt": "2026-06-19T13:20:13.000Z",
-      "summaryHint": "Hi everyone, We recently made a trailer for our game project using Unity for gameplay and Blender for some cinematic/animated parts. We are still improving workflow and would love feedback on things like: Capturing gameplay in a cinematic b",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-p47s5",
-      "type": "social_en",
-      "title": "Unity 6.5 is now available",
-      "url": "https://www.reddit.com/r/Unity3D/comments/1u7gor6/unity_65_is_now_available/",
-      "source": "reddit_r_Unity3D",
-      "publishedAt": "2026-06-16T15:25:39.000Z",
-      "summaryHint": "Howdy everyone! Your friendly neighborhood Community Man Trey here to share that Unity 6.5 is now available ! This is a Supported release too, so it carries the same stability and critical update commitments as our LTS versions. Worth upgra",
+      "publishedAt": "2026-06-20T13:50:46.000Z",
+      "summaryHint": "Right now, this pipeline is highly optimized for humans and pets. The main thing we focused on was achieving a 1:1 high-fidelity recreation of the original uploaded image, rather than just a generic stylistic approximation. &#32; submitted ",
       "tags": [
         "ai_social"
       ]
