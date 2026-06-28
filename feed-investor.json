@@ -1,52 +1,36 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-27T08:51:08.498Z",
+  "updatedAt": "2026-06-28T09:34:12.194Z",
   "items": [
     {
-      "id": "rss-36kr-1129ps",
+      "id": "rss-36kr-i8r7l",
       "type": "funding",
-      "title": "超16亿元，烽火通信旗下长江计算中标中国电信高性能服务器集中采购项目",
-      "url": "https://36kr.com/newsflashes/3871141940892932?f=rss",
+      "title": "好利科技：筹划公司控制权变更事项 6月29日起停牌",
+      "url": "https://36kr.com/newsflashes/3872561078637577?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-27T08:09:13.000Z",
-      "summaryHint": "近日，中国电信高性能服务器2026—2027年集中采购项目中标候选人公示，烽火通信旗下长江计算成功入围标包1（ARM-A服务器G系列），斩获20%份额，中标金额超16亿元。2026年以来，长江计算在运营商领域中标金额已累计突破40亿元。（证券时报）",
+      "publishedAt": "2026-06-28T08:55:42.000Z",
+      "summaryHint": "好利科技6月28日公告，公司于近日收到公司实际控制人汤奇青通知，获悉公司控股股东旭昇亚洲投资有限公司、实际控制人汤奇青正在筹划涉及公司控制权变更相关事项，该事项可能导致公司控股股东、实际控制人发生变更。公司股票自6月29日开市起停牌，预计停牌时间不超过2个交易日。（e公司）",
       "tags": [
         "china",
         "funding",
         "deal_signal"
-      ],
-      "amount": "16亿元"
+      ]
     },
     {
-      "id": "rss-36kr-eb957d",
+      "id": "rss-google_news_cn_36kr_deals-apvsd3",
       "type": "funding",
-      "title": "马斯克获FTC批准收购前SpaceX工程师创立的光模块初创公司Mesh",
-      "url": "https://36kr.com/newsflashes/3871125571802116?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-27T07:52:34.000Z",
-      "summaryHint": "美国联邦贸易委员会（FTC）当地时间6月25日批准马斯克收购Mesh Optical Technologies Corporation。Mesh Optical Technologies由三位前SpaceX工程师特拉维斯·布拉谢尔斯（Travis Brashears）、卡梅隆·拉莫斯（Cameron Ramos）及赛琳娜·格罗文-哈伯利（Serena Grown-Haeberli）创立，三人此前曾在SpaceX主导设计星链卫星激光星间链路系统。公司于今年2月从隐身模式浮出水面，完成由Thrive Capital领投的逾5000万美元A轮融资。Mesh的核心产品为Alpha C1光学收发器，传输速率达1.6Tbps，采用倒装芯片键合工艺制造，以光信号替代传统铜缆在服务器与GPU之间传输数据，可大幅降低延迟与能耗。（界面新闻）",
+      "title": "94年小伙融资30亿，教AI玩游戏 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83YnJSeEF5amx2U1dtTE91NGlKOHdHTXhwQWNKS2hfZ2FXZ3VPTTY1bDNHOVpnNnpoLWI5Mm1rbVJfZlMzS3d0VXp0YWoteW9r?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-06-27T11:37:00.000Z",
+      "summaryHint": "94年小伙融资30亿，教AI玩游戏 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
+        "deal_rss",
         "deal_signal"
       ],
-      "round": "A轮融资",
-      "amount": "5000万"
-    },
-    {
-      "id": "rss-36kr-xqap6o",
-      "type": "funding",
-      "title": "今年港股首发募资前十大IPO名单中，A+H企业独占8席",
-      "url": "https://36kr.com/newsflashes/3871124521620485?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-27T07:51:30.000Z",
-      "summaryHint": "6月27日，2026年6月26日，领益智造、圣邦股份、芯碁微装三家A股龙头企业同步登陆港交所主板，成为2026年上半年A+H上市潮的收官之作。今年以来，A股企业“扎堆”赴港上市已成蔚然之势。据Wind统计，上半年总共有24家A股上市公司成功发行H股，合计募资规模突破1200亿港元，创下历史同期新高。更为引人注目的是，在今年港股首发募资前十大IPO名单中，A+H企业独占8席，展现出龙头企业跨境融资的强劲动能。（证券时报）",
-      "tags": [
-        "china",
-        "funding",
-        "deal_signal"
-      ],
-      "amount": "1200亿"
+      "amount": "30亿"
     },
     {
       "id": "rss-36kr-9j9g1y",
@@ -62,6 +46,21 @@
         "deal_signal"
       ],
       "amount": "340亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-8i1a0x",
+      "type": "funding",
+      "title": "梁文锋署名论文，DeepSeek首轮融资后大动作：生成速度大涨85% - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5neEl4MUQwZWZIQkFYYmVaX0VrclFDTEUxalZha2lBSXgxRWRDblpiUWxkZmg1TjVkbUVDX2JuNFlBakRDQ3pseWNGbGdEM05D?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-06-26T18:15:00.000Z",
+      "summaryHint": "梁文锋署名论文，DeepSeek首轮融资后大动作：生成速度大涨85% &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
     },
     {
       "id": "rss-qbitai-ual2gd",
@@ -122,28 +121,13 @@
       "amount": "190亿"
     },
     {
-      "id": "rss-36kr-57gfym",
+      "id": "rss-google_news_cn_36kr_deals-pt2kw4",
       "type": "funding",
-      "title": "历经13年，二手车交易平台大搜车终于登陆纳斯达克",
-      "url": "https://36kr.com/p/3869474592363528?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-06-26T05:38:23.000Z",
-      "summaryHint": "北京时间&nbsp;&nbsp;2026 年 6 月 25 日， DSC Holdings Ltd.（以下简称\"大搜车\"或\"公司\"，纳斯达克代码： \"DSC\" ）正式在美国纳斯达克全球市场挂牌交易，成为 2026 年首家赴美上市的中国企业 。公司本次发行 3,000,000 份美国存托股份（ADS） ， 发行价定为每股 ADS 17.00 美元 ， 总发行规模约 5,100 万美元 （未计超额配售权）。公司另授予承销商 30 天的超额配售权，可按发行价额外购买最多 450,000 份 ADS 。 大搜车在纳斯达克挂牌上市 大搜车创始人兼CEO姚军红在上市仪式上表示：“大搜车的发展历程是一个为他人解决问题、创造价值的故事。二手车流通是一个非常复杂的行业，参与者众多，且存在许多线下环节。大搜车用数字化和AI智能去改善二手车商的工作流，去消除行业内的交易摩擦，通过为别人创造价值而实现自我价值。大",
-      "tags": [
-        "china",
-        "funding",
-        "deal_signal"
-      ],
-      "amount": "5,100万"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-obg1v4",
-      "type": "funding",
-      "title": "一轮存储涨价，把\"非洲之王\"逼去港股融资 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oNW9nTFExQWtoSEhkLWF6SHV0VGFWbHR0S1JmUTV2SVVhdFk1SzRWcVhxN1hCOFo2U0dEZEFXb2V2ZDBYVU84TW1zV2RqRU91?oc=5",
+      "title": "存储涨价潮来袭，“非洲之王”赴港股融资救局 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90dFBkc2JKSHR4Z25BSDVQUy1fb0VWQ2gyeklTVTNwZmdNckVFQUVDT0F5RzJtSHk5UU1oVl9kTGpUaGEtcnBIbjc3MWVGVG5QV21v?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-06-25T19:02:00.000Z",
-      "summaryHint": "一轮存储涨价，把\"非洲之王\"逼去港股融资 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "存储涨价潮来袭，“非洲之王”赴港股融资救局 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
@@ -154,11 +138,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-s2y542",
       "type": "funding",
-      "title": "AI重构美国人才移民流程，ImmiClaw开启种子轮融资！ - 36 Kr",
+      "title": "AI重构美国人才移民流程，ImmiClaw开启种子轮融资！ - 36氪",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1adHlWc0RETzJ1TDNRQjRDY20zcUxrS3R4WTk1ZThhUmRDOEpicm9GajFOUS1pbWEwZjQ3TGFJb3hKVktyYVdTbm1ZTElGMy1ieU1J?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-06-25T15:59:00.000Z",
-      "summaryHint": "AI重构美国人才移民流程，ImmiClaw开启种子轮融资！ &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "AI重构美国人才移民流程，ImmiClaw开启种子轮融资！ &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
@@ -168,44 +152,13 @@
       "round": "种子轮"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-rj3pfh",
-      "type": "funding",
-      "title": "95 后博士投身世界模型，脸谱心智获数千万元融资 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsczNvZ19tM3ZFcUtFeG84MC1zSWx1WVcxdnM0SjNUUVlzSFBvbTd2OVFkS2liNzNoRlRKeU1UQ2hwNE5vT3cyejFGUXRIYWd1b2JZ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-25T10:44:00.000Z",
-      "summaryHint": "95 后博士投身世界模型，脸谱心智获数千万元融资 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-xvyaht",
-      "type": "funding",
-      "title": "不造大模型不拼算力，马化腾雷军们却甘愿给它3亿美元 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ha3hpTVFzNEhLZkpXMkx4Q1hTYkFrSnFubXNfemtVRFRmaElhYlZjOUdtU3FFeFl6VE16em1PdHVWSmtzdzktZEpQS2tELW9z?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-24T12:32:50.000Z",
-      "summaryHint": "不造大模型不拼算力，马化腾雷军们却甘愿给它3亿美元 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "3亿"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-tyf26j",
       "type": "funding",
-      "title": "英伟达力荐！3D大模型Hyper3D再获数亿融资，幕后竟是中国00后团队 - 36 Kr",
+      "title": "英伟达力荐！3D大模型Hyper3D再获数亿融资，幕后竟是中国00后团队 - 36氪",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kMFlsNkN5ZmF1bjlBZ0dEZVNkRHZNSktURHFrazdlaU9fcEUtY1o1MTJMVGpNMlRuc1VEaU85dklvcUNpRlNSTkwwY0Q4NHk3VVpB?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-06-24T11:57:00.000Z",
-      "summaryHint": "英伟达力荐！3D大模型Hyper3D再获数亿融资，幕后竟是中国00后团队 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "英伟达力荐！3D大模型Hyper3D再获数亿融资，幕后竟是中国00后团队 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
@@ -216,11 +169,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-ym566p",
       "type": "funding",
-      "title": "Groq完成6.5亿美元融资，加速扩建AI推理云并目标2027年底达200兆瓦 - 36 Kr",
+      "title": "Groq完成6.5亿美元融资，加速扩建AI推理云并目标2027年底达200兆瓦 - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5veVpFVHZKOEZpeVZIOUFwbVA5SFBfWHNYQl81b1hraElIUFVCcmwzeUpzdUlMZ3RuVzBJWVFJVTU0OEZFeG5PMWI4aWlkMzE1VEQyUU1FRHlUSEFFQ3c?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-06-24T00:57:27.000Z",
-      "summaryHint": "Groq完成6.5亿美元融资，加速扩建AI推理云并目标2027年底达200兆瓦 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "Groq完成6.5亿美元融资，加速扩建AI推理云并目标2027年底达200兆瓦 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -232,11 +185,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-lxhsbd",
       "type": "funding",
-      "title": "融资101亿，英伟达投的AI独角兽：收入暴增2000% - 36 Kr",
+      "title": "融资101亿，英伟达投的AI独角兽：收入暴增2000% - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jUXhnc2JNQjJsVDJid0FuZThBU1pwTE5GVGxLdmduS01BR18yX1JrbGJ1XzZnc29QXzEtdktGaUJZQVBMaFRmUjE1ajJjdw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-06-23T21:39:00.000Z",
-      "summaryHint": "融资101亿，英伟达投的AI独角兽：收入暴增2000% &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "融资101亿，英伟达投的AI独角兽：收入暴增2000% &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -248,11 +201,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-o0ve5v",
       "type": "funding",
-      "title": "阿联酋AI技术投资公司MGX据悉融资近500亿美元 - 36 Kr",
+      "title": "阿联酋AI技术投资公司MGX据悉融资近500亿美元 - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XQnVvMktod1NVMmJ4YnJkdVpPdlpUbmQxZXN1bUdvVXRZT0d3YUhDY2FMWW9qSV9TNHNiS2lhSFFEemxMVGJMajFUZ2pOalprT3MxNHVjOWVXbE91bEE?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-06-23T19:11:27.000Z",
-      "summaryHint": "阿联酋AI技术投资公司MGX据悉融资近500亿美元 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "阿联酋AI技术投资公司MGX据悉融资近500亿美元 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -264,11 +217,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-srvkn4",
       "type": "funding",
-      "title": "完成数亿元新融资，影眸科技 Hyper3D 让 3D 生成进入“思考时代”丨36氪首发 - 36 Kr",
+      "title": "完成数亿元新融资，影眸科技 Hyper3D 让 3D 生成进入“思考时代”丨36氪首发 - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lYTVOaUNIYWs4SHpPZy01bHpxYlJkYUdPOTE2WVpwSV9Dc0FZbW5Nanh0WVAwWWZFRkxFOTZNaUo2V044MXhpc012ak1nSUQ1?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-06-23T19:06:00.000Z",
-      "summaryHint": "完成数亿元新融资，影眸科技 Hyper3D 让 3D 生成进入“思考时代”丨36氪首发 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "完成数亿元新融资，影眸科技 Hyper3D 让 3D 生成进入“思考时代”丨36氪首发 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -279,11 +232,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-fol4ha",
       "type": "funding",
-      "title": "硬氪首发！快手系AI芯片公司再融资数亿，销量近十万颗，视频压缩性能超英伟达 - 36 Kr",
+      "title": "硬氪首发！快手系AI芯片公司再融资数亿，销量近十万颗，视频压缩性能超英伟达 - 36氪",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41T3I1djRFVVIzdUo3QWItWFI0OERWNWEtUFl1UjZ5UVU3SHpadC1LZWY0SHdSRC1UM0VSSWJvbzFHS2Fwemc2OXZxanJES0ttemkw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-06-22T11:20:00.000Z",
-      "summaryHint": "硬氪首发！快手系AI芯片公司再融资数亿，销量近十万颗，视频压缩性能超英伟达 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "硬氪首发！快手系AI芯片公司再融资数亿，销量近十万颗，视频压缩性能超英伟达 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
@@ -294,11 +247,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-p41plt",
       "type": "funding",
-      "title": "两市融资余额增加128.08亿元 - 36 Kr",
+      "title": "两市融资余额增加128.08亿元 - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KS0VtS2tTQjlMeU5GTmMtSWNHdVB2MFdSVjJ1azFhdzRTUGFTT1ItWFFRdzZVNTcxWEs5elhScm9OdnhrS2tvQWhNYml3YzVONFFiR2p4UUh6U2Nlanc?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-06-22T01:15:31.000Z",
-      "summaryHint": "两市融资余额增加128.08亿元 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "两市融资余额增加128.08亿元 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -308,107 +261,207 @@
       "amount": "128.08亿元"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-djabvu",
-      "type": "funding",
-      "title": "9600亿AI独角兽再启融资！ - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1velJyZ1MzWkZHd09id2tOeG1FaWR4WWVlSUZyV3cycGpzSlRnb0JXbElFNlpFQkdrSTJWcEN0YU5IdjlHX21CTjJKVUNjTlBVZV80?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-06-20T09:49:00.000Z",
-      "summaryHint": "9600亿AI独角兽再启融资！ &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "9600亿"
-    },
-    {
-      "id": "rss-36kr-f7ar9l",
+      "id": "rss-36kr-t7m0la",
       "type": "news",
-      "title": "超级牛散章建平新动向，大举减仓江淮汽车",
-      "url": "https://36kr.com/newsflashes/3871137727009801?f=rss",
+      "title": "飞龙股份：控股股东及其一致行动人拟减持公司不超1.8078%股份",
+      "url": "https://36kr.com/newsflashes/3872614769202178?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-27T08:04:56.000Z",
-      "summaryHint": "据证券时报，超级牛散，有着“章盟主”之称的章建平在近期对江淮汽车进行了大幅度的减仓。数据显示，截至6月23日，方文艳持有江淮汽车股票2665.02万股，持股比例为1.18%。而据公司此前披露，截至6月9日，方文艳持有江淮汽车股票3588.52万股，持股比例为1.59%。也就是说，自6月10日至23日，方文艳在9个交易日内减持了923.5万股。其间，江淮汽车股票最高价33.51元/股，最低价28.82元/股，区间加权均价为31.386元/股。以均价估算，方文艳此次减持套现约2.9亿元。公开资料显示，方文艳正是章建平的妻子。（证券时报）",
+      "publishedAt": "2026-06-28T09:30:18.000Z",
+      "summaryHint": "飞龙股份公告，持股31.5650%的公司控股股东河南省宛西控股股份有限公司（简称“宛西控股”）及持股5.1085%的公司实际控制人、宛西控股一致行动人孙耀忠计划十五个交易日后的三个月内，以集中竞价方式减持公司股份不超过574.78万股（占公司总股本的1%）；以大宗交易方式减持公司股份不超过464.28万股（占公司总股本的0.8078%）。（第一财经）",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-v1fdl",
+      "id": "rss-36kr-wdehkh",
       "type": "news",
-      "title": "马克·古尔曼：触屏MacBook将搭载M5芯片发布，苹果计划跳过M6 Pro及M6 Max",
-      "url": "https://36kr.com/newsflashes/3871135669048322?f=rss",
+      "title": "��空安全上线“弹必赔”，主打“0添加”安全软件",
+      "url": "https://36kr.com/newsflashes/3872623912571910?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-27T08:02:50.000Z",
-      "summaryHint": "当地时间6月26日，科技记者马克·古尔曼发文称，苹果传闻中的触屏MacBook Pro将在今年晚些时候或2027年初发布，首发搭载现役M5 Pro及M5 Max芯片。苹果此后计划推出配备M7芯片的升级版本，这与此前报道苹果将跳过M6 Pro及M6 Max直接推出M7系列的计划相吻合。苹果跳过高端M6芯片的决策被认为与内存短缺导致的成本压力密切相关，苹果本周已因此宣布上调Mac及iPad产品售价。（界面新闻）",
+      "publishedAt": "2026-06-28T09:16:45.000Z",
+      "summaryHint": "今日，悟空安全宣布上线“流氓弹窗”弹必赔，用户安装产品后，如弹出推广类弹窗，可参与举报并获得最高100元话费奖励。与此同时，悟空安全提出“0添加”的产品理念，默认使用场景下不主动新增广告、捆绑推荐等影响体验的信息，并通过AI识别与云规则库能力提升弹窗拦截效率，希望为用户提供更纯净、更少干扰的电脑使用体验。",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-8nkl1a",
+      "id": "rss-36kr-qk8nnk",
       "type": "news",
-      "title": "外媒：苹果寻求获准从长鑫存储购买内存芯片",
-      "url": "https://36kr.com/newsflashes/3871131045876995?f=rss",
+      "title": "艾迪药业：收到政府补助款项共计910万元",
+      "url": "https://36kr.com/newsflashes/3872609654560006?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-27T07:58:08.000Z",
-      "summaryHint": "据英国《金融时报》27日报道，六位知情人士透露，为缓解内存芯片涨价带来的成本压力，苹果公司正向美国政府游说，希望获批采购中国半导体企业长鑫存储(CXMT)的内存芯片。（中新经纬）",
+      "publishedAt": "2026-06-28T09:16:07.000Z",
+      "summaryHint": "艾迪药业公告，公司于近日收到政府补助款项共计910万元，为与收益相关的政府补助，占公司最近一个会计年度经审计归母净利润绝对值的46.59%。（第一财经）",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-4t78vt",
+      "id": "rss-36kr-xqi9gj",
       "type": "news",
-      "title": "美国监管部门关闭针对特斯拉Model 3及Model Y转向失控调查",
-      "url": "https://36kr.com/newsflashes/3871127099315202?f=rss",
+      "title": "特锐德：入选沙特国家能源公司合格制造商名录",
+      "url": "https://36kr.com/newsflashes/3872573871215621?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-27T07:54:07.000Z",
-      "summaryHint": "据美国国家公路交通安全管理局（NHTSA）6月27日披露，关闭针对2023款特斯拉Model 3及Model Y电子助力转向系统失效问题的工程分析调查。调查显示，上述车型转向电子控制单元（ECU）印刷电路板上的电机驱动组件存在过压击穿风险，可能导致电子助力转向失效，驾驶员仅能依靠手动转向操控车辆。特斯拉已于2025年2月就此发起召回，并通过OTA空中升级方式推送软件版本2023.38.4加以修复，该更新最早于2023年10月起陆续推送至受影响车辆。NHTSA分析显示，软件更新推送后相关投诉数量明显下降，据此决定关闭调查，但将持续监测召回修复效果。（界面新闻）",
+      "publishedAt": "2026-06-28T09:07:39.000Z",
+      "summaryHint": "特锐德公告称，公司XBG系列380kV及以下高压预制舱变电站正式被纳入沙特国家能源公司(SE)合格制造商名录，取得SE核心供应商准入资格，成为SE经过测试和批准的材料名录（LOTAM）中，首家入围的380kV及以下高压预制舱变电站供应商。依托这一资格，公司可全面参与沙特国家电网高压变电站升级改造、新能源大基地建设、“2030愿景”重点变电站工程及新城开发等重大项目，正式进入沙特及中东地区电网高压变电站建设核心供应链体系。（财联社）",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-nuruj",
+      "id": "rss-36kr-8ueabi",
       "type": "news",
-      "title": "楼市复苏信号？多城核心地块高溢价成交：房企扎堆抢夺，持续刷新当地纪录",
-      "url": "https://36kr.com/newsflashes/3871120057848837?f=rss",
+      "title": "黄河旋风：黄河集团所持公司8.82%股份被轮候冻结",
+      "url": "https://36kr.com/newsflashes/3872541066515457?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-27T07:46:57.000Z",
-      "summaryHint": "近日，深圳、杭州、长沙等多个城市上演高热土拍，核心片区宅地轮番拍出高溢价，板块地价接连创下新高。（澎湃新闻）",
+      "publishedAt": "2026-06-28T08:43:19.000Z",
+      "summaryHint": "黄河旋风6月28日公告，公司持股5%以上股东黄河集团累计被轮候冻结股份数量为1.27亿股，占其所持有股份100%，占公司总股本8.82%。黄河集团不属于公司的控股股东、实际控制人，该事项不会导致公司控制权发生变更，不会对公司日常经营和管理造成影响。（e公司）",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-6ebjja",
+      "id": "rss-36kr-1a8evd",
       "type": "news",
-      "title": "高通计划将数据中心芯片技术引入智能手机，提升端侧AI能力",
-      "url": "https://36kr.com/newsflashes/3871117388174336?f=rss",
+      "title": "中京电子：未来PCB市场竞争预计将会加剧",
+      "url": "https://36kr.com/newsflashes/3872555153544450?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-27T07:44:14.000Z",
-      "summaryHint": "6月27日消息，高通公司执行副总裁杜尔加·马拉迪表示，公司计划将本周新发布的数据中心芯片技术应用于智能手机，以提升移动设备本地AI运行能力。高通新推出的高带宽计算（HBC）架构采用芯片垂直堆叠设计，将内存与计算单元紧密集成，可显著提升数据传输速度与效率。该架构第一代产品将于明年在数据中心推出，预计2028年实现商业化供货。马拉迪表示，“数据中心的技术不会止步于此”，公司目前正与智能手机、个人电脑及汽车制造商就相关技术展开洽谈。（界面新闻）",
+      "publishedAt": "2026-06-28T08:35:39.000Z",
+      "summaryHint": "中京电子(002579)6月28日发布股票交易异常波动暨风险提示公告，公司股票连续2个交易日内收盘价格涨幅偏离值累计超过20%。公司关注到近期市场对PCB行业关注度较高，伴随行业发展吸引众多同行调整战略、加码资源布局，未来市场竞争预计将会加剧。公司特此郑重提醒广大投资者，短期市场热点受多种复杂因素影响，务必保持理性投资，注意风险。（e公司）",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-kgq3d6",
+      "id": "rss-36kr-hfaggu",
       "type": "news",
-      "title": "电影《四渡》总票房破5000万",
-      "url": "https://36kr.com/newsflashes/3871115919070210?f=rss",
+      "title": "中富通：股东拟合计减持不超0.671%公司股份",
+      "url": "https://36kr.com/newsflashes/3872540399375361?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-06-27T07:42:44.000Z",
-      "summaryHint": "36氪获悉，据猫眼专业版数据，电影《四渡》上映2天，总票房破5000万​​​。",
+      "publishedAt": "2026-06-28T08:28:38.000Z",
+      "summaryHint": "中富通6月28日公告，公司股东常德中科芙蓉创业投资有限责任公司、晋江市融磊商务信息咨询有限公司及高级管理人员林忠阳计划减持公司股份。其中，股东常德中科芙蓉创业投资有限责任公司（持股0.17%）计划自减持计划公告之日三个交易日后的三个月内，以集中竞价交易或大宗交易方式减持38.15万股（占公司总股本0.17%），减持价格根据市场价格确定，减持原因为自身资金需要。股东晋江市融磊商务信息咨询有限公司（持股1.25%）计划以集中竞价交易或大宗交易方式减持114.06万股（占公司总股本0.50%），减持价格根据市场价格确定，减持原因为自身资金需要。高级管理人员林忠阳（持股0.0040%）计划自减持计划公告之日十五个交易日后的三个月内，以集中竞价交易方式减持2275股（占公司总股本0.0010%），减持价格根据市场价格确定，减持原因为自身资金需要。本次减持不设价格区间。（界面）",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-vckn9y",
+      "type": "news",
+      "title": "银河微电：拟收购恒泰柯100%股权 股票及可转债明起复牌",
+      "url": "https://36kr.com/newsflashes/3872537881466120?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-28T08:16:04.000Z",
+      "summaryHint": "6月28日，银河微电公告称，公司拟发行股份购买恒泰柯半导体(上海)有限公司100%股权并募集配套资金，预计不构成重大资产重组及重组上市。公司股票及可转债将于6月29日开市起复牌。（每经网）",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-payqk5",
+      "type": "news",
+      "title": "金山办公：拟以2.5亿元-5亿元回购公司股份",
+      "url": "https://36kr.com/newsflashes/3872536345826563?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-28T08:09:31.000Z",
+      "summaryHint": "金山办公公告，拟以2.5亿元-5亿元回购公司股份，回购价格不超过352.11元/股。（第一财经）",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-28ps2c",
+      "type": "news",
+      "title": "梁文锋署名的DSpark，看懂这10个点就够了！",
+      "url": "https://www.qbitai.com/2026/06/439548.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-28T08:06:04.000Z",
+      "summaryHint": "精髓在于极强的系统工程",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-nc2k24",
+      "type": "news",
+      "title": "前端工程师最不想看到的开源项目出现了，一行命令克隆任意网站",
+      "url": "https://www.qbitai.com/2026/06/439515.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-28T07:56:22.000Z",
+      "summaryHint": "GitHub 20k Star",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-3lq699",
+      "type": "news",
+      "title": "一次吃下一本书！百度开源新OCR，作者疑似前DeepSeek研究员",
+      "url": "https://www.qbitai.com/2026/06/439464.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-28T06:04:17.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-8keh9g",
+      "type": "news",
+      "title": "一折买 Miu Miu，谁在做奢侈品牌的\"拼多多\"？｜商业Friday",
+      "url": "https://36kr.com/p/3867976058803459?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-06-28T00:37:08.000Z",
+      "summaryHint": "文｜贺哲馨 编辑｜乔芊 Judy第一次意识到，原来打折的奢侈品也有准入门槛，是在申请加入On The List的一次特卖活动时。 提交申请后的第三天，她依旧没有收到邀请消息。 “我还以为填完资料就能进去。”她说。 按照平台规则，特卖活动需要邀请码才能进入。如果迟迟没有通过，则需要邀请两位好友注册，才能获得进入候补名单的机会。至于最终能否收到邀请码，没人说得清楚。 “有点像抽签，也有点像开盲盒。 ”Judy笑着说，“明明我是才是买家，结果搞得像在申请什么私人会员俱乐部。越进不去，越想进去看看。” Judy试图进入的，是近年来正在中国一线城市兴起的一类新渠道——会员制奢侈品特卖平台。On The List是其中最具代表性的玩家之一。这家公司2016年成立于香港，以限时快闪的形式销售奢侈品、设计师品牌和生活方式产品。与传统奥莱不同，它既不拥有品牌，也不经营长期折扣门店，而是直接与品牌合作，在限定",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-b4skyg",
+      "type": "news",
+      "title": "BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力",
+      "url": "https://www.qbitai.com/2026/06/439393.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-27T12:29:33.000Z",
+      "summaryHint": "人类一次录制，Agent就能模拟",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-wtx1w1",
+      "type": "news",
+      "title": "第一批一人公司，现在怎么样了？",
+      "url": "https://www.qbitai.com/2026/06/439237.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-27T12:23:29.000Z",
+      "summaryHint": "我们跟一群OPC创业者聊了聊",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-xayoa8",
+      "type": "news",
+      "title": "CVPR 2026最热方向，被一家杭州团队率先跑进了端侧！",
+      "url": "https://www.qbitai.com/2026/06/439236.html",
+      "source": "qbitai",
+      "publishedAt": "2026-06-27T12:19:42.000Z",
+      "summaryHint": "VLM- R1之后再次出手！全球首个端侧流式多模态来了！",
       "tags": [
         "china",
         "funding"
@@ -519,83 +572,6 @@
       ]
     },
     {
-      "id": "rss-qbitai-2f1u6k",
-      "type": "news",
-      "title": "Claude Fable 5分批重新上线！GPT-5.6秒跟",
-      "url": "https://www.qbitai.com/2026/06/438789.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-26T06:55:20.000Z",
-      "summaryHint": "这不能是营销计划的一部分吧？",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-p5kfxu",
-      "type": "news",
-      "title": "从需求到设计到代码，一个软件全搞定！TRAE Work Design实测来了",
-      "url": "https://www.qbitai.com/2026/06/438750.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-26T05:12:46.000Z",
-      "summaryHint": "精准识别设计系统",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-ay7s40",
-      "type": "news",
-      "title": "华勤技术与正行创新达成战略合作，加速机器人“走进工厂、走上产线”",
-      "url": "https://www.qbitai.com/2026/06/438741.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-26T04:00:59.000Z",
-      "summaryHint": "共建工业物理智能“数据底座与智能大脑”",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-n9qp70",
-      "type": "news",
-      "title": "让机器人学会“预判接触”：它石智航牵头四大顶尖机构发布TacForeSight，破解精细操作难题",
-      "url": "https://www.qbitai.com/2026/06/438701.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-26T03:47:08.000Z",
-      "summaryHint": "提前200毫秒预判",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-o7txze",
-      "type": "news",
-      "title": "英伟达MoE新开源：一行import，微调加速3.7倍",
-      "url": "https://www.qbitai.com/2026/06/438703.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-26T03:23:35.000Z",
-      "summaryHint": "在Transformers v5的基础上，增加了专家并行、DeepEP和TransformerEngine",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-c77z1t",
-      "type": "news",
-      "title": "WAVES 2026：今年盛夏，在创投浪潮里，做迎风而立的少数人！",
-      "url": "https://www.qbitai.com/2026/06/438698.html",
-      "source": "qbitai",
-      "publishedAt": "2026-06-26T02:58:50.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_deals-g4n70j",
       "type": "news",
       "title": "2026年，“AI新贵们”集体押注世界模型 - thepaper.cn",
@@ -612,11 +588,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-vcc1rs",
       "type": "news",
-      "title": "Kimi估值暴涨6倍：以信用拓展生态，算力危机波及付费会员 - 36 Kr",
+      "title": "Kimi估值暴涨6倍：以信用拓展生态，算力危机波及付费会员 - 36氪",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15b25nSmFIbG1UbDdVeEl1dHg1ZnhNcmQ0STNiTjVWdVA0X0NCdHpOZmhBb1VHaEt1T2tJZ21mZW56c1RMSFpZVldZY2dtZjE0aXZN?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-06-22T11:45:00.000Z",
-      "summaryHint": "Kimi估值暴涨6倍：以信用拓展生态，算力危机波及付费会员 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "Kimi估值暴涨6倍：以信用拓展生态，算力危机波及付费会员 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
@@ -626,11 +602,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-36vj0h",
       "type": "news",
-      "title": "这届年轻人开始「机性恋」了？ - 36 Kr",
+      "title": "这届年轻人开始「机性恋」了？ - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yNkZKcDlvaWhGcDYxa1M1dlY2RlNORDJTQWtHVmo0OGltSEZYN0p4RlB1bVpYbGhBUjQ2ZEdmandzcWd1ZWpkdzF4amU0Nk13?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-06-21T09:59:00.000Z",
-      "summaryHint": "这届年轻人开始「机性恋」了？ &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "这届年轻人开始「机性恋」了？ &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -638,49 +614,73 @@
       ]
     },
     {
-      "id": "reddit-rss-89z9zm",
+      "id": "reddit-rss-dthkh0",
       "type": "social_en",
-      "title": "So now scraping data without permission is bad for AI training all of sudden?",
-      "url": "https://www.reddit.com/r/artificial/comments/1ugwccs/so_now_scraping_data_without_permission_is_bad/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-06-27T07:37:00.000Z",
-      "summaryHint": "Oh .... the irony! &#32; submitted by &#32; /u/base64-encode [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-z9gv8",
-      "type": "social_en",
-      "title": "100% On-Device 3DGS on iPhone",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1ugu78z/100_ondevice_3dgs_on_iphone/",
+      "title": "Interactive Music Cover in 3D - Guassian Splatting [with Audio🔊]",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1uhs69i/interactive_music_cover_in_3d_guassian_splatting/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-06-27T05:37:01.000Z",
-      "summaryHint": "https://preview.redd.it/1jxefk8uhr9h1.png?width=2556&amp;format=png&amp;auto=webp&amp;s=a07674c8e8a2d9e534a07c6e92ebccbabe1bca9e This is an end-to-end, 100% on-device 3DGS app for iPhone. It’s still very rough, and there are many problems I",
+      "publishedAt": "2026-06-28T08:51:36.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/skruuul [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-enaso0",
+      "id": "reddit-rss-kugp39",
       "type": "social_en",
-      "title": "Anyone used the new XGRIDS Lixel K2? Looking for real projects / sample point clouds",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1ugl8g0/anyone_used_the_new_xgrids_lixel_k2_looking_for/",
+      "title": "A 1,000-year-old church you can walk through in your browser",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1uhevow/a_1000yearold_church_you_can_walk_through_in_your/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-06-26T22:32:37.000Z",
-      "summaryHint": "Hi everyone, I&#39;m part of the architecture team at my studio and we&#39;re looking into buying the XGRIDS Lixel K2 handheld scanner. Before we get approval to purchase one, we&#39;ve been asked to review real-world results—not just promo",
+      "publishedAt": "2026-06-27T21:45:05.000Z",
+      "summaryHint": "St. Stephan&#39;s Church in Bamberg, Germany — over 1,000 years old, with a Baroque interior dating to the 17th century. Captured as a 3D Gaussian splat by majomedia. It&#39;s ~173 MB of SOG and runs free-roam right in the browser — you can",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-1jcuif",
+      "id": "reddit-rss-310gxg",
       "type": "social_en",
-      "title": "do you think ai will add more jobs than it will cut over the long run?",
-      "url": "https://www.reddit.com/r/artificial/comments/1ugki2w/do_you_think_ai_will_add_more_jobs_than_it_will/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-06-26T22:03:04.000Z",
-      "summaryHint": "if so, what would these jobs look like? &#32; submitted by &#32; /u/AppropriateHamster [link] &#32; [comments]",
+      "title": "I successfully swapped over my Engine's UI library from ImGui to Qt",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1uh9v16/i_successfully_swapped_over_my_engines_ui_library/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-06-27T18:18:52.000Z",
+      "summaryHint": "Hello everyone! For the past 6 months I&#39;ve been working on my Platform Nebrix and I&#39;ve been using the UI library ImGui although recently I&#39;ve been working to switch to Qt. The reason I did this is because in the future I want to",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-zbut0x",
+      "type": "social_en",
+      "title": "Even Google still believes in small models for coding.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uh8ir7/even_google_still_believes_in_small_models_for/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-06-27T17:24:46.000Z",
+      "summaryHint": "I&#39;ve been meaning to post about this. The community has been pretty vocal in criticizing &quot;vibe-coded&quot; projects. I used to think the backlash was the real problem, but I&#39;ve started getting annoyed by a lot of these posts my",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-hcrzvz",
+      "type": "social_en",
+      "title": "I made an audio-reactive pointcloud system",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1uh4frz/i_made_an_audioreactive_pointcloud_system/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-06-27T14:39:28.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/uisato [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-36jko9",
+      "type": "social_en",
+      "title": "96gb+ 4090's and 5090 are literally a scam. I mods these cards myself",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uh1lc7/96gb_4090s_and_5090_are_literally_a_scam_i_mods/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-06-27T12:32:23.000Z",
+      "summaryHint": "I run a small gpu lab in the USA and work closely with two factories in china designing/producing 48gb 4090 PCB&#39;s. The only recent card weve gotten was the 32gb 4080 super. PSA: 96gb 4090&#39;s and 5090&#39;s are a SCAM (as of Jun 2026)",
       "tags": [
         "ai_social"
       ]
@@ -698,42 +698,6 @@
       ]
     },
     {
-      "id": "reddit-rss-ly4b2r",
-      "type": "social_en",
-      "title": "Holy mackerel this is the future of games \"Voxel collision in SuperSplat is a game changer. It turns any Gaussian splat into accurate 5 cm voxels, automatically. It's super-compressed and far more efficient than a mesh, yet solid enough to climb stairs and walk crossbeams. Free open source \"",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1ugbzj6/holy_mackerel_this_is_the_future_of_games_voxel/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-06-26T16:41:07.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/stealthispost [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-27leja",
-      "type": "social_en",
-      "title": "Google keeps losing top ai researchers, the moat was never the weights",
-      "url": "https://www.reddit.com/r/artificial/comments/1ugbwol/google_keeps_losing_top_ai_researchers_the_moat/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-06-26T16:38:18.000Z",
-      "summaryHint": "Shazeer to openai, then John Jumper (the alphaFold nobel guy) to anthropic, plus Adler and Pritzler out the same door within a week. Every time one of these drops the framing is google is bleeding. I think people are reading it backwards. I",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-74pvaw",
-      "type": "social_en",
-      "title": "Anthropic just published data showing 35% of their users expect AI to do MOST of their work within 12 months. We’re not having an honest conversation about what this actually means.",
-      "url": "https://www.reddit.com/r/artificial/comments/1ugaq5b/anthropic_just_published_data_showing_35_of_their/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-06-26T15:55:28.000Z",
-      "summaryHint": "Anthropic dropped their June 2026 Economic Index today and buried inside the survey data is something that should be making headlines: Over a third of respondents (9,700 actual Claude users, linked to real usage data) believe AI will be cap",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
       "id": "reddit-rss-6tpbbl",
       "type": "social_en",
       "title": "Mastering particle morphing in Three.js & React: From DNA to Typography",
@@ -741,18 +705,6 @@
       "source": "reddit_r_computergraphics",
       "publishedAt": "2026-06-26T13:59:16.000Z",
       "summaryHint": "&#32; submitted by &#32; /u/Alizmus [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-7ct6d0",
-      "type": "social_en",
-      "title": "I made an audio-reactive pointcloud system",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1ufemxd/i_made_an_audioreactive_pointcloud_system/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-06-25T16:17:22.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/uisato [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
