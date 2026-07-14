@@ -1,30 +1,107 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-13T09:49:06.668Z",
+  "updatedAt": "2026-07-14T08:29:21.245Z",
   "items": [
     {
-      "id": "rss-36kr-wqxfbw",
+      "id": "rss-google_news_cn_deals-4ynw2b",
       "type": "funding",
-      "title": "Meta宣布将追加400亿美元投资路易斯安那州数据中心",
-      "url": "https://36kr.com/newsflashes/3893874550422278?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-13T09:34:01.000Z",
-      "summaryHint": "7月13日，Meta宣布将追加400亿美元投资路易斯安那州数据中心，路易斯安那州数据中心是Meta的最大项目。（界面）",
+      "title": "阿里领投，王慧文家办跟投，爱诗科技完成近30亿元C轮融资 - 手机网易网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JVWVzNW85LW1FM3pYSm9VRFFQWk84MWh3NlhxeVUwT0toQW9aZ3lOeEt0bnphaHJLaVZhVnN5elhTNUFVOTZoNC1tVGdCRjIxa0ZBcmVrdHpsWGtGWGV4R1p3?oc=5",
+      "source": "google_news_cn_deals",
+      "publishedAt": "2026-07-14T07:53:28.000Z",
+      "summaryHint": "阿里领投，王慧文家办跟投，爱诗科技完成近30亿元C轮融资 &nbsp;&nbsp; 手机网易网",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "C轮融资",
+      "amount": "30亿元"
+    },
+    {
+      "id": "rss-qbitai-aj4jva",
+      "type": "funding",
+      "title": "产业与全球资本共同加注，爱诗科技完成29.8亿元C轮融资",
+      "url": "https://www.qbitai.com/2026/07/449836.html",
+      "source": "qbitai",
+      "publishedAt": "2026-07-14T04:06:40.000Z",
       "tags": [
         "china",
         "funding",
         "deal_signal"
       ],
-      "amount": "400亿"
+      "round": "C轮融资",
+      "amount": "29.8亿元"
     },
     {
-      "id": "rss-36kr-s6tgqb",
+      "id": "rss-36kr-riz1a3",
       "type": "funding",
-      "title": "字节探索自动驾驶，Seed世界模型团队负责｜36氪独家",
-      "url": "https://36kr.com/p/3893815451417347?f=rss",
+      "title": "36氪首发 | 浙大系桌面CNC团队获商汤国香、首形科技等近亿元天使轮，要用AI技术降低制造门槛",
+      "url": "https://36kr.com/p/3894935854677249?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-07-13T08:34:05.000Z",
-      "summaryHint": "36氪从多位产业人士处获悉，字节跳动正探索进入自动驾驶领域。这一项目目前由Seed旗下周畅的世界模型团队负责。据了解，Seed旗下不仅有周畅的多模态模型、世界模型等团队，还有大语言模型方向。 而自动驾驶与世界模型的技术路线有交叠之处。 另有消息人士告诉36氪，业务方向上，字节有意布局的自动驾驶场景有无人物流，这一业务隶属于字节旗下的火山引擎汽车行业线。 部分接近字节的知情人士表示，字节团队此前与一些头部自动驾驶团队进行过业务探讨交流，目前字节的自动驾驶项目已进入早期筹备状态。字节向不少头部辅助驾驶或自动驾驶人才发出了邀约，一些看好字节这一布局的技术人才也计划加入。 针对以上消息，36氪向字节求证，字节回应：“字节大模型前沿探索领域，包括物理AI领域，有很多早期研究和探索，但并没有做智能驾驶业务的计划。” Seed是字节旗下的大模型基础研究团队，成立于2023年，是字节的一级战略级部门。 周",
+      "publishedAt": "2026-07-14T03:34:12.000Z",
+      "summaryHint": "作者&nbsp;|&nbsp;张子怡 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，桌面级CNC（数控机床）企业「奇塑科技」于近期完成近亿元人民币天使轮融资。本轮融资由商汤国香、首形科技、全新世、奇绩创坛共同投资。本轮资金将主要用于桌面级CNC软硬件产品的研发、量产以及后续的市场营销。 在消费级3D打印机和激光雕刻机已完成大众市场教育，并诞生了诸如拓竹、xTool等多个头部企业后，能够实现“从软材到硬材强三维加工”的CNC产品，被视为消费级制造领域的下一片万亿蓝海。 早在2018年行业普遍聚焦3D打印赛道时，奇塑科技团队就已将目光投向CNC领域。在创始人夏楠看来，CNC是制造业最基础、通用性最强的加工方式，覆盖的场景比3D打印更广，拥有万亿级的产业底盘；如果能用AI重构CNC的制造范式、降低门槛，将进一步拓宽CNC的使用场景，甚至下沉到普通用户的桌面端。这会改变全社会的生产模式，释放极大",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "round": "天使轮"
+    },
+    {
+      "id": "rss-qbitai-2yzhys",
+      "type": "funding",
+      "title": "逐际动力再融2亿美元提速港股IPO，张巍：营收对赌不符合具身商业逻辑",
+      "url": "https://www.qbitai.com/2026/07/449474.html",
+      "source": "qbitai",
+      "publishedAt": "2026-07-14T02:02:50.000Z",
+      "summaryHint": "机器人应该掌握什么技能，并不只取决于模型够不够强，而取决于构建这个技能产生的商业价值是否大于它所要数据的成本。",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "amount": "2亿"
+    },
+    {
+      "id": "rss-36kr-h08uk3",
+      "type": "funding",
+      "title": "36氪首发 | 前博世自动驾驶算法工程师创业，用合成数据做触觉大模型",
+      "url": "https://36kr.com/p/3894821059918855?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-14T01:38:13.000Z",
+      "summaryHint": "触觉手套（图源/企业） 本文约 2400 字，建议阅读 6 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，空间智能公司「大衍科技」近期完成数千万元天使轮融资，由松禾资本领投，浙江省省金控与广州番禺创新基金等国资背景机构参与。资金将主要用于触觉大模型研发、机器人数据产线建设及团队扩张。 「大衍科技」2025年5月成立于浙江桐乡，是一家专注于4D世界重建、世界模型及可控扩散模型技术的空间智能公司。 创始人兼CEO杨林是新加坡国立大学计算机博士，曾在速腾、酷睿程、比亚迪、苏州博世等企业深耕自动驾驶算法7-8年。此外，公司核心技术源自首席科学家、联合国科学院院士、加拿大工程院院士埃尔萨迪克团队二十余年的数字孪生与触觉交互积累。 杨林告诉硬氪，他观察到，此前数据市场需求以汽车合成数据为主，但2025年开始，机器人数据订单急剧增加。 “汽车数据没涨，甚至有点跌。随着机器人本体竞争越来越激烈，大家就开始卷机",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "round": "天使轮"
+    },
+    {
+      "id": "rss-36kr-hmdwrc",
+      "type": "funding",
+      "title": "人形机器人公司逐际动力完成2亿美元Pre-IPO轮融资，投后估值达150亿元｜最前线",
+      "url": "https://36kr.com/p/3893976502287618?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-14T00:46:41.000Z",
+      "summaryHint": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，通用人形机器人公司逐际动力LimX Dynamics宣布完成Pre-IPO轮融资，融资金额近2亿美元，投资方包括IDG资本、蓝思科技、GGG Group与Redstone VC、华山资本、合肥滨湖产发集团等。此外，阿联酋磊石资本（Stone Venture）连续多轮追投，绿洲资本、基石资本、南山战新投、尚颀资本、蔚来资本等多家老股东超额加注。 融资资金将重点用于大小脑融合技术的突破和产品化，推动数千台全自主人形机器人的规模化部署，加强全球市场拓展。公司将进一步完善全球制造与交付能力，加快中东、欧洲及亚洲其他国家地区等重点市场的布局，并持续建设面向全球开发者的开放生态。 本轮融资完成后，公司投后估值达150亿元，过去半年累计融资额已达4亿美元。此前逐际动力于2026年3月完成了股改。据知情人士处透露，公司已在2026年初稍早些时候开启IPO进程。 近年来，",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "amount": "2亿"
+    },
+    {
+      "id": "rss-36kr-3njcb",
+      "type": "funding",
+      "title": "8点1氪丨海南将成中国首个禁售燃油车省份；长鑫科技部分员工入股成本低至1毛；SK海力士暴跌15%",
+      "url": "https://36kr.com/p/3894729787767810?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-14T00:04:11.000Z",
+      "summaryHint": "今日热点导览 韩国法院禁止两名前三星员工就职于SK海力士 字节探索自动驾驶，Seed世界模型团队负责 巨力索具深夜澄清商业航天业务不实传闻，提醒投资风险 科技记者古尔曼：苹果将跳过M6 Pro/Max芯片全力押注AI导向的M7系列 美众议院本周将表决永久实行夏令时法案 TOP 3大新闻 海南将成中国首个禁售燃油车省份，届时车桩比保持2.5:1以下 近日，海南省人民政府对外发布《“十五五”海南国家生态文明试验区规划（美丽海南建设“十五五”规划）》提出，平稳推进2030年禁售燃油车，预计届时海南新能源汽车保有量占比从2025年的23.75%提升至45%。这意味着海南将成为中国第一个不再卖燃油车的省份。 “十四五”时期，海南清洁能源岛建设深化升级，新能源成为海南第一大电源，新能源汽车市场渗透率、保有量占比分别居全国省级地区第一、第二位。在交通运输领域，到2030年，海南全省公共服务和社会运营领域",
       "tags": [
         "china",
         "funding",
@@ -33,52 +110,82 @@
       "round": "Seed"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-z1vawd",
+      "id": "rss-google_news_cn_36kr_deals-5m7t76",
       "type": "funding",
-      "title": "“海艺AI”完成超亿元B轮融资 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpRkM4OHhMYXkyRHBXblN5ckFXd2NIOHV4REVlbTRqdFRMYmVZSDJsVnFTWElXMW1zb21FZ3ZWa1AzQTRtUk1SMkVoakR2a2hUTXFyekhRaWtUcFRWN2c?oc=5",
+      "title": "「幻码跃迁」完成数千万元种子轮融资，打造量子 × AI 融合创新的量子计算基础设施 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91SDZQUFZjR0ZuSmlCOXZSckZiLWpTNVVDa09WYkNwNTJlYjZmajcxTmpiSXFsQ0lsUE9zNE1uaXp4cHdDS2RIb3JhN2ZpMUFfcko0?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-07-13T08:03:57.000Z",
-      "summaryHint": "“海艺AI”完成超亿元B轮融资 &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-07-13T12:17:00.000Z",
+      "summaryHint": "「幻码跃迁」完成数千万元种子轮融资，打造量子 × AI 融合创新的量子计算基础设施 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
       ],
-      "round": "B轮融资"
+      "round": "种子轮"
     },
     {
-      "id": "rss-qbitai-1ubgby",
+      "id": "rss-36kr-xle6l1",
       "type": "funding",
-      "title": "趋境科技完成A轮融资，半年内募资10亿",
-      "url": "https://www.qbitai.com/2026/07/448820.html",
-      "source": "qbitai",
-      "publishedAt": "2026-07-13T05:24:54.000Z",
-      "summaryHint": "高品质AI Token生产服务能力获产业和资本的双重认可",
+      "title": "氪星晚报 ｜Meta宣布将追加400亿美元投资路易斯安那州数据中心；字节探索自动驾驶，Seed世界模型团队负责；《扩大消费“十五五”规划》：优化入境消费环境，稳步扩大免签国家范围",
+      "url": "https://36kr.com/p/3893943402707460?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-13T11:59:05.000Z",
+      "summaryHint": "大公司： 洽洽食品：上半年净利润同比预增170.75%—198.96% 36氪获悉，洽洽食品披露业绩预告，预计2026年上半年归属于上市公司股东的净利润为2.4亿元—2.65亿元，同比增长170.75%—198.96%。 好上好：上半年净利润同比预增301.65%—376.03% 36氪获悉，好上好披露业绩预告，预计2026年半年度归属于上市公司股东的净利润1.35亿元—1.6亿元，同比增长301.65%—376.03%。 Meta宣布将追加400亿美元投资路易斯安那州数据中心 7月13日，Meta宣布将追加400亿美元投资路易斯安那州数据中心，路易斯安那州数据中心是Meta的最大项目。（界面） 北斗星通：上半年净利润同比预增2368.27%—3426.09% 36氪获悉，北斗星通披露业绩预告，预计2026年半年度归属于上市公司股东的净利润3500万元—5000万元，同比增长2368.27",
       "tags": [
         "china",
         "funding",
         "deal_signal"
       ],
-      "round": "A轮融资",
-      "amount": "10亿"
+      "round": "Seed",
+      "amount": "400亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-c656ih",
+      "id": "rss-google_news_cn_36kr_deals-cnbzrs",
       "type": "funding",
-      "title": "AI潮玩品牌“珞博智能”完成亿元级Pre-A轮融资 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GTFFXbGFyOXFxQkw2aTBWZGNkYWRXWUpVZl9US0haTkllM0tJZUFMRU84WmV3WXVhVFpJRVJvTERoV1paQThnUDJncEc0Umw4NDAwUmNGYjZlUkZWLUE?oc=5",
+      "title": "深圳又一家百亿机器人独角兽，半年融资超二十亿元 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNV3JGMVdzQVVPeVl4VzlQM3RPd2lwak9SNWwzdF9XWXlMdGVGbTFBVTgyZTRmWWUtSHRGa3ZzRE11QnRVMEJiZE8xbHBUdw?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-07-13T05:08:12.000Z",
-      "summaryHint": "AI潮玩品牌“珞博智能”完成亿元级Pre-A轮融资 &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-07-13T10:48:00.000Z",
+      "summaryHint": "深圳又一家百亿机器人独角兽，半年融资超二十亿元 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-qa3nfk",
+      "type": "funding",
+      "title": "融资4亿美金，深圳具身顶流快IPO了 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1eEZxTHdmUVRQc1M2aTlKZUhTTDB2LTBYaGVnM3NXX0FNdVFxYzF0SzUzSzVfMEExQ191bFJ4N1AwQUVuZkRoa3BPUkhsQQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-07-13T10:18:00.000Z",
+      "summaryHint": "融资4亿美金，深圳具身顶流快IPO了 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
       ],
-      "round": "Pre-A"
+      "amount": "4亿"
+    },
+    {
+      "id": "rss-36kr-s6tgqb",
+      "type": "funding",
+      "title": "字节探索自动驾驶，Seed世界模型团队负责｜36氪独家",
+      "url": "https://36kr.com/p/3893815451417347?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-13T08:34:05.000Z",
+      "summaryHint": "36氪从多位产业人士处获悉，字节跳动正探索进入自动驾驶领域。这一项目目前由Seed旗下周畅的世界模型团队负责。据了解，Seed旗下不仅有周畅的多模态模型、世界模型等团队，还有大语言模型方向。 而自动驾驶与世界模型的技术路线有交叠之处。 另有消息人士告诉36氪，业务方向上，字节有意布局的自动驾驶场景有无人物流，这一业务隶属于字节旗下的火山引擎汽车行业线。 部分接近字节的知情人士表示，字节团队此前与一些头部自动驾驶团队进行过业务探讨交流，目前字节的自动驾驶项目已进入早期筹备状态。字节向不少头部辅助驾驶或自动驾驶人才发出了邀约，一些看好字节这一布局的技术人才也计划加入。 针对以上消息，36氪向字节求证，字节回应：“字节在AI大模型前沿探索领域，包括物理AI领域，有很多早期研究和探索，但并没有做智能驾驶业务的计划。” Seed是字节旗下的大模型基础研究团队，成立于2023年，是字节的一级战略级部门",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "round": "Seed"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-shq5pv",
@@ -114,94 +221,36 @@
       "amount": "10亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-5k0l69",
+      "id": "rss-google_news_cn_36kr_deals-pap1h9",
       "type": "funding",
-      "title": "AI家庭智能硬件公司获数千万元融资，首款产品今年上线海外｜硬氪首发 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xcGxiMnMwakRFZWgwWktLUFctTG95M0JHSmNvVkRmdHh6d3REcmtTbk03SUJhZ0RkdnVxUVViU3ViWXZYejJwVkE5RWpiS2FR?oc=5",
+      "title": "“海艺AI”完成超亿元B轮融资 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Cdzhkb3dnRHVzZnZGeHN3NExrd3ZiYW8xeGhlNWRjdTItQVk3R0FqOUo0VUhwelBnczlQMk1kcExST0wyZWZJM01aVzdvQXVqSVR5UVRMVzhRMng2bGY3Zg?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-07-13T03:00:37.000Z",
-      "summaryHint": "AI家庭智能硬件公司获数千万元融资，首款产品今年上线海外｜硬氪首发 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-36kr-5clpev",
-      "type": "funding",
-      "title": "AI家庭智能硬件公司获数千万元融资，首款产品今年上线海外｜硬氪首发",
-      "url": "https://36kr.com/p/3879780282495236?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-13T03:00:00.000Z",
-      "summaryHint": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，威联机器人科技（深圳）有限公司（以下简称“MOVA LINCO”）近日完成数千万元天使融资。融资资金将主要用于AI算法底层技术研发、完善产品量产体系，以及全球化渠道布局和家庭AI生态的持续建设。 MOVA LINCO核心团队来自头部网络通信与智能硬件企业，在路由器、NAS存储及AI算力设备等方面拥有深厚的技术积累与产品经验。公司产品矩阵以AI智能语音路由器、AI NAS及AI算力盒子三大品类为核心，构建“连接+存储+算力”三位一体的家庭AI基础设施架构，覆盖从智能家居中枢、数据存储及本地算力分配等全场景需求，专注为全球用户提供智能化、主动化的家庭AI服务体验。 长期以来，路由器的定位颇为特殊。它在数字基础设施中承担着连接枢纽的关键职能，但又极少进入用户的日常感知。购置产品后，除短暂的配置环节外，这台设备常被隐藏在弱电箱或电视柜交流，极少能获取到用户的主动",
-      "tags": [
-        "china",
-        "funding",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-36kr-rpkxme",
-      "type": "funding",
-      "title": "36氪首发 | 港中大博士、前大疆工程师创业消费级四足机器人，天使轮获正轩领投数千万元",
-      "url": "https://36kr.com/p/3893473722514181?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-13T02:47:38.000Z",
-      "summaryHint": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，深圳光之跃迁科技有限公司（Lumisition Robotics）（以下简称“光之跃迁”）近日完成近五千万元天使轮融资，由正轩领投，光点资本、力合资本、松禾资本、恒信未来等机构跟投。本轮资金将主要用于产品研发、算法迭代及量产准备。 光之跃迁成立于2026年2月， 聚焦消费级四足机器人市场， 希望以“全地形移动底盘”切入户外场景，解决搬运、辅助行动等体力劳动需求。公司 瞄准拥有独栋住宅的欧美家庭、户外运动爱好者以及银发群体 ，希望让四足机器人从展示型产品转向具备实际生产力的消费级工具。 （图源/企业） 公司创始人兼CEO乐林株毕业于香港中文大学机器人专业，拥有机器人博士及博士后背景，是香港中文大学LRL Lab联合创立人，曾任大疆创新研发骨干，并曾联合创办B端四足机器人企业光年创新科技。 CTO与硬件VP均",
-      "tags": [
-        "china",
-        "funding",
-        "deal_signal"
-      ],
-      "round": "天使轮"
-    },
-    {
-      "id": "rss-36kr-qrvzc6",
-      "type": "funding",
-      "title": "头部人形机器人关节公司半年再获新融资，同创伟业领投数亿元｜硬氪首发",
-      "url": "https://36kr.com/p/3885232033378308?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-13T02:37:39.000Z",
-      "summaryHint": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，零差云控（深圳）科技股份有限公司（以下简称“零差云控”）近日完成C++轮融资数亿元，本轮由同创伟业领投、国泰君安创新投资跟投，老股东华控基金追加投资。本轮资金将用于产能扩张和全球市场布局。源式资本担任本轮独家财务顾问，并由一苇资本和源式资本共同担任后续融资财务顾问。 人形机器人赛道在经历了概念爆火与资本狂热后，行业关键词正在悄然转变，供应链的产能与可靠性成为真正的瓶颈。当本体厂商进入量产焦虑，上游核心零部件公司的选择与判断，或许更能反映赛道的真实水温。 零差云控是硬氪长期关注的企业。公司成立于2016年，长期专注高可靠、高精度、标准化的机器人关键核心零部件的研发与制造，服务全球机器人与自动化产业，聚焦原本依赖人工的高可靠性应用场景。 官方数据显示，2025年零差云控营收同比增长超过100%，预计2026年将保持翻倍增速。其中，来自人形及具身智能机器人领域",
-      "tags": [
-        "china",
-        "funding",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-36kr-3jkge3",
-      "type": "funding",
-      "title": "年入4亿、服务600+品牌，膳食补充剂原料商「纽邦生物」获近2亿元C+轮融资｜36氪首发",
-      "url": "https://36kr.com/p/3890940898867712?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-13T00:00:00.000Z",
-      "summaryHint": "文｜胡香赟 编辑｜海若镜 36氪获悉，南京纽邦生物（NNB Nutrition）近期已完成近2亿元人民币融资。本轮融资由国寿股权领投、老股东明熙资本跟投，募集资金主要用于产品研发、新工厂建设等。这也是纽邦生物半年内完成的第二笔超亿元人民币融资。 纽邦生物 专注于膳食补充剂原料研发，累计推出40余款原创原料，在研产品管线超100项，覆盖运动营养、体重管理、认知健康、抗衰等领域，服务雀巢、联合利华、百事等600余个终端品牌；公司自建制剂工厂、生物合成工厂，并规划建设占地超200亩、年产万吨级的综合工厂。2025年，纽邦生物全年营收突破4亿元人民币。 纽邦生物产品矩阵示意 纽邦生物创始人廖琪林深耕膳食补充剂行业十余年，据他观察，近年来，健康消费市场有两大转变，一是需求端从基础营养转向精准调理；另一方面，便捷性成为重要消费诉求，消费者期待通过日常饮食、饮品直接获取营养与调理功效。这也使得过往倾向于",
-      "tags": [
-        "china",
-        "funding",
-        "deal_signal"
-      ],
-      "round": "C+轮融资",
-      "amount": "4亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-c5mkr3",
-      "type": "funding",
-      "title": "开物之芯专其利AI破解发明人转化困局 启动种子轮融资 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rMmRjal9vVW9OZlBoRllYMWFTV04xOWtGYnlFaDhKVGx6SHBEc2FXSDZzSElOcUlMUGl6WHo3cjBTdHYwZlBndWJqd1ZKS0gzQ2Jr?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-07-12T15:05:00.000Z",
-      "summaryHint": "开物之芯专其利AI破解发明人转化困局 启动种子轮融资 &nbsp;&nbsp; 36Kr",
+      "publishedAt": "2026-07-12T16:59:00.000Z",
+      "summaryHint": "“海艺AI”完成超亿元B轮融资 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
       ],
-      "round": "种子轮"
+      "round": "B轮融资"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-ysj2vw",
+      "type": "funding",
+      "title": "趋境科技完成 A 轮融资，半年内累计融资金额超 10 亿 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5Zm9MbHJ4MlhRZ1dJMVBCRFZqQUNXZ3N0RG1NQ3BNaWg0RGpkeVhHdWxOYzJsdXljZlFmN1UyMmhuVVhwSmJxeTRyOGZlZHJrNkxV?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-07-12T16:19:00.000Z",
+      "summaryHint": "趋境科技完成 A 轮融资，半年内累计融资金额超 10 亿 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "10亿"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-utjngr",
@@ -211,6 +260,21 @@
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-07-12T13:21:00.000Z",
       "summaryHint": "清研精准融资数亿元，装备制造国家队投了 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-liyu6k",
+      "type": "funding",
+      "title": "AI家庭智能硬件公司获数千万元融资，首款产品今年上线海外｜硬氪首发 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fS1d6MEZzN3VPRmNxSVBsdXgydFhoRnNuSEFJYmpxZnU3eDB5YU56UU4wZEVtYmtGRWJEeThvMVZsSUNWaEdVcUNyRG5uQQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-07-12T12:00:00.000Z",
+      "summaryHint": "AI家庭智能硬件公司获数千万元融资，首款产品今年上线海外｜硬氪首发 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -235,19 +299,20 @@
       "amount": "5亿元"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-eux3ms",
+      "id": "rss-google_news_cn_36kr_deals-umjqex",
       "type": "funding",
-      "title": "2026年上半年50起游戏投融资，资本都在投些什么？ - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vQ01MZ3QtaXA2bHNWR3JnZlkxQkROOG5La2k3LVkxYjFGOWZyVkZlVG9SUDF3NGNCaEdST0g3Qk5vcnJ0eWZKMkVJdXZrNFU1?oc=5",
+      "title": "近百名玩家涌入具身数据 : 一年融资44.7亿，谁能真靠“卖数据”赚钱？ - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xbmU5LUk0aFBNb21aS18zMFFYLTNuSWdvb2l4TFE2TE56dGNZeEswZHBwSEp3TTRKenZQMU8wYWtnUEZwSGVxVzhwcVRfdw?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-07-09T21:42:00.000Z",
-      "summaryHint": "2026年上半年50起游戏投融资，资本都在投些什么？ &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-07-11T11:16:00.000Z",
+      "summaryHint": "近百名玩家涌入具身数据 : 一年融资44.7亿，谁能真靠“卖数据”赚钱？ &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
-      ]
+      ],
+      "amount": "44.7亿"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-ne3pxz",
@@ -266,13 +331,13 @@
       "amount": "160亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-wt8jde",
+      "id": "rss-google_news_cn_36kr_deals-7zshme",
       "type": "funding",
-      "title": "“Xspark AI”完成近亿元天使轮融资 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HRWRJNllWOGlwNXRPQU9MRmpyVHFhdWNSZFJDVk4zTGFoMGxtYml5LVRjcVlDWkNjakphNkFHVmxTdHgxRkV4aHhkYnkxV01kZ0EzdFVIWWI?oc=5",
+      "title": "“Xspark AI”完成近亿元天使轮融资 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85dHY5Q19LZkVudzVtNWQ2djFyMVJzYVlZcVJQNlVMREdlOHozZkhiN3l2S2pFSzNia2tnUEtsTWlLZ3E2djMxd1RkNzFLZmk1Q0xteFp4ZVZxTFZuNmtpSw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-07-09T14:00:00.000Z",
-      "summaryHint": "“Xspark AI”完成近亿元天使轮融资 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "“Xspark AI”完成近亿元天使轮融资 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -282,72 +347,257 @@
       "round": "天使轮"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-5dflbk",
-      "type": "funding",
-      "title": "华人带队，融资68亿，做AI芯片 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Ha3BxRnV5OWl6SmdPalZ4ZFRWNTJDR3l6NXllYzNySDdTSEJjTzRNWTAxMjZxdTBXY05mb3JjdGY1RmlLR0hCUXpKRXg0RXRk?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-07-08T18:41:00.000Z",
-      "summaryHint": "华人带队，融资68亿，做AI芯片 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "68亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-nycj96",
-      "type": "funding",
-      "title": "「德睿智药」获5200万美元B轮融资，AI设计的减肥药已进入3期临床｜36氪首发 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MV08zcm1nTVVqY0N2NUFCR0w3ZlhrbUZfdm1mYVp5d2VpSnFXeThhbTJ4N3hFWUJ5WVg0UjBiRXBscWNobnlJQVFoWktOdw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-07-07T09:00:00.000Z",
-      "summaryHint": "「德睿智药」获5200万美元B轮融资，AI设计的减肥药已进入3期临床｜36氪首发 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "B轮融资",
-      "amount": "5200万"
-    },
-    {
-      "id": "rss-36kr-wuwcwx",
+      "id": "rss-36kr-pagm3l",
       "type": "news",
-      "title": "好上好：上半年净利润同比预增301.65%—376.03%",
-      "url": "https://36kr.com/newsflashes/3893887250283015?f=rss",
+      "title": "士兰微：预计2026年上半年净利润同比增加96.05%",
+      "url": "https://36kr.com/newsflashes/3895209467067400?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-07-13T09:46:56.000Z",
-      "summaryHint": "36氪获悉，好上好披露业绩预告，预计2026年半年度归属于上市公司股东的净利润1.35亿元—1.6亿元，同比增长301.65%—376.03%。",
+      "publishedAt": "2026-07-14T08:25:18.000Z",
+      "summaryHint": "36氪获悉，士兰微公告，预计2026年1-6月实现归属于母公司所有者的净利润为5.19亿元左右，与上年同期相比，将增加2.54亿元左右，同比增加96.05%左右；预计2026年1-6月实现归属于母公司所有者的扣除非经常性损益后的净利润为2.76亿元左右，与上年同期相比，将增加748.91万元左右，同比增加2.78%左右。上年同期归属于母公司所有者的净利润为2.65亿元。",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-7kt9ae",
+      "id": "rss-36kr-pdiv86",
       "type": "news",
-      "title": "华宏科技：上半年净利润同比预增301.84%—352.08%",
-      "url": "https://36kr.com/newsflashes/3893879895800578?f=rss",
+      "title": "软银公司推出采用OpenAI技术的网络安全服务",
+      "url": "https://36kr.com/newsflashes/3895215762848771?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-07-13T09:39:27.000Z",
-      "summaryHint": "36氪获悉，华宏科技披露业绩预告，预计2026年半年度归属于上市公司股东的净利润为3.2亿元—3.6亿元，同比增长301.84%—352.08%。",
+      "publishedAt": "2026-07-14T08:25:14.000Z",
+      "summaryHint": "7月14日，软银公司与SB OAI Japan宣布全面推出采用OpenAI技术的网络安全服务“补丁即服务”，将推广范围扩大到3000家符合条件的日本公司。（界面）",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-8nb8pz",
+      "id": "rss-36kr-td52yw",
       "type": "news",
-      "title": "《扩大消费“十五五”规划》：优化入境消费环境，稳步扩大免签国家范围",
-      "url": "https://36kr.com/newsflashes/3893878857873921?f=rss",
+      "title": "北方稀土：预计2026年半年度净利润同比增长112.74%-121.33%",
+      "url": "https://36kr.com/newsflashes/3895211515493380?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-07-13T09:38:24.000Z",
-      "summaryHint": "36氪获悉，国务院批复同意《扩大消费“十五五”规划》。《规划》提出，扩大入境消费。优化入境消费环境，打造“购在中国”品牌。稳步扩大免签国家范围，持续优化过境免签政策。进一步增开国际航线，重点增加欧美、共建“一带一路”国家等国际直航航班数量。提升公共场所国际化服务水平，优化入境消费支付环境，推动入境游客办理快速通关、住宿登记、交通出行、电信业务、景点预约等事务便利化。优化离境退税便利化举措，增加离境退税商店，积极推广“即买即退”服务。鼓励更多国产品进入口岸出境免税店和市内免税店销售。打造具有高标识度和吸引力的消费品牌、文化地标、体验活动。培育面向国际的教育、医疗、会展等市场。",
+      "publishedAt": "2026-07-14T08:14:03.000Z",
+      "summaryHint": "36氪获悉，北方稀土公告，预计2026年半年度归属于上市公司股东的净利润为19.80亿元-20.60亿元，同比增长112.74%-121.33%。业绩变动主要系稀土产品价格走强，公司科学组产排产，降本增效，稀土冶炼分离、金属及新材料产量创同期新高，磁性材料等子公司营收增长。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-menxy6",
+      "type": "news",
+      "title": "恒指收涨0.52%，恒生科技指数涨0.06%",
+      "url": "https://36kr.com/newsflashes/3895208205286661?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-14T08:10:41.000Z",
+      "summaryHint": "36氪获悉，恒指收涨0.52%，恒生科技指数涨0.06%；半导体、汽车领涨，长飞光纤光缆涨超10%，兆易创新、澜起科技、蔚来涨超8%；卫星导航、软件服务板块跌幅居前，百度跌超6%，亚太卫星跌超3%；南向资金净买入109.97亿港元。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-1m0u58",
+      "type": "news",
+      "title": "名创优品：YOYO 6月中国单月销售额破亿",
+      "url": "https://36kr.com/newsflashes/3895197805083904?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-14T08:00:06.000Z",
+      "summaryHint": "36氪获悉，今年6月，名创优品首个原创艺术家IP“YOYO”全系列产品在中国市场单月销售额突破1亿元。自2025年6月首系列推出，YOYO一年内迅速进入全球53个国家和地区，成为最快实现规模化出海的中国原创IP之一。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-9xs00h",
+      "type": "news",
+      "title": "中国电影：预计上半年净亏损1亿元-1.3亿元",
+      "url": "https://36kr.com/newsflashes/3895193848413442?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-14T07:56:05.000Z",
+      "summaryHint": "36氪获悉，中国电影公告，预计2026年半年度归属于上市公司股东的净利润为亏损1亿元-1.3亿元。业绩变动主要系一季度主投电影票房不及预期，二季度无主控影片上映，未能对冲业绩缺口。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-g67qps",
+      "type": "news",
+      "title": "入局自动驾驶？字节回应：没有做智能驾驶业务计划",
+      "url": "https://36kr.com/newsflashes/3895190727064578?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-14T07:52:54.000Z",
+      "summaryHint": "日前，有消息称，字节跳动正探索进入自动驾驶领域。对此，字节跳动方面回应称：“字节在AI大模型前沿探索领域，包括物理AI领域，有很多早期研究和探索，但并没有做智能驾驶业务的计划。”（上证报）",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-tmv06d",
+      "type": "news",
+      "title": "黄河旋风：预计上半年净亏损2.20亿元",
+      "url": "https://36kr.com/newsflashes/3895186970213376?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-14T07:49:05.000Z",
+      "summaryHint": "36氪获悉，黄河旋风公告，预计2026年半年度归属于母公司所有者的净利润为亏损2.20亿元。在超硬材料产品方面，工业金刚石、培育钻石等产品生产经营持续向好，收入和利润有所改善。公司功能性金刚石相关技术已取得实质性突破进展，相关产品已经投产，目前暂未对公司生产经营情况造成重大影响。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-kd30ky",
+      "type": "news",
+      "title": "天通股份：预计上半年净亏损2.2亿元-3亿元",
+      "url": "https://36kr.com/newsflashes/3895184203217927?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-14T07:46:16.000Z",
+      "summaryHint": "36氪获悉，天通股份公告，预计2026年半年度归属于母公司所有者的净利润为亏损2.20亿元-3.00亿元。公司光伏上游专用设备业务受下游光伏企业资本开支收缩、经营盈利承压双重因素影响，报告期内设备销售回款周期显著拉长，公司相应增提应收账款坏账准备；同时行业产能过剩引发产品价格下行，光伏板块存货计提大额跌价准备，两项减值计提叠加，是本期业绩预亏的主要影响因素。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-x7p701",
+      "type": "news",
+      "title": "利通电子：预计上半年净利润同比增长1173%-1368%",
+      "url": "https://36kr.com/newsflashes/3895182831729929?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-14T07:44:52.000Z",
+      "summaryHint": "36氪获悉，利通电子公告，预计2026年半年度归属于上市公司股东的净利润为6.50亿元-7.50亿元，同比增长1173%-1368%。业绩变动主要系算力业务收入持续增长，算力经销业务增长显著，精密金属结构件业务亏损收窄，叠加股权投资公允价值变动收益及股权处置收益同比增加。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-ewxisw",
+      "type": "news",
+      "title": "2026年世界人工智能大会，7月17-7月20上海举办",
+      "url": "https://www.qbitai.com/2026/07/436498.html",
+      "source": "qbitai",
+      "publishedAt": "2026-07-14T05:33:28.000Z",
+      "summaryHint": "180家企业携成果入驻",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-2938rz",
+      "type": "news",
+      "title": "GPT-5.6-sol入榜DRACO：OpenSquilla集成方案仍在Brave组质量、成本双领先",
+      "url": "https://www.qbitai.com/2026/07/449842.html",
+      "source": "qbitai",
+      "publishedAt": "2026-07-14T05:13:56.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-sifted-41mle1",
+      "type": "news",
+      "title": "‘When we see an opportunity, we’ll go for it’: Harvey’s VP of EMEA on M&A, hiring, and pushing beyond law",
+      "url": "https://sifted.eu/articles/jorge-bestard-harvey-european-growth/",
+      "source": "sifted",
+      "publishedAt": "2026-07-14T05:00:18.000Z",
+      "tags": [
+        "eu",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-j0e6dq",
+      "type": "news",
+      "title": "高德发布通用世界模型工坊ABot-World Studio：5090单卡可生成小时级实时交互式视频与3D场景",
+      "url": "https://www.qbitai.com/2026/07/449568.html",
+      "source": "qbitai",
+      "publishedAt": "2026-07-14T03:46:35.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-i2axlc",
+      "type": "news",
+      "title": "100+Skill导演级专家随叫随到！这回视频Agent终于有了可用级产品",
+      "url": "https://www.qbitai.com/2026/07/449566.html",
+      "source": "qbitai",
+      "publishedAt": "2026-07-14T03:34:50.000Z",
+      "summaryHint": "Agent携上百个Skills助我当大导演",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-rbjkfq",
+      "type": "news",
+      "title": "菲尔兹奖提前泄露！王虹邓煜双双在列",
+      "url": "https://www.qbitai.com/2026/07/449407.html",
+      "source": "qbitai",
+      "publishedAt": "2026-07-14T00:42:57.000Z",
+      "summaryHint": "都是北大07级校友",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-techcrunch_ai-dkhzbd",
+      "type": "news",
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "source": "techcrunch_ai",
+      "publishedAt": "2026-07-14T00:00:00.000Z",
+      "summaryHint": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+      "tags": [
+        "funding",
+        "us"
+      ]
+    },
+    {
+      "id": "hn-alg-48895587",
+      "type": "news",
+      "title": "The Download: a donor conception cap and world models for AI",
+      "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+      "source": "hacker_news_algolia",
+      "publishedAt": "2026-07-13T17:01:56.000Z",
+      "summaryHint": "HN points 2",
+      "tags": [
+        "generative",
+        "us"
+      ]
+    },
+    {
+      "id": "rss-qbitai-qsdh1v",
+      "type": "news",
+      "title": "Agent专用搜索登顶Product Hunt，Token更省搜得更准",
+      "url": "https://www.qbitai.com/2026/07/449327.html",
+      "source": "qbitai",
+      "publishedAt": "2026-07-13T15:15:01.000Z",
+      "summaryHint": "出自中国团队",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-qq2kc2",
+      "type": "news",
+      "title": "Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题",
+      "url": "https://www.qbitai.com/2026/07/449311.html",
+      "source": "qbitai",
+      "publishedAt": "2026-07-13T11:59:57.000Z",
+      "summaryHint": "同时发布CPU原生液冷整机柜、多模融合超节点",
       "tags": [
         "china",
         "funding"
@@ -366,84 +616,6 @@
       ]
     },
     {
-      "id": "rss-36kr-xuf0tj",
-      "type": "news",
-      "title": "《扩大消费“十五五”规划》：扩大优质文化和旅游消费供给，支持动漫、文创、非遗品牌发展",
-      "url": "https://36kr.com/newsflashes/3893867458214408?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-13T09:26:48.000Z",
-      "summaryHint": "36氪获悉，国务院批复同意《扩大消费“十五五”规划》。《规划》提出，发展文化和旅游消费。扩大优质文化和旅游消费供给，深化“文旅+百业”、“百业+文旅”融合发展。实施公共文化服务提质增效行动，完善文博场馆错时、延时开放等便民措施。优化演艺产品供给，增强演艺带动效应。丰富优质影视作品供给，提升网络文学、网络视听质量。发展新型文化业态，支持动漫、文创、非遗品牌发展，鼓励开发数字艺术、国潮文创等文化产品。推动旅游高质量发展，打造精品线路和高品质旅游目的地。丰富特色旅游产品，培育邮轮游艇、房车露营、工业旅游、研学旅游等项目。发展夜间文旅经济，因地制宜举办灯会庙会、光影秀、水上夜游等活动。提升交通运输服务品质，增开特色旅游专列。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-r66hmk",
-      "type": "news",
-      "title": "保变电气：上半年净利润同比预增76.47%左右",
-      "url": "https://36kr.com/newsflashes/3893866624056072?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-13T09:25:57.000Z",
-      "summaryHint": "36氪获悉，保变电气披露业绩预告，预计2026年上半年归属于母公司所有者的净利润为1.33亿元左右，同比增加76.47%左右。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-npedhe",
-      "type": "news",
-      "title": "《扩大消费“十五五”规划》：促进大宗耐用商品消费，更好满足住房消费需求，扩大汽车消费",
-      "url": "https://36kr.com/newsflashes/3893864375859717?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-13T09:23:40.000Z",
-      "summaryHint": "36氪获悉，国务院批复同意《扩大消费“十五五”规划》。《规划》提出，促进大宗耐用商品消费。更好满足住房消费需求，优化保障性住房供给，因城施策增加改善性住房供给，规范发展住房租赁市场。实施房屋品质提升工程，建设安全舒适绿色智慧的“好房子”，稳步推进城中村、危旧房和城镇老旧小区改造，支持居民自主更新，支持老旧房屋适老化改造和智能化升级。实施物业服务质量提升行动，拓展物业服务内容。扩大汽车消费，推进汽车流通消费领域全链条创新发展，促进二手车流通，拓展汽车改装、租赁、赛事及房车露营等汽车后市场消费。支持家居家电消费智能化升级，发展新一代智能终端，促进智能家居设备互联互通，推动单品智能向全屋智能发展。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-ysc8mi",
-      "type": "news",
-      "title": "电投水电：上半年净利同比预增7673%左右",
-      "url": "https://36kr.com/newsflashes/3893863511767808?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-13T09:22:47.000Z",
-      "summaryHint": "36氪获悉，电投水电披露业绩预告，预计2026年半年度归属于母公司所有者的净利润11.9亿元左右，与上年同期（追溯调整前）相比，增加11.75亿元左右，同比增长7673%左右。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-d6jkyg",
-      "type": "news",
-      "title": "《扩大消费“十五五”规划》：扩大数字产品消费，增加人工智能手机和电脑等新一代智能终端产品有效供给",
-      "url": "https://36kr.com/newsflashes/3893860946393857?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-13T09:20:11.000Z",
-      "summaryHint": "36氪获悉，国务院批复同意《扩大消费“十五五”规划》。《规划》提出，发展数字消费。促进数字消费高质量发展，深入推进“人工智能+消费”，实施数字消费提升行动。扩大数字产品消费，增加人工智能手机和电脑、智能穿戴、智能机器人、桌面级三维（3D）打印设备等新一代智能终端产品有效供给，加快智能安防、视频照护系统等研发及互联互通，开展智能网联汽车准入和上路通行试点。提升数字服务消费，运用人工智能、虚拟现实等技术赋能生活服务和景区街区，推动人工智能与教育、医疗、文化、旅游、体育等领域融合应用，拓展智能体应用场景。创新数字内容消费，推出更多优质数字文博产品，加强广播电视和网络视听超高清内容供给，发展虚拟现实电影、LED数字影厅等电影新形态。拓展数字消费渠道，支持实体商贸企业数字化营销，引导即时零售、直播电商等规范健康发展，健全品质电商标准体系。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-y2d8u2",
-      "type": "news",
-      "title": "北斗星通：上半年净利润同比预增2368.27%—3426.09%",
-      "url": "https://36kr.com/newsflashes/3893859582425859?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-13T09:18:48.000Z",
-      "summaryHint": "36氪获悉，北斗星通披露业绩预告，预计2026年半年度归属于上市公司股东的净利润3500万元—5000万元，同比增长2368.27%—3426.09%。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
       "id": "rss-36kr-bgqgri",
       "type": "news",
       "title": "潜入《遗忘之海》，我才读懂网易的心气",
@@ -451,107 +623,6 @@
       "source": "36kr",
       "publishedAt": "2026-07-13T08:31:34.000Z",
       "summaryHint": "文丨小葵 编辑丨果脯 7月9日，网易旗下Joker工作室端出了他们打磨了七年的作品——《遗忘之海》，一款海洋奇遇大世界RPG。PC端率先公测，移动端版本将在7月23日与玩家见面。 这款怪诞木偶风的航海游戏，还没出海就已经被盯上了。在公测前夕，这款游戏全网预约量已突破3600万，在TapTap、B站等多个平台预约榜冲至Top1。实机PV在B站播放破千万，光大证券预测其首年流水或达50亿元。 管理层连续三个季度在财报会上点名力挺，称其“令人耳目一新”。七年打磨、三端互通、五千万元创作者扶持计划，从研发资源到生态投入全部拉满这款游戏几乎是网易近年来押注最狠的一款产品。 这是做出《第五人格》的团队头一回涉足大世界，美术风格延续了工作室一贯的怪诞路线。在如今国产游戏不是拼命卷写实就是扎堆唯美二次元的大潮里，Joker选择用明亮、高饱和度色彩搭起一个由木偶造型和波普艺术缝合的海洋大世界。 捏脸系统 对",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-rbd4pl",
-      "type": "news",
-      "title": "从前沿创新到产业落地：西门子将亮相2026世界人工智能大会",
-      "url": "https://www.qbitai.com/2026/07/449150.html",
-      "source": "qbitai",
-      "publishedAt": "2026-07-13T08:28:04.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-1hwlio",
-      "type": "news",
-      "title": "问界母公司突发亏损预警！一季度还在盈利",
-      "url": "https://www.qbitai.com/2026/07/449005.html",
-      "source": "qbitai",
-      "publishedAt": "2026-07-13T08:17:28.000Z",
-      "summaryHint": "原材料涨价不是唯一原因",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-w32skq",
-      "type": "news",
-      "title": "WAIC’26探展召集令！和量子位一起逛展、直播、聊AI",
-      "url": "https://www.qbitai.com/2026/07/448923.html",
-      "source": "qbitai",
-      "publishedAt": "2026-07-13T07:00:18.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-x161d4",
-      "type": "news",
-      "title": "Claude Code砸的坑，蚂蚁安全在尝试填上",
-      "url": "https://www.qbitai.com/2026/07/448925.html",
-      "source": "qbitai",
-      "publishedAt": "2026-07-13T06:53:56.000Z",
-      "summaryHint": "最新开源两大安全框架",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-47jkax",
-      "type": "news",
-      "title": "GPT-5.6刚发布，OpenAI安全主管就跑路了？？",
-      "url": "https://www.qbitai.com/2026/07/448825.html",
-      "source": "qbitai",
-      "publishedAt": "2026-07-13T06:10:36.000Z",
-      "summaryHint": "两年内走的第六个",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-3qhxwq",
-      "type": "news",
-      "title": "CNCF发布招商银行AI调度平台案例 源于范式的HAMi技术获生产级验证",
-      "url": "https://www.qbitai.com/2026/07/448824.html",
-      "source": "qbitai",
-      "publishedAt": "2026-07-13T06:07:00.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-ewxisw",
-      "type": "news",
-      "title": "2026年世界人工智能大会，7月17-7月20上海举办",
-      "url": "https://www.qbitai.com/2026/07/436498.html",
-      "source": "qbitai",
-      "publishedAt": "2026-07-13T05:33:28.000Z",
-      "summaryHint": "180家企业携成果入驻",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-w436lp",
-      "type": "news",
-      "title": "全球开发者狂喜！Codex移除5小时限制，Fable 5订阅再延7天，有人烧token烧到住院",
-      "url": "https://www.qbitai.com/2026/07/448139.html",
-      "source": "qbitai",
-      "publishedAt": "2026-07-13T04:54:37.000Z",
-      "summaryHint": "有人因为token用不完就连续工作，把自己整医院里去了",
       "tags": [
         "china",
         "funding"
@@ -585,32 +656,6 @@
       ]
     },
     {
-      "id": "rss-36kr-vuolog",
-      "type": "news",
-      "title": "lululemon「割不动」中国人了",
-      "url": "https://36kr.com/p/3893430641703429?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-13T03:07:43.000Z",
-      "summaryHint": "作者 |&nbsp; 谢芸子 编辑 | 张帆 在中国市场，lululemon开始被人们拿着放大镜审视。 6月中旬，lululemon在上海北外滩举办了一场大型户外瑜伽活动，中途遭遇暴雨。lululemon并未取消活动，而是让上千人在湿滑的瑜伽垫上完成了全套动作。 现场画面被社交网络疯传。整齐划一的雨中静坐，被人们诟病为“矫揉造作”“品牌不为用户着想”，甚至被部分网友拿来与《周处除三害》中的邪教作对比。 这一比喻的杀伤力是巨大的，lululemon最核心的商业密码恰恰是“类宗教”式的社群营销。 公共叙事中，lululemon把自己的店员称为Educator教育家。 创始人Chip Wilson在自传中解释过原因。他希望门店员工不是推销员，而是向顾客传递面料科技、哲学设计和健康生活方式的教育者。他认为，顾客理解了产品背后的技术与理念，会自发购买，无需硬性推销。 店员成为教育家，线下活动自然能比",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-afgmzj",
-      "type": "news",
-      "title": "对话Om AI赵天成：多年坚守，押注物理AI原生的「流式」未来",
-      "url": "https://36kr.com/p/3893445208717826?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-13T02:39:18.000Z",
-      "summaryHint": "一个从未见过监控画面的多模态模型，却比在监控数据上练了多年的小模型“老将”更懂监控。这不是科幻电影，这是2023年Om AI联汇的一场“无心插柳”，也是CEO兼首席科学家赵天成博士更加坚信“多模态训练方式能为物理开放世界带来泛化性”的关键节点。彼时，AI行业正在追求以大语言模型为核心的生成式AI。 三年后，这个多模态模型演变成了VLX——全球首个面向物理AI的端侧流式多模态模型系列。首次提出“端侧原生流式多模态”这一全新模型架构，而通过这个从Day 1为端侧算力约束设计的架构，VLX模型首次在端侧打通“持续感知+精准定位+行动决策”的物理AI完整闭环。 VLX概览图 毫无疑问，站在2026年夏天的时间节点，AI行业的热度已经开始从数字AI转向物理AI。不同于数字AI的2023年，虽然物理AI的热度很高，但是行业仍未收敛，多路线并存，距生产落地尚远：以语言为中心的VLA、以像素为中心的视频生",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
       "id": "hn-alg-48832493",
       "type": "news",
       "title": "OpenCode Data: Real-world AI model usage, cache ratios, and costs",
@@ -624,85 +669,61 @@
       ]
     },
     {
-      "id": "reddit-rss-bw659u",
+      "id": "reddit-rss-q6h42t",
       "type": "social_en",
-      "title": "The Most Famous AI Writing Tic Is Also the Most Mysterious",
-      "url": "https://www.reddit.com/r/artificial/comments/1uuyhce/the_most_famous_ai_writing_tic_is_also_the_most/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-07-13T02:08:09.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/TrespassersWilliam [link] &#32; [comments]",
+      "title": "Small grounding tool for Gaussian splats",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1uw1jxg/small_grounding_tool_for_gaussian_splats/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-07-14T07:19:38.000Z",
+      "summaryHint": "I added a small grounding tool to SplatEdit. Some scans don’t come in flat, and manually rotating them into place gets annoying fast. Now you can select 3 or more ground points, hit the grounding button, and it aligns the splat flat. Simple",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-dlsldy",
+      "id": "reddit-rss-g5bhk1",
       "type": "social_en",
-      "title": "Ireland's data centers consumed nearly as much electricity as every home in the country combined in 2025 - server farms gulped 23% of national power despite years of grid restrictions",
-      "url": "https://www.reddit.com/r/artificial/comments/1uuwhk8/irelands_data_centers_consumed_nearly_as_much/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-07-13T00:34:53.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/chunmunsingh [link] &#32; [comments]",
+      "title": "Built an on-device 3DGS scanner for iPhone with msplat",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1uvusjg/built_an_ondevice_3dgs_scanner_for_iphone_with/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-07-14T01:37:06.000Z",
+      "summaryHint": "I saw the recent post about training 3D Gaussian Splats directly on an iPhone and realized we’ve been building something similar in Voxelio , using almost the same stack: SwiftUI and ARKit for capture msplat for on-device 3DGS training Meta",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-zhor2c",
+      "id": "reddit-rss-aljksd",
       "type": "social_en",
-      "title": "d3-geo ported to WebGPU compute shaders",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1uur9wc/d3geo_ported_to_webgpu_compute_shaders/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-07-12T20:55:27.000Z",
-      "summaryHint": "Over the past 18 months or so, I ported much of d3-geo to an end-to-end WebGPU compute shader pipeline. This includes: • Arbitrary spherical rotation that works with any projection • Greiner-Hormann-like spherical clipping • Adaptive sampli",
+      "title": "Are the contents of this monograph reliable with respect to the modern theoretical understanding of deep neural networks? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uvuavs/are_the_contents_of_this_monograph_reliable_with/",
+      "source": "reddit_r_MachineLearning",
+      "publishedAt": "2026-07-14T01:14:30.000Z",
+      "summaryHint": "NB: Reposting due to a typo in the title Putting this here instead of the other subs since I figured a question on deep learning theory is out of place there -- I &quot;recently&quot; found (actually, a few months ago but only just got to r",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-4ey0q3",
+      "id": "reddit-rss-if8j3y",
       "type": "social_en",
-      "title": "Someone built an AI agent that hacks networks and holds data for ransom. It just worked.",
-      "url": "https://www.reddit.com/r/artificial/comments/1uuouu7/someone_built_an_ai_agent_that_hacks_networks_and/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-07-12T19:22:25.000Z",
-      "summaryHint": "So while we&#39;ve been arguing about whether AI will take our jobs, someone built an LLM agent that breaks into servers, steals credentials, moves through a network, encrypts databases, and drops a ransom note. Fully autonomous. No human a",
+      "title": "My workflow for adding collisions to Gaussian Splatting scenes",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1uvmcfj/my_workflow_for_adding_collisions_to_gaussian/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-07-13T19:56:36.000Z",
+      "summaryHint": "I&#39;ve been experimenting with a complete Gaussian Splatting workflow, from dataset creation to real-time interaction. For this test, I used the amazing room created by Lynxsdesign (full credit to the original artist for the environment).",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-gjdj0x",
+      "id": "reddit-rss-jsumkh",
       "type": "social_en",
-      "title": "this openai court story is starting to look ugly",
-      "url": "https://www.reddit.com/r/artificial/comments/1uul5ef/this_openai_court_story_is_starting_to_look_ugly/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-07-12T17:06:34.000Z",
-      "summaryHint": "i saw this and honestly this one feel like big mess. nyt and other news people saying openai told court for long time it cannot search training data / logs for their copyrighted stuff. but then looks like maybe they already did searches bef",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-8i93cp",
-      "type": "social_en",
-      "title": "The Death of Glass: Computational Photography vs. The Real Camera",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1uu577d/the_death_of_glass_computational_photography_vs/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-07-12T04:23:58.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/Bubbly_Ad_2071 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-bdk6jl",
-      "type": "social_en",
-      "title": "I made a fully software rasterized voxel engine inspired by Minecraft",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1utuj25/i_made_a_fully_software_rasterized_voxel_engine/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-07-11T20:18:36.000Z",
-      "summaryHint": "Hello everyone! Over the course of this year, I built a fully software-rasterized voxel engine heavily inspired by Minecraft. This was a very interesting project for me because I had to build almost everything from the ground up, while also",
+      "title": "Chain of Thought is a scaling trap. the next wave is latent reasoning (Coconut / HRM / RecrusiveMAS)... but then we hit the black box wall. Where does BDH fit? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uviru5/chain_of_thought_is_a_scaling_trap_the_next_wave/",
+      "source": "reddit_r_MachineLearning",
+      "publishedAt": "2026-07-13T17:50:49.000Z",
+      "summaryHint": "Read a long piece on the future of LLM reasoning that makes a provocative claim: Chain of Thought is a useful hack but we&#39;ve started to confuse a readable trace with the actual computation. All in all, &quot;generating text is not the s",
       "tags": [
         "ai_social"
       ]
