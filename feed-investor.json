@@ -1,51 +1,160 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-20T09:35:14.844Z",
+  "updatedAt": "2026-07-21T08:46:47.082Z",
   "items": [
     {
-      "id": "rss-36kr-vricye",
+      "id": "rss-36kr-81sbsc",
       "type": "funding",
-      "title": "2026世界人工智能大会闭幕，预计达成超200亿元意向采购金额",
-      "url": "https://36kr.com/newsflashes/3903765228045955?f=rss",
+      "title": "氪星晚报｜英特尔将在数据中心部门裁员；日产在美召回超16万辆阿曼达及英菲尼迪SUV；我国将建设3000个以上电动重卡充换电站",
+      "url": "https://36kr.com/p/3905124154721925?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-07-20T09:15:20.000Z",
-      "summaryHint": "2026世界人工智能大会暨人工智能全球治理高级别会议在上海闭幕。本届大会展览面积10万平方米，展品总数4486项，351款产品全球首发。接待全球重要采购团组177个，预计达成意向采购金额约203.6亿元，同比增长约25%。（央视财经）",
+      "publishedAt": "2026-07-21T08:43:23.000Z",
+      "summaryHint": "大公司： 日产在美召回超16万辆阿曼达及英菲尼迪SUV 美国国家公路交通安全管理局（NHTSA）7月21日公布，日产北美公司正在召回部分配备22英寸轮毂的2020至2026款阿曼达（Armada）、2011至2013款英菲尼迪QX56以及2014至2027款英菲尼迪QX80车型，涉及约16.8万辆汽车。由于车辆认证标签上的总轴重额定值（GAWR）标注错误，可能导致车辆超载，车辆超载会增加发生碰撞的风险。 Meta与英伟达联手布局AI材料供应链 社交媒体巨头Meta与芯片制造商英伟达周一宣布，共同参与一家英国AI初创公司的材料发现项目，旨在为半导体行业寻找新型制造材料。该初创公司此前已获得亚马逊创始人杰夫·贝佐斯和英国政府的投资支持。这家名为CuspAI的初创公司于本月早些时候完成4.5亿美元融资，估值达26亿美元。 英特尔将在数据中心部门裁员 据报道，英特尔告知其数据中心部门员工，公司计划",
       "tags": [
         "china",
         "funding",
         "deal_signal"
       ],
-      "amount": "200亿元"
+      "amount": "16万"
     },
     {
-      "id": "rss-36kr-3eadw9",
+      "id": "rss-36kr-g04hp9",
       "type": "funding",
-      "title": "硬氪首发 | 清华系量子计算企业获君联资本领投数亿融资，打破原子捕获世界纪录",
-      "url": "https://36kr.com/p/3903756643255940?f=rss",
+      "title": "SpaceX将于8月4日发布上市后首份财报，超千亿美元股票解禁引关注",
+      "url": "https://36kr.com/newsflashes/3905120937985926?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-07-20T09:08:15.000Z",
-      "summaryHint": "硬氪获悉，量子计算企业两仪万象（北京）科技有限公司（以下简称“两仪万象”）近日完成数亿元A+轮融资，由君联资本领投，基石创投、上海科创、中信建投投资、海棠基金跟投，老股东顺为资本和科大讯飞追加投资。此轮资金将用于技术研发、团队扩充和整机搭建。 两仪万象成立于2024年，孵化自清华大学原子量子计算研究团队，该团队自2000年前后开始冷原子物理研究。 两仪万象公司与清华大学原子量子计算科研团队联合成立了“冷原子量子计算北京市重点实验室”。由学校科研团队深入前沿基础研究，两仪万象公司则全权负责工程化落地与全栈式生态建设。 作为十五五规划明确重点发展的未来产业，量子计算的水温正在持续升高，当前，全球正围绕超导、离子阱、原子等多种主流技术路线展开激烈竞逐。 两仪万象正是原子技术路线的代表企业，原子捕获数量上，团队已实现了11000原子的捕获，打破了美国加州理工大学之前保持的6100个原子的世界纪录，",
+      "publishedAt": "2026-07-21T08:26:21.000Z",
+      "summaryHint": "当地时间7月20日，太空探索技术公司（SpaceX）宣布，将于8月4日美股收盘后公布2026年第二季度财务及运营数据，这将是公司上市后的首份季度财报。市场关注此次财报不仅因为其将首次披露SpaceX上市后的财务表现，还因其触发公司历史上规模最大的内部人士限售股解禁。根据分阶段限售协议，SpaceX发布首份财报后的第二个交易日，最多约9.115亿股符合条件的内部人士及员工股票将解禁，占可解禁股份的20%。按最新股价计算，潜在流通股票价值约1090亿美元，规模超过公司IPO融资额。（界面）",
       "tags": [
         "china",
         "funding",
         "deal_signal"
       ],
-      "round": "A+轮融资"
+      "amount": "9.115亿"
     },
     {
-      "id": "rss-36kr-azzooy",
+      "id": "rss-36kr-9gza31",
       "type": "funding",
-      "title": "硬氪首发 | 离子束装备商获超亿元融资，已批量导入光通信、核聚变、量子计算头部客户",
-      "url": "https://36kr.com/p/3903739699005058?f=rss",
+      "title": "阿联酋批准62亿美元天然气开发项目",
+      "url": "https://36kr.com/newsflashes/3905115305101185?f=rss",
       "source": "36kr",
-      "publishedAt": "2026-07-20T08:51:01.000Z",
-      "summaryHint": "硬氪获悉，中山市博顿光电科技有限公司（以下简称“博顿光电”）完成超亿元人民币B+轮融资，本轮投资方为毅达资本、中信建投资本、达武创投、友谊时光、南控基金，IO资本担任独家财务顾问。 该轮资金将用来引进高端人才、研发新产品，以及针对已经出现爆发趋势的重点行业领域，加快在综合解决方案、市场推广以及产能建设方面的投入速度。 博顿光电成立于2016年，是国家级“专精特新”小巨人企业。公司专注于全国产自主可控离子源和离子束超精密工艺设备， 是业内唯一掌握核心部件离子源-离子束整机装备-应用工艺方案全链条核心技术并自研自制的企业。 （图源/企业） 在商业化落地上，博顿以精密光学、泛半导体、航空航天构成提供稳健现金流的业绩基本盘，同时凭借稀缺的卡位，成为了可控核聚变、光通信、量子科技等 前沿赛道的核心工艺设备“独家卖铲人” ，近年来，公司营收年增长率达50%以上。 比如当下狂飙的可控核聚变领域，博顿光电",
+      "publishedAt": "2026-07-21T08:19:37.000Z",
+      "summaryHint": "阿联酋阿布扎比国家石油公司（ADNOC）周二宣布，将投资62亿美元开发乌姆沙伊夫气顶（Umm Shaif Gas Cap）大型海上油气田，此举是其扩大天然气产量、增加液化天然气出口战略的一部分。（新浪财经）",
       "tags": [
         "china",
         "funding",
         "deal_signal"
       ],
-      "round": "B+轮融资"
+      "amount": "62亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-ou8m6v",
+      "type": "funding",
+      "title": "“瑞莱智慧”完成数亿元B轮融资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10T1dNRnhOeldQRDFYY0lON0tJbG1NSGhFM0J2N29ZVFpPX01HSzBNSTJmbWZwMkNfbHRxb1E1bXM0UGRTTklMRloyUGx1akpnNnVYUUpMdEFQVXJwU0E?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-07-21T03:59:00.000Z",
+      "summaryHint": "“瑞莱智慧”完成数亿元B轮融资 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "B轮融资"
+    },
+    {
+      "id": "rss-google_news_cn_deals-xqefp4",
+      "type": "funding",
+      "title": "Meshy 完成近 4 亿美元 B 轮，AI 3D 为什么能长出一家百亿公司 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HanA3eXNSTzA0aWNxb2czTzd6VlpkZ1J5S1AzTlNFTjlPSkpfSzdRalMzWXlIN0F4Y3dXMjctY0xHQzh0WW00OXI5dEtaS21qbWZ6RGp3LVRLSkZ3VVNVVmZOTDFqcHlockxMOVRRbUhYSW8xUThmUHFTdFRHVjA?oc=5",
+      "source": "google_news_cn_deals",
+      "publishedAt": "2026-07-21T03:01:32.000Z",
+      "summaryHint": "Meshy 完成近 4 亿美元 B 轮，AI 3D 为什么能长出一家百亿公司 &nbsp;&nbsp; 新浪网",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "4亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-10hvjr",
+      "type": "funding",
+      "title": "10 亿美元教育融资，都流向了这些赛道 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LMUIwc2hMY0RpNVFGLWRSV0RvemoyQWthUmZUQVBGU0hFR3NETlpXeWthbGdjaU9hc05YZHpTcWFmN2wwREM5TG1lNEI2c2Rh?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-07-21T02:36:44.000Z",
+      "summaryHint": "10 亿美元教育融资，都流向了这些赛道 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "10亿"
+    },
+    {
+      "id": "rss-36kr-ublbg3",
+      "type": "funding",
+      "title": "6000万用户的情感陪伴APP，营收数亿后做了款家庭机器人｜产品观察",
+      "url": "https://36kr.com/p/3904049563731849?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-21T01:30:00.000Z",
+      "summaryHint": "作者&nbsp;|&nbsp;黄楠 编辑&nbsp;|&nbsp;袁斯来 在旗下App每年创造数亿元营收、日均百万用户打开量的时候，心言集团创始人兼CEO任永亮做了一个令所有人都觉得“不理性”的决定：把AI情感陪伴能力塞进一个硬件的模具里——造机器人。 心言集团最有名的产品叫测测，来自上一个互联网时代，2013年上线，主要为用户提供泛心理科普及测评、在线情感陪伴，拿过腾讯的B轮融资。到2025年，测测已经有6000多万用户。 但仅仅靠一款12年的线上情感陪伴产品，显然无法在这个AI时代更进一步。任永亮察觉到线上交互模式存在不可弥补的能力边界。 屏幕对话是单向、割裂的沟通形式，难以捕捉物理三维信息，无法满足亲子陪伴、老人情绪安抚、居家日常互动等复合需求。而纵观市面上主流的智能终端，或交互门槛过高、或仅具备简单卖萌功能，始终缺少能自主读懂家庭氛围的具身载体。 这种缺位，让任永亮看到了情绪交互硬",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "round": "B轮融资",
+      "amount": "6000万"
+    },
+    {
+      "id": "rss-36kr-s02a30",
+      "type": "funding",
+      "title": "速腾聚创第二代全固态感知平台发布，要做物理AI数据入口｜最前线",
+      "url": "https://36kr.com/p/3903885834028931?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-21T01:05:00.000Z",
+      "summaryHint": "&nbsp;作者｜黄楠 编辑｜袁斯来 当下具身智能赛道正完成一轮关键转型。此前行业大量研发、展示集中在人形、四足机器人舞台演示，如今产业评判标准落地到工厂、园区、家庭等真实场景的长期稳定作业能力。 但一个现实的问题是：多数基础模型仅依托二维图像、仿真虚拟数据训练，缺少真实三维空间里物体距离、材质、受力、动态交互的原生高精度信息，以至于机器人只能看懂画面，却难以真正理解物理世界的运行规律。 单纯视觉传感器易受强光、遮挡、雨雪干扰，测距与空间结构测算存在天然误差；仿真环境构建的物理规则和现实工况差距巨大，直接导致机器人走出展厅后，复杂抓取、长时序巡检等任务成功率走低，始终难以规模化落地。这当中，激光雷达仅被视作机器人配套导航配件，承担单一避障功能。 直到业界开始意识到，高精度三维感知才是物理AI持续迭代的核心数据来源。 速腾聚创试图提出了不同的判断。速腾聚创团队指出，高精度三维感知硬件不只是让",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-36kr-kf291n",
+      "type": "funding",
+      "title": "「月泉仿生」获数亿元融资，仿生拉压体灵巧手万台量产、订单过亿｜36氪首发",
+      "url": "https://36kr.com/p/3899174356387718?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-21T00:00:00.000Z",
+      "summaryHint": "文｜胡香赟 编辑｜海若镜 36氪独家获悉，近日，月泉仿生已完成数亿元Pre-A+轮融资。本轮融资由长发基金、华控基金、华夏基金、国力民生、星科创投基金等联合投资，老股东中关村启航投资跟投。 据介绍，本轮募集资金将用于月泉仿生团队建设、核心产品技术研发及产能提升，以及强化全栈自研能力、打造完整技术体系，推动超仿生神经骨骼肌肉机器人研发, &nbsp;打造“大脑-身体-环境”一体化的仿生具身智能体系。 当前，人形机器人赛道已走过最初的样机展示阶段，逐渐迈入商业化落地的关键拐点。而灵巧手作为机器人和现实世界交互的核心部件，更是成为资本重点押注的核心方向。仅今年一季度，国内灵巧手类企业融资总额就接近50亿元。 喧哗背后，某种程度上，灵巧手产品也在陷入比拼自由度、扭矩等硬件参数的“内卷”状态。传统刚性结构很难同时兼顾轻量化、抓取力量和操作精度，面对柔软、易损的物体时，天生就显得“笨拙”。但通常，想做",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "round": "Pre-A",
+      "amount": "50亿元"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-32tpyl",
+      "type": "funding",
+      "title": "今年已有18家国产医疗机器人拿下融资，眼科、显微外科是主线 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EZzV2bVh6aHlha2NDZERhUU9xMUxwMjBtMzN4YWstai1BUE1mS28wU2ZHOFNpTVNOclQzQ2pTdy01a29HSjVYZFpZVFQ2THBG?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-07-20T11:34:09.000Z",
+      "summaryHint": "今年已有18家国产医疗机器人拿下融资，眼科、显微外科是主线 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-eppmrp",
@@ -64,28 +173,12 @@
       "amount": "27亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-6waetb",
-      "type": "funding",
-      "title": "“Soloco”完成千万元级人民币种子轮融资 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRMHZrcGpzVnE1Qi13RTRmRXN2TTlGRFFRMVdFV2hnRWR2ZEt5OWxYZW5Wdi13eXdydVhCUjZsd3JHX1VTSW9kUWlWYW5DUjZmVjNJd1BfMkp2a2Z0ZWc?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-07-20T07:34:24.000Z",
-      "summaryHint": "“Soloco”完成千万元级人民币种子轮融资 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "种子轮"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-6sruek",
       "type": "funding",
       "title": "Meshy完成近4亿美元B轮融资 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zWHd3OThRTFV4RVg3T0V6M29UeGEyV1psVnVsNnljLTlwcjIzbENNeHVqTkhJUmE3SndCN0c1ODFxdlR3ampEbGZoMkR4b3ZlVl9RSVZjUUo?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-07-20T02:36:53.000Z",
+      "publishedAt": "2026-07-19T11:28:00.000Z",
       "summaryHint": "Meshy完成近4亿美元B轮融资 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
@@ -97,44 +190,13 @@
       "amount": "4亿"
     },
     {
-      "id": "rss-36kr-moxf03",
-      "type": "funding",
-      "title": "从“连得上”到“算得懂”，天基通算融合初创公司押注无人系统，首轮融资数千万元｜36氪首发",
-      "url": "https://36kr.com/p/3903365398185857?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-20T02:30:06.000Z",
-      "summaryHint": "文&nbsp;|&nbsp;阿至 封面来源｜Pexels 中国低轨卫星星座的规模化部署已经进入关键时间窗口。 一组直观的数据进展是：中国星网已完成第一代组网，垣信卫星在轨运行卫星数量突破200颗，长征十号乙型火箭成功完成全球首次海上网系回收，头部商业公司的可回收火箭也将迎来关键首飞节点。 当“上天”这件事的成本有望迅速下降，产业链的注意力也在从“怎���把卫星打上去”转向一个更务实的问题： 卫星组网之后，要给谁用、怎么用？ 这个问题目前还没有标准答案，但市场上不乏想要给出解法的玩家。 一家成立不到半年、聚焦“无人系统通算融合”的初创企业 「星联天枢」，近日正式宣布完成数千万元天使轮融资 ，这也是星联天枢完成的首轮融资。 简单来说，星联天枢的核心业务是让无人机、无人车、无人船等无人系统，通过一套极轻的卫星通信终端直连卫星，并将采集到的数据在卫星上完成AI处理与决策，再把结果回传地面—— 这套",
-      "tags": [
-        "china",
-        "funding",
-        "deal_signal"
-      ],
-      "round": "天使轮"
-    },
-    {
-      "id": "rss-36kr-qnjctw",
-      "type": "funding",
-      "title": "红熊AI完成数亿元A+轮融资，基于AI“记忆科学”从To B服务延伸至To C应用｜36氪首发",
-      "url": "https://36kr.com/p/3899612612494976?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-20T01:00:00.000Z",
-      "summaryHint": "36氪获悉，红熊AI今日宣布完成数亿元人民币A+轮融资，投后估值接近30亿元人民币。本轮融资由浙江九纬私募基金、嘉兴彰元创业投资与老股东格睿丰联合投资。这是红熊AI在短短15个月内完成的第6轮融资。 据了解，本轮融资资金将主要用于持续深化AI记忆科学的类人大脑基础研究、加速OpenBear通用大模型与MemoryBear记忆科学系统的深度融合，以及扩大智能客服、智能营销、ChatBI与智能教育四大核心应用场景的市场覆盖。 在经历了大模型参数量与算力的早期竞赛后，行业正逐步步入“以应用论英雄”的商业化深水区。目前，围绕大模型“记忆层（Memory）”这一维度的技术成为重要的攻坚点。 今年融资事件频发，并明显呈加速状态：由在Anthropic负责Claude预训练工作的Andrej Karpathy等参与投资、估值达6亿美元的13人团队Engram已公开亮相；定位于连接个人数据与智能体生态记忆",
-      "tags": [
-        "china",
-        "funding",
-        "deal_signal"
-      ],
-      "round": "A+轮融资",
-      "amount": "30亿元"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-lkksp3",
       "type": "funding",
-      "title": "定义下一代光模块：力子光电完成C轮融资，加速冲刺全球光通信头部阵营 - 36Kr",
+      "title": "定义下一代光模块：力子光电完成C轮融资，加速冲刺全球光通信头部阵营 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BWmN4Yi02UWEtYi0zSll6S2pJd2V4WVdtcy1HMUxBc3R4V2hDaWY1Ri1SN1ZLSkV4T25tYlFqTENGUEJ2Q2pEdTBVMlFXQUJkX1NB?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-07-19T11:16:00.000Z",
-      "summaryHint": "定义下一代光模块：力子光电完成C轮融资，加速冲刺全球光通信头部阵营 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "定义下一代光模块：力子光电完成C轮融资，加速冲刺全球光通信头部阵营 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -193,55 +255,6 @@
       "amount": "200亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-k5aqg1",
-      "type": "funding",
-      "title": "斯年智驾获3亿元C轮融资，自动驾驶重卡赛道再升温｜36氪独家 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15ZWdBWjYwZkpraXBuVG92WHBaTFhTamwwQW5NV2s4LUhKc2xtZ1JfS0ZCZlljUXR1UU9oMXlySEt6Uy1MTDlDXzlnZmdTN2xo?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-07-15T09:00:00.000Z",
-      "summaryHint": "斯年智驾获3亿元C轮融资，自动驾驶重卡赛道再升温｜36氪独家 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "C轮融资",
-      "amount": "3亿元"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-mzvugm",
-      "type": "funding",
-      "title": "DeepSeek重启融资 710亿美元估值背后AI行业竞争格局生变 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16NGVOT1NvVTdfWUlDcUtIS29GdTZsWjU5YVVEV3dNMXVFUVhZdnRORGVzTHkxT3lCeEdsV08wdkdGMmd2UG8zV0V3WGdvR0VveUZJ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-07-14T12:33:00.000Z",
-      "summaryHint": "DeepSeek重启融资 710亿美元估值背后AI行业竞争格局生变 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "710亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-21mdtc",
-      "type": "funding",
-      "title": "面壁智能融资超50亿，估值超200亿 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBoZkt4bGRyUm52MllZZFlkSi1lS1hiQ2FwOHNqaUtMT3FxNXByRWk3NVkySVo3SU5IZmlkRkhBNnkya2NnVEZRMDdZWGFPUQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-07-14T10:38:00.000Z",
-      "summaryHint": "面壁智能融资超50亿，估值超200亿 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "50亿"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-milnyl",
       "type": "funding",
       "title": "DeepSeek传筹备IPO，中国AI头部公司融资狂飙 - 36 Kr",
@@ -257,350 +270,333 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_deals-4ynw2b",
-      "type": "funding",
-      "title": "阿里领投，王慧文家办跟投，爱诗科技完成近30亿元C轮融资 - 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JVWVzNW85LW1FM3pYSm9VRFFQWk84MWh3NlhxeVUwT0toQW9aZ3lOeEt0bnphaHJLaVZhVnN5elhTNUFVOTZoNC1tVGdCRjIxa0ZBcmVrdHpsWGtGWGV4R1p3?oc=5",
-      "source": "google_news_cn_deals",
-      "publishedAt": "2026-07-14T07:53:28.000Z",
-      "summaryHint": "阿里领投，王慧文家办跟投，爱诗科技完成近30亿元C轮融资 &nbsp;&nbsp; 手机网易网",
+      "id": "rss-36kr-mmu7zp",
+      "type": "news",
+      "title": "华勤技术：预计全年仅超节点单项产品收入即突破100亿元",
+      "url": "https://36kr.com/newsflashes/3905122601813638?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-21T08:42:01.000Z",
+      "summaryHint": "36氪获悉，华勤技术近日在电话会议表示，超节点产品代表了数据中心的趋势型产品，公司团队较早预判这一趋势，并持续投入大量研发资源。在国内供应商中，公司是最早推出超节点产品的厂商之一，已率先实现市场卡位。超节点产品已于第二季度启动小批量出货，交付后获得客户充分认可；第三季度起将进入大规模交付阶段。预计全年仅超节点单项产品收入即突破100亿元，明后两年亦将保持高速增长态势。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-43tf9e",
+      "type": "news",
+      "title": "花旗：美股头寸平仓可能还未结束",
+      "url": "https://36kr.com/newsflashes/3905123516040840?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-21T08:33:59.000Z",
+      "summaryHint": "花旗表示，美国股指期货正在经历仓位重置，但平仓可能还有进一步的空间。David Chew等策略师写道，由于近期人工智能和科技股抛售引发了普遍的去风险化，美股仓位急剧恶化，大盘股资金面整体呈看跌趋势。值得注意的是，标普500指数仓位调整主要以多头平仓为主，而纳斯达克指数的仓位调整则呈现出更为激进的多头平仓和新建空头头寸相结合，使其仓位降至一个月来的低点。（财联社）",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-3e6y12",
+      "type": "news",
+      "title": "韩国拟提前实施单股杠杆ETF监管新规",
+      "url": "https://36kr.com/newsflashes/3905133015680645?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-21T08:26:43.000Z",
+      "summaryHint": "韩国总统李在明7月21日要求迅速完善单一股票杠杆交易所交易基金（ETF）制度后，韩国金融委员会决定推动提前实施上周公布的监管补充措施，并已开始与金融业界协商。韩国金融委员会16日公布相关措施，包括提高投资者基本预存资金要求、强化券商和资产管理公司对ETF溢价折价率的管理责任等。此前大部分措施计划于8月实施，其中将单股杠杆ETF交易单位由1股调整为20股的措施预计于11月实施，暂停单股杠杆ETF新上市及全面禁止相关广告已立即生效。（界面）",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-xxi2bk",
+      "type": "news",
+      "title": "吉比特：董事长提议2026年半年度每10股派发现金红利100元",
+      "url": "https://36kr.com/newsflashes/3905131991959173?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-21T08:25:41.000Z",
+      "summaryHint": "36氪获悉，吉比特公告，公司董事会收到公司董事长卢竑岩关于制定公司2026年半年度利润分配方案的提议。卢竑岩提议，以未来实施2026年半年度利润分配方案时股权登记日的总股本扣除公司回购专户中已回购股份后的公司股本为基数，向全体股东每10股派发现金红利100元（含税），不进行资本公积转增股本，不进行其他形式利润分配。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-dxgzx7",
+      "type": "news",
+      "title": "恒指收跌0.04%，恒生科技指数涨1.32%",
+      "url": "https://36kr.com/newsflashes/3905117936273028?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-21T08:11:23.000Z",
+      "summaryHint": "36氪获悉，恒指收跌0.04%，恒生科技指数涨1.32%；半导体、硬件设备、软件服务板块领涨，智谱涨近37%，华虹宏力涨超17%，MINIMAX涨超15%，立讯精密涨超11%；石油石化、煤炭、银行板块跌幅居前，山东墨龙跌超3%，农业银行、中煤能源跌超2%；南向资金净买入71.67亿港元。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-lepnqb",
+      "type": "news",
+      "title": "三友医疗：拟9000万元-1.8亿元回购公司股份",
+      "url": "https://36kr.com/newsflashes/3905107691931523?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-21T08:00:58.000Z",
+      "summaryHint": "36氪获悉，三友医疗公告，拟以集中竞价交易方式回购公司股份，回购总金额不低于9000万元且不超过1.8亿元。回购价格不超过18.9元/股（含）。回购股份将用于员工持股计划或股权激励。回购期限为自公司董事会审议通过回购方案之日起6个月内。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-m4yy6i",
+      "type": "news",
+      "title": "腾讯云：将大规模部署国产化算力和NPO超级节点",
+      "url": "https://36kr.com/newsflashes/3905101534168711?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-21T07:54:42.000Z",
+      "summaryHint": "腾讯云高管日前出席世界人工智能大会分论坛时表示，为了将推理成本降低到极致，公司会大规模部署国产化算力；公司预计2026年第4季度部署NPO（近封装光学）超级节点，并呼吁国内外统一NPO行业标准。（证券时报）",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-kdelbs",
+      "type": "news",
+      "title": "上海上半年外贸同比增长18.6%，出口首次突破万亿元大关",
+      "url": "https://36kr.com/newsflashes/3905093786125960?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-21T07:46:49.000Z",
+      "summaryHint": "记者今日（7月21日）从上海海关获悉，上半年上海外贸整体运行稳步向好，进出口2.55万亿元，同比增长18.6%。其中出口1.14万亿元，增长20.1%，首次突破万亿元大关；进口1.41万亿元，增长17.4%，外贸规模创历史新高。（央视新闻）",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-i4fwn6",
+      "type": "news",
+      "title": "小产品逆袭，大产品落位，为什么大家都在小红书做游戏宣发 | 游戏风向标",
+      "url": "https://36kr.com/p/3905036594628224?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-21T07:04:06.000Z",
+      "summaryHint": "文丨树果贝 编辑丨果脯 假设你是一名游戏发行方，手头经费有限，必须从 小黑盒、B站、小红书 三大社交平台选其一来着重宣传自家新游，你会选谁？ 单凭直觉看，不少人应该会先吐槽「选项设置压根不合理」，这就像在问巴西、德国和国足在世界杯上谁最可能夺冠。与其他两家相比，小红书乍一看压根就没有可比性，凭什么能成为选项之一？ 此话倒也不假。 小黑盒早期依靠PUBG的爆火起家，后续凭借数据查询、社交氛围、游戏销售等服务，积累了大量垂直游戏用户，断层式领先其他同类竞品。此外，他们也有着最为成熟的一体化宣发路径，单在APP上，产品就能完成「曝光—搜索—转化」这整套流程。 而B站更是国内用户耳熟能详的存在。它从早期依靠二次元文化起家，到如今已经积累了头部级别的互联网泛用户。 早在渠道时期，B站就曾靠联运《崩坏学园2》等游戏踏足市场，后续代理FGO、《碧蓝航线》等产品更是为公司带来大量收入。而在独游领域，他们也",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-85upsd",
+      "type": "news",
+      "title": "国内首个！阿里健康氢离子达成NEJM、JAMA、BMJ三大医学顶刊内容合作",
+      "url": "https://www.qbitai.com/2026/07/455993.html",
+      "source": "qbitai",
+      "publishedAt": "2026-07-21T06:03:10.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-ico4aj",
+      "type": "news",
+      "title": "阿里Qoder上线全新安全能力，为每位用户配备一位专属安全工程师",
+      "url": "https://www.qbitai.com/2026/07/455979.html",
+      "source": "qbitai",
+      "publishedAt": "2026-07-21T05:44:29.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-hwwc5q",
+      "type": "news",
+      "title": "欧林生物：重庆啤酒的痛，市场还没忘记",
+      "url": "https://36kr.com/p/3904814486718342?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-21T03:05:20.000Z",
+      "summaryHint": "作者&nbsp;|&nbsp;黄绎达 编辑&nbsp;|&nbsp;张帆 欧林生物是国内疫苗领域的龙头企业，依托极具稀缺性的超级细菌创新疫苗管线与稳健发展的破伤风疫苗，其A股股价自2024年开启了一轮强势上涨行情，区间最大涨幅超过500%。火热市场行情之下，公司于6月30日向港交所递交更新招股书，重启赴港上市计划，希望凭借创新疫苗管线的好预期与稀缺性，争取要到更高的估值。 而且，为了能够顺利登陆港股市场，针对历史税务事项完成合规整改、扫除港股IPO进程中的合规障碍，公司在近期已经补缴了之前公告列出的税款及滞纳金，合计约8741万元，大约是公司2025年归母净利润的4倍。 7月11日，欧林生物核心管线金葡菌疫苗三期临床数据揭盲，保护率大超设计标准，且安全性良好，距离商业化仅一步之遥。然而，市场尚未消化上述利好，关于该疫苗临床数据造假的传闻却甚嚣尘上，尽管公司已经发布澄清公告并已报案，但受其影",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-51q6al",
+      "type": "news",
+      "title": "上市前夜 | 一季度净利是去年全年近三倍，深圳存储公司再闯港股IPO",
+      "url": "https://36kr.com/p/3904785488136070?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-21T02:33:43.000Z",
+      "summaryHint": "本文约3100字，建议阅读7分钟 作者&nbsp;|&nbsp;彭孝秋 编者按： 《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第五期——芯天下。 7月9日，深圳存储芯片设计公司「芯天下」再次递表港交所。事实上，芯天下早在今年1月9日就递交过招股书，但6个月后失效。此次IPO由广发证券、中信证券联席保荐。 芯天下是谁？一家2014年成立于深圳的无晶圆厂（Fabless）存储芯片公司，主打代码型闪存芯片，即NOR Flash和SLC NAND Flash，这类芯片专门存储设备启动和运行的代码，放进路由器、扫地机、智能家居、工业设备里。按灼识咨询口径，2025年公司代码型闪存收入在全球Fabless企业中排名第五。 一个季度赚了去年全年近三倍的钱，是实力还是周期？ 先看组惊人的数字。2026年一季度，芯天下收入2.24亿元，同比增长",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-dmqavh",
+      "type": "news",
+      "title": "上市前夜 | 常州嘉轩智能冲港股IPO，全球第一也很缺钱",
+      "url": "https://36kr.com/p/3904783876982405?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-21T02:32:15.000Z",
+      "summaryHint": "本文约2800字，建议阅读6分钟 作者&nbsp;|&nbsp;彭孝秋 编者按： 《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第六期——嘉轩智能。 近日，来自江苏常州的嘉轩智能向港交所递交招股书，东兴证券（香港）为独家保荐。 虽然这家公司不被大众所熟知，但按收入计，它的工业永磁直驱滚筒在 全球市占率80.3% ，前三名合计91.8%，而第二名只有6.6%。即使放宽到整个工业永磁电驱解决方案行业，它也以11.1%的份额连续三年全球第一。 一个细分赛道近乎垄断的隐形冠军，在395页招股书里藏着多少秘密，硬氪进行了一一拆解。 三年账面赚1亿，现金却流出2.35亿 业绩方面。2023到2025年，嘉轩收入分别为7.61亿、8.73亿、9.36亿元，年内利润2101万、4083.8万、4157.2万元，毛利率从24.1%提高到25.7%",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-36kr-6ql8be",
+      "type": "news",
+      "title": "上市前夜 | “喜羊羊”老板二冲港股IPO，奥动新能源近三年半亏掉14.7亿",
+      "url": "https://36kr.com/p/3904781968508550?f=rss",
+      "source": "36kr",
+      "publishedAt": "2026-07-21T02:30:15.000Z",
+      "summaryHint": "本文约2800字，建议阅读6分钟 作者&nbsp;|&nbsp;彭孝秋 编者按： 《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第七期—— 奥动新能源 。 7月19日，奥动新能源再次向港交所主板递交上市申请，独家保荐人为招银国际。事实上，这已是奥动新能源的第二次递表，首次递表在2025年12月12日，但6个月未通过聆讯就失效了。 有意思的是这家公司实控人——奥动新能源董事长、总经理蔡东青，今年57岁，1997年创办了奥飞娱乐（002292.SZ）并任董事长兼总经理至今，奥飞娱乐出品过《喜羊羊与灰太狼》。2016年6月，他与换电技术老兵张建平共同创办奥动新能源，一头扎进了电动车换电这个重资产赛道。 如今十年过去，但奥动新能源2023-2026年前4个月，就合计净亏损约14.7亿元；收入从2023年的11.55亿一路跌到2025年的",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-lponvd",
+      "type": "news",
+      "title": "581亿，北大校友又干出一个AI独角兽 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iSUVqeWZWSTByN2I1UmRQNlp6aDRpZGtLWmI3VW53dXZJRzROY3lYMy1MSWw0cWZBUTRONzJfX1FmYnowbDZaSGZCdWluQTJt?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-07-20T11:27:00.000Z",
+      "summaryHint": "581亿，北大校友又干出一个AI独角兽 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "C轮融资",
-      "amount": "30亿元"
-    },
-    {
-      "id": "rss-36kr-gyrq8s",
-      "type": "news",
-      "title": "阿里巴巴发布语音合成大模型Qwen-Audio-3.0-TTS",
-      "url": "https://36kr.com/newsflashes/3903774097589895?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-20T09:29:18.000Z",
-      "summaryHint": "36氪获悉，7月20日，阿里巴巴发布语音合成大模型Qwen-Audio-3.0-TTS，在细粒度标签控制、freestyle指令遵循、多语种与方言覆盖以及复杂声学鲁棒性等方面系统性提升，包含面向实时交互的Flash版本（首包延时300ms级别）和面向高质量生成的Plus版本，让合成语音从“能说话”走向“会表达”。目前，在全球第三方榜单Artificial Analysis，Qwen-Audio-3.0-TTS-Plus登顶，其预览版Fun-Realtime-TTS也曾在一个月前登顶该榜单。",
-      "tags": [
-        "china",
-        "funding"
+        "deal_rss"
       ]
     },
     {
-      "id": "rss-36kr-e5h5x1",
+      "id": "rss-qbitai-z5rx3e",
       "type": "news",
-      "title": "圆通速递：拟以3000万元-5000万元回购公司股份",
-      "url": "https://36kr.com/newsflashes/3903772788295552?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-20T09:23:02.000Z",
-      "summaryHint": "36氪获悉，圆通速递公告，公司第十二届董事局第六次会议7月20日审议通过了《关于以集中竞价交易方式回购股份方案的议案》。公司拟以3000万元-5000万元回购公司股份，用于员工持股计划或股权激励计划。回购价格不超过25元/股。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-jynkuw",
-      "type": "news",
-      "title": "康迪科技获宁德时代18座重卡换电站设备订单",
-      "url": "https://36kr.com/newsflashes/3903765454997127?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-20T09:15:34.000Z",
-      "summaryHint": "36氪获悉，7月20日，康迪科技宣布旗下全资子公司中换电（浙江）科技有限公司获得宁德时代下属重卡换电品牌“骐骥换电”18座重卡换电站设备订单，将负责设备制造、交付、部署及售后运维。本次订单是双方签署三年战略合作协议后的首批批量采购订单，标志着合作正式进入批量序列化生产阶段。未来，中换电将持续参与宁德时代重卡换电网络建设，助力换电基础设施规模化发展。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-8xabcp",
-      "type": "news",
-      "title": "硬氪首发 | 一台80cm高的毛绒人形机器人，配一套面向未来的自研OS系统",
-      "url": "https://36kr.com/p/3903761449617027?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-20T09:12:42.000Z",
-      "summaryHint": "一台80cm高的毛绒人形机器人，可以承载多少想象力？ “它虽然没有完全像人，但拥有全套的传感器，可以跟你交互、分析你的表情，去看你是高兴还是低落。只要算力可以满足，它可以提供各种各样的东西，软件能增量开发的东西是有无限想象力的。” 青心意创CTO曾俊告诉硬氪。他所谈论的是Amoo——青心意创推出的首款智能机器人产品Amoo，身高80cm，拟人双足，无棱角毛绒全包覆。 曾俊曾担任全球自动驾驶巨头Cruise的核心模型科学家，带领团队取得多项行业领先成果。他是加州大学伯克利分校博士，本科是由上海交大和法国巴黎综合理工联合培养的应用数学与力学系精英。曾在在双足机器人强化学习控制与安全关键系统领域发表了20余篇机器人国际顶会顶刊论文，并多次登顶最高引用及最佳论文。 他坦言，自动驾驶和研发机器人难点完全不一样。“车有近乎无限的电力和算力，但本质上只有方向盘和油门两个输出。但机器人的输出可太多了——它",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-xyy78c",
-      "type": "news",
-      "title": "亿纬锂能：董事、高级管理人员刘建华拟增持10万股公司股份",
-      "url": "https://36kr.com/newsflashes/3903724630312585?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-20T08:58:00.000Z",
-      "summaryHint": "36氪获悉，亿纬锂能公告，公司董事、高级管理人员刘建华计划自公告披露之日起6个月内，通过集中竞价或大宗交易等方式增持公司股份，合计拟增持股数10万股。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-7i8tmz",
-      "type": "news",
-      "title": "蔚蓝锂芯：会根据供需关系阶段变化制定合理产品销售价格",
-      "url": "https://36kr.com/newsflashes/3903712799164296?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-20T08:53:58.000Z",
-      "summaryHint": "36氪获悉，蔚蓝锂芯在互动平台表示，BBU备电应用是公司近几年重点布局的应用场景，目前产品开发、客户拓展、产能准备、订单交付都在有序进展中。全球的AI数据中心的建设正处于扩张阶段，整体产业链的采购订单都呈现增长态势，公司会根据供需关系的阶段变化合理地制定合理的产品销售价格。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-wp9hgo",
-      "type": "news",
-      "title": "赣锋锂业等在广东成立算电能源科技公司，注册资本2100万",
-      "url": "https://36kr.com/newsflashes/3903689553020806?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-20T08:47:16.000Z",
-      "summaryHint": "36氪获悉，天眼查App显示，近日，赣锋算电（广东）能源科技有限公司成立，法定代表人为张广珍，注册资本2100万人民币，经营范围包括新兴能源技术研发、合同能源管理、充电桩销售、智能输配电及控制设备销售等。股东信息显示，该公司由赣锋锂业、四川清鹏算电科技有限公司共同持股。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-73fymj",
-      "type": "news",
-      "title": "龙建股份：中标5.55亿元公路养护工程施工项目",
-      "url": "https://36kr.com/newsflashes/3903712353093253?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-20T08:41:30.000Z",
-      "summaryHint": "36氪获悉，龙建股份公告，公司近日收到中标通知书，公司被确定为黑龙江省普通国省干线公路2026年养护工程施工项目A1标段中标人，中标价5.55亿元。该项目公司施工份额约占公司2025年度经审计营业收入的3.15%。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-ihakpo",
-      "type": "news",
-      "title": "上海电气：预计2026年半年度净利润同比增长12%-22%",
-      "url": "https://36kr.com/newsflashes/3903711890835079?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-20T08:35:04.000Z",
-      "summaryHint": "36氪获悉，上海电气公告，预计2026年半年度归属于母公司所有者的净利润为9.20亿元-10.00亿元，同比增长12%-22%。业绩变动主要系部分核心业务板块经营提升，以及当期确认的政府补助与部分子公司股权处置产生的非经常性收益。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-62tm9w",
-      "type": "news",
-      "title": "阿里云调整AgentOne部分商品规格价格",
-      "url": "https://36kr.com/newsflashes/3903719821313665?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-20T08:29:09.000Z",
-      "summaryHint": "7月20日，阿里云发布AgentOne部分商品规格价格调整通知：自2026年7月30日起，智能外呼Agent套餐规格将进行调整，智能外呼Agent不再提供5000分钟、10000分钟规格的套餐包，新购及续费的最低规格统一调整为100000分钟起。原5000/10000分钟规格不再支持续费；开通的5000/10000分钟套餐包，可正常使用至套餐到期，不受本次调整影响。（界面）",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-7j3bm7",
-      "type": "news",
-      "title": "WAIC之外，一张AI人才图谱正在知乎形成",
-      "url": "https://www.qbitai.com/2026/07/455496.html",
+      "title": "WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践",
+      "url": "https://www.qbitai.com/2026/07/455963.html",
       "source": "qbitai",
-      "publishedAt": "2026-07-20T08:06:22.000Z",
+      "publishedAt": "2026-07-20T10:42:09.000Z",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-8k32yh",
+      "id": "rss-qbitai-9r0yjh",
       "type": "news",
-      "title": "光鉴科技发布具身智能视觉感知方案，为物理AI提供视觉感知基础",
-      "url": "https://www.qbitai.com/2026/07/455438.html",
+      "title": "不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面",
+      "url": "https://www.qbitai.com/2026/07/455805.html",
       "source": "qbitai",
-      "publishedAt": "2026-07-20T05:52:15.000Z",
+      "publishedAt": "2026-07-20T10:33:23.000Z",
+      "summaryHint": "大模型时代的共同选择",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-ag9kj9",
+      "id": "rss-qbitai-klmkup",
       "type": "news",
-      "title": "WAIC 2026｜智象未来发布全球首个无限时长内容创作智能体——vivago R1",
-      "url": "https://www.qbitai.com/2026/07/455434.html",
+      "title": "当AI进入最依赖“人”的行业：一家四线城市康复机构利润增长40%",
+      "url": "https://www.qbitai.com/2026/07/455791.html",
       "source": "qbitai",
-      "publishedAt": "2026-07-20T05:43:42.000Z",
+      "publishedAt": "2026-07-20T09:54:33.000Z",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-enh570",
+      "id": "rss-qbitai-7bodku",
       "type": "news",
-      "title": "「仿真派」落地真产线！苏度WAIC首秀，CEO韩铮：99%+成功率",
-      "url": "https://www.qbitai.com/2026/07/455400.html",
+      "title": "全球首发技术路线+全域联盟双轮破局，AI for ADANES释放先进核能新质生产力",
+      "url": "https://www.qbitai.com/2026/07/455729.html",
       "source": "qbitai",
-      "publishedAt": "2026-07-20T05:35:02.000Z",
-      "summaryHint": "仿真的底层逻辑",
+      "publishedAt": "2026-07-20T09:41:49.000Z",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-7ysiky",
+      "id": "rss-qbitai-33bb3g",
       "type": "news",
-      "title": "刚刚，机器人顶会RSS三项最佳论文出炉！708篇送审，仅8篇杀入决赛",
-      "url": "https://www.qbitai.com/2026/07/455277.html",
+      "title": "启鸣达人首发《世界模型驱动的教育AGI白皮书》| WAIC 2026",
+      "url": "https://www.qbitai.com/2026/07/455730.html",
       "source": "qbitai",
-      "publishedAt": "2026-07-20T04:54:22.000Z",
-      "summaryHint": "依旧是最多的华人面孔",
+      "publishedAt": "2026-07-20T09:21:30.000Z",
+      "summaryHint": "从理论探索到体系构建",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-lp3k0l",
+      "id": "rss-qbitai-7eudmv",
       "type": "news",
-      "title": "GMI Cloud 携AI Cloud、MaaS、Agentbox等全栈智算解决方案亮相 WAIC 2026",
-      "url": "https://www.qbitai.com/2026/07/455269.html",
+      "title": "AI语音进入“表演时代”：阿里Qwen-Audio-3.0-TTS登顶全球权威榜单",
+      "url": "https://www.qbitai.com/2026/07/455658.html",
       "source": "qbitai",
-      "publishedAt": "2026-07-20T04:34:07.000Z",
-      "summaryHint": "打造了沉浸式的 AI 基础设施交互体验",
+      "publishedAt": "2026-07-20T09:05:06.000Z",
+      "summaryHint": "细粒度标签+ 20 种方言",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-36kr-b7uf8",
+      "id": "rss-qbitai-yoe9aq",
       "type": "news",
-      "title": "专访靳玉志：「境」和「界」并不冲突，共同落实「电子螺丝钉」的战略定位",
-      "url": "https://36kr.com/p/3902068392658566?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-20T04:32:43.000Z",
-      "summaryHint": "华为公司高级副总裁、引望公司CEO 靳玉志 文｜肖漫 编辑｜李勤、杨轩 过去几年，华为一直强调自己在汽车行业的身份只有一个——“智能网联汽车的增量部件提供商”。 尽管一遍遍地强调，但随着合作车型不断扩容，“界”（指鸿蒙智行生态联盟中的问界、享界、智界、尊界、尚界）之外又出现了“境”（启境、奕境等），华为乾崑智驾授权体验中心开始向消费者开放，华为在汽车产业中的角色再一次被审视：它究竟是一家供应商，还是已经越来越像一家汽车品牌？“界”和“境”的关系是什么？ “我们的定位从来没有变化。”面对外界讨论，华为公司高级副总裁、引望公司CEO靳玉志近日接受采访时再次强调，引望始终坚持“电子螺丝钉”的战略定位，不和整车造车产生冲突，帮助车企造好车、卖好车，使华为乾崑真正成为汽车行业智能化的公共平台。 靳玉志自1998年加入华为，从波分领域工程师一路晋升为光产品线总裁，2023年担任华为智能汽车解决方案BU",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-9dkmxl",
-      "type": "news",
-      "title": "1.5B开源通用VLA模型，冲进具身智能第一梯队",
-      "url": "https://www.qbitai.com/2026/07/455229.html",
+      "title": "WAIC之后，重新理解与爱为舞：一家AI原生企业的学习场景验证",
+      "url": "https://www.qbitai.com/2026/07/455596.html",
       "source": "qbitai",
-      "publishedAt": "2026-07-20T03:36:20.000Z",
-      "summaryHint": "面壁智能发布MiniCPM-Robot系列模型",
+      "publishedAt": "2026-07-20T09:03:23.000Z",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-z6sb4d",
+      "id": "rss-qbitai-yxkxht",
       "type": "news",
-      "title": "Kimi K3上线48小时：模型爆火，GPU爆肝，会员停售",
-      "url": "https://www.qbitai.com/2026/07/455179.html",
+      "title": "GMI Cloud “无界造物节”在WAIC圆满完赛，“MaaS+创意”赋能 AI 创作新生态！",
+      "url": "https://www.qbitai.com/2026/07/455593.html",
       "source": "qbitai",
-      "publishedAt": "2026-07-20T03:33:24.000Z",
-      "summaryHint": "市场表现也跟着加速狂飙",
+      "publishedAt": "2026-07-20T08:52:26.000Z",
+      "summaryHint": "GMI Cloud × HappyHorse 共建 AI 创作生态",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-oxxoyc",
+      "id": "rss-google_news_cn_thesis-pmcfeq",
       "type": "news",
-      "title": "WAIC不筹量子重磅发布“量筹一号”——原子量子人工智能基座",
-      "url": "https://www.qbitai.com/2026/07/455136.html",
-      "source": "qbitai",
-      "publishedAt": "2026-07-20T03:15:19.000Z",
+      "title": "从内容生成迈向物理认知，在WAIC，看见AIGC下一站 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA2MTA3ajJvVExlLXBMMGF4NzBZU2I5U3h5NzMwR0dEOTRfaDdUcWhRbGFETWhWVXpLa0VWZWhyU3FhY1U5WHpaSg?oc=5",
+      "source": "google_news_cn_thesis",
+      "publishedAt": "2026-07-20T08:40:00.000Z",
+      "summaryHint": "从内容生成迈向物理认知，在WAIC，看见AIGC下一站 &nbsp;&nbsp; 财联社",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-rs7fbi",
+      "id": "rss-google_news_cn_36kr_deals-m8oabc",
       "type": "news",
-      "title": "蚂蚁集团、阿里云等正式加入PyTorch基金会，携手全球开源力量推动AI普惠",
-      "url": "https://www.qbitai.com/2026/07/455130.html",
-      "source": "qbitai",
-      "publishedAt": "2026-07-20T03:05:43.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-7d8u4x",
-      "type": "news",
-      "title": "在WAIC地下一层找机会的年轻人：光鲜是过去，眼下是生存",
-      "url": "https://36kr.com/p/3903396279125888?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-20T03:02:32.000Z",
-      "summaryHint": "6个年轻创业者在WAIC的故事 文｜温丽虹 王欣逸 编辑｜张雨忻 在上海世博的WAIC现场，想找初创公司的主场H4得颇费一番功夫。 经安检进入主会场，远远只看到会场墙壁上H1到H3的标识。跟随汹涌人群挤进一楼主展馆，几名忙着操纵具身智能机器人的知名厂商工程师翻了翻他们群聊里的展会地图，抱歉地告诉我，他们也不清楚：“这里只有H1到H3，没有H4。你是不是去分会场找找？” 属于初创团队的场地在主展馆地下一层偏居一隅，一道亮黄色的大门默不作声地支在场馆西北侧的角落。穿过这道大门，就是遍布初创公司的一方天地。 来之前，我们知道并非所有的AI创业者与科创公司都对参加WAIC怀抱热情。但对于手握产品与创业理想，又欠缺助力的初创团队来说，参与这次展会是一件有点“不得不去”的事情。 你能轻易辨认出那些为这个机会拼尽全力的人。他们中的一些人，手中用于演示的样机还贴着临时修补的胶带，但站在那里时，目光总在捕捉",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-9jbay6",
-      "type": "news",
-      "title": "谁还在卷参数？WAIC2026全是能干活的实体AI！",
-      "url": "https://36kr.com/p/3903383663478403?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-20T02:49:41.000Z",
-      "summaryHint": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;7月17日-20日，一起在WAIC2026现场，看见人工智能真正进入产业深处。 过去一年，围绕AI行业的讨论正在变得更具体。大模型能力仍在持续迭代，但外界关注的重点，已经不再只停留在模型参数、模型发布和单点能力展示上。随着智能体、具身智能、空间智能、AI基础设施等方向不断演进，行业开始更频繁地追问：AI如何进入真实流程，如何完成复杂任务，又如何在产业场景中形成可持续价值。 这种变化背后，是AI竞争维度的继续扩展：模型能力仍是基础，但企业真正要面对的，已经包括数据质量、工程系统、场景理解、交付能力和商业闭环等更复杂的问题。智能体需要从工具调用走向任务协同，机器人需要在真实场景中完成稳定作业，AI视频和空间智能正在改变内容生产与三维世界理解，算力、连接和云服务也在支撑更大规模的应用落地",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-2wdfs",
-      "type": "news",
-      "title": "腾讯云ADP 4.0海外版发布，要把企业级智能体带到全球市场 | 最前线",
-      "url": "https://36kr.com/p/3901396207584902?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-20T01:30:27.000Z",
-      "summaryHint": "腾讯云的企业级智能体平台，正式出海了。 7月18日，在2026世界人工智能大会上，腾讯云正式发布了智能体开发平台 ADP 4.0海外版，同步升级智能工作台、Claw 模式、Skill 广场三大核心模块，围绕触达、交互、生态、连接四大能力做了全面国际化适配。 ADP 的全称是 Agent Development Platform，定位为企业级 AgentOps 平台，覆盖智能体的构建、分发和治理全生命周期。 简单来说，它解决的是企业智能体从建立、运行到管理的问题。 智能体开发平台 ADP 4.0海外版 这次企业级智能体海外版的核心升级集中在四个方面：一是渠道，Claw 应用支持 LINE、Telegram 等主流海外社交渠道，一站发布即可跨区域触达全球用户； 而在交互体验上，智能工作台支持自定义时区与多区域调度，模型输出可跟随用户输入语言自动响应； 在开放生态上，模型广场已经接入多家国际主流",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-36kr-v5lqqt",
-      "type": "news",
-      "title": "从烤披萨到拿快递，满场跑的机器人终于要进你家了｜WAIC 2026全面探展",
-      "url": "https://36kr.com/p/3902007640459145?f=rss",
-      "source": "36kr",
-      "publishedAt": "2026-07-20T01:20:44.000Z",
-      "summaryHint": "史上最热的WAIC都整了哪些活？看这一篇就够了。 文｜邓咏仪 周鑫雨 王欣逸 温丽虹 编辑｜张雨忻 如果你想知道今年的AI圈第一盛事热度如何，只要来上海感受逼近40度的高温，就能同频共振。 没有很热，只有更热。 7月17日，2026年世界人工智能大会在上海世博展览馆正式开幕。展览面积首次突破10万平方米，1100余家企业参展，3000余项展品集中亮相，超300款产品全球首发。从展商数量来看，和2023年400家、2025年800家相比——两年翻了一倍还多。 从网传的消息来看，本届WAIC门票售罄的日子比以往也要更早—— 原价168元的单日票已经被黄牛炒到近十倍价格，三天通票则被炒到3000元。 论坛阵容同样也比此前要更豪华。9位图灵奖、诺贝尔奖得主出席本届WAIC大会，强化学习之父理查德·萨顿、深度学习三巨头之一约书亚·本吉奥悉数到场。 继2023年的数十款大模型竞相争抢风头，2024年应",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-arp22v",
-      "type": "news",
-      "title": "Meshy 公布估值超百亿，下一步进军实时互动的多模态内容体验 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRQ2w1Tnh3dlpsVWM1a3RWYWtQZzAzQWlyOXNISnA0SnJHU1VOSjl0YldBbk51Rk81QVg3RjlWdHdMeVBpdVlpZlZtMFRGMlM3?oc=5",
+      "title": "有了HappyHorse，为何阿里还总在「骑马找驴」 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EX29NcGRUSUZIZTI2TGVhQ0tnQ2NZY05jZjA1UUwtMkU5SWpxdVBtQU5OYWVRTVVKdjdqR2pIdW5TbW9DMW02Z1AteWJNYTdJ?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-07-19T11:45:00.000Z",
-      "summaryHint": "Meshy 公布估值超百亿，下一步进军实时互动的多模态内容体验 &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-07-19T20:48:00.000Z",
+      "summaryHint": "有了HappyHorse，为何阿里还总在「骑马找驴」 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -610,11 +606,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-mytn4e",
       "type": "news",
-      "title": "从阶跃星辰到银河通用：WAIC 参展企业背后的资本迁徙路线 - 36Kr",
+      "title": "从阶跃星辰到银河通用：WAIC 参展企业背后的资本迁徙路线 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IVVpkN0RfQmZwVjFwdnA1Zkw0a0pGTXF2WWhGTHQ4eXZEcl9KY2M3aHl5Z2VBUGtlZTE1cVU4XzE1WFpocHVwVHBIMGo4dEc0bFZn?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-07-16T21:08:00.000Z",
-      "summaryHint": "从阶跃星辰到银河通用：WAIC 参展企业背后的资本迁徙路线 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "从阶跃星辰到银河通用：WAIC 参展企业背后的资本迁徙路线 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -622,100 +618,85 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-dmlziu",
-      "type": "news",
-      "title": "DeepSeek冲刺IPO \"AI四小强\"估值体系迎来全面重估潮 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02SF9VcEV4Y0E3R3pVdkRkVFN5bC1NbXZzWWJ5Tm5keEJwQTB3VUxLWUNvNEh4OHM1ZU5mekMtNVZOQURfWGJFTkZGOE1NVVVRTXZj?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-07-14T18:11:00.000Z",
-      "summaryHint": "DeepSeek冲刺IPO \"AI四小强\"估值体系迎来全面重估潮 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "hn-alg-48895587",
-      "type": "news",
-      "title": "The Download: a donor conception cap and world models for AI",
-      "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
-      "source": "hacker_news_algolia",
-      "publishedAt": "2026-07-13T17:01:56.000Z",
-      "summaryHint": "HN points 2",
-      "tags": [
-        "generative",
-        "us"
-      ]
-    },
-    {
-      "id": "reddit-rss-dulkxp",
+      "id": "reddit-rss-825mwk",
       "type": "social_en",
-      "title": "Is there a way to add new video data to an already constructed 3DGS without recapturing everything?",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1v1ex4g/is_there_a_way_to_add_new_video_data_to_an/",
+      "title": "Can a single plane visor model be render with transparency in unreal or does it need to be extruded?",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1v28zps/can_a_single_plane_visor_model_be_render_with/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-07-21T05:15:25.000Z",
+      "summaryHint": "I want to render some models in UE but I don&#39;t know if the visor that I model will render proprelly. As the title said, the visor is a plane without sides or backside so I don&#39;t now if will be some problems with the transparency of ",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-88mwzy",
+      "type": "social_en",
+      "title": "SEQUENCER - Everything resets when keying only one object?",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1v2673x/sequencer_everything_resets_when_keying_only_one/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-07-21T02:56:56.000Z",
+      "summaryHint": "Is there any way to disable this behaviour? I&#39;m trying to set up a cutscene, moving actors around and keying their location. However whenever I key one actor&#39;s transform, everything else resets for some reason. If I&#39;m piloting t",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-2et8ei",
+      "type": "social_en",
+      "title": "Wayne bought a motorcycle",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1v2442i/wayne_bought_a_motorcycle/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-07-21T01:21:32.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/worldtraveler666 [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-c0tcbr",
+      "type": "social_en",
+      "title": "Converting architectural visualisations from Unreal Engine to SuperSplat",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1v22wqs/converting_architectural_visualisations_from/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-07-20T07:49:52.000Z",
-      "summaryHint": "I&#39;m working on a 3D Gaussian Splatting scene of a room and realized I missed a specific angle. Instead of doing another full video capture of the entire space, I’d like to just shoot that missing spot and append the new footage to my ex",
+      "publishedAt": "2026-07-21T00:26:51.000Z",
+      "summaryHint": "Scene by Architectural Visualisation Studio ( https://www.nbv.studio/ ) - an experiment converting their Unreal Engine archviz project into a 3D Gaussian Splat, including voxel-based collision generation so the result is a walkable 3D envir",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-ag1g4l",
+      "id": "reddit-rss-en5hgh",
       "type": "social_en",
-      "title": "What is your workflow?",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1v1eoqy/what_is_your_workflow/",
+      "title": "Immersive Gaussian Splat Tour of Grace Cathedral, San Francisco",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1v1x7cj/immersive_gaussian_splat_tour_of_grace_cathedral/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-07-20T07:35:53.000Z",
-      "summaryHint": "I have been trying to train GS using Brush but no matter the version (0.3) or the self-compiled one, the app crashes at around 10-15k iterations. I have tried to set max splats at 2-3M and reduce the image resolution but it crashes and does",
+      "publishedAt": "2026-07-20T20:34:18.000Z",
+      "summaryHint": "Last year I had the idea to scan San Francisco&#39;s famous Grace Cathedral in very high quality, both inside and out, and build an interactive experience that anyone can use. It&#39;s all on the web and anyone can try it out right now: htt",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-s2f3z9",
+      "id": "reddit-rss-b5thl8",
       "type": "social_en",
-      "title": "New to Splatting, what sort of parameters should I use to remove the noise?",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1v1dbxy/new_to_splatting_what_sort_of_parameters_should_i/",
+      "title": "A Historical Organization recently approached me to Splat a building of theirs before it is torn down and (hopefully) rebuilt",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1v1p9tm/a_historical_organization_recently_approached_me/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-07-20T06:17:19.000Z",
-      "summaryHint": "https://preview.redd.it/3x7crioiubeh1.png?width=1246&amp;format=png&amp;auto=webp&amp;s=fae8e59a96b7f05e0a5fbb2635058c33ed919a3f I&#39;ve tried upping the number of splats before it finishes training, but it keeps generating the same result",
+      "publishedAt": "2026-07-20T15:48:23.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/Armand9x [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-ri414s",
+      "id": "reddit-rss-60tqzx",
       "type": "social_en",
-      "title": "With all the Kimi drama I feel like I want to download all the current best models in case there is a ridiculous knee jerk political move pulled",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v170vg/with_all_the_kimi_drama_i_feel_like_i_want_to/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-07-20T00:52:29.000Z",
-      "summaryHint": "I haven&#39;t kept up since around February so I&#39;m just not even sure... and there are quite a few options. I don&#39;t care about parameter size, from tiny to huge, what matters most is performance, I just want all the best safely loca",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-f4kb4d",
-      "type": "social_en",
-      "title": "HuggingFace security incident report: \"the attacker was bound by no usage policy, while our own forensic work was blocked by the guardrails\"",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0ywoi/huggingface_security_incident_report_the_attacker/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-07-19T19:00:20.000Z",
-      "summaryHint": "Earlier this week, we detected and responded to an intrusion into part of our production infrastructure. This one was different from anything we had handled before in one important way: it was driven, end to end, by an autonomous AI agent s",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-6s4ope",
-      "type": "social_en",
-      "title": "Please Qwen, can we have more 3.x-35B-a3B please 🙏",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0t1g2/please_qwen_can_we_have_more_3x35ba3b_please/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-07-19T15:09:58.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/JLeonsarmiento [link] &#32; [comments]",
+      "title": "Last Week In Unreal: 789 on ue6-main, 48 on ue5-main |",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1v1h34t/last_week_in_unreal_789_on_ue6main_48_on_ue5main/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-07-20T09:57:06.000Z",
+      "summaryHint": "Hello hello! Epic is back after the summer shutdown and so is the commit activity. ue5-main rose to 48 commits of 5.x maintenance. Most of it is build-system and plumbing work. If you&#39;re building from source or shipping on console, you ",
       "tags": [
         "ai_social"
       ]
