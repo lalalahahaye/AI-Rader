@@ -1,12 +1,58 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-06T09:07:34.551Z",
+  "updatedAt": "2026-08-07T07:43:10.362Z",
   "items": [
     {
-      "id": "rss-google_news_cn_36kr_deals-k7pwy8",
+      "id": "rss-google_news_cn_36kr_deals-9iik6t",
+      "type": "funding",
+      "title": "DeepSeek Harness 负责人吐槽“融资材料”吹过头：V4-Pro编程能力仅差Claude旗舰0.3%，前端服务费高达10% - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GMjRZaVJOXzJPNzNzTnZHTUtsbmJRdGp5ZjdhRFRFVVZJWXpmbndjcU0zMW94dGZxVW55bEQ4OGFNME9qOWFER2g2RzVTa2tu?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-07T04:57:37.000Z",
+      "summaryHint": "DeepSeek Harness 负责人吐槽“融资材料”吹过头：V4-Pro编程能力仅差Claude旗舰0.3%，前端服务费高达10% &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-7nrio",
+      "type": "funding",
+      "title": "澳大利亚AI基础设施公司Firmus完成20亿美元融资，英伟达、黑石等参投 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MSFcyQXNjWDVvczhWODRVM09mSTZqdDl6Y2FaNDBXQXNuOVhNVVlmc0pkNHJ6QTg5LXU2MjFxLXg3SE5aUUgzU3R4M2llX3Z0OXNaSUZCX2FIZkwwMmc?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-06T12:09:00.000Z",
+      "summaryHint": "澳大利亚AI基础设施公司Firmus完成20亿美元融资，英伟达、黑石等参投 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "20亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-thkcpp",
+      "type": "funding",
+      "title": "前5家公司拿下7成融资，商业航天上半年融资额翻了3.7倍 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11MkswRnNETElpcUF0c0FJNXZxMkdFTzlfY2pnQ0tLS3haUDVwY3VLSVhRR081MWNoeE5FNUVEWWRGcmZJcU9fdGVXdF8yZ1BP?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-06T11:25:14.000Z",
+      "summaryHint": "前5家公司拿下7成融资，商业航天上半年融资额翻了3.7倍 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-thh061",
       "type": "funding",
       "title": "16岁辍学，25岁干出223亿AI芯片独角兽：又融资21亿 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15YkdvVnItS1BTU0RYNUQtRzV0Yk1LSUVLOS1yRTAtWUQwaExFVDNWLVZVcG1UWjR0RHVEWjRoa0drYlFmeXFyRVY0cDFBUjdT?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PTFl5b21mQnc1bXZmWEpMUkhibV9obEZvMDg5d0NIbEFrS0RnTTFhaGJYWkpwTFRxaFlXbmE5WnptTUZDYlNUTncwQmVQbTQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-06T08:09:46.000Z",
       "summaryHint": "16岁辍学，25岁干出223亿AI芯片独角兽：又融资21亿 &nbsp;&nbsp; 36 Kr",
@@ -48,22 +94,6 @@
         "deal_rss",
         "deal_signal"
       ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-m8ce7c",
-      "type": "funding",
-      "title": "风火轮萤图完成3000万元种子+轮融资，发力具身智能主动交互 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BenB2cmdrT0lISmIzZE5zN3kxZkE5OEZNX3UxcEsxOHQyZS1lN1B3eG02cUhLR0cySDRpNlZ2SkhCUk0yZmpibTdaTlNKLTNF?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-04T09:22:11.000Z",
-      "summaryHint": "风火轮萤图完成3000万元种子+轮融资，发力具身智能主动交互 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "3000万元"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-w14x3v",
@@ -116,33 +146,17 @@
     {
       "id": "rss-google_news_cn_36kr_deals-w55527",
       "type": "funding",
-      "title": "宇树机器人启动上市融资 加码核心AI技术研发补“脑”布局 - 36Kr",
+      "title": "宇树机器人启动上市融资 加码核心AI技术研发补“脑”布局 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9td2FjeDVpTzJnTnZCYnV4a2dIeGtEaW5DUlR6R1ZkQlhJNllmMFprSldGa0V3eWV6TU8zR2hkbjlZVkNOaVBnbDRtMF9LVGpBOEpR?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-03T13:47:00.000Z",
-      "summaryHint": "宇树机器人启动上市融资 加码核心AI技术研发补“脑”布局 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "宇树机器人启动上市融资 加码核心AI技术研发补“脑”布局 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
       ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-uz22g0",
-      "type": "funding",
-      "title": "估值40亿美元，半年翻6倍，今年融资最猛的AI应用公司，竟然在卖保险 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wYUQ5WUxOWVNfZUVURkZCckgxbHFmWVdyaWVKXzZ5ZmNScFNsWVh0Mks4dVR2YzU0MWRIMGlUbXJnVklGNGZJTTB1M3d0T2ho?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-02T20:27:00.000Z",
-      "summaryHint": "估值40亿美元，半年翻6倍，今年融资最猛的AI应用公司，竟然在卖保险 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "40亿"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-o56ppg",
@@ -176,142 +190,128 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-2qjcqf",
-      "type": "funding",
-      "title": "璨辰科技获多轮融资，领跑 NAMs 虚拟器官黄金赛道 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13c3NpUWU3MVRhSng5NHdLLXZFMXQ4U3FiSWYwd2ZtektTYmMzN2xwNVkzYklMWG93azZ3TWVyUHZzUFlQWkNLa1pGemllQmdJ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-07-30T15:09:00.000Z",
-      "summaryHint": "璨辰科技获多轮融资，领跑 NAMs 虚拟器官黄金赛道 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-qbitai-8sgz9n",
+      "id": "rss-qbitai-v44cjf",
       "type": "news",
-      "title": "没有人靠段子永载GitHub，除非谷歌姐夫",
-      "url": "https://www.qbitai.com/2026/08/467447.html",
+      "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+      "url": "https://www.qbitai.com/2026/08/466738.html",
       "source": "qbitai",
-      "publishedAt": "2026-08-06T08:02:45.000Z",
-      "summaryHint": "Jeff Dean用大脑挖比特币",
+      "publishedAt": "2026-08-07T06:21:05.000Z",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-7dc432",
+      "id": "rss-qbitai-wha7or",
       "type": "news",
-      "title": "Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一",
-      "url": "https://www.qbitai.com/2026/08/467444.html",
+      "title": "openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境",
+      "url": "https://www.qbitai.com/2026/08/468305.html",
       "source": "qbitai",
-      "publishedAt": "2026-08-06T07:43:56.000Z",
+      "publishedAt": "2026-08-07T06:18:51.000Z",
+      "summaryHint": "从「能用」走向「规模化落地」",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-68pzd9",
+      "id": "rss-qbitai-qiz8mh",
       "type": "news",
-      "title": "这人谁啊？哈萨比斯都让位了",
-      "url": "https://www.qbitai.com/2026/08/467274.html",
+      "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
+      "url": "https://www.qbitai.com/2026/08/467878.html",
       "source": "qbitai",
-      "publishedAt": "2026-08-06T06:17:43.000Z",
-      "summaryHint": "没想到还有LeCun的事儿",
+      "publishedAt": "2026-08-07T05:30:08.000Z",
+      "summaryHint": "AI卷向运动赛道，Keep的新答卷能否跑通？",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-84wgy1",
+      "id": "rss-qbitai-q1xm8a",
       "type": "news",
-      "title": "MiniMax H3登顶开源社区第一，定义视频模型领域“斩杀线”",
-      "url": "https://www.qbitai.com/2026/08/467270.html",
+      "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
+      "url": "https://www.qbitai.com/2026/08/467877.html",
       "source": "qbitai",
-      "publishedAt": "2026-08-06T05:36:37.000Z",
+      "publishedAt": "2026-08-07T03:23:54.000Z",
+      "summaryHint": "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-lv7ido",
+      "id": "rss-qbitai-r00v0o",
       "type": "news",
-      "title": "超级算力枢纽远景乌兰察布星河基地投产，全球最大AI算力超级单体落地",
-      "url": "https://www.qbitai.com/2026/08/467262.html",
+      "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
+      "url": "https://www.qbitai.com/2026/08/467879.html",
       "source": "qbitai",
-      "publishedAt": "2026-08-06T05:29:40.000Z",
+      "publishedAt": "2026-08-07T03:23:01.000Z",
+      "summaryHint": "Chat优化版",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-4rgn70",
+      "id": "rss-qbitai-n7nvv4",
       "type": "news",
-      "title": "突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
-      "url": "https://www.qbitai.com/2026/08/467196.html",
+      "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
+      "url": "https://www.qbitai.com/2026/08/467871.html",
       "source": "qbitai",
-      "publishedAt": "2026-08-05T23:52:10.000Z",
-      "summaryHint": "与此同时，哈萨比斯卸任谷歌DeepMind CEO",
+      "publishedAt": "2026-08-07T03:08:51.000Z",
+      "summaryHint": "蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-jgo1kh",
+      "id": "rss-qbitai-lakl76",
       "type": "news",
-      "title": "别再吹AI生图了，不能图层编辑的AI都是“画饼”",
-      "url": "https://www.qbitai.com/2026/08/467034.html",
+      "title": "AI SSD：大模型推理的存储范式转移",
+      "url": "https://www.qbitai.com/2026/08/467840.html",
       "source": "qbitai",
-      "publishedAt": "2026-08-05T14:09:18.000Z",
-      "summaryHint": "兔展智能发布RabbitVis，让AI真正走完设计全流程",
+      "publishedAt": "2026-08-07T02:56:46.000Z",
+      "summaryHint": "算力、网络、内存与存储开始围绕每个Token协同",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-keracv",
+      "id": "rss-qbitai-y2sduf",
       "type": "news",
-      "title": "等等，MiniMax H3不是刚发布吗？怎么就卷到几分钱的价格了……",
-      "url": "https://www.qbitai.com/2026/08/467036.html",
+      "title": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
+      "url": "https://www.qbitai.com/2026/08/467834.html",
       "source": "qbitai",
-      "publishedAt": "2026-08-05T13:47:51.000Z",
-      "summaryHint": "MiniMax H3也能开箱即用了",
+      "publishedAt": "2026-08-07T01:39:16.000Z",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-pznoa7",
+      "id": "rss-qbitai-68iphq",
       "type": "news",
-      "title": "又一家AI基金暴雷了",
-      "url": "https://www.qbitai.com/2026/08/467001.html",
+      "title": "智元下架了首席科学家罗剑岚",
+      "url": "https://www.qbitai.com/2026/08/467730.html",
       "source": "qbitai",
-      "publishedAt": "2026-08-05T12:43:18.000Z",
-      "summaryHint": "开源改写游戏规则",
+      "publishedAt": "2026-08-07T01:25:40.000Z",
+      "summaryHint": "智元机器人高管生变！",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-rgpt13",
+      "id": "rss-qbitai-mv7ya7",
       "type": "news",
-      "title": "淘天开启2027届应届生招聘：AI技术类岗位占比超9成",
-      "url": "https://www.qbitai.com/2026/08/466998.html",
+      "title": "Show me《指环王》！卡帕西强推大模型评测新基准",
+      "url": "https://www.qbitai.com/2026/08/467663.html",
       "source": "qbitai",
-      "publishedAt": "2026-08-05T09:38:49.000Z",
-      "summaryHint": "阿里巴巴淘天集团开启2027届应届生招聘。",
+      "publishedAt": "2026-08-07T01:15:42.000Z",
+      "summaryHint": "指环王成为大模型新基准",
       "tags": [
         "china",
         "funding"
@@ -345,61 +345,109 @@
       ]
     },
     {
-      "id": "reddit-rss-i74tvo",
+      "id": "reddit-rss-85dz5s",
       "type": "social_en",
-      "title": "ArcGIS Reality Aerial & Drone 3DGS Gallery",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vgo1g4/arcgis_reality_aerial_drone_3dgs_gallery/",
+      "title": "cant wait for llms to be benchmaxxed on this /s",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhpamn/cant_wait_for_llms_to_be_benchmaxxed_on_this_s/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-08-07T03:22:20.000Z",
+      "summaryHint": "google facing yet another &quot;innovator&#39;s dilemma&quot; or some shi smh lgtb ig EDIT - WHEN THE FUCK WILL LE CHATON FAT COME RIGHT ON !!???? &#32; submitted by &#32; /u/combo-user [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-g5vxng",
+      "type": "social_en",
+      "title": "Friday humor",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhmyje/friday_humor/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-08-07T01:31:46.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/etherd0t [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-229bal",
+      "type": "social_en",
+      "title": "Room scan → world-locked 3DGS on standalone Quest 3, with an embodied agent that navigates the scanned floor",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vhmtbr/room_scan_worldlocked_3dgs_on_standalone_quest_3/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-05T23:48:09.000Z",
-      "summaryHint": "Hi everyone! We wanted to share our Gaussian Splat gallery built with ArcGIS Reality: 👉 View the gallery The gallery showcases Gaussian splats generated from aerial and drone imagery, made possible thanks to datasets shared by our customer",
+      "publishedAt": "2026-08-07T01:24:58.000Z",
+      "summaryHint": "I&#39;m a PhD student and I&#39;ve been building this on the side. What it does: you walk around your room once with the headset. It trains a 3D Gaussian Splatting model of the space, streams it back, and renders it world-locked to your act",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-pfjsrj",
+      "id": "reddit-rss-oz0w4b",
       "type": "social_en",
-      "title": "SuperSplat Showcase: cobbled street in Sopot, Poland",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vgmh4j/supersplat_showcase_cobbled_street_in_sopot_poland/",
+      "title": "Jungle Temple",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1vhk0wj/jungle_temple/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-08-06T23:20:02.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/losudown [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-rx4mps",
+      "type": "social_en",
+      "title": "more cannabis 360 splatting!",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vhj4ju/more_cannabis_360_splatting/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-05T22:41:48.000Z",
-      "summaryHint": "A quiet residential street in Sopot on the Polish Baltic coast - cobbles, art nouveau townhouses, a red brick church at the end of the road. Captured as a 3D Gaussian splat by Iris Digital and published to SuperSplat. The interesting thing ",
+      "publishedAt": "2026-08-06T22:42:33.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/JoeFollowsFlow [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-o9p4co",
+      "id": "reddit-rss-49dzoy",
       "type": "social_en",
-      "title": "I was asked for pricing on how much to do podcasting film/editing. Then they low balled me. What would you do?",
-      "url": "https://www.reddit.com/r/videography/comments/1vgbz9x/i_was_asked_for_pricing_on_how_much_to_do/",
-      "source": "reddit_r_videography",
-      "publishedAt": "2026-08-05T16:18:14.000Z",
-      "summaryHint": "I initially told them I would do it on monthly contract through my company. It was supposed to be part time and my estimations on time made me feel like it definitely would be for my offer. I said $3,500. I know this is low. I recently got ",
+      "title": "kaleidoscope",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1vhh9d4/kaleidoscope/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-08-06T21:26:40.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/20260708 [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-m3i9dv",
+      "id": "reddit-rss-hk08y3",
       "type": "social_en",
-      "title": "Complete splatting pipeline in the browser",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vg4nez/complete_splatting_pipeline_in_the_browser/",
+      "title": "I added native Gaussian splat rendering to Blender Cycles",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vhefkz/i_added_native_gaussian_splat_rendering_to/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-05T11:25:25.000Z",
-      "summaryHint": "I’ve been building a complete splatting pipeline for SplatEdit.app that runs locally in the browser with WebGPU. Custom SfM, Brush browser-based training, and the full workflow in one place. You can use images or video. For video, it automa",
+      "publishedAt": "2026-08-06T19:38:47.000Z",
+      "summaryHint": "I needed proper splat support for a project, so I put together a working version. No plugin or external viewer, they render directly in Cycles with lighting, shadows and reflections. Still rough and rather slow, but I’ve shared the Windows ",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-md26kd",
+      "id": "reddit-rss-kw05pm",
       "type": "social_en",
-      "title": "/r/videography Monthly Camera Buying Advice Megathread",
-      "url": "https://www.reddit.com/r/videography/comments/1vc66s5/rvideography_monthly_camera_buying_advice/",
-      "source": "reddit_r_videography",
-      "publishedAt": "2026-07-31T23:00:35.000Z",
-      "summaryHint": "Welcome to the /r/videography monthly camera buying megathread. All requests asking for camera buying advice must be posted in this thread. If you&#39;ve been directed here by a removal reason or moderator, you&#39;re in the right place! Be",
+      "title": "Qwen 3.8 Max now ranked as best overall model ahead of Opus 5 by Artificial Analysis agentic index",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhd416/qwen_38_max_now_ranked_as_best_overall_model/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-08-06T18:50:32.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/anderspitman [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-8x09fj",
+      "type": "social_en",
+      "title": "Volumetric path traced skin still looks like silicone/plastic. What am I missing?",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1vg9lvq/volumetric_path_traced_skin_still_looks_like/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-08-05T14:53:47.000Z",
+      "summaryHint": "Hi everyone, I&#39;m building a physically-based human skin renderer from scratch in Taichi, and I&#39;m looking for feedback from people with experience in skin rendering. My current renderer implements: Monte Carlo volumetric path tracing",
       "tags": [
         "ai_social"
       ]
