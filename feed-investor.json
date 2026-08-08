@@ -1,14 +1,45 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-07T07:43:10.362Z",
+  "updatedAt": "2026-08-08T07:17:41.006Z",
   "items": [
     {
-      "id": "rss-google_news_cn_36kr_deals-9iik6t",
+      "id": "rss-qbitai-nxrixd",
+      "type": "funding",
+      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+      "url": "https://www.qbitai.com/2026/08/468398.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-08T02:45:02.000Z",
+      "summaryHint": "再花15亿美元买现成AI编程团队",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "amount": "15亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-yvzemm",
+      "type": "funding",
+      "title": "赋予机器人“空间直觉”，「Ommo Technologies」获数千万美元A轮融资｜36氪首发 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LN2V5bS1PZWZ1QTFETjBNUHgwZmNFZlVOaDMtMXl0eUFaazdYd2VPUlRwY1dLWldFUG9jSXJhczdzT21BZ244V1hxT0ZmWUhz?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-07T00:31:52.000Z",
+      "summaryHint": "赋予机器人“空间直觉”，「Ommo Technologies」获数千万美元A轮融资｜36氪首发 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "A轮融资"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-8rbo7t",
       "type": "funding",
       "title": "DeepSeek Harness 负责人吐槽“融资材料”吹过头：V4-Pro编程能力仅差Claude旗舰0.3%，前端服务费高达10% - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GMjRZaVJOXzJPNzNzTnZHTUtsbmJRdGp5ZjdhRFRFVVZJWXpmbndjcU0zMW94dGZxVW55bEQ4OGFNME9qOWFER2g2RzVTa2tu?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jeHhFaGpOZHdsMzFsV3ZUejVEeGtEY0NRNWNueGRsbktEYi1hZUkzdGpUQlpTX1QzT1pLWHpVRkVma2w2YzBNQ0htZklXUQ?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-07T04:57:37.000Z",
+      "publishedAt": "2026-08-06T13:55:00.000Z",
       "summaryHint": "DeepSeek Harness 负责人吐槽“融资材料”吹过头：V4-Pro编程能力仅差Claude旗舰0.3%，前端服务费高达10% &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
@@ -49,6 +80,22 @@
       ]
     },
     {
+      "id": "rss-google_news_cn_36kr_deals-4uldk5",
+      "type": "funding",
+      "title": "36氪首发 | 拿下头部消费电子客户订单，这家超高精度金属3D打印公司完成Pre-A轮融资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5POEZlU1d4cDRDWHJxZnNIQmFsNXFEYlZ4N202RndkMUkyRDB0cXpfdlFGQ0NTNmJrTXhxMU1MQUVFeU5VOVhZdjBHZWxUdkky?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-06T10:11:00.000Z",
+      "summaryHint": "36氪首发 | 拿下头部消费电子客户订单，这家超高精度金属3D打印公司完成Pre-A轮融资 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "Pre-A"
+    },
+    {
       "id": "rss-google_news_cn_36kr_deals-thh061",
       "type": "funding",
       "title": "16岁辍学，25岁干出223亿AI芯片独角兽：又融资21亿 - 36 Kr",
@@ -65,29 +112,29 @@
       "amount": "223亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-m0skwi",
+      "id": "rss-google_news_cn_36kr_deals-hij98l",
       "type": "funding",
-      "title": "报道：DeepSeek重启融资，投前估值5000亿元 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JbXhJNE0xYktUU3piT2Q2aGNFd1JWdVZrQXEwUDJLNEF1TF9PTnM4VWFVQ1RPeHplOHhScDJEekdRWENWcG1TU1hEZ3F0ZkZlUEhIUXItVG1CMGNCMlE?oc=5",
+      "title": "让机器人的交互界面像手机一样直观，Enigma获7100万美元种子融资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81RFRMb0d6SnUxdEVfQktFMDdoY3FoNUFLNENYTmcyZWlWNEZjbkxIODl5YzJtRE16SC14VFBubTJFLWJ3dzdzeHE2QkNSMXdu?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-05T04:20:52.000Z",
-      "summaryHint": "报道：DeepSeek重启融资，投前估值5000亿元 &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-08-05T21:00:00.000Z",
+      "summaryHint": "让机器人的交互界面像手机一样直观，Enigma获7100万美元种子融资 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
       ],
-      "amount": "5000亿元"
+      "amount": "7100万"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-sl133f",
+      "id": "rss-google_news_cn_36kr_deals-m170xw",
       "type": "funding",
-      "title": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Bd2tGeFhkMnA3M25aaWpMYXNHcnhTWW1EXzR1YXVjRUtpX1FwbklTVXZvSVo1MkxQMlltb2NZbFB0MEZ2REc2UlJlS2M5ZlRW?oc=5",
+      "title": "“北斗智影”完成新一轮融资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84bjFJU3JhUlhtZXNhN0otY3R4MG95LXZsRkNTaHU1N3JHaXlnMC1WQk5rUWZiM0E1aV9xcE1rWEZ0QVNkTmpoS1JVZjZua21iZkZYZ3lCRmI5WVJYa3c?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-05T02:20:05.000Z",
-      "summaryHint": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元 &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-08-05T12:28:33.000Z",
+      "summaryHint": "“北斗智影”完成新一轮融资 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -96,20 +143,19 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-w14x3v",
+      "id": "rss-google_news_cn_36kr_deals-38biio",
       "type": "funding",
-      "title": "用Physical AI解决实验工具痛点，术也科技获Pre-A轮融资 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iOEVCc1RwOEtmV2VEYU5haFMyMURQbUxxcm9Ud18tNUVjS3lyTXMwbm9iRUN3cFFKeDBLdmppQVRFalRZX3UtaEdlRjZFUUVq?oc=5",
+      "title": "36氪首发 | 清华系物理AI基建初创再融数千万美元，数据设备进入全球化规模交付 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBieHpLSHlRSURqaGpka21JNjJURzZyb2l5NkdEZ3U3ZGhHaFhJQzU3NndLblNtZUV5RDFoRE5OQkNxT0d3WTdHOU1waW1aVGFN?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-04T09:16:55.000Z",
-      "summaryHint": "用Physical AI解决实验工具痛点，术也科技获Pre-A轮融资 &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-08-05T11:09:00.000Z",
+      "summaryHint": "36氪首发 | 清华系物理AI基建初创再融数千万美元，数据设备进入全球化规模交付 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
-      ],
-      "round": "Pre-A"
+      ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-dyead2",
@@ -128,22 +174,6 @@
       "amount": "2.5亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-elcdle",
-      "type": "funding",
-      "title": "同轮融资估值差出700亿 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lQ25NdWZSeVhibm1QR0d4LUhMSEV0RzQzUjNiVXlqc2FQQVdYRVp2bF9JMUdoMGpzNU05Rjl1SlhaTVJfY2ZvWU9Xd0FtNW8?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-04T03:47:37.000Z",
-      "summaryHint": "同轮融资估值差出700亿 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "700亿"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-w55527",
       "type": "funding",
       "title": "宇树机器人启动上市融资 加码核心AI技术研发补“脑”布局 - 36 Kr",
@@ -159,13 +189,29 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-o56ppg",
+      "id": "rss-google_news_cn_36kr_deals-r1hqef",
       "type": "funding",
-      "title": "解AI及合规痛点重构GMP软件，药岱序寻天使轮融资 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5eTZZWF9sdC1XRTg5WFNyTXJJdk1ZNzlZSUtIYzlkdlRnQ2Q4Nkd2enpaQmZZX2NFMEZSWm1WcVVxb0tmampqMjFVSnM5b3RU?oc=5",
+      "title": "企业级上下文操作系统ContextOS完成种子轮融资 投资方信息暂未披露 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9la3d5Mk83UWdxaER1YmR0UUtYYzNpS0ZsOFNRaVdJZEJ4bXZ1cjlzdjk2RHQxNmhtNERVNElOeW1HX2tMQlJLNUc2Z2pXWXNWNHZn?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-02T15:05:00.000Z",
-      "summaryHint": "解AI及合规痛点重构GMP软件，药岱序寻天使轮融资 &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-08-02T15:00:00.000Z",
+      "summaryHint": "企业级上下文操作系统ContextOS完成种子轮融资 投资方信息暂未披露 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "种子轮"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-5anplw",
+      "type": "funding",
+      "title": "硬氪首发 | 硅光资深团队获数千万天使轮融资，瞄准CPO/OIO下一代光互连解决方案 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtX3NBSWJnaUJiemZrV2VZbENwTlNxN2pHZmVMNXFXbUxlUkVMb2gzb2JQWl81cjYwNlpWWG82amtaRXdPNnBDV0haOHRpSjEw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-02T14:43:00.000Z",
+      "summaryHint": "硬氪首发 | 硅光资深团队获数千万天使轮融资，瞄准CPO/OIO下一代光互连解决方案 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -175,18 +221,42 @@
       "round": "天使轮"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-dcmtzo",
-      "type": "funding",
-      "title": "企业级上下文操作系统ContextOS完成种子融资，投资方暂未披露 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyTXB3andWZXFzSV8tRDNCdGF5aHE2RHRpZ2JaWlBHb3BWZ1RnNllkSmNPemNSMUZmam5CaEVYelFNQVV5aER2Zi1DbHNoQm16?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-02T15:00:00.000Z",
-      "summaryHint": "企业级上下文操作系统ContextOS完成种子融资，投资方暂未披露 &nbsp;&nbsp; 36 Kr",
+      "id": "rss-qbitai-5vxeyb",
+      "type": "news",
+      "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
+      "url": "https://www.qbitai.com/2026/08/468462.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-08T04:33:53.000Z",
+      "summaryHint": "唉，赶紧整完快点发布吧。。。",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-6whvkb",
+      "type": "news",
+      "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
+      "url": "https://www.qbitai.com/2026/08/468338.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-08T02:35:38.000Z",
+      "summaryHint": "啊，这真是个AI“失控”的夏天",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-9o2w8i",
+      "type": "news",
+      "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
+      "url": "https://www.qbitai.com/2026/08/468324.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-07T07:43:06.000Z",
+      "summaryHint": "AI语音“听、说、创”一站式满足",
+      "tags": [
+        "china",
+        "funding"
       ]
     },
     {
@@ -204,7 +274,7 @@
     {
       "id": "rss-qbitai-wha7or",
       "type": "news",
-      "title": "openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境",
+      "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
       "url": "https://www.qbitai.com/2026/08/468305.html",
       "source": "qbitai",
       "publishedAt": "2026-08-07T06:18:51.000Z",
@@ -267,57 +337,6 @@
       ]
     },
     {
-      "id": "rss-qbitai-lakl76",
-      "type": "news",
-      "title": "AI SSD：大模型推理的存储范式转移",
-      "url": "https://www.qbitai.com/2026/08/467840.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-07T02:56:46.000Z",
-      "summaryHint": "算力、网络、内存与存储开始围绕每个Token协同",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-y2sduf",
-      "type": "news",
-      "title": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
-      "url": "https://www.qbitai.com/2026/08/467834.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-07T01:39:16.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-68iphq",
-      "type": "news",
-      "title": "智元下架了首席科学家罗剑岚",
-      "url": "https://www.qbitai.com/2026/08/467730.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-07T01:25:40.000Z",
-      "summaryHint": "智元机器人高管生变！",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-mv7ya7",
-      "type": "news",
-      "title": "Show me《指环王》！卡帕西强推大模型评测新基准",
-      "url": "https://www.qbitai.com/2026/08/467663.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-07T01:15:42.000Z",
-      "summaryHint": "指环王成为大模型新基准",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-1k04ua",
       "type": "news",
       "title": "00后辍学做AI芯片，估值223亿元 - 36 Kr",
@@ -332,122 +351,61 @@
       ]
     },
     {
-      "id": "hn-alg-49127378",
-      "type": "news",
-      "title": "World Models Are AI's Next Frontier",
-      "url": "https://time.com/article/2026/07/15/world-models-are-ai-s-next-frontier/",
-      "source": "hacker_news_algolia",
-      "publishedAt": "2026-07-31T19:11:13.000Z",
-      "summaryHint": "HN points 5",
-      "tags": [
-        "generative",
-        "us"
-      ]
-    },
-    {
-      "id": "reddit-rss-85dz5s",
+      "id": "reddit-rss-kho3on",
       "type": "social_en",
-      "title": "cant wait for llms to be benchmaxxed on this /s",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhpamn/cant_wait_for_llms_to_be_benchmaxxed_on_this_s/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-08-07T03:22:20.000Z",
-      "summaryHint": "google facing yet another &quot;innovator&#39;s dilemma&quot; or some shi smh lgtb ig EDIT - WHEN THE FUCK WILL LE CHATON FAT COME RIGHT ON !!???? &#32; submitted by &#32; /u/combo-user [link] &#32; [comments]",
+      "title": "Short Roofing Advertisement I made!",
+      "url": "https://www.reddit.com/r/videography/comments/1vime23/short_roofing_advertisement_i_made/",
+      "source": "reddit_r_videography",
+      "publishedAt": "2026-08-08T04:30:41.000Z",
+      "summaryHint": "Hey guys, I’ve been doing videography for a good while now, looking to improve and would love feedback. I’m not super into overly edited, fast/flashy videos that seem to be so popular online now. I’m more a fan of classic and medium paced a",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-g5vxng",
+      "id": "reddit-rss-brx18g",
       "type": "social_en",
-      "title": "Friday humor",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhmyje/friday_humor/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-08-07T01:31:46.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/etherd0t [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-229bal",
-      "type": "social_en",
-      "title": "Room scan → world-locked 3DGS on standalone Quest 3, with an embodied agent that navigates the scanned floor",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vhmtbr/room_scan_worldlocked_3dgs_on_standalone_quest_3/",
+      "title": "ThreeJS is getting built-in Gaussian Splatting via a TSL-native renderer with PLY, SPLAT, KSPLAT, SPZ and glTF loaders",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vi79uj/threejs_is_getting_builtin_gaussian_splatting_via/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-07T01:24:58.000Z",
-      "summaryHint": "I&#39;m a PhD student and I&#39;ve been building this on the side. What it does: you walk around your room once with the headset. It trains a 3D Gaussian Splatting model of the space, streams it back, and renders it world-locked to your act",
+      "publishedAt": "2026-08-07T17:38:12.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/Insensibilities [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-oz0w4b",
+      "id": "reddit-rss-36mz95",
       "type": "social_en",
-      "title": "Jungle Temple",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1vhk0wj/jungle_temple/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-08-06T23:20:02.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/losudown [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-rx4mps",
-      "type": "social_en",
-      "title": "more cannabis 360 splatting!",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vhj4ju/more_cannabis_360_splatting/",
+      "title": "Turn your screen into a window for viewing Gaussian splats",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vi1vnd/turn_your_screen_into_a_window_for_viewing/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-06T22:42:33.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/JoeFollowsFlow [link] &#32; [comments]",
+      "publishedAt": "2026-08-07T14:17:04.000Z",
+      "summaryHint": "The webcam tracks my head with MediaPipe&#39;s face landmarker, and the PlayCanvas Engine renders the splat (with it&#39;s shiny new high-performance WebGPU-renderer) through an off-axis projection - a frustum whose apex is my eye and whose",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-49dzoy",
+      "id": "reddit-rss-pl62vo",
       "type": "social_en",
-      "title": "kaleidoscope",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1vhh9d4/kaleidoscope/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-08-06T21:26:40.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/20260708 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-hk08y3",
-      "type": "social_en",
-      "title": "I added native Gaussian splat rendering to Blender Cycles",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vhefkz/i_added_native_gaussian_splat_rendering_to/",
+      "title": "Is this a revolution?",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vi153v/is_this_a_revolution/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-06T19:38:47.000Z",
-      "summaryHint": "I needed proper splat support for a project, so I put together a working version. No plugin or external viewer, they render directly in Cycles with lighting, shadows and reflections. Still rough and rather slow, but I’ve shared the Windows ",
+      "publishedAt": "2026-08-07T13:47:43.000Z",
+      "summaryHint": "Now everybody will do this easily? &#32; submitted by &#32; /u/Ok-Guess-9059 [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-kw05pm",
+      "id": "reddit-rss-bi1crn",
       "type": "social_en",
-      "title": "Qwen 3.8 Max now ranked as best overall model ahead of Opus 5 by Artificial Analysis agentic index",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhd416/qwen_38_max_now_ranked_as_best_overall_model/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-08-06T18:50:32.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/anderspitman [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-8x09fj",
-      "type": "social_en",
-      "title": "Volumetric path traced skin still looks like silicone/plastic. What am I missing?",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1vg9lvq/volumetric_path_traced_skin_still_looks_like/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-08-05T14:53:47.000Z",
-      "summaryHint": "Hi everyone, I&#39;m building a physically-based human skin renderer from scratch in Taichi, and I&#39;m looking for feedback from people with experience in skin rendering. My current renderer implements: Monte Carlo volumetric path tracing",
+      "title": "I put a lot of effort into this. Please, tear it apart. (Feedback needed)",
+      "url": "https://www.reddit.com/r/videography/comments/1vi0rm9/i_put_a_lot_of_effort_into_this_please_tear_it/",
+      "source": "reddit_r_videography",
+      "publishedAt": "2026-08-07T13:32:39.000Z",
+      "summaryHint": "So, I&#39;m pretty new to everything film related. I tried making a project and after endlessly fiddling with it, I decided it was done. Not that it&#39;s good, just that it&#39;s done lol. Everything was recorded with an Osmo Pocket 4 in D",
       "tags": [
         "ai_social"
       ]
