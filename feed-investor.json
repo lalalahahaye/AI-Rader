@@ -1,15 +1,108 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-13T07:54:59.701Z",
+  "updatedAt": "2026-08-14T07:52:32.559Z",
   "items": [
     {
-      "id": "rss-google_news_cn_36kr_deals-87zh76",
+      "id": "rss-google_news_cn_36kr_deals-i1xcjh",
       "type": "funding",
-      "title": "桥介数物完成新一轮亿级融资，加速落地通用机器人操作系统 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VUm45T2tOZGNWclo5b2RobTd3U0FRd283R1EyQnB4dFZDclEyV2F4OXVSMDJrMV9TOHBHejlfVUZURG9ZZW5OYlNrR19oUkdy?oc=5",
+      "title": "美国数据及人工智能公司Databricks完成50亿美元融资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xMkRFMm9XM2dVbGdra0Q5OVB1cXZaSjFESVY1Y2Yxb1hRVEVHUnRIY1ZHeHVwVmVGc3RpN1ZhbHVsM0IxMDJZMWlUa2hpZml2M1p0QTFkQnpnbnNpVFE?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-12T11:07:30.000Z",
-      "summaryHint": "桥介数物完成新一轮亿级融资，加速落地通用机器人操作系统 &nbsp;&nbsp; 36kr.com",
+      "publishedAt": "2026-08-14T00:38:57.000Z",
+      "summaryHint": "美国数据及人工智能公司Databricks完成50亿美元融资 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "50亿"
+    },
+    {
+      "id": "rss-qbitai-fp3as8",
+      "type": "funding",
+      "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
+      "url": "https://www.qbitai.com/2026/08/472059.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-13T12:34:42.000Z",
+      "summaryHint": "首颗AI芯片已进入量产",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "amount": "4.8亿"
+    },
+    {
+      "id": "rss-qbitai-5a3m3y",
+      "type": "funding",
+      "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
+      "url": "https://www.qbitai.com/2026/08/472060.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-13T11:53:02.000Z",
+      "summaryHint": "重新定义物理AI数据基础设施",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-9gic9y",
+      "type": "funding",
+      "title": "遭近百次投资人拒绝 这家教育AI公司完成超6300万美元融资 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUclJla2ZfWVIxNVEwMmRVNWJFdy1DYVRqUGJZeE9yZ2ZHTUQzcXN3amJKTG9SMGNaeE5ITkNjUXJvc1Y1OTJaYXdGYVh0WnZoMGZF?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-13T11:16:00.000Z",
+      "summaryHint": "遭近百次投资人拒绝 这家教育AI公司完成超6300万美元融资 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "6300万"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-ijaj9p",
+      "type": "funding",
+      "title": "曾被投资人拒绝近百次，这家教育 AI 公司融资近 6300 万美元 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wYkpYQ3pwM242S1F2N0d0dlcwM3Q0ZjRpS1V3NzZnYmdDbDF3SVFRRWtKLS0wb2tUT000Z0lGWXkxVzFkWlJocWRBb3Y3UQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-13T11:16:00.000Z",
+      "summaryHint": "曾被投资人拒绝近百次，这家教育 AI 公司融资近 6300 万美元 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "6300万"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-7symsz",
+      "type": "funding",
+      "title": "美国数据及人工智能公司Databricks完成50亿美元融资 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvSm1lNmhGNkxFUjU4NWpabWpUZHRoSFVUTjVFR1VQV3lFbi1JVG5Ua3kyLW1oS2NOZnd6Q1oxQm15dkhmVk1qNEswMkhBUjc3aGtuUUxLeUZjRzBWUFdKWA?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-13T09:27:00.000Z",
+      "summaryHint": "美国数据及人工智能公司Databricks完成50亿美元融资 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "50亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-bcxh5o",
+      "type": "funding",
+      "title": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久…… - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxSVJDalF6TENUUUJkWHN0SFVHUndSOTZPNURWdDZtQ3BEc2twMk1aX0liSWJKUUI4MzhOcFVWWDhLdl9Zc3FnUkZ0OHVfZw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-12T19:19:00.000Z",
+      "summaryHint": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久…… &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -20,11 +113,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-2gmdmq",
       "type": "funding",
-      "title": "xAI联合创始人创立的River AI融资11亿美元，英伟达、AMD参投 - 36kr.com",
+      "title": "xAI联合创始人创立的River AI融资11亿美元，英伟达、AMD参投 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sTlZmRU9MaE50Ty15ZjkxWDFKN3pIdXdBZnJhd2Zob0ZoS3I1Mmp2Qy1CMmx1MGFNaDc4MUdVYjVOS2dwaEJxVTFEQnFRTVRyelZVdHhPekpBcDNjUlE?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-12T01:41:39.000Z",
-      "summaryHint": "xAI联合创始人创立的River AI融资11亿美元，英伟达、AMD参投 &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "xAI联合创始人创立的River AI融资11亿美元，英伟达、AMD参投 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -36,11 +129,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-nsj38w",
       "type": "funding",
-      "title": "林俊旸创办AI公司语用科技，天使轮融资估值20亿美元 - 36kr.com",
+      "title": "林俊旸创办AI公司语用科技，天使轮融资估值20亿美元 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05SE1xdHl6eERiYVJVdDVWNDRGM2d6dDYza1lfNll4cTZoY1pLMDhPWUtHRkM1TktYSHpOVWJuOTRzQjlVajcwT2Ixd3RVNUREMHhaa1ZXVmE1YzlSS1E?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-12T00:43:18.000Z",
-      "summaryHint": "林俊旸创办AI公司语用科技，天使轮融资估值20亿美元 &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "林俊旸创办AI公司语用科技，天使轮融资估值20亿美元 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -83,11 +176,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-pvitgl",
       "type": "funding",
-      "title": "AI初创企业Cognition开启新一轮融资谈判，估值目标直指400亿美元 - 36kr.com",
+      "title": "AI初创企业Cognition开启新一轮融资谈判，估值目标直指400亿美元 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pc0E1VUpxdTlYN3hJaEdRMnFqSWZjZTNBX0JoTWZSN2JoVWlTYk9FY25DWGJiZWNaZ2taR21mLWktNFY5SzVkUjQ3MnpFejdWZWR2MzNZZ1VOdGFKYUE?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-11T13:03:00.000Z",
-      "summaryHint": "AI初创企业Cognition开启新一轮融资谈判，估值目标直指400亿美元 &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "AI初创企业Cognition开启新一轮融资谈判，估值目标直指400亿美元 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -99,11 +192,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-oi9a3a",
       "type": "funding",
-      "title": "6个月4轮融资，西湖大学教授火了 - 36kr.com",
+      "title": "6个月4轮融资，西湖大学教授火了 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96bklQRHdEWUdwYV9yVlA4c0Vkdk5xaDlHTmlTcV8wYlRsR1Rma3JGbFBEdi1ocTBtRDdiRlZ3LTF3OWRsX09kNVRuTTkyZw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-11T11:23:00.000Z",
-      "summaryHint": "6个月4轮融资，西湖大学教授火了 &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "6个月4轮融资，西湖大学教授火了 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -112,45 +205,13 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-hlyvud",
-      "type": "funding",
-      "title": "CoreWeave完成26亿美元AI基础设施贷款融资 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zYmlBclBRQVZwSjhJT04wWGx6Nk5SS3FIQ0cxOWpQa1B3X09SYnNhNUU0X1FWakc1X3lPUWpMZlR0QVp2c1h5TG5YYzA5bldZbkVpRzl1X0E1VjlaQ2c?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-10T23:42:27.000Z",
-      "summaryHint": "CoreWeave完成26亿美元AI基础设施贷款融资 &nbsp;&nbsp; 36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "26亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-in33oj",
-      "type": "funding",
-      "title": "5000亿美元，黄仁勋要搞个大的 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12S0RVZlhrOWdtR2dnV24ySHhzZ2s5RTFiUm1LOW1SclYxSnRKdWJVcW83dDJrQ0ZQazVTbGVNdlg1NEI0UFMyYm5WVlRSUQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-10T22:03:00.000Z",
-      "summaryHint": "5000亿美元，黄仁勋要搞个大的 &nbsp;&nbsp; 36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "5000亿"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-fm5xy1",
       "type": "funding",
-      "title": "5000亿美元，黄仁勋否认“循环融资” - 36kr.com",
+      "title": "5000亿美元，黄仁勋否认“循环融资” - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxSkFmREYwdW01eW5UVFpPN2M1aDJfUFpyNTF5TEJOU0IxUEZBVHpoR3QxVE1IdU84VFV5Zk40YW0tNjIwX21XbFF0RUxUUQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-10T17:53:00.000Z",
-      "summaryHint": "5000亿美元，黄仁勋否认“循环融资” &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "5000亿美元，黄仁勋否认“循环融资” &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -192,82 +253,102 @@
       "amount": "5000亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-8gre7d",
-      "type": "funding",
-      "title": "硬氪首发｜开放式AI助听器完成数千万元天使轮融资，海外市场已众筹数百万美金 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9SLTNBMWlWMEx0N2h6OUNtaFFJWWcxcFlqbWREMS1DdWJhaTBMZExJbnhhTEhZdXZpLWZxb0JySjRSRHRQNjl1UzUwX0dhQQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-09T18:30:00.000Z",
-      "summaryHint": "硬氪首发｜开放式AI助听器完成数千万元天使轮融资，海外市场已众筹数百万美金 &nbsp;&nbsp; 36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "天使轮"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-2ae6w3",
-      "type": "funding",
-      "title": "36氪首发 | 天使++轮融资5亿，前华为生成式大模型负责人把家务机器人折进40厘米 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Pdk1UUlVKaUVnUl9UeUZ6czJRZ2tOU2RaaGdDdFg3N1FNTXhGUXJPMnFiSzltZENsQzczSmtabnBtTlRteVZwMHhoOHdpdw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-09T11:12:00.000Z",
-      "summaryHint": "36氪首发 | 天使++轮融资5亿，前华为生成式大模型负责人把家务机器人折进40厘米 &nbsp;&nbsp; 36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "5亿"
-    },
-    {
-      "id": "rss-qbitai-br7xq5",
+      "id": "rss-qbitai-f6kule",
       "type": "news",
-      "title": "倒计时｜2026世界机器人大会主论坛议程发布！",
-      "url": "https://www.qbitai.com/2026/08/471668.html",
+      "title": "德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集",
+      "url": "https://www.qbitai.com/2026/08/472718.html",
       "source": "qbitai",
-      "publishedAt": "2026-08-13T05:10:50.000Z",
+      "publishedAt": "2026-08-14T06:18:56.000Z",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-r2ttfr",
+      "id": "rss-qbitai-vwve66",
       "type": "news",
-      "title": "刚刚，DeepSeek V4 Pro正式版发布，多项对标Fable 5",
-      "url": "https://www.qbitai.com/2026/08/471642.html",
+      "title": "深度体验DeepSeek Harness，我原谅它涨价了",
+      "url": "https://www.qbitai.com/2026/08/472208.html",
       "source": "qbitai",
-      "publishedAt": "2026-08-13T03:54:01.000Z",
-      "summaryHint": "现在调用V4 Pro，能直接用上完全体",
+      "publishedAt": "2026-08-13T16:03:19.000Z",
+      "summaryHint": "欢迎，为后人种点树",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-1bvi7x",
+      "id": "rss-qbitai-1ys9cl",
       "type": "news",
-      "title": "360纳米大片流水线携手《知识就是力量》发布“知力·纳米”科普科幻AI大片创作平台",
-      "url": "https://www.qbitai.com/2026/08/471624.html",
+      "title": "马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购",
+      "url": "https://www.qbitai.com/2026/08/472067.html",
       "source": "qbitai",
-      "publishedAt": "2026-08-13T03:11:48.000Z",
-      "summaryHint": "《知识就是力量》杂志社携手360科技集团举行“知力·纳米 科普科幻AI大片创作平台”发布暨AI创作交流活动",
+      "publishedAt": "2026-08-13T12:04:29.000Z",
+      "summaryHint": "马斯克版Workbuddy也来了",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-gd2gut",
+      "id": "rss-qbitai-4sp8vt",
       "type": "news",
-      "title": "引领智能手机迈入具身交互时代 全球首款机器人手机荣耀Robot Phone发布",
-      "url": "https://www.qbitai.com/2026/08/471451.html",
+      "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
+      "url": "https://www.qbitai.com/2026/08/472016.html",
       "source": "qbitai",
-      "publishedAt": "2026-08-13T03:00:41.000Z",
+      "publishedAt": "2026-08-13T11:29:04.000Z",
+      "summaryHint": "好数学家不挑AI模型",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-givp49",
+      "type": "news",
+      "title": "中国人能飞！杭州发布全球首款站姿载人飞行器",
+      "url": "https://www.qbitai.com/2026/08/471893.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-13T10:20:32.000Z",
+      "summaryHint": "让一部分人先飞起来",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-2bj1af",
+      "type": "news",
+      "title": "科大讯飞发布企业服务全系列产品 覆盖七大核心场景",
+      "url": "https://www.qbitai.com/2026/08/471884.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-13T10:01:47.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-3a6gsd",
+      "type": "news",
+      "title": "刚刚！Ilya首个模型曝光了",
+      "url": "https://www.qbitai.com/2026/08/471701.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-13T08:36:53.000Z",
+      "summaryHint": "SSI第一剑，劈向持续学习",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-vsxajr",
+      "type": "news",
+      "title": "联想集团Q1再创史上最佳业绩，AI服务器业务迎来爆发期",
+      "url": "https://www.qbitai.com/2026/08/471697.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-13T06:33:52.000Z",
+      "summaryHint": "当季实现营收1834亿元人民币，同比猛增43%，创历史新高",
       "tags": [
         "china",
         "funding"
@@ -280,110 +361,56 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
       "source": "hacker_news_algolia",
       "publishedAt": "2026-08-13T01:50:27.000Z",
-      "summaryHint": "HN points 25",
+      "summaryHint": "HN points 35",
       "tags": [
         "generative",
         "us"
       ]
     },
     {
-      "id": "rss-qbitai-1k2hti",
-      "type": "news",
-      "title": "《置身谷内》！Jeff Dean上顶会自曝离职现场：被1500人围堵",
-      "url": "https://www.qbitai.com/2026/08/471254.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-12T13:46:12.000Z",
-      "summaryHint": "回消息到凌晨2点半",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-gndxg2",
-      "type": "news",
-      "title": "Anthropic CEO整天神神叨叨，投资人受不了了",
-      "url": "https://www.qbitai.com/2026/08/471162.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-12T13:38:09.000Z",
-      "summaryHint": "Dario能不能少吓唬点人…",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-hdk7u",
-      "type": "news",
-      "title": "国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键",
-      "url": "https://www.qbitai.com/2026/08/471049.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-12T13:10:55.000Z",
-      "summaryHint": "具身模型一小时狂拣1816件异形包裹",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-jf6fzm",
-      "type": "news",
-      "title": "紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力",
-      "url": "https://www.qbitai.com/2026/08/471030.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-12T10:54:29.000Z",
-      "summaryHint": "免训练、开箱即用！",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-d82g5c",
-      "type": "news",
-      "title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
-      "url": "https://www.qbitai.com/2026/08/470901.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-12T07:31:19.000Z",
-      "summaryHint": "2026年7月29日—30日，由融中财经和秦创原科技创新投资集团主办的2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-hj8rut",
-      "type": "news",
-      "title": "人形之外，擎羽把“身体”变成具身智能的新变量",
-      "url": "https://www.qbitai.com/2026/08/470874.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-12T04:29:57.000Z",
-      "summaryHint": "从柔性本体走向跨本体基础智能，让任务与世界知识延续",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "reddit-rss-ssl9zt",
+      "id": "reddit-rss-mw43pp",
       "type": "social_en",
-      "title": "[ Removed by Reddit ]",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vn1uyv/removed_by_reddit/",
+      "title": "Implementing camera tracking with gaussian splatting inside Houdini, because... Why not?",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vnxjr6/implementing_camera_tracking_with_gaussian/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-13T05:35:24.000Z",
-      "summaryHint": "[ Removed by Reddit on account of violating the content policy . ] &#32; submitted by &#32; /u/HIHI3dgaus [link] &#32; [comments]",
+      "publishedAt": "2026-08-14T04:45:04.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/Ok-Reference-4626 [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-lkj99x",
+      "id": "reddit-rss-d3q3sy",
       "type": "social_en",
-      "title": "Going into game dev finally, but sheesh AI bros kinda suck to deal with",
-      "url": "https://www.reddit.com/r/gamedev/comments/1vmy4c2/going_into_game_dev_finally_but_sheesh_ai_bros/",
-      "source": "reddit_r_gamedev",
-      "publishedAt": "2026-08-13T02:24:42.000Z",
-      "summaryHint": "I decided that my next best course of action with being a comic artist and animator was to start putting those skills into game dev. At first I was going to start learning web programming by making a website and having comic pages have anim",
+      "title": "Gunman Contracts is Finally Launching Alongside Steam Frame!",
+      "url": "https://www.reddit.com/r/virtualreality/comments/1vnob4d/gunman_contracts_is_finally_launching_alongside/",
+      "source": "reddit_r_virtualreality",
+      "publishedAt": "2026-08-13T21:43:59.000Z",
+      "summaryHint": "ANB_Seth has been hard at work for a long time on this one and we can assure you it&#39;s worth the wait :) It will be playable on SteamVR compatible headsets at launch. Thanks for all your support and patience! &#32; submitted by &#32; /u/",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-2w0b5g",
+      "type": "social_en",
+      "title": "System Shock VR has been announced",
+      "url": "https://www.reddit.com/r/virtualreality/comments/1vnjkpc/system_shock_vr_has_been_announced/",
+      "source": "reddit_r_virtualreality",
+      "publishedAt": "2026-08-13T18:48:00.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/gogodboss [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-l9g4yw",
+      "type": "social_en",
+      "title": "And here is the windows version",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vnay9j/and_here_is_the_windows_version/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-08-13T13:36:52.000Z",
+      "summaryHint": "Following this post from yesterday: https://www.reddit.com/r/GaussianSplatting/s/Sl4h8YI02H Here&#39;s the demo of preview 3DGS files and many other file types. As windows doesn&#39;t have a quicklook feature, you double click a gaussian sp",
       "tags": [
         "ai_social"
       ]
@@ -401,25 +428,13 @@
       ]
     },
     {
-      "id": "reddit-rss-y6h84k",
+      "id": "reddit-rss-jc224",
       "type": "social_en",
-      "title": "Meccha Chameleon Has Sold 20 Million Units",
-      "url": "https://www.reddit.com/r/gamedev/comments/1vmezng/meccha_chameleon_has_sold_20_million_units/",
-      "source": "reddit_r_gamedev",
-      "publishedAt": "2026-08-12T14:01:08.000Z",
-      "summaryHint": "To think 2 devs made this game in 2 months and its reached such hieghts, their profits have to be insane &#32; submitted by &#32; /u/akbarock [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-6lku0d",
-      "type": "social_en",
-      "title": "Just launched xr/quicklook. A free MacOS quicklook app to preview 3DGS and more.",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vmegkr/just_launched_xrquicklook_a_free_macos_quicklook/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-12T13:40:00.000Z",
-      "summaryHint": "I didn&#39;t had a way to quick preview gaussian splats, 3D models or point cloud files. So I created a free macos quicklook app that allows to press the SPACE bar and instantly preview plus allow to move, rotate and scale to have a better ",
+      "title": "Weekly VR - What Did you Play?",
+      "url": "https://www.reddit.com/r/virtualreality/comments/1vi7w46/weekly_vr_what_did_you_play/",
+      "source": "reddit_r_virtualreality",
+      "publishedAt": "2026-08-07T18:00:43.000Z",
+      "summaryHint": "Hey r/virtualreality ! Another week in the VR space. Did a certain game or experience stand out to you? This is your spot to chat, share, and discover. When sharing, you might consider sharing: Name of the game or experience. A brief insigh",
       "tags": [
         "ai_social"
       ]
