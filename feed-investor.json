@@ -1,79 +1,30 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-15T06:59:14.882Z",
+  "updatedAt": "2026-08-16T07:00:45.463Z",
   "items": [
     {
-      "id": "rss-google_news_cn_36kr_deals-i1xcjh",
+      "id": "rss-qbitai-eweqyn",
       "type": "funding",
-      "title": "美国数据及人工智能公司Databricks完成50亿美元融资 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xMkRFMm9XM2dVbGdra0Q5OVB1cXZaSjFESVY1Y2Yxb1hRVEVHUnRIY1ZHeHVwVmVGc3RpN1ZhbHVsM0IxMDJZMWlUa2hpZml2M1p0QTFkQnpnbnNpVFE?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-14T00:38:57.000Z",
-      "summaryHint": "美国数据及人工智能公司Databricks完成50亿美元融资 &nbsp;&nbsp; 36氪",
+      "title": "牛来！A社营收暴涨1400%，最新季度入账115亿美元",
+      "url": "https://www.qbitai.com/2026/08/473947.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-16T05:28:42.000Z",
+      "summaryHint": "将超越马斯克的SpaceX，成为史上上市估值最高的IPO。",
       "tags": [
         "china",
         "funding",
-        "deal_rss",
         "deal_signal"
       ],
-      "amount": "50亿"
+      "amount": "115亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-1brqe1",
+      "id": "rss-google_news_cn_36kr_deals-4wgfkp",
       "type": "funding",
-      "title": "美AI巨头大手笔发债，还埋下了近2万亿美元表外“炸弹” - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlWnFRVjZ3dXhLOEs1WWxubGN3RUNhc1ZKaUpwU09vN1ZXQ2JTd09aV0NUTlhvUjNEQlJUZzVUS1Exdl9nMnBYaTRoSGxHZw?oc=5",
+      "title": "中科大孵化，国内唯一通用光量子计算整机企业完成超亿融资丨36氪首发 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpLWh6WjFVdVk3dGF3QzFLbnlzcG5PX04wWDBtSU1TNTY1NU9XU2dBSGoydmtXeUpxbVBSemFnMmh2S3J3RG1qTS1fUkMxUQ?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-13T19:31:00.000Z",
-      "summaryHint": "美AI巨头大手笔发债，还埋下了近2万亿美元表外“炸弹” &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "2万"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-9gic9y",
-      "type": "funding",
-      "title": "遭近百次投资人拒绝 这家教育AI公司完成超6300万美元融资 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUclJla2ZfWVIxNVEwMmRVNWJFdy1DYVRqUGJZeE9yZ2ZHTUQzcXN3amJKTG9SMGNaeE5ITkNjUXJvc1Y1OTJaYXdGYVh0WnZoMGZF?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-13T11:16:00.000Z",
-      "summaryHint": "遭近百次投资人拒绝 这家教育AI公司完成超6300万美元融资 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "6300万"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-7symsz",
-      "type": "funding",
-      "title": "美国数据及人工智能公司Databricks完成50亿美元融资 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvSm1lNmhGNkxFUjU4NWpabWpUZHRoSFVUTjVFR1VQV3lFbi1JVG5Ua3kyLW1oS2NOZnd6Q1oxQm15dkhmVk1qNEswMkhBUjc3aGtuUUxLeUZjRzBWUFdKWA?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-13T09:27:00.000Z",
-      "summaryHint": "美国数据及人工智能公司Databricks完成50亿美元融资 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "50亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-bcxh5o",
-      "type": "funding",
-      "title": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久…… - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxSVJDalF6TENUUUJkWHN0SFVHUndSOTZPNURWdDZtQ3BEc2twMk1aX0liSWJKUUI4MzhOcFVWWDhLdl9Zc3FnUkZ0OHVfZw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-12T19:19:00.000Z",
-      "summaryHint": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久…… &nbsp;&nbsp; 36氪",
+      "publishedAt": "2026-08-14T10:20:00.000Z",
+      "summaryHint": "中科大孵化，国内唯一通用光量子计算整机企业完成超亿融资丨36氪首发 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -82,91 +33,62 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-2gmdmq",
+      "id": "rss-google_news_cn_36kr_deals-2gmchb",
       "type": "funding",
-      "title": "xAI联合创始人创立的River AI融资11亿美元，英伟达、AMD参投 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sTlZmRU9MaE50Ty15ZjkxWDFKN3pIdXdBZnJhd2Zob0ZoS3I1Mmp2Qy1CMmx1MGFNaDc4MUdVYjVOS2dwaEJxVTFEQnFRTVRyelZVdHhPekpBcDNjUlE?oc=5",
+      "title": "GPU五小虎融资超300亿，谁会是“中国版英伟达”？ - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11UUlnUjJ2UC1xX0wzMWptU1lraF9STGtmZDhOUnpnbmRPT3BjOG5LWDYwbTRJaWo1NVlha01iS1k0S0FfUTRWTmE4WlpyWnc?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-12T01:41:39.000Z",
-      "summaryHint": "xAI联合创始人创立的River AI融资11亿美元，英伟达、AMD参投 &nbsp;&nbsp; 36氪",
+      "publishedAt": "2026-08-14T04:49:12.000Z",
+      "summaryHint": "GPU五小虎融资超300亿，谁会是“中国版英伟达”？ &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
       ],
-      "amount": "11亿"
+      "amount": "300亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-nsj38w",
+      "id": "rss-google_news_cn_36kr_deals-gm9x21",
       "type": "funding",
-      "title": "林俊旸创办AI公司语用科技，天使轮融资估值20亿美元 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05SE1xdHl6eERiYVJVdDVWNDRGM2d6dDYza1lfNll4cTZoY1pLMDhPWUtHRkM1TktYSHpOVWJuOTRzQjlVajcwT2Ixd3RVNUREMHhaa1ZXVmE1YzlSS1E?oc=5",
+      "title": "成立3个月，估值135亿，林俊旸新公司曝光：融资15亿 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80QmhHdkFxNU10cmdVTUVOWk1iSlpvaHlQaXE4aEZiRGRfNC0xZ1M0NTNwT3ZCS0Y3MmhDa185OEVtWVRsLURSRW9QMlFPTVE?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-12T00:43:18.000Z",
-      "summaryHint": "林俊旸创办AI公司语用科技，天使轮融资估值20亿美元 &nbsp;&nbsp; 36氪",
+      "publishedAt": "2026-08-13T12:10:09.000Z",
+      "summaryHint": "成立3个月，估值135亿，林俊旸新公司曝光：融资15亿 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
       ],
-      "round": "天使轮",
-      "amount": "20亿"
+      "amount": "135亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-h8wve4",
+      "id": "rss-google_news_cn_36kr_deals-lugd42",
       "type": "funding",
-      "title": "「MemoraX AI」宣布完成数亿元种子 ++ 轮融资，光源资本担任独家财务顾问 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kTXJaYTdIQUQxQXBXY2dsZWFFWV9pZ28xY0s5NWE4UzR0dDBFeHhxS3ZrQ09LTVVmUjRTZE5Za1g3Wm9YdFFNMjdDWHM2OHV3SlJj?oc=5",
+      "title": "发力海外漫剧市场，AI动画与3D内容创作平台「来画」完成6800万元D轮融资 | 36氪首发 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TYnNmYXFqSnJNcWEwRjF2UGpGOEUwMndzbG9IMzAyMGhpLTN1enpLNXlvY2hEOGtKdDQ1ZWl0dWtPQXdJLVQxTDdwTGp2UXJUSkdF?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-11T14:58:00.000Z",
-      "summaryHint": "「MemoraX AI」宣布完成数亿元种子 ++ 轮融资，光源资本担任独家财务顾问 &nbsp;&nbsp; 36Kr",
+      "publishedAt": "2026-08-13T10:29:00.000Z",
+      "summaryHint": "发力海外漫剧市场，AI动画与3D内容创作平台「来画」完成6800万元D轮融资 | 36氪首发 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
-      ]
+      ],
+      "round": "D轮融资",
+      "amount": "6800万元"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-eihbfs",
+      "id": "rss-google_news_cn_36kr_deals-6s74fk",
       "type": "funding",
-      "title": "大模型记忆技术新突破 郝建业半年完成三轮融资 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xOFNfUE5jaDU2X3JZbkNFSVdMRURpUWdFLTNFSzdjUGktbm1kcFpkZm1xTlVYcFZJZE1ScXZfYnFXYUtFTzh1dzdJZ2NodXZPZm0w?oc=5",
+      "title": "5000亿美元涌向算力：英伟达想要给AI装上金融杠杆 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EYmsxd2NVY1FpS2oyWXFBdHZkSGpzSHY1ZXVXVjJjNTVzT285eU1yaHpRTENkZ2JIRVUzbGVOaHAyVFgyM01ZbGN0S1N5Zw?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-11T13:58:00.000Z",
-      "summaryHint": "大模型记忆技术新突破 郝建业半年完成三轮融资 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-oi9a3a",
-      "type": "funding",
-      "title": "6个月4轮融资，西湖大学教授火了 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96bklQRHdEWUdwYV9yVlA4c0Vkdk5xaDlHTmlTcV8wYlRsR1Rma3JGbFBEdi1ocTBtRDdiRlZ3LTF3OWRsX09kNVRuTTkyZw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-11T11:23:00.000Z",
-      "summaryHint": "6个月4轮融资，西湖大学教授火了 &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-fm5xy1",
-      "type": "funding",
-      "title": "5000亿美元，黄仁勋否认“循环融资” - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxSkFmREYwdW01eW5UVFpPN2M1aDJfUFpyNTF5TEJOU0IxUEZBVHpoR3QxVE1IdU84VFV5Zk40YW0tNjIwX21XbFF0RUxUUQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-10T17:53:00.000Z",
-      "summaryHint": "5000亿美元，黄仁勋否认“循环融资” &nbsp;&nbsp; 36氪",
+      "publishedAt": "2026-08-12T20:48:00.000Z",
+      "summaryHint": "5000亿美元涌向算力：英伟达想要给AI装上金融杠杆 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -174,6 +96,89 @@
         "deal_signal"
       ],
       "amount": "5000亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-meb43i",
+      "type": "funding",
+      "title": "“本体派”与“供应商派”：灵巧手赛道2026年融资深度观察 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13WF9vN1pNTWdrUTRDMGZldGVLcVYzMklMYzBWWHB1c2pESXVoUER2MzNRejRZbkxQbUxaaFVlYzJYQzZtRi1PLVJYT3JyZw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-11T18:37:00.000Z",
+      "summaryHint": "“本体派”与“供应商派”：灵巧手赛道2026年融资深度观察 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-rpmgii",
+      "type": "funding",
+      "title": "英伟达宣布将与6家金融公司合作，筹集逾5000亿美元用于AI计算 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYYlF1ek10TWRwVFI0aUhpc3RqZVJMdUt3NWQtUjVUTkpXb0V6b3JtR1JwY0JMdUdxSHl6dEFXd01tbVlXa0RmYTdFc3dkWENQMFFMVHpvdy1Ib0NVWEE?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-10T23:22:24.000Z",
+      "summaryHint": "英伟达宣布将与6家金融公司合作，筹集逾5000亿美元用于AI计算 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "5000亿"
+    },
+    {
+      "id": "rss-qbitai-qrjzqh",
+      "type": "news",
+      "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+      "url": "https://www.qbitai.com/2026/08/473972.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-16T05:37:39.000Z",
+      "summaryHint": "背后是四项关键能力",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-5vzqy",
+      "type": "news",
+      "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
+      "url": "https://www.qbitai.com/2026/08/473876.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-15T06:42:23.000Z",
+      "summaryHint": "理解大模型，无需再训练一个替代网络",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-eua9yz",
+      "type": "news",
+      "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
+      "url": "https://www.qbitai.com/2026/08/473866.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-15T06:36:05.000Z",
+      "summaryHint": "音潮API限时免费开放",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-1aaxo",
+      "type": "news",
+      "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
+      "url": "https://www.qbitai.com/2026/08/473669.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-15T06:05:31.000Z",
+      "summaryHint": "推理能力还能自定义",
+      "tags": [
+        "china",
+        "funding"
+      ]
     },
     {
       "id": "rss-qbitai-e86tvu",
@@ -241,76 +246,27 @@
       ]
     },
     {
-      "id": "rss-qbitai-jlukvm",
+      "id": "rss-google_news_cn_36kr_deals-r5ddge",
       "type": "news",
-      "title": "谷歌开始肢解DeepMind，数个团队被划归总部",
-      "url": "https://www.qbitai.com/2026/08/473153.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-14T14:51:48.000Z",
-      "summaryHint": "布林亲自下场督战",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-vfz4qh",
-      "type": "news",
-      "title": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
-      "url": "https://www.qbitai.com/2026/08/473149.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-14T10:25:36.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-4dxgfs",
-      "type": "news",
-      "title": "刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了",
-      "url": "https://www.qbitai.com/2026/08/473038.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-14T08:47:51.000Z",
-      "summaryHint": "顺手拿下最强开源安全模型",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-xt78pg",
-      "type": "news",
-      "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
-      "url": "https://www.qbitai.com/2026/08/473144.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-14T08:36:00.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-3cgaqj",
-      "type": "news",
-      "title": "算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」",
-      "url": "https://www.qbitai.com/2026/08/472722.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-14T07:29:22.000Z",
-      "summaryHint": "少花一半成本，部署效率提升80%！机器人研发可以不用重复造轮子了。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-gvty96",
-      "type": "news",
-      "title": "资本涌入AIGC内容赛道，但钱不再只追大模型 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xV2NSWENBZWk4LWxTSVZWcU5RdEcyZ21nRTFNbzZ2V3U0eEhBYl9UQlNHcWFiY3hEUklicVNCOFhBMm1rU3I0QUV3Ui1qTkRw?oc=5",
+      "title": "模型越做越小，面壁智能的“端侧”生意有多大？ - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53dVZmWVZUZ2k1U2QxYXpKWXdFR0ZzSzZQaEN2dXhtdTNXUWdQU210bFViUHJiNjJyOFYzdFozWHhTanlGZjlzSmFqMlRwc2c?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-13T18:31:00.000Z",
-      "summaryHint": "资本涌入AIGC内容赛道，但钱不再只追大模型 &nbsp;&nbsp; 36氪",
+      "publishedAt": "2026-08-14T01:18:52.000Z",
+      "summaryHint": "模型越做越小，面壁智能的“端侧”生意有多大？ &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-47tjuv",
+      "type": "news",
+      "title": "网易孵化的芯片公司，B轮融了20亿 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RRmRnVURJVVByX1BFQTZkVXZ4YklpQ0hTQTctWk10NHJXSE1VV1pNb1cyS0NMSElaV1F3dUdhNUlNRWJpVzA1eTg5VGYzdw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-13T21:53:00.000Z",
+      "summaryHint": "网易孵化的芯片公司，B轮融了20亿 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -331,73 +287,155 @@
       ]
     },
     {
-      "id": "reddit-rss-lpug97",
+      "id": "rss-google_news_cn_36kr_deals-rvmb49",
+      "type": "news",
+      "title": "三条路线、一个赛点，谁能在AI视频的万亿牌局中笑到最后？ - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfNHJKcXg1aWtoc3o5VjN6ZDFKd3JLaU9nMXIwWHlPSE93Znhtamxua29aTFhYZ1VWaXhmamVjN1c3eDdRV1M3cEV2VnBmUQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-12T09:07:00.000Z",
+      "summaryHint": "三条路线、一个赛点，谁能在AI视频的万亿牌局中笑到最后？ &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-bmk09f",
+      "type": "news",
+      "title": "腾讯重金押注AI赛道 斥资布局估值897亿AI独角兽企业 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XYUlSQVl4WkFzQlRULVp0NWRYdDBNRXBNWWpxVDV3SDJHLXhyb09JbmJpQkZNWWVFOHlqRnJPdm1vcnBkUEVIVW41UlJoY0liSWl3?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-12T08:39:00.000Z",
+      "summaryHint": "腾讯重金押注AI赛道 斥资布局估值897亿AI独角兽企业 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-8wjr6n",
+      "type": "news",
+      "title": "上海抢走林俊旸 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LXzhiNFhfNDZuX05TU3lsR2pyV3EyckI4Y29SNUo5cVUtTURWSk1jeGwzb0RVa2xiRlo4YkF6eTFjMGZoRGJMbzVTQ1FwQQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-11T18:45:00.000Z",
+      "summaryHint": "上海抢走林俊旸 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-unznke",
+      "type": "news",
+      "title": "2025马斯克太空布局后 AI算力产业新风口瞄准海洋经济蓝海 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiLTlGcmYzYVhuR3RlVVlSd0YwUHhPLWlzZjFQdEVOWmpYekxnSy1XcTBaUXNYZm56cXhlb3RUaGNJSWJNRld1TWFJUU84OTl2ZlBr?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-11T13:30:00.000Z",
+      "summaryHint": "2025马斯克太空布局后 AI算力产业新风口瞄准海洋经济蓝海 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-sl12oa",
+      "type": "news",
+      "title": "数据中心产业链迎发展窗口期，24只概念股上半年业绩向好 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PRy1UVktTNEtZamFLWkE3aTAxUWxUSjFFekFjalZWbW8zeDIwYkxUUUVBN0ZzcTE5a2FKcEF2QkR4bEZBYUNjY19MN0xTd25yemtJZno2cWJTelVXd3c?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-11T09:27:00.000Z",
+      "summaryHint": "数据中心产业链迎发展窗口期，24只概念股上半年业绩向好 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "reddit-rss-hq5jks",
       "type": "social_en",
-      "title": "[Megathread] Qwen 3.8 27B Release Day",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voojjz/megathread_qwen_38_27b_release_day/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-08-15T00:41:13.000Z",
-      "summaryHint": "Megathread to help with the influx of duplicate / similar posts around the release of the Qwen 3.8 27B release. Quants Fine-Tunes &amp; Abliterations Chat Templates Inference Server Support &amp; Configuration Experiences, Benchmarks &amp; ",
+      "title": "I built a system in UE5 to do 10k skier trails/footsteps per frame on Steam Deck at 30 fps, would love to share!",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1vpka7h/i_built_a_system_in_ue5_to_do_10k_skier/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-08-16T01:50:37.000Z",
+      "summaryHint": "Wasn&#39;t sure if the link was clear enough, but hopefully the trailer/screenshots show it off! I&#39;m working on a ski game where I want 10k+ to work at 30 fps on Steam Deck. Obviously, skiers need snow trails, so I built a custom system",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-ejsi9",
+      "id": "reddit-rss-tbtitq",
       "type": "social_en",
-      "title": "I tried to make Gaussian Splats 1000x faster and somehow ended up having made an iPhone app",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vo9tmn/i_tried_to_make_gaussian_splats_1000x_faster_and/",
+      "title": "WHY are wish lists capped to 150 on FAB???",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1vpgp71/why_are_wish_lists_capped_to_150_on_fab/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-08-15T22:59:25.000Z",
+      "summaryHint": "Seems like such a backward limitations, I legit want to track multiple items for sales and potential usefulness in my projects and the wish list fills up fast with all sorts of assets/dev tools/code/sfx etc. &#32; submitted by &#32; /u/demo",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-sm299x",
+      "type": "social_en",
+      "title": "GaussianCrowds: Relightable, real-time 4DGS at scale in Unreal Engine",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vpe7va/gaussiancrowds_relightable_realtime_4dgs_at_scale/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-14T15:06:53.000Z",
-      "summaryHint": "This started with me wanting to train my first Gaussian Splat on my MacBook Air. It took 3.5 hours on and the thing got so hot that I filled a ZipLoc bag with cold water and balanced the laptop on top. https://preview.redd.it/f4dq5hquqcjh1.",
+      "publishedAt": "2026-08-15T21:10:03.000Z",
+      "summaryHint": "GaussianCrowds is a tool in development for Unreal Engine 5.7/5.8, built to render thousands of 4D Gaussian splat performances in real time. Nanite-Style Dynamic LOD’s: Automatic adaptive detail scaling and frustum culling allows hundreds o",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-grt43a",
+      "id": "reddit-rss-rgfz1o",
       "type": "social_en",
-      "title": "IT'S OUT",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo9mj4/its_out/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-08-14T14:59:51.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/Certain-Cod-1404 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-5kt8ja",
-      "type": "social_en",
-      "title": "Viewing splat in AR",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vo9l2i/viewing_splat_in_ar/",
+      "title": "Andrew Carr: 2D Gaussian Splaing for Bézier Spline Line Art Vectorization",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vpcnr0/andrew_carr_2d_gaussian_splaing_for_bézier_spline/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-14T14:58:17.000Z",
-      "summaryHint": "It feels like the object is actually right in front of me. This is Memo 3DGS, an iOS app I built. Everything — capture, training — runs fully on-device on iPhone. It&#39;s live on the App Store now. Would love for you to give it a try. &#32",
+      "publishedAt": "2026-08-15T20:04:31.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/corysama [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-k84jv4",
+      "id": "reddit-rss-rbfh9d",
       "type": "social_en",
-      "title": "[WIP] Blender add-on to automate camera setups for LichtFeld Studio / 3DGS",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vo9dpc/wip_blender_addon_to_automate_camera_setups_for/",
+      "title": "Unreal 5.8 - Materials Masterclass - Chapter 3: The magic of UVs",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1vp7k4k/unreal_58_materials_masterclass_chapter_3_the/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-08-15T16:42:12.000Z",
+      "summaryHint": "New tutorial: Unreal 5.8 - Materials Masterclass - Chapter 3: The magic of UVs In this third chapter of the Unreal Materials Masterclass series, we&#39;ll learn what are UV coordinates, how are they used when we sample textures, and how to ",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-i7ka9",
+      "type": "social_en",
+      "title": "Blueprint plugins from Marketplace are GARBADGE.",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1vp57i1/blueprint_plugins_from_marketplace_are_garbadge/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-08-15T15:07:12.000Z",
+      "summaryHint": "No discussion there really. Just wanted to say that out loud. There is not a single Blueprint plugin out there that&#39;s worth using. Unless you have no idea how this engine works, then go ahead. And it&#39;s not that I think &quot;only C+",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-8b3n3l",
+      "type": "social_en",
+      "title": "on-device 3DGS scanning and training for iPhone",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vp0qb3/ondevice_3dgs_scanning_and_training_for_iphone/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-14T14:50:17.000Z",
-      "summaryHint": "Working on a Python add-on to streamline render setups for LichtFeld Studio and 3D Gaussian Splatting workflows. **Key Features (WIP):** * Places cameras along a polyline path with keyframes at each vertex * Automatically creates offset &am",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-x2tufz",
-      "type": "social_en",
-      "title": "Best Local LLMs - August 2026",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkmhyl/best_local_llms_august_2026/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-08-10T14:31:16.000Z",
-      "summaryHint": "Wowee!! Just when you thought it couldn&#39;t get better for open weight models, we probably have had our best period yet!?!?! Models that rival the closed frontier, Opus level models on non-insane hardware and more. A massive industry alli",
+      "publishedAt": "2026-08-15T11:44:42.000Z",
+      "summaryHint": "After months of iteration and some great feedback from community, Memo is finally on the App Store. Memo is a 3DGS app for iPhone that handles both high-quality scanning and fully local training — no cloud, no Pro model required. Scanning M",
       "tags": [
         "ai_social"
       ]
