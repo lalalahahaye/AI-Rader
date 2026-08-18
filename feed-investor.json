@@ -1,15 +1,92 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-17T07:18:01.918Z",
+  "updatedAt": "2026-08-18T07:06:11.898Z",
   "items": [
+    {
+      "id": "rss-google_news_cn_36kr_deals-aewmkb",
+      "type": "funding",
+      "title": "大降1300亿美元，英伟达悄然缩减OpenAI数据中心担保规模 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BZ0dZTVJOX2Y2SFpLNlg2TFdOT3IzMlNkdk1hLUMtWnRfRmRjdzZhNUlJS3pCM3IydzBVWC1jYTM3aFBHRGlLRnBfbF9DOTg?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-18T03:21:11.000Z",
+      "summaryHint": "大降1300亿美元，英伟达悄然缩减OpenAI数据中心担保规模 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "1300亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-cse7ro",
+      "type": "funding",
+      "title": "估值366亿，AI视频独角兽又融资，英特尔投了 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2X211ZUhQNklYUjE3dF9VOENVcHp2RGdLLWxIeGJOVVRLV19fNnZFOUIyNUh6SDBkcWFkcFRLT3plUldrQkEyMnVWNDczMVk?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-17T23:50:41.000Z",
+      "summaryHint": "估值366亿，AI视频独角兽又融资，英特尔投了 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "366亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-qm6pwa",
+      "type": "funding",
+      "title": "99后带队，PandaAI连续完成三轮融资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UNnprRmFCSHNvMmMtSnJ4TS1NbVowV3BQazRpNmxGUm1Xa0R3MG1xRVJuUDZWSTBKLWs3cGhadWQ5aU4yd3U4d0xuZWZGdw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-17T12:28:00.000Z",
+      "summaryHint": "99后带队，PandaAI连续完成三轮融资 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-5r8mhw",
+      "type": "funding",
+      "title": "思昇科技再获数千万元融资 从CNS药物研发切入超声脑机接口赛道 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50VEROR1JYTmhvNGlWOGxJV29ZdGR4Xy1YSERsZTJCbUhzeExFUmhMb1JBaHRLSDl2NXktRnZTYnVibEdyck9lbTJkbHE0Zkx4bTlF?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-17T12:23:00.000Z",
+      "summaryHint": "思昇科技再获数千万元融资 从CNS药物研发切入超声脑机接口赛道 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-8552tq",
+      "type": "funding",
+      "title": "蚂蚁分拆融资启幕：如何讲好新资本故事 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wWmpCSmxVei00V2pIN0dkTE5fQXZsVDFrcm5BenBGcTZuUU9ocFA2RVdvZ2ozd194azFSakN1OUJaWV9zYWxEMVpZYnViSzQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-17T09:52:06.000Z",
+      "summaryHint": "蚂蚁分拆融资启幕：如何讲好新资本故事 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
     {
       "id": "rss-google_news_cn_36kr_deals-ac27mx",
       "type": "funding",
-      "title": "AI视频生成平台Higgsfield完成4亿美元新一轮融资 - 36Kr",
+      "title": "AI视频生成平台Higgsfield完成4亿美元新一轮融资 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FbFlicFk1VmdoZU90OWFLM04xS3VzamFjaFNEbDJza1hRdzQ1SnIzSE5YSUdzVnUtUUV5MjFlRFl2MkhJOFBPTmtZTEtLS1ZkZS1tQmtfUnhUS3hNUWc?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-17T06:08:17.000Z",
-      "summaryHint": "AI视频生成平台Higgsfield完成4亿美元新一轮融资 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "AI视频生成平台Higgsfield完成4亿美元新一轮融资 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -21,11 +98,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-o2vo1a",
       "type": "funding",
-      "title": "AI融资需求不断攀升，Alphabet考虑首次发行澳元债券 - 36Kr",
+      "title": "AI融资需求不断攀升，Alphabet考虑首次发行澳元债券 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HblRaVUFBaXFzdkpMQXp5bnpYS2JyX0hYMEdIUF8zbEd4N0wzVG1qY3hfM3dtb18zTzF3XzBBN0VFc1gwMFlSUGpMY0N2N3FZY2lUX0tMYWg?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-17T00:47:42.000Z",
-      "summaryHint": "AI融资需求不断攀升，Alphabet考虑首次发行澳元债券 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "AI融资需求不断攀升，Alphabet考虑首次发行澳元债券 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -50,44 +127,13 @@
       "round": "天使轮"
     },
     {
-      "id": "rss-qbitai-eweqyn",
-      "type": "funding",
-      "title": "牛来！A社营收暴涨1400%，最新季度入账115亿美元",
-      "url": "https://www.qbitai.com/2026/08/473947.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-16T05:28:42.000Z",
-      "summaryHint": "将超越马斯克的SpaceX，成为史上上市估值最高的IPO。",
-      "tags": [
-        "china",
-        "funding",
-        "deal_signal"
-      ],
-      "amount": "115亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-we103q",
-      "type": "funding",
-      "title": "曾被投资人拒绝近百次，这家教育 AI 公司融资近 6300 万美元 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CR1loajg0aUFPZUVsS3U0dEhWRm5PRWpfUldHd0VGYmNuTmRjMWdLT2Mwa2pCbWIxMlAyTUg3MjRfb3RreWpidG9wM0FBZFU?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-14T02:19:01.000Z",
-      "summaryHint": "曾被投资人拒绝近百次，这家教育 AI 公司融资近 6300 万美元 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "6300万"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-i1xcjh",
       "type": "funding",
-      "title": "美国数据及人工智能公司Databricks完成50亿美元融资 - 36Kr",
+      "title": "美国数据及人工智能公司Databricks完成50亿美元融资 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xMkRFMm9XM2dVbGdra0Q5OVB1cXZaSjFESVY1Y2Yxb1hRVEVHUnRIY1ZHeHVwVmVGc3RpN1ZhbHVsM0IxMDJZMWlUa2hpZml2M1p0QTFkQnpnbnNpVFE?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-14T00:38:57.000Z",
-      "summaryHint": "美国数据及人工智能公司Databricks完成50亿美元融资 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "美国数据及人工智能公司Databricks完成50亿美元融资 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -99,11 +145,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-1brqe1",
       "type": "funding",
-      "title": "美AI巨头大手笔发债，还埋下了近2万亿美元表外“炸弹” - 36Kr",
+      "title": "美AI巨头大手笔发债，还埋下了近2万亿美元表外“炸弹” - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlWnFRVjZ3dXhLOEs1WWxubGN3RUNhc1ZKaUpwU09vN1ZXQ2JTd09aV0NUTlhvUjNEQlJUZzVUS1Exdl9nMnBYaTRoSGxHZw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-13T19:31:00.000Z",
-      "summaryHint": "美AI巨头大手笔发债，还埋下了近2万亿美元表外“炸弹” &nbsp;&nbsp; 36Kr",
+      "summaryHint": "美AI巨头大手笔发债，还埋下了近2万亿美元表外“炸弹” &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -113,51 +159,19 @@
       "amount": "2万"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-7symsz",
-      "type": "funding",
-      "title": "美国数据及人工智能公司Databricks完成50亿美元融资 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvSm1lNmhGNkxFUjU4NWpabWpUZHRoSFVUTjVFR1VQV3lFbi1JVG5Ua3kyLW1oS2NOZnd6Q1oxQm15dkhmVk1qNEswMkhBUjc3aGtuUUxLeUZjRzBWUFdKWA?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-13T09:27:00.000Z",
-      "summaryHint": "美国数据及人工智能公司Databricks完成50亿美元融资 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "50亿"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-bcxh5o",
       "type": "funding",
-      "title": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久…… - 36Kr",
+      "title": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久…… - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxSVJDalF6TENUUUJkWHN0SFVHUndSOTZPNURWdDZtQ3BEc2twMk1aX0liSWJKUUI4MzhOcFVWWDhLdl9Zc3FnUkZ0OHVfZw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-12T19:19:00.000Z",
-      "summaryHint": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久…… &nbsp;&nbsp; 36Kr",
+      "summaryHint": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久…… &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
       ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-907bc7",
-      "type": "funding",
-      "title": "AI搭配师解决穿搭决策痛点，硅基链动寻求天使轮融资 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mSVdUeGFFOVJMRk1pdGM4eGtFdVU3NmpaYzAwcjFGNE1uc21NTjk2WlZxSktlek1zWDJISG4tcUxzekJlMDVjRDAtbjllRlpN?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-11T16:53:00.000Z",
-      "summaryHint": "AI搭配师解决穿搭决策痛点，硅基链动寻求天使轮融资 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "天使轮"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-h8wve4",
@@ -187,6 +201,97 @@
         "funding",
         "deal_rss",
         "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-qbitai-astx0l",
+      "type": "news",
+      "title": "阿里杀进Agent上下文战场：钉钉聊天、企业文档、工作数据终于要被Agent吃进去了",
+      "url": "https://www.qbitai.com/2026/08/474647.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-18T04:40:03.000Z",
+      "summaryHint": "MyContext补上Agent的数据加工层",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-yyhdyg",
+      "type": "news",
+      "title": "AI Infra进入自进化时代！清华团队AI优化AI造就国产万亿Token工厂",
+      "url": "https://www.qbitai.com/2026/08/474611.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-18T03:31:33.000Z",
+      "summaryHint": "ALL IN国产算力生态",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-wp6u9n",
+      "type": "news",
+      "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
+      "url": "https://www.qbitai.com/2026/08/474537.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-17T09:30:49.000Z",
+      "summaryHint": "8月17日，具身智能初创公司共生知行发布双足人形机器人驾驶卡丁车Demo",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-9g69nm",
+      "type": "news",
+      "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
+      "url": "https://www.qbitai.com/2026/08/474518.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-17T09:04:37.000Z",
+      "summaryHint": "没有遥控、没人喂球",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-jsq3n2",
+      "type": "news",
+      "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
+      "url": "https://www.qbitai.com/2026/08/474381.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-17T08:36:07.000Z",
+      "summaryHint": "AI最近最出圈的数学突破，都在“找反例”",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-lvldw0",
+      "type": "news",
+      "title": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用",
+      "url": "https://www.qbitai.com/2026/08/474361.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-17T08:26:25.000Z",
+      "summaryHint": "智谱GLM-5.3首发上线范式PhanRouter，即日开放调用",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-kqglli",
+      "type": "news",
+      "title": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
+      "url": "https://www.qbitai.com/2026/08/474334.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-17T07:39:56.000Z",
+      "summaryHint": "即将完全开源",
+      "tags": [
+        "china",
+        "funding"
       ]
     },
     {
@@ -229,91 +334,13 @@
       ]
     },
     {
-      "id": "rss-qbitai-qrjzqh",
+      "id": "rss-google_news_cn_36kr_deals-apkd7k",
       "type": "news",
-      "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
-      "url": "https://www.qbitai.com/2026/08/473972.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-16T05:37:39.000Z",
-      "summaryHint": "背后是四项关键能力",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-5vzqy",
-      "type": "news",
-      "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
-      "url": "https://www.qbitai.com/2026/08/473876.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-15T06:42:23.000Z",
-      "summaryHint": "理解大模型，无需再训练一个替代网络",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-eua9yz",
-      "type": "news",
-      "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
-      "url": "https://www.qbitai.com/2026/08/473866.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-15T06:36:05.000Z",
-      "summaryHint": "音潮API限时免费开放",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-1aaxo",
-      "type": "news",
-      "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
-      "url": "https://www.qbitai.com/2026/08/473669.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-15T06:05:31.000Z",
-      "summaryHint": "推理能力还能自定义",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-e86tvu",
-      "type": "news",
-      "title": "DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了",
-      "url": "https://www.qbitai.com/2026/08/473597.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-15T05:53:01.000Z",
-      "summaryHint": "大家已经给DeepSeek装上了啥",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-4ms38e",
-      "type": "news",
-      "title": "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
-      "url": "https://www.qbitai.com/2026/08/473407.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-15T04:21:09.000Z",
-      "summaryHint": "1.9万字全文实录",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-ybn4rm",
-      "type": "news",
-      "title": "资本涌入AIGC内容赛道 热钱不再盲目追大模型 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KSDE2ZXBfQXJXSjRWczNXSG5IRzFUZ1dZWVBkRkZMNGZkYlR4cXZJcTBUcllCbkFaSURpd0g1MDNiam52TkZseG5TUF9xaXFsbEVr?oc=5",
+      "title": "资本涌入AIGC内容赛道，但钱不再只追大模型 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GRFI0MjZCQnhiMEhZWVVoUFlMR3NUQVpKR1RkS0hiMDNLWTQtWW45b2dzZ3JiZW80ZlFnOW5BNk84VXpJc0RrWXlQLWdHZw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-13T18:31:00.000Z",
-      "summaryHint": "资本涌入AIGC内容赛道 热钱不再盲目追大模型 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "资本涌入AIGC内容赛道，但钱不再只追大模型 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -334,109 +361,97 @@
       ]
     },
     {
-      "id": "reddit-rss-9w799n",
+      "id": "reddit-rss-7hbmxs",
       "type": "social_en",
-      "title": "Create Gaussian Splatting Datasets in Unreal Engine with Camera Render Studio",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vqkvdk/create_gaussian_splatting_datasets_in_unreal/",
+      "title": "[WIP] 3DGS Panorama Slicer UI: Slice 360° images and build a custom transforms.json à la carte",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vrduug/wip_3dgs_panorama_slicer_ui_slice_360_images_and/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-17T06:54:48.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/Elz1989 [link] &#32; [comments]",
+      "publishedAt": "2026-08-18T03:32:29.000Z",
+      "summaryHint": "Here’s a sneak peek at the ViewForge 3DGS Slicer UI. It slices a 360° equirectangular panorama into 16 perspective views, allowing you to select them à la carte to export a clean transforms.json for training. You can also apply camera jitte",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-fs05om",
+      "id": "reddit-rss-3v5wk1",
       "type": "social_en",
-      "title": "I figured out a loophole to remove Claude watermark WITHOUT rephrasing",
-      "url": "https://www.reddit.com/r/artificial/comments/1vqixia/i_figured_out_a_loophole_to_remove_claude/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-08-17T05:05:34.000Z",
-      "summaryHint": "I&#39;ve been curious whether you can kill an Claude&#39;s text watermark just by editing (not &quot;rewriting/rephrasing&quot;) what it wrote. And so I built a Claude/OpenAI/Gemini text-watermark generator plus a detector and threw a bunch",
+      "title": "Qwen dev says not to wait for 35B-A3B",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrdetw/qwen_dev_says_not_to_wait_for_35ba3b/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-08-18T03:11:17.000Z",
+      "summaryHint": "What does this mean? Is there something else coming? Maybe 122B? Or no models? &#32; submitted by &#32; /u/Mean-Ad1493 [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-goomd",
+      "id": "reddit-rss-jh6wpu",
       "type": "social_en",
-      "title": "How do hand-drawn 2D games handle their art and sprite resolution?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1vqex23/how_do_handdrawn_2d_games_handle_their_art_and/",
-      "source": "reddit_r_gamedev",
-      "publishedAt": "2026-08-17T01:45:16.000Z",
-      "summaryHint": "Hi everyone! I&#39;m currently working on a 2D game with a hand-drawn art style, and I&#39;m trying to understand how games like Hollow Knight / Hollow Knight: Silksong handle their artwork technically. I&#39;m especially interested in the ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-ge82u",
-      "type": "social_en",
-      "title": "This stuff is rough man",
-      "url": "https://www.reddit.com/r/gamedev/comments/1vqbcn4/this_stuff_is_rough_man/",
-      "source": "reddit_r_gamedev",
-      "publishedAt": "2026-08-16T23:00:40.000Z",
-      "summaryHint": "I dont mind or even enjoy the folly work, music composing, pixel art or drawing, story writing and systems mechanics. All that stuff. But coding... coding is a bane to my existence. When I finally get something to work it feels amazing cuz ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-f5d5nc",
-      "type": "social_en",
-      "title": "U.S. bans foreign-made humanoid robots, targeting China over national security",
-      "url": "https://www.reddit.com/r/artificial/comments/1vq3yyk/us_bans_foreignmade_humanoid_robots_targeting/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-08-16T18:03:33.000Z",
-      "summaryHint": "Headline says &quot;bans humanoid robots, targeting China.&quot; Neither half of that is quite right. It&#39;s not a ban. It&#39;s an addition to the FCC&#39;s Covered List, which blocks new models from getting FCC equipment authorization. ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-xqdcm3",
-      "type": "social_en",
-      "title": "1.7B model leading strict-7 formal reasoning above Qwen3-8B and Gemma-4-26B - specialists eating generalist territory?",
-      "url": "https://www.reddit.com/r/artificial/comments/1vq2io1/17b_model_leading_strict7_formal_reasoning_above/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-08-16T17:08:01.000Z",
-      "summaryHint": "Most of the reasoning gains coming out of the big labs are still tied to scale. More params, more compute, better reasoning. That&#39;s been the play for a while. Ran into TwIL-LM2 which flips the script for narrow tasks. PEFT LoRA adapter ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-g0r0wa",
-      "type": "social_en",
-      "title": "The median company is spending lunch money on AI while the top 1% is burning real budget",
-      "url": "https://www.reddit.com/r/artificial/comments/1vpxa46/the_median_company_is_spending_lunch_money_on_ai/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-08-16T13:37:33.000Z",
-      "summaryHint": "Chart uses Ramp AI Index data, discussed by a16z. Spend includes LLM subscriptions, coding agents, API usage and GPU cloud spend. The top 1% line is wild but the median is almost more interesting. Looks like most companies are still experim",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-rtwgvo",
-      "type": "social_en",
-      "title": "Best free workflow for city-scale, georeferenced 3DGS? (Z-up, ArcGIS integration)",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vpwtu9/best_free_workflow_for_cityscale_georeferenced/",
+      "title": "Looking for contributors",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vrd061/looking_for_contributors/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-16T13:17:10.000Z",
-      "summaryHint": "Hi folks, I’m building an end-to-end drone mapping pipeline for city-scale 3D Gaussian Splatting (3DGS) . The final models must be published to ArcGIS Pro / Enterprise , requiring accurate Real-World Coordinates (Georeferenced) and of cours",
+      "publishedAt": "2026-08-18T02:52:02.000Z",
+      "summaryHint": "Hi everyone! I am a software engineer who has worked in the following domains at major tech companies most of my career: XR, Graphics &amp; GPU programming, Spatial algorithms and AI, and 3DGS. I have a project I started a few months ago th",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-sm299x",
+      "id": "reddit-rss-u2matb",
       "type": "social_en",
-      "title": "GaussianCrowds: Relightable, real-time 4DGS at scale in Unreal Engine",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vpe7va/gaussiancrowds_relightable_realtime_4dgs_at_scale/",
+      "title": "Neural A2, 4K seamless",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1vr6jwk/neural_a2_4k_seamless/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-08-17T22:11:11.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/has_some_chill [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-52s3a3",
+      "type": "social_en",
+      "title": "WebGPU MRI/Scans viewer",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1vr0blg/webgpu_mriscans_viewer/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-08-17T18:21:55.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/DaveAstator2020 [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-jxtsel",
+      "type": "social_en",
+      "title": "NullGraph v1.1 release [global illumination/shadow systems/environment systems]",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1vqzjm1/nullgraph_v11_release_global_illuminationshadow/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-08-17T17:54:52.000Z",
+      "summaryHint": "Hey all, My webgpu renderer officially supports image based lighting/direct+indirect lighting and also there are shadow systems which creates csm/shadow Atlases depending on what type of config, This was a lot of work \\[GLOBAL ILLUMINATION\\",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-2g6vm8",
+      "type": "social_en",
+      "title": "I built an open-source motion-aware frame extractor for COLMAP/3DGS — looking for feedback and difficult test videos",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vqpd97/i_built_an_opensource_motionaware_frame_extractor/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-15T21:10:03.000Z",
-      "summaryHint": "GaussianCrowds is a tool in development for Unreal Engine 5.7/5.8, built to render thousands of 4D Gaussian splat performances in real time. Nanite-Style Dynamic LOD’s: Automatic adaptive detail scaling and frustum culling allows hundreds o",
+      "publishedAt": "2026-08-17T11:13:18.000Z",
+      "summaryHint": "I’ve been working on an open-source frame extractor for video-to-COLMAP/3DGS workflows: https://github.com/morishuz/frame-extractor Instead of extracting at a fixed FPS, it tracks points using dense optical flow and selects a new frame when",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-lpug97",
+      "type": "social_en",
+      "title": "[Megathread] Qwen 3.8 27B Release Day",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voojjz/megathread_qwen_38_27b_release_day/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-08-15T00:41:13.000Z",
+      "summaryHint": "Megathread to help with the influx of duplicate / similar posts around the release of the Qwen 3.8 27B release. Quants Fine-Tunes &amp; Abliterations Chat Templates Inference Server Support &amp; Configuration Experiences, Benchmarks &amp; ",
       "tags": [
         "ai_social"
       ]
