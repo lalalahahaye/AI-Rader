@@ -1,15 +1,92 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T07:07:05.181Z",
+  "updatedAt": "2026-08-20T07:08:06.594Z",
   "items": [
     {
-      "id": "rss-google_news_cn_36kr_deals-ygnghc",
+      "id": "rss-google_news_cn_36kr_deals-msorqq",
       "type": "funding",
-      "title": "被老黄挖空的AI芯片独角兽，融资24亿 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9saXI1V29zVFpWT3oySTNjWDZpMERKSHdaUm9JVDZkOFZhbXlhSS1EQkJjZW56U1QtYzlvQ3JpeThtMTg4X21BODZRWnpsenFp?oc=5",
+      "title": "硬氪独家 | 清华，中科院具身大脑企业融资10亿，已获得数亿海外订单 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KeUlaQktQRlYyZEV4M3h2b2ZpTmJhTE9Genhaekp6cmd2ZUpkNkdaWEtiTXYzVFBrYWhCNTl3cnhaaWF4TF8wTVNWXzduVkk?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-19T02:59:03.000Z",
-      "summaryHint": "被老黄挖空的AI芯片独角兽，融资24亿 &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-08-20T03:14:44.000Z",
+      "summaryHint": "硬氪独家 | 清华，中科院具身大脑企业融资10亿，已获得数亿海外订单 &nbsp;&nbsp; 36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "10亿"
+    },
+    {
+      "id": "rss-qbitai-y9asvm",
+      "type": "funding",
+      "title": "完美世界2026半年报：《异环》全球流水破20亿 Q3起释放业绩",
+      "url": "https://www.qbitai.com/2026/08/476075.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-20T01:21:07.000Z",
+      "summaryHint": "完美世界今年4月底推出的重磅新游《异环》截至8月18日已取得全球累计流水超20亿元，业绩贡献将在Q3起逐步释放",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "amount": "20亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-fjtjsr",
+      "type": "funding",
+      "title": "英伟达据悉正与其AI数据供应商Mercor商讨融资事宜 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TemlPQ0xaM2ZYU0RtenVjbVdTVXhsbVEwR29YTnZnUFlMdFI5amcxdThXWEQwQUozYkxpelNGN19pMTMyaU9henRBalBKTGpDMWtzbnpENU9scl9Nc0E?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-19T23:45:47.000Z",
+      "summaryHint": "英伟达据悉正与其AI数据供应商Mercor商讨融资事宜 &nbsp;&nbsp; 36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-stemr7",
+      "type": "funding",
+      "title": "AI芯片创企Etched融资7亿美元，近一个月估值翻番至210亿美元 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhdHFIbUZNZHp2a2RKbmhqWVlRSzRLM0lRZk9IclpON19sN29LcGhjRW52MEI4eFY4U1J0SHV5THFLUnNhMm9rQWZJSThvemF5dW9xaDdvRjZWblA1VkE?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-19T07:47:45.000Z",
+      "summaryHint": "AI芯片创企Etched融资7亿美元，近一个月估值翻番至210亿美元 &nbsp;&nbsp; 36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "7亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-c24zsv",
+      "type": "funding",
+      "title": "具身智能9家“大厂派系”融资PK，最强“厂牌”不是字节、百度，也不是大疆 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03bDJzNGFCQjQ2U3M2aXNEaHlyVUVuczRuVnVGa1pjZExDcDZhTHZYT0RNbWQ5RTNBZHJVODBPM1dOVVppaUJtRTVnbmpMdw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-18T21:48:00.000Z",
+      "summaryHint": "具身智能9家“大厂派系”融资PK，最强“厂牌”不是字节、百度，也不是大疆 &nbsp;&nbsp; 36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-h4oncn",
+      "type": "funding",
+      "title": "被老黄挖空的AI芯片独角兽，融资24亿 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5sZTBhMGZ6Y0p0alB6RFpLV2UxeDItNHpNRDdnQnhUYUsxVEh3UDU4Zml0U2RybTVuaGM1UWdMU2RBOXNxZkZSY09KcDhWUQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-18T11:54:00.000Z",
+      "summaryHint": "被老黄挖空的AI芯片独角兽，融资24亿 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -21,11 +98,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-6f70c9",
       "type": "funding",
-      "title": "独到科技完成近亿元A+轮融资赛富领投 清华系AI Agent公司打造业务世界的Agent编译器 - eu.36kr.com",
+      "title": "独到科技完成近亿元A+轮融资赛富领投 清华系AI Agent公司打造业务世界的Agent编译器 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SUmlaZE9iam9pOHp1bGhUaHFZN3UwZlRITy1kdFhKVmc3TUl2OERsV1NVdi1mZGpodEIxdnMtMTBoSkFpam5obldjOE5VTE12NExv?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-18T11:23:00.000Z",
-      "summaryHint": "独到科技完成近亿元A+轮融资赛富领投 清华系AI Agent公司打造业务世界的Agent编译器 &nbsp;&nbsp; eu.36kr.com",
+      "summaryHint": "独到科技完成近亿元A+轮融资赛富领投 清华系AI Agent公司打造业务世界的Agent编译器 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -37,11 +114,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-a7qs2",
       "type": "funding",
-      "title": "10亿美金开局！2024年这条赛道融资爆发 几乎所有玩家都拿到钱了 - eu.36kr.com",
+      "title": "10亿美金开局！2024年这条赛道融资爆发 几乎所有玩家都拿到钱了 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MaVczSVJrTnZEeEo3NlJZS2ZMM1NTbUNpeVpwN3VqRjloZnpSZFZCamFUcEJ5MVdtT0IwWnY2V3Z4MHFCc29BcFA4RmFuMUpoVjdr?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-18T10:03:00.000Z",
-      "summaryHint": "10亿美金开局！2024年这条赛道融资爆发 几乎所有玩家都拿到钱了 &nbsp;&nbsp; eu.36kr.com",
+      "summaryHint": "10亿美金开局！2024年这条赛道融资爆发 几乎所有玩家都拿到钱了 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -53,11 +130,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-9ydioj",
       "type": "funding",
-      "title": "Genesis AI：一家成立不到两年的公司，为什么市场愿意给它30亿美元估值？ - 36 Kr",
+      "title": "Genesis AI：一家成立不到两年的公司，为什么市场愿意给它30亿美元估值？ - 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3aTBYTmpNVTVjWEhtYWV5MG9kME5HY1ZHVVpMZzBZbDJPcHc5TGJIMWRkVlhMRjlxc1lVdXdkQXJHLW1rTWVBUGtBVVlKdw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-18T09:27:00.000Z",
-      "summaryHint": "Genesis AI：一家成立不到两年的公司，为什么市场愿意给它30亿美元估值？ &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "Genesis AI：一家成立不到两年的公司，为什么市场愿意给它30亿美元估值？ &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -67,43 +144,13 @@
       "amount": "30亿"
     },
     {
-      "id": "rss-qbitai-i39rv8",
-      "type": "funding",
-      "title": "650亿美元！IPO前夕，Anthropic营收底牌曝光",
-      "url": "https://www.qbitai.com/2026/08/474673.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-18T05:58:57.000Z",
-      "summaryHint": "回头看，A社就这样完成了反超",
-      "tags": [
-        "china",
-        "funding",
-        "deal_signal"
-      ],
-      "amount": "650亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-dkrvk8",
-      "type": "funding",
-      "title": "99后带队，PandaAI连续完成三轮融资 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hRWwxUFN2cmdCX0RqamZaUWZJQk5nZmtBOVd2SlpVeTNkT0YyUFJnQVVaNVdlejhvNzRJRE1PN1BnODgtcHdrN0lzQ1FodVJp?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-18T03:31:28.000Z",
-      "summaryHint": "99后带队，PandaAI连续完成三轮融资 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-aewmkb",
       "type": "funding",
-      "title": "大降1300亿美元，英伟达悄然缩减OpenAI数据中心担保规模 - 36 Kr",
+      "title": "大降1300亿美元，英伟达悄然缩减OpenAI数据中心担保规模 - 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BZ0dZTVJOX2Y2SFpLNlg2TFdOT3IzMlNkdk1hLUMtWnRfRmRjdzZhNUlJS3pCM3IydzBVWC1jYTM3aFBHRGlLRnBfbF9DOTg?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-18T03:21:11.000Z",
-      "summaryHint": "大降1300亿美元，英伟达悄然缩减OpenAI数据中心担保规模 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "大降1300亿美元，英伟达悄然缩减OpenAI数据中心担保规模 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -113,13 +160,43 @@
       "amount": "1300亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-cse7ro",
+      "id": "rss-google_news_cn_36kr_deals-qm6pwa",
       "type": "funding",
-      "title": "估值366亿，AI视频独角兽又融资，英特尔投了 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2X211ZUhQNklYUjE3dF9VOENVcHp2RGdLLWxIeGJOVVRLV19fNnZFOUIyNUh6SDBkcWFkcFRLT3plUldrQkEyMnVWNDczMVk?oc=5",
+      "title": "99后带队，PandaAI连续完成三轮融资 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UNnprRmFCSHNvMmMtSnJ4TS1NbVowV3BQazRpNmxGUm1Xa0R3MG1xRVJuUDZWSTBKLWs3cGhadWQ5aU4yd3U4d0xuZWZGdw?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-17T23:50:41.000Z",
-      "summaryHint": "估值366亿，AI视频独角兽又融资，英特尔投了 &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-08-17T12:28:00.000Z",
+      "summaryHint": "99后带队，PandaAI连续完成三轮融资 &nbsp;&nbsp; 36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-8552tq",
+      "type": "funding",
+      "title": "蚂蚁分拆融资启幕：如何讲好新资本故事 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wWmpCSmxVei00V2pIN0dkTE5fQXZsVDFrcm5BenBGcTZuUU9ocFA2RVdvZ2ozd194azFSakN1OUJaWV9zYWxEMVpZYnViSzQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-17T09:52:06.000Z",
+      "summaryHint": "蚂蚁分拆融资启幕：如何讲好新资本故事 &nbsp;&nbsp; 36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-f7ejm8",
+      "type": "funding",
+      "title": "估值366亿，AI视频独角兽又融资，英特尔投了 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wRG1ZZDJlYVJKVnFJaU5jRW01TjJDYTF3QWtzTDFXLWExRzdaWHNYRnBuM1F5ZUNqZnN6UzJGZndFM0k0anhQMG1GT0FtZw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-17T08:48:00.000Z",
+      "summaryHint": "估值366亿，AI视频独角兽又融资，英特尔投了 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -129,44 +206,13 @@
       "amount": "366亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-8552tq",
-      "type": "funding",
-      "title": "蚂蚁分拆融资启幕：如何讲好新资本故事 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wWmpCSmxVei00V2pIN0dkTE5fQXZsVDFrcm5BenBGcTZuUU9ocFA2RVdvZ2ozd194azFSakN1OUJaWV9zYWxEMVpZYnViSzQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-17T09:52:06.000Z",
-      "summaryHint": "蚂蚁分拆融资启幕：如何讲好新资本故事 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-ac27mx",
-      "type": "funding",
-      "title": "AI视频生成平台Higgsfield完成4亿美元新一轮融资 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FbFlicFk1VmdoZU90OWFLM04xS3VzamFjaFNEbDJza1hRdzQ1SnIzSE5YSUdzVnUtUUV5MjFlRFl2MkhJOFBPTmtZTEtLS1ZkZS1tQmtfUnhUS3hNUWc?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-17T06:08:17.000Z",
-      "summaryHint": "AI视频生成平台Higgsfield完成4亿美元新一轮融资 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "4亿"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-o2vo1a",
       "type": "funding",
-      "title": "AI融资需求不断攀升，Alphabet考虑首次发行澳元债券 - 36 Kr",
+      "title": "AI融资需求不断攀升，Alphabet考虑首次发行澳元债券 - 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HblRaVUFBaXFzdkpMQXp5bnpYS2JyX0hYMEdIUF8zbEd4N0wzVG1qY3hfM3dtb18zTzF3XzBBN0VFc1gwMFlSUGpMY0N2N3FZY2lUX0tMYWg?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-17T00:47:42.000Z",
-      "summaryHint": "AI融资需求不断攀升，Alphabet考虑首次发行澳元债券 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "AI融资需求不断攀升，Alphabet考虑首次发行澳元债券 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -177,11 +223,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-jdwuvj",
       "type": "funding",
-      "title": "PandaAI连续完成三轮融资 L2F光源创业者基金领投天使轮及天使+轮 - eu.36kr.com",
+      "title": "PandaAI连续完成三轮融资 L2F光源创业者基金领投天使轮及天使+轮 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mY1RZak1GTXNCanFtVG5zU1lrTjFZaXoxc0xCSldLLWo3RFRoUzFDMjhlOFNfcVFwcVNJeklKcVdKT2Q5a1MzRS1weTlXRC1BSm9r?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-16T11:50:00.000Z",
-      "summaryHint": "PandaAI连续完成三轮融资 L2F光源创业者基金领投天使轮及天使+轮 &nbsp;&nbsp; eu.36kr.com",
+      "summaryHint": "PandaAI连续完成三轮融资 L2F光源创业者基金领投天使轮及天使+轮 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -191,260 +237,251 @@
       "round": "天使轮"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-7symsz",
-      "type": "funding",
-      "title": "美国数据及人工智能公司Databricks完成50亿美元融资 - eu.36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvSm1lNmhGNkxFUjU4NWpabWpUZHRoSFVUTjVFR1VQV3lFbi1JVG5Ua3kyLW1oS2NOZnd6Q1oxQm15dkhmVk1qNEswMkhBUjc3aGtuUUxLeUZjRzBWUFdKWA?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-13T09:27:00.000Z",
-      "summaryHint": "美国数据及人工智能公司Databricks完成50亿美元融资 &nbsp;&nbsp; eu.36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "50亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-bcxh5o",
-      "type": "funding",
-      "title": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久…… - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxSVJDalF6TENUUUJkWHN0SFVHUndSOTZPNURWdDZtQ3BEc2twMk1aX0liSWJKUUI4MzhOcFVWWDhLdl9Zc3FnUkZ0OHVfZw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-12T19:19:00.000Z",
-      "summaryHint": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久…… &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-qbitai-ybxdnq",
+      "id": "rss-qbitai-coa95b",
       "type": "news",
-      "title": "郭富城换车，30万级顶配华为全家桶",
-      "url": "https://www.qbitai.com/2026/08/475009.html",
+      "title": "宇树科技上市首日大涨629%，世界机器人大会里谁是“下一个宇树”？",
+      "url": "https://www.qbitai.com/2026/08/476120.html",
       "source": "qbitai",
-      "publishedAt": "2026-08-19T00:59:23.000Z",
-      "summaryHint": "5.3米六座家用SUV",
+      "publishedAt": "2026-08-20T06:17:10.000Z",
+      "summaryHint": "这几个玩家或可被“押注”",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-wgzuo2",
+      "id": "rss-qbitai-zcodwx",
       "type": "news",
-      "title": "年轻人首选B级闪充轿车秦MAX正式上市，售价10.99-14.39万元",
-      "url": "https://www.qbitai.com/2026/08/474907.html",
+      "title": "墨奇亮相WRC：一台机器人长程任务实战背后的“具身大脑”革命",
+      "url": "https://www.qbitai.com/2026/08/476078.html",
       "source": "qbitai",
-      "publishedAt": "2026-08-18T11:07:02.000Z",
-      "summaryHint": "8月13日，比亚迪秦MAX正式上市，推出EV与DM-i双动力版本",
+      "publishedAt": "2026-08-20T01:37:34.000Z",
+      "summaryHint": "墨奇智能（MORPHI）首次在国内系统亮相，公开展示其新近发布的具身智能模型架构MoRA",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-r8t004",
+      "id": "rss-qbitai-vw2own",
       "type": "news",
-      "title": "比亚迪全程护航丝路万里行，深圳收官再启海外征程",
-      "url": "https://www.qbitai.com/2026/08/474868.html",
+      "title": "华尔街实测8款全球主流Agent：千问办公综合排名第一",
+      "url": "https://www.qbitai.com/2026/08/476070.html",
       "source": "qbitai",
-      "publishedAt": "2026-08-18T10:40:23.000Z",
-      "summaryHint": "8月14日，2026丝绸之路万里行·启迪之路国内段在深圳收官。",
+      "publishedAt": "2026-08-20T01:06:45.000Z",
+      "summaryHint": "成本也正成为Agent商业化需要考虑的重要因素",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-c3d3dw",
+      "id": "rss-google_news_en_deals-xlr36l",
       "type": "news",
-      "title": "网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人",
-      "url": "https://www.qbitai.com/2026/08/474857.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-18T10:04:14.000Z",
-      "summaryHint": "8月18日，网易传媒举办“蜜蜂AI媒体沟通会”",
+      "title": "Star researcher Sanja Fidler raises over US$90M for world model startup - The Logic",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LTEJEbDJEZ2pmV1VBeXNVQkVSLWc2c19ldUNzUUt2UzllMlN4R3J6dUNFS0o4ckdzdE1TMXhoZjI4Z0c1cVlNX1hoS3p0WnZsM3JBU1pncEtGamR4dnBUVEc2S3l2NERUb3dYSWp3b0R1dw?oc=5",
+      "source": "google_news_en_deals",
+      "publishedAt": "2026-08-19T15:00:00.000Z",
+      "summaryHint": "Star researcher Sanja Fidler raises over US$90M for world model startup &nbsp;&nbsp; The Logic",
       "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-gsdunz",
-      "type": "news",
-      "title": "π0引用的中国团队，又出手了：世界仿真器新作发布",
-      "url": "https://www.qbitai.com/2026/08/474838.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-18T09:57:40.000Z",
-      "summaryHint": "给机器人造一个更接近真实的“第二世界”",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-5wcjli",
-      "type": "news",
-      "title": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
-      "url": "https://www.qbitai.com/2026/08/474840.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-18T09:38:21.000Z",
-      "summaryHint": "8月17日，阿里巴巴发布AI音乐模型HappyShrimp",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-99g3uo",
-      "type": "news",
-      "title": "6个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
-      "url": "https://www.qbitai.com/2026/08/474806.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-18T07:33:00.000Z",
-      "summaryHint": "代码能跑≠游戏能玩",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-7ub8o3",
-      "type": "news",
-      "title": "今日起，阿里“千问办公”接入企业微信",
-      "url": "https://www.qbitai.com/2026/08/474803.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-18T07:17:42.000Z",
-      "summaryHint": "国内三大办公平台全面支持",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-oh0hgk",
-      "type": "news",
-      "title": "吉利汽车业绩高点，李书福激流勇退",
-      "url": "https://www.qbitai.com/2026/08/474736.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-18T06:46:46.000Z",
-      "summaryHint": "“吉利不再研发传统燃油车”",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-apkd7k",
-      "type": "news",
-      "title": "资本涌入AIGC内容赛道，但钱不再只追大模型 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GRFI0MjZCQnhiMEhZWVVoUFlMR3NUQVpKR1RkS0hiMDNLWTQtWW45b2dzZ3JiZW80ZlFnOW5BNk84VXpJc0RrWXlQLWdHZw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-13T18:31:00.000Z",
-      "summaryHint": "资本涌入AIGC内容赛道，但钱不再只追大模型 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
+        "us",
         "funding",
         "deal_rss"
       ]
     },
     {
-      "id": "hn-alg-49280945",
+      "id": "rss-qbitai-l66r5k",
       "type": "news",
-      "title": "Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
-      "source": "hacker_news_algolia",
-      "publishedAt": "2026-08-13T01:50:27.000Z",
-      "summaryHint": "HN points 35",
+      "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
+      "url": "https://www.qbitai.com/2026/08/475931.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-19T10:54:07.000Z",
       "tags": [
-        "generative",
-        "us"
+        "china",
+        "funding"
       ]
     },
     {
-      "id": "reddit-rss-a34q0",
+      "id": "rss-qbitai-8o06in",
+      "type": "news",
+      "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
+      "url": "https://www.qbitai.com/2026/08/475907.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-19T10:12:09.000Z",
+      "summaryHint": "超维动力KAI全栈具身智能硬核登场",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-5tqg5h",
+      "type": "news",
+      "title": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
+      "url": "https://www.qbitai.com/2026/08/475901.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-19T08:34:36.000Z",
+      "summaryHint": "凭借企业级智能体与AI安全的全栈布局，360成为中国人工智能产业发展的代表企业之一。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-269ee4",
+      "type": "news",
+      "title": "MiniMax核心工程负责人阿岛离职",
+      "url": "https://www.qbitai.com/2026/08/475869.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-19T08:23:05.000Z",
+      "summaryHint": "从技术研发到开发者沟通，长期活跃在开发者一线",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-wpc785",
+      "type": "news",
+      "title": "具身数据底座开卖，首发5100元：机器人训练数据有了新解法",
+      "url": "https://www.qbitai.com/2026/08/475477.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-19T07:42:27.000Z",
+      "summaryHint": "构建全栈物理AI基础设施",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-xd3zfa",
+      "type": "news",
+      "title": "用DeepSeek网页版就能瓜分鹅厂600万？？！",
+      "url": "https://www.qbitai.com/2026/08/475764.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-19T07:40:36.000Z",
+      "summaryHint": "冠军姿势长这样",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "reddit-rss-aledvi",
       "type": "social_en",
-      "title": "When AI art has no author: Study finds generated images often can’t be traced to training data",
-      "url": "https://www.reddit.com/r/artificial/comments/1vsebj5/when_ai_art_has_no_author_study_finds_generated/",
+      "title": "The alignment tax: corporate AI guardrails add 25-35% to your compute bill and nobody talks about it",
+      "url": "https://www.reddit.com/r/artificial/comments/1vtbsca/the_alignment_tax_corporate_ai_guardrails_add/",
       "source": "reddit_r_artificial",
-      "publishedAt": "2026-08-19T06:24:12.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/frankster [link] &#32; [comments]",
+      "publishedAt": "2026-08-20T06:42:55.000Z",
+      "summaryHint": "There is a cost line item in every enterprise AI budget that almost nobody audits. It does not appear on the invoice. It is not broken out in the pricing tier comparison. But it represents between 25% and 35% of the actual compute expenditu",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-7xwo86",
+      "id": "reddit-rss-gpga9",
       "type": "social_en",
-      "title": "Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs",
-      "url": "https://www.reddit.com/r/artificial/comments/1vs6yoh/young_adults_in_the_us_are_increasingly_wary_of/",
+      "title": "Asked Gemini, GPT, Claude for help with a cat castle, never seen Claude drop the ball so badly",
+      "url": "https://www.reddit.com/r/artificial/comments/1vtbiz1/asked_gemini_gpt_claude_for_help_with_a_cat/",
       "source": "reddit_r_artificial",
-      "publishedAt": "2026-08-19T00:27:33.000Z",
-      "summaryHint": "55% of adults under 30 are now more concerned than excited about AI, up from 31% in 2021. 73% of adults under 30 think AI will lead to fewer U.S. jobs over the next 20 years, up from 61% in 2024. Across all U.S. adults, 71% expect fewer job",
+      "publishedAt": "2026-08-20T06:27:53.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/Alarming-Koala-3524 [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-f4jo95",
+      "id": "reddit-rss-tsse2t",
       "type": "social_en",
-      "title": "At what point does AI automation actually save time instead of creating more work?",
-      "url": "https://www.reddit.com/r/artificial/comments/1vs2zmc/at_what_point_does_ai_automation_actually_save/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-08-18T21:43:16.000Z",
-      "summaryHint": "I&#39;ve started wondering about this because sometimes I’m not sure whether I’m automating a task or just creating another task for myself. Set up the workflow. Connect everything. Fix it when something goes wrong. Check what it did. Then ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-ngkxep",
-      "type": "social_en",
-      "title": "We built LocalMesh, one photo in, a Gaussian splat + textured mesh out, 100% on your own GPU. Beta is open, 7 days free.",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vs04rd/we_built_localmesh_one_photo_in_a_gaussian_splat/",
+      "title": "Cosplay 3DGS captured with just a smartphone at Comiket, Japan’s biggest anime convention",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vt9ojb/cosplay_3dgs_captured_with_just_a_smartphone_at/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-18T19:56:47.000Z",
-      "summaryHint": "Hi everyone, We&#39;ve been building LocalMesh for the past few weeks, and the beta just opened. Short version: one photo goes in, and you get a 3D Gaussian splat (~60s on a 5090, ~2min on a 4060 laptop), then a textured mesh** (UV-unwrappe",
+      "publishedAt": "2026-08-20T04:46:31.000Z",
+      "summaryHint": "First post in this community! My cameraman turned a video of my Lucy (Cyberpunk: Edgerunners) cosplay — shot at Comiket, Japan’s biggest anime convention — into a 3D Gaussian splat. The whole capture was done with just a smartphone. Right n",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-8vpgwa",
+      "id": "reddit-rss-w54d35",
       "type": "social_en",
-      "title": "Sainsbury’s pauses AI facial recognition after wrongful shoplifting accusation",
-      "url": "https://www.reddit.com/r/artificial/comments/1vrqj9f/sainsburys_pauses_ai_facial_recognition_after/",
+      "title": "NEW Spatial Capture feature by Insta360: Tested ✅",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vsxep2/new_spatial_capture_feature_by_insta360_tested/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-08-19T20:01:53.000Z",
+      "summaryHint": "Today I tested the new Spatial Capture feature by Insta360, using my Insta360 X5. This feature allows you to create gaussian splats by just taking a 360 video with your insta. The actual process of creating the 3dgs is easy, and it works al",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-49ci7p",
+      "type": "social_en",
+      "title": "Added surface approx. to WebGPU MRI viewer",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1vsty70/added_surface_approx_to_webgpu_mri_viewer/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-08-19T17:58:50.000Z",
+      "summaryHint": "https://preview.redd.it/fmqmx3q2fdkh1.png?width=1687&amp;format=png&amp;auto=webp&amp;s=46d7c3bfd307ba4e3a50c1236cda495d14e64bc5 viewer here: https://dave-astator.com/mri &#32; submitted by &#32; /u/DaveAstator2020 [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-s7w8fy",
+      "type": "social_en",
+      "title": "One employee with AI matched a two-person team in a major workplace experiment - Research Today",
+      "url": "https://www.reddit.com/r/artificial/comments/1vstvk2/one_employee_with_ai_matched_a_twoperson_team_in/",
       "source": "reddit_r_artificial",
-      "publishedAt": "2026-08-18T14:19:29.000Z",
-      "summaryHint": "UK supermarket Sainsbury&#39;s has temporarily stopped its use of AI facial recognition in one of its London stores after a customer was wrongly identified as a shoplifter and asked to leave. The retailer said the incident at an East Dulwic",
+      "publishedAt": "2026-08-19T17:56:15.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/CandyFangs [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-3s71s1",
+      "id": "reddit-rss-5syd0s",
       "type": "social_en",
-      "title": "Recent IOS development of our web viewer for higher performance on ios devices.",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vrp7y8/recent_ios_development_of_our_web_viewer_for/",
+      "title": "I've made a small open source tool for rendering transitions between point clouds and gaussian splats",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vsodq5/ive_made_a_small_open_source_tool_for_rendering/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-18T13:29:30.000Z",
-      "summaryHint": "IOS 27 3DGS viewer &#32; submitted by &#32; /u/RoutineNo2782 [link] &#32; [comments]",
+      "publishedAt": "2026-08-19T14:41:25.000Z",
+      "summaryHint": "https://github.com/Herolias/Reconstrura-Splat-Animator/ I&#39;ve only tested it with Linux and NVIDIA GPU, but it should also work with AMD and Windows. I will likely add more transitions/features in the future and contributions are welcome",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-uh9rp1",
+      "id": "reddit-rss-8708mb",
       "type": "social_en",
-      "title": "Interactive Inception Map - Try it!",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vrl4he/interactive_inception_map_try_it/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-18T10:18:34.000Z",
-      "summaryHint": "Been experimenting with Gaussian splatting for spatial interfaces and ended up building this little interactive demo. It basically warps a 3DGS scene into an “inception map” type view, where you can see the space around you while also getti",
+      "title": "Is everybody else getting tired of AI tools that only tell you what went wrong after the customer hangs up or is it just me?",
+      "url": "https://www.reddit.com/r/artificial/comments/1vsm0zn/is_everybody_else_getting_tired_of_ai_tools_that/",
+      "source": "reddit_r_artificial",
+      "publishedAt": "2026-08-19T13:11:16.000Z",
+      "summaryHint": "A lot of the tools seem great at analyzing calls after they happen. You get transcripts. QA scores. Sentiment. Coaching notes. Maybe a dashboard showing why AHT went up. Useful stuff but the customer already had the bad call. The more inter",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-y1bhe1",
+      "type": "social_en",
+      "title": "realtime wormholes in browser",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1vslkcc/realtime_wormholes_in_browser/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-08-19T12:51:55.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/olof_src [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-ih80gq",
+      "type": "social_en",
+      "title": "Rendering a space battle as light on a black canvas: additive glow, a bloom pass and composed skies. Frames from my game Strike Wings",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1vrktsx/rendering_a_space_battle_as_light_on_a_black/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-08-18T10:01:57.000Z",
+      "summaryHint": "Frames from Strike Wings, a 2D space shooter I am writing in C++ on SDL2. Clean view, no post editing. How the look is put together: every emissive thing (beams, tracers, plumes, shield arcs, explosion cores) is drawn additively and then ru",
       "tags": [
         "ai_social"
       ]
