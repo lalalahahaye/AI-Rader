@@ -1,12 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T07:09:18.952Z",
+  "updatedAt": "2026-08-22T07:00:53.560Z",
   "items": [
     {
-      "id": "rss-google_news_cn_36kr_deals-n9cv84",
+      "id": "rss-google_news_cn_36kr_deals-stijti",
+      "type": "funding",
+      "title": "基站变算力节点，恒湾科技完成B+轮融资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zUC1SRkhzYnpoWFVVV3N1UHZvdk43ZkxqVXM3UUluQTQ3WTVpcTJjRzk4TjdZWnNPWnQ1R3MyU3N0YTlkOHljTXFENTdQQQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-20T20:08:00.000Z",
+      "summaryHint": "基站变算力节点，恒湾科技完成B+轮融资 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "B+轮融资"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-92ynpw",
       "type": "funding",
       "title": "博通据悉寻求逾600亿美元债务融资，助力Anthropic等获取AI算力 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sbDdORmxIc0VqRzZKZlZTSXVQM3Bvdm91UGJGTHJFWTc2U3o2MU0tdkRhYmRQSkM5Z05XZG1uNWpGbDc1dHh4SHpjT21XdEwtQ09OTnlLcU5rTGYzRUppaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wOEplSEk3OFlnNGQ3bnJzaEExelR0WVVJYjNCOGdWT2c5MGd0bW9aZzdTeFBodXVwdHRoLWZoUjM0WV9OUk5RM24wV1ZGVTRKUXBwaldoYTBiZzkycmc?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-20T09:16:00.000Z",
       "summaryHint": "博通据悉寻求逾600亿美元债务融资，助力Anthropic等获取AI算力 &nbsp;&nbsp; 36 Kr",
@@ -176,10 +192,10 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-f7ejm8",
+      "id": "rss-google_news_cn_36kr_deals-oknufo",
       "type": "funding",
       "title": "估值366亿，AI视频独角兽又融资，英特尔投了 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wRG1ZZDJlYVJKVnFJaU5jRW01TjJDYTF3QWtzTDFXLWExRzdaWHNYRnBuM1F5ZUNqZnN6UzJGZndFM0k0anhQMG1GT0FtZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WYU1YYXVSbDVyZkVDTkZrZjhQUktNWGJJVmd6Vk5UeVBwaGVqaEU3NXViR2xCVDNRTjJ3VHFQdTh2Y0pKRnZ2NzFHM1NkbXNH?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-17T08:48:00.000Z",
       "summaryHint": "估值366亿，AI视频独角兽又融资，英特尔投了 &nbsp;&nbsp; 36 Kr",
@@ -192,18 +208,68 @@
       "amount": "366亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-o2vo1a",
-      "type": "funding",
-      "title": "AI融资需求不断攀升，Alphabet考虑首次发行澳元债券 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HblRaVUFBaXFzdkpMQXp5bnpYS2JyX0hYMEdIUF8zbEd4N0wzVG1qY3hfM3dtb18zTzF3XzBBN0VFc1gwMFlSUGpMY0N2N3FZY2lUX0tMYWg?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-17T00:47:42.000Z",
-      "summaryHint": "AI融资需求不断攀升，Alphabet考虑首次发行澳元债券 &nbsp;&nbsp; 36 Kr",
+      "id": "rss-qbitai-ocgtk8",
+      "type": "news",
+      "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
+      "url": "https://www.qbitai.com/2026/08/476778.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-21T11:47:27.000Z",
+      "summaryHint": "载重4.2吨、容积19.32m³",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-yarmo9",
+      "type": "news",
+      "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
+      "url": "https://www.qbitai.com/2026/08/476733.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-21T09:44:33.000Z",
+      "summaryHint": "明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-6u10n0",
+      "type": "news",
+      "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
+      "url": "https://www.qbitai.com/2026/08/476628.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-21T09:00:06.000Z",
+      "summaryHint": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-4w2swi",
+      "type": "news",
+      "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
+      "url": "https://www.qbitai.com/2026/08/476596.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-21T07:17:58.000Z",
+      "summaryHint": "机器人看3秒演示就能学会",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-79awvh",
+      "type": "news",
+      "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
+      "url": "https://www.qbitai.com/2026/08/476591.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-21T06:40:34.000Z",
+      "summaryHint": "让科学家的时间回到科学创造",
+      "tags": [
+        "china",
+        "funding"
       ]
     },
     {
@@ -214,19 +280,6 @@
       "source": "qbitai",
       "publishedAt": "2026-08-21T05:38:12.000Z",
       "summaryHint": "一点新鲜变化都没有吗？",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-vl3l4d",
-      "type": "news",
-      "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进一个桌面",
-      "url": "https://www.qbitai.com/2026/08/476520.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-21T05:33:52.000Z",
-      "summaryHint": "让科学家的时间回到科学创造",
       "tags": [
         "china",
         "funding"
@@ -284,65 +337,16 @@
       ]
     },
     {
-      "id": "rss-qbitai-nr1q0q",
-      "type": "news",
-      "title": "首批！优必选行者具身智能大模型完成生成式人工智能服务备案",
-      "url": "https://www.qbitai.com/2026/08/476406.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-21T02:26:49.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-p66l7b",
-      "type": "news",
-      "title": "三箭齐发！优必选WRC2026全方位展示人形机器人工业、商用、家庭消费应用成果",
-      "url": "https://www.qbitai.com/2026/08/476403.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-21T02:22:43.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-qlbgdw",
-      "type": "news",
-      "title": "网易有道2026Q2财报：Q2净收入14.7亿元，AI原生战略加速兑现商业价值",
-      "url": "https://www.qbitai.com/2026/08/476400.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-21T02:15:28.000Z",
-      "summaryHint": "8月20日，网易有道（NYSE：DAO）发布了2026年第二季度未经审计的财务业绩。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
       "id": "hn-alg-49376991",
       "type": "news",
       "title": "Show HN: Building Table Canon, an AI Campaign Memory Engine for TTRPGs",
       "url": "https://tablecanon.app/",
       "source": "hacker_news_algolia",
       "publishedAt": "2026-08-20T16:40:43.000Z",
-      "summaryHint": "HN points 3",
+      "summaryHint": "HN points 4",
       "tags": [
         "generative",
         "us"
-      ]
-    },
-    {
-      "id": "rss-qbitai-x6lv9y",
-      "type": "news",
-      "title": "这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家",
-      "url": "https://www.qbitai.com/2026/08/476280.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-20T10:17:47.000Z",
-      "tags": [
-        "china",
-        "funding"
       ]
     },
     {
@@ -374,61 +378,61 @@
       ]
     },
     {
-      "id": "reddit-rss-xpt20i",
+      "id": "reddit-rss-pslwde",
       "type": "social_en",
-      "title": "EMNLP 2026 Findings : worth attending in person?[D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vu8zag/emnlp_2026_findings_worth_attending_in_persond/",
-      "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-08-21T07:04:51.000Z",
-      "summaryHint": "Experienced folks!! Do u think it is worth attending the conference for findings. I do want to. But when I saw that it is not mandatory for findings, I was a bit hesitant. This is my first time having a paper accepted at an AI conference. J",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-cv385u",
-      "type": "social_en",
-      "title": "Building a creative VFX system for Gaussian Splats in Unreal Engine",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vu145w/building_a_creative_vfx_system_for_gaussian/",
+      "title": "Open source 4DGS that runs in supersplat viewer & supports AR",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vurq1g/open_source_4dgs_that_runs_in_supersplat_viewer/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-21T00:31:56.000Z",
-      "summaryHint": "Update: now running in Unreal Engine. I’ve been experimenting with a creative VFX suite built specifically around Gaussian Splatting. The first version was running in Unity. I’ve now moved the system into Unreal Engine, and things are start",
+      "publishedAt": "2026-08-21T20:29:21.000Z",
+      "summaryHint": "*Phew*! Lots of work went into getting this all running end-to-end! I&#39;ve whipped up an extension to the .sog format that pulls in the concepts from spacetime gaussians and OMG4 to create a super-compressed, streamable, 4D gaussian splat",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-jmlhp5",
+      "id": "reddit-rss-14l0dq",
       "type": "social_en",
-      "title": "Google Docs for Coral Reefs",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vtxfh1/google_docs_for_coral_reefs/",
+      "title": "I am researching the highly optimized reflection technology in the game *The Dark Knight Rises* (2012).",
+      "url": "https://www.reddit.com/r/Unity3D/comments/1vuqbhf/i_am_researching_the_highly_optimized_reflection/",
+      "source": "reddit_r_Unity3D",
+      "publishedAt": "2026-08-21T19:36:04.000Z",
+      "summaryHint": "I am investigating the highly optimized reflection technology used in *The Dark Knight Rises* mobile game, released in 2012. Were these reflections based on inverted geometry or planar mapping? The game also featured reflections from headli",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-3no1we",
+      "type": "social_en",
+      "title": "LuluSplat: Free Apple silicon complete pipeline",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vuagfm/lulusplat_free_apple_silicon_complete_pipeline/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-20T21:59:37.000Z",
-      "summaryHint": "[Call for contributors!] New release: &quot;Google Docs for Coral Reefs&quot; is live!! You can now explore the reef with your dive buddies, select coral colonies, tag species, add comments, and search for visually similar colonies across t",
+      "publishedAt": "2026-08-21T08:32:53.000Z",
+      "summaryHint": "Apple has finally approved my app LuluSplat This is a complete pipeline for generating 3dgs models from images, videos, and 360 videos. Image/Video/360video processing: AVfoundation, no ffmpeg due to licensing issues. Point Cloud: Colmap 3d",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-m0ngot",
+      "id": "reddit-rss-udr039",
       "type": "social_en",
-      "title": "Discussion thread for EMNLP 2026 Notifications/Results [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vtdpve/discussion_thread_for_emnlp_2026/",
-      "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-08-20T08:37:17.000Z",
-      "summaryHint": "Discussion thread for EMNLP 2026 notifications/results which should be released today. Wishing everybody to be in Budapest. &#32; submitted by &#32; /u/sweetsalt10 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-tsse2t",
-      "type": "social_en",
-      "title": "Cosplay 3DGS captured with just a smartphone at Comiket, Japan’s biggest anime convention",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vt9ojb/cosplay_3dgs_captured_with_just_a_smartphone_at/",
+      "title": "What if a navigation map bent the world instead of moving the camera?",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vu961i/what_if_a_navigation_map_bent_the_world_instead/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-20T04:46:31.000Z",
-      "summaryHint": "First post in this community! My cameraman turned a video of my Lucy (Cyberpunk: Edgerunners) cosplay — shot at Comiket, Japan’s biggest anime convention — into a 3D Gaussian splat. The whole capture was done with just a smartphone. Right n",
+      "publishedAt": "2026-08-21T07:15:28.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/bitruvius_ [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-v22kfz",
+      "type": "social_en",
+      "title": "I made a game about opening 500,000 boxes with Unity",
+      "url": "https://www.reddit.com/r/Unity3D/comments/1vu93mc/i_made_a_game_about_opening_500000_boxes_with/",
+      "source": "reddit_r_Unity3D",
+      "publishedAt": "2026-08-21T07:11:31.000Z",
+      "summaryHint": "Hey! Solo dev here. I&#39;ve been building One&#39;s Trash Another&#39;s Treasure, a first-person incremental game where you buy 500,000 boxes of unclaimed cargo and have to process every single one grind them, feed the output into a hole, ",
       "tags": [
         "ai_social"
       ]
