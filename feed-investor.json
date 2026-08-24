@@ -1,7 +1,69 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-23T07:02:38.553Z",
+  "updatedAt": "2026-08-24T07:30:21.528Z",
   "items": [
+    {
+      "id": "rss-google_news_cn_36kr_deals-f618ck",
+      "type": "funding",
+      "title": "脱单也靠AI，“赛博媒婆”拿到1500万元天使融资 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Ub0FxMGctTmtvbkZ4ckgyWkVzT0hONURjb3hSN01CUUVnU3JBaEdJSndUc2p3Um85TndnN1BmaXVEQVZDSnhEYzZMSHo1RFQ5?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-24T02:34:54.000Z",
+      "summaryHint": "脱单也靠AI，“赛博媒婆”拿到1500万元天使融资 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "1500万元"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-h48xy4",
+      "type": "funding",
+      "title": "三个月两轮融资引爆市场 中国版Palantir成资本新宠 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VXzN0eGl3c3R0a1pLVEY2Y2dXcTNhVnF6NXhXNkJaVldrMlI0OUVrRTQwN2F3OTFPN0phaG55RG15dEtCZkpSQTljVEJMeC1NNzYw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-23T10:45:00.000Z",
+      "summaryHint": "三个月两轮融资引爆市场 中国版Palantir成资本新宠 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-qbitai-buqo99",
+      "type": "funding",
+      "title": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
+      "url": "https://www.qbitai.com/2026/08/478164.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-23T09:51:49.000Z",
+      "summaryHint": "内存成本飙升逼涨硬件",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "amount": "50亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-nbkuzh",
+      "type": "funding",
+      "title": "800亿港元融资加码AI 阿里宣布AI领域再融资 市场传已超额认购 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVREJlVU10UTFSSms5ckZsTjZvR0xpV2Y0TXRORnQ5UkFBSDJTWTdsSVJ0anJqTUlCVnRqeWozTEU5T0NpWHdTNVBFaXY5OHFqeGlZ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-23T09:24:00.000Z",
+      "summaryHint": "800亿港元融资加码AI 阿里宣布AI领域再融资 市场传已超额认购 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "800亿"
+    },
     {
       "id": "rss-google_news_cn_36kr_deals-gz8y4v",
       "type": "funding",
@@ -35,21 +97,6 @@
       "amount": "600亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-fjtjsr",
-      "type": "funding",
-      "title": "英伟达据悉正与其AI数据供应商Mercor商讨融资事宜 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TemlPQ0xaM2ZYU0RtenVjbVdTVXhsbVEwR29YTnZnUFlMdFI5amcxdThXWEQwQUozYkxpelNGN19pMTMyaU9henRBalBKTGpDMWtzbnpENU9scl9Nc0E?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-19T23:45:47.000Z",
-      "summaryHint": "英伟达据悉正与其AI数据供应商Mercor商讨融资事宜 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-mk7405",
       "type": "funding",
       "title": "大空头与黄仁勋对撕：AI行业5000亿融资堪比安然 - 36Kr",
@@ -64,38 +111,6 @@
         "deal_signal"
       ],
       "amount": "5000亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-9kbzco",
-      "type": "funding",
-      "title": "硬氪独家 | 清华，中科院具身大脑企业融资10亿，已获得数亿海外订单 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16N1hwQkx4V0JleGFHQ254b2RPanNURkU1bDBLY0hzQm1ZSk5BeUlidXdHQWFkZ1hMWFF6bW9YU3lzOHh5Unhud2FZUmk5UQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-19T12:10:00.000Z",
-      "summaryHint": "硬氪独家 | 清华，中科院具身大脑企业融资10亿，已获得数亿海外订单 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "10亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-stemr7",
-      "type": "funding",
-      "title": "AI芯片创企Etched融资7亿美元，近一个月估值翻番至210亿美元 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhdHFIbUZNZHp2a2RKbmhqWVlRSzRLM0lRZk9IclpON19sN29LcGhjRW52MEI4eFY4U1J0SHV5THFLUnNhMm9rQWZJSThvemF5dW9xaDdvRjZWblA1VkE?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-19T07:47:45.000Z",
-      "summaryHint": "AI芯片创企Etched融资7亿美元，近一个月估值翻番至210亿美元 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "7亿"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-c24zsv",
@@ -131,11 +146,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-ijho1z",
       "type": "funding",
-      "title": "被黄仁勋挖空的AI芯片独角兽 融资24亿深陷人才流失困境 - 36 Kr",
+      "title": "被黄仁勋挖空的AI芯片独角兽 融资24亿深陷人才流失困境 - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGQ19MV1A0THlzai1WalZlV1lWdUxYNUpEbjRIU0tCTnNfSWNSZ0xMUTRBakN5ZEV1U2R6bFloMGpadE05UjA1cFBOUkoxRDZ6UlpZ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-18T11:54:00.000Z",
-      "summaryHint": "被黄仁勋挖空的AI芯片独角兽 融资24亿深陷人才流失困境 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "被黄仁勋挖空的AI芯片独角兽 融资24亿深陷人才流失困境 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -145,29 +160,13 @@
       "amount": "24亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-6f70c9",
-      "type": "funding",
-      "title": "独到科技完成近亿元A+轮融资赛富领投 清华系AI Agent公司打造业务世界的Agent编译器 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SUmlaZE9iam9pOHp1bGhUaHFZN3UwZlRITy1kdFhKVmc3TUl2OERsV1NVdi1mZGpodEIxdnMtMTBoSkFpam5obldjOE5VTE12NExv?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-18T11:23:00.000Z",
-      "summaryHint": "独到科技完成近亿元A+轮融资赛富领投 清华系AI Agent公司打造业务世界的Agent编译器 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "A+轮融资"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-a7qs2",
       "type": "funding",
-      "title": "10亿美金开局！2024年这条赛道融资爆发 几乎所有玩家都拿到钱了 - 36 Kr",
+      "title": "10亿美金开局！2024年这条赛道融资爆发 几乎所有玩家都拿到钱了 - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MaVczSVJrTnZEeEo3NlJZS2ZMM1NTbUNpeVpwN3VqRjloZnpSZFZCamFUcEJ5MVdtT0IwWnY2V3Z4MHFCc29BcFA4RmFuMUpoVjdr?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-18T10:03:00.000Z",
-      "summaryHint": "10亿美金开局！2024年这条赛道融资爆发 几乎所有玩家都拿到钱了 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "10亿美金开局！2024年这条赛道融资爆发 几乎所有玩家都拿到钱了 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -175,21 +174,6 @@
         "deal_signal"
       ],
       "amount": "10亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-yhygzt",
-      "type": "funding",
-      "title": "99后带队，PandaAI连续完成三轮融资 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pZkotTGRYZ2JmNUs5dmR1RXNqQld6NGxyYVo5WDF1RG50MTVhZmRHNjZFeGZOU2I5WWFVeDBXV0cwVW12WFpicnN6QUlFRlh2VzFV?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-17T12:28:00.000Z",
-      "summaryHint": "99后带队，PandaAI连续完成三轮融资 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-f7ejm8",
@@ -206,6 +190,150 @@
         "deal_signal"
       ],
       "amount": "366亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-ajm9ps",
+      "type": "news",
+      "title": "阿里七年来最大的资本运作 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90OWZHSHRJQmwxMDdkVVVWdXREOEc0dkxPTnoxd0JTNTZCOERwT1dBZmZpMFl4azZBMjFjWG13MUhFYnJGQUloM1ZlZVEtaFBl?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-24T07:10:58.000Z",
+      "summaryHint": "阿里七年来最大的资本运作 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-lmvjv0",
+      "type": "news",
+      "title": "类器官和器官芯片公司，为什么都去做AI虚拟细胞了？ - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Ya1JvZjJkbmMwVl9aa01FNG9sajcwWkFnYW1LeXF2Ukl5OVJyR2lwNUxCdEo3all5LWtVanJqd1RCeFB3bHo1WU1aRjFxb1k?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-24T06:40:53.000Z",
+      "summaryHint": "类器官和器官芯片公司，为什么都去做AI虚拟细胞了？ &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-qbitai-ocn0b9",
+      "type": "news",
+      "title": "8月25日直播预告 | AFAC2026金融智能创新大赛，总决赛路演倒计时来啦！",
+      "url": "https://www.qbitai.com/2026/08/478447.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-24T06:03:13.000Z",
+      "summaryHint": "AFAC2026总决赛路演将于8月25-26日在上海阿纳迪酒店（长宁区临虹路7号）举办。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-hboh7t",
+      "type": "news",
+      "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
+      "url": "https://www.qbitai.com/2026/08/478427.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-24T05:09:27.000Z",
+      "summaryHint": "8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-ehequn",
+      "type": "news",
+      "title": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界",
+      "url": "https://www.qbitai.com/2026/08/478421.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-24T05:04:52.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-x0ah7w",
+      "type": "news",
+      "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+      "url": "https://www.qbitai.com/2026/08/478358.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-23T23:19:06.000Z",
+      "summaryHint": "Tim和胡彦斌亲自颁奖",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-p891a1",
+      "type": "news",
+      "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+      "url": "https://www.qbitai.com/2026/08/478319.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-23T13:20:00.000Z",
+      "summaryHint": "玩的就是真实",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-mc7kr5",
+      "type": "news",
+      "title": "具身创业里的香港教授们",
+      "url": "https://www.qbitai.com/2026/08/478289.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-23T11:20:13.000Z",
+      "summaryHint": "香港的大学里冒出了一批很特别的人",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-r2b1v5",
+      "type": "news",
+      "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
+      "url": "https://www.qbitai.com/2026/08/478234.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-23T11:17:22.000Z",
+      "summaryHint": "多多支持像王兴兴这样优秀的具身机器人创业者",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-urbb89",
+      "type": "news",
+      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
+      "url": "https://www.qbitai.com/2026/08/478191.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-23T09:56:12.000Z",
+      "summaryHint": "Tokenizer、视频编码、API报错全扒一遍",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-2vs2yg",
+      "type": "news",
+      "title": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起",
+      "url": "https://www.qbitai.com/2026/08/478093.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-23T09:45:27.000Z",
+      "summaryHint": "AstraTennis时刻背后的硬核技术",
+      "tags": [
+        "china",
+        "funding"
+      ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-58elbl",
@@ -232,135 +360,6 @@
       "tags": [
         "funding",
         "us"
-      ]
-    },
-    {
-      "id": "rss-qbitai-vpjwz5",
-      "type": "news",
-      "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-      "url": "https://www.qbitai.com/2026/08/477253.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-22T14:46:43.000Z",
-      "summaryHint": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-igahxp",
-      "type": "news",
-      "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
-      "url": "https://www.qbitai.com/2026/08/477246.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-22T14:19:39.000Z",
-      "summaryHint": "直击WRC",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-3u0opc",
-      "type": "news",
-      "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
-      "url": "https://www.qbitai.com/2026/08/477155.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-22T14:11:20.000Z",
-      "summaryHint": "一脑驱动多形落地",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-x8xq52",
-      "type": "news",
-      "title": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
-      "url": "https://www.qbitai.com/2026/08/477094.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-22T13:56:00.000Z",
-      "summaryHint": "采集，从一条腕带开始",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-vcr8ka",
-      "type": "news",
-      "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
-      "url": "https://www.qbitai.com/2026/08/477090.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-22T12:21:07.000Z",
-      "summaryHint": "将真实场景重建为持续更新、可计算的4D数字世界。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-c718vo",
-      "type": "news",
-      "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-      "url": "https://www.qbitai.com/2026/08/477016.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-22T12:11:23.000Z",
-      "summaryHint": "具身智能赛道壁垒不在出货量",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-54xfp4",
-      "type": "news",
-      "title": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
-      "url": "https://www.qbitai.com/2026/08/476965.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-22T08:53:13.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-jhrnmy",
-      "type": "news",
-      "title": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
-      "url": "https://www.qbitai.com/2026/08/476930.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-22T08:41:41.000Z",
-      "summaryHint": "让具身智能技术真正落地千行万业。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-ocgtk8",
-      "type": "news",
-      "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
-      "url": "https://www.qbitai.com/2026/08/476778.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-21T11:47:27.000Z",
-      "summaryHint": "载重4.2吨、容积19.32m³",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-yarmo9",
-      "type": "news",
-      "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
-      "url": "https://www.qbitai.com/2026/08/476733.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-21T09:44:33.000Z",
-      "summaryHint": "明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。",
-      "tags": [
-        "china",
-        "funding"
       ]
     },
     {
@@ -391,37 +390,49 @@
       ]
     },
     {
-      "id": "reddit-rss-v3fek",
+      "id": "reddit-rss-kdya4v",
       "type": "social_en",
-      "title": "What is the best camera rig under £2.5k",
-      "url": "https://www.reddit.com/r/videography/comments/1vvuydc/what_is_the_best_camera_rig_under_25k/",
-      "source": "reddit_r_videography",
-      "publishedAt": "2026-08-23T02:25:32.000Z",
-      "summaryHint": "I’m looking for the best camera rig for under £2.5k/$3.4k, I’m making my first short film, i showed the screenplay to a huge musician in the uk and he’s gonna score it and give me the microphone equipment for free, now here’s the thing the ",
+      "title": "AAAI 2027 Reviewer Bidding and Assignment Integrity [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vwujcy/aaai_2027_reviewer_bidding_and_assignment/",
+      "source": "reddit_r_MachineLearning",
+      "publishedAt": "2026-08-24T06:11:03.000Z",
+      "summaryHint": "Recently, the AAAI 2027 organizers sent an email regarding collusion occurring during the review process, especially in the 2-cycles category (i.e., an author of Paper A reviews Paper B, while an author of Paper B reviews Paper A). Given th",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-l0kh8i",
+      "id": "reddit-rss-y0igss",
       "type": "social_en",
-      "title": "Best mini vlog tripod for Sony A7III with monitor, LED panel, and mic?",
-      "url": "https://www.reddit.com/r/videography/comments/1vvtdo9/best_mini_vlog_tripod_for_sony_a7iii_with_monitor/",
-      "source": "reddit_r_videography",
-      "publishedAt": "2026-08-23T01:07:41.000Z",
-      "summaryHint": "Looking for recommendations on a compact vlog tripod for my Sony A7III (with a Tamron 17-70mm lens). My setup includes an external monitor, an LED panel, and a mic mounted on top, so I need something sturdy enough to handle the extra weight",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-3blevu",
-      "type": "social_en",
-      "title": "First attempt at Gaussian Splatting",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vvmt4i/first_attempt_at_gaussian_splatting/",
+      "title": "4D Gaussian Splatting Might Be the Video Format of the Future. Open Source!",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vwh4ov/4d_gaussian_splatting_might_be_the_video_format/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-22T20:19:13.000Z",
-      "summaryHint": "Made with just 35 photos I took with my Mavic Air 3, and I am totally impressed with the quality for so few photos. You can read all the graffiti clearly and see the individual lichen splotches growing on the ground Just found my new obsess",
+      "publishedAt": "2026-08-23T19:53:04.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/Delicious-Shower8401 [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-kjoutj",
+      "type": "social_en",
+      "title": "How to cite/talk about preprint-subsequent works for a camera-ready version? [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vwg5br/how_to_citetalk_about_preprintsubsequent_works/",
+      "source": "reddit_r_MachineLearning",
+      "publishedAt": "2026-08-23T19:15:07.000Z",
+      "summaryHint": "I had a paper accepted to a conference. This paper was originally published as a preprint. Subsequent works citing our preprint focused on the same topic and reused/extended our methodology. I am now preparing the camera-ready version of th",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-tdmk5t",
+      "type": "social_en",
+      "title": "PLY-TO-SPLAT - Quickly turning Point-Clouds to Gaussian Splats",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vw73n9/plytosplat_quickly_turning_pointclouds_to/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-08-23T13:23:02.000Z",
+      "summaryHint": "Link to the Github Repo: https://github.com/PrintedForFun/ply-to-splat Wanted a way to quickly share lidar scans I created in VR or browser-based. Supersplat can do exactly what I wanted but only with gaussian splats. Didn&#39;t want to tra",
       "tags": [
         "ai_social"
       ]
@@ -434,18 +445,6 @@
       "source": "reddit_r_GaussianSplatting",
       "publishedAt": "2026-08-22T15:22:14.000Z",
       "summaryHint": "No sign ups, No subscriptions, No upgrades, No Limits, fully local and free. - A 5 Min 360 video took about 2 hours in a modern PC with a dedicated GPU. - Metal / Vulkan accelerated SFM and trainer. - Ships with SOTA Splat rendering engine ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-h0sjj",
-      "type": "social_en",
-      "title": "I open-sourced an iPhone-optimized 3D Gaussian Splatting trainer (700K Gaussians, 2.1GB peak memory)",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vv9qau/i_opensourced_an_iphoneoptimized_3d_gaussian/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-22T11:17:24.000Z",
-      "summaryHint": "Forked from rayanht/msplat, with a strong focus on mobile memory optimization. On the Mip-NeRF 360 garden dataset, it can train 700K Gaussians at full resolution with around 2GB peak memory. Licensed under Apache 2.0, so you can integrate i",
       "tags": [
         "ai_social"
       ]
