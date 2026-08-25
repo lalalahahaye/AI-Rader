@@ -1,15 +1,30 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T07:30:21.528Z",
+  "updatedAt": "2026-08-25T07:10:12.786Z",
   "items": [
+    {
+      "id": "rss-google_news_cn_36kr_deals-tt9snt",
+      "type": "funding",
+      "title": "快鹭科技发布KuWork企业级智能体工作平台 融资细节暂未披露 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpLTNjUzhNRmdGb1I1N1JUc01hV1p0cE1vcGlqUDJRM1lrbUJKcXlwRGlDMUFraUl2d0R1V0g5UWNpSEw5a0ZoNWlTUGNfdmJFUHhr?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-24T11:33:00.000Z",
+      "summaryHint": "快鹭科技发布KuWork企业级智能体工作平台 融资细节暂未披露 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
     {
       "id": "rss-google_news_cn_36kr_deals-f618ck",
       "type": "funding",
-      "title": "脱单也靠AI，“赛博媒婆”拿到1500万元天使融资 - 36Kr",
+      "title": "脱单也靠AI，“赛博媒婆”拿到1500万元天使融资 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Ub0FxMGctTmtvbkZ4ckgyWkVzT0hONURjb3hSN01CUUVnU3JBaEdJSndUc2p3Um85TndnN1BmaXVEQVZDSnhEYzZMSHo1RFQ5?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-24T02:34:54.000Z",
-      "summaryHint": "脱单也靠AI，“赛博媒婆”拿到1500万元天使融资 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "脱单也靠AI，“赛博媒婆”拿到1500万元天使融资 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -19,13 +34,45 @@
       "amount": "1500万元"
     },
     {
+      "id": "rss-google_news_cn_36kr_deals-yn7030",
+      "type": "funding",
+      "title": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0eFVZWjlEWGFwem1IWGxvQUFJTGZXR0JyT2dHR0hPd0Uwb05lSEc1bkpqLWhIa3ZnUzZWb0Zna2RMdXJiR1pyaV8xMWtJdw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-23T20:30:00.000Z",
+      "summaryHint": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "86亿元"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-mxtrkd",
+      "type": "funding",
+      "title": "无事AI 按结果收费解决小额纠纷 寻求天使轮融资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPZ01VNGg0LW51NUNNdUY4cHluZ25Zd2ZsUFhhdzNWSzV3MVA2UUxDdDNHY2JmcHpuemROakplTzdTNnRxQ1JDeWZLdXlQWVAxbzBF?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-23T15:34:00.000Z",
+      "summaryHint": "无事AI 按结果收费解决小额纠纷 寻求天使轮融资 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "天使轮"
+    },
+    {
       "id": "rss-google_news_cn_36kr_deals-h48xy4",
       "type": "funding",
-      "title": "三个月两轮融资引爆市场 中国版Palantir成资本新宠 - 36Kr",
+      "title": "三个月两轮融资引爆市场 中国版Palantir成资本新宠 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VXzN0eGl3c3R0a1pLVEY2Y2dXcTNhVnF6NXhXNkJaVldrMlI0OUVrRTQwN2F3OTFPN0phaG55RG15dEtCZkpSQTljVEJMeC1NNzYw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-23T10:45:00.000Z",
-      "summaryHint": "三个月两轮融资引爆市场 中国版Palantir成资本新宠 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "三个月两轮融资引爆市场 中国版Palantir成资本新宠 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -34,28 +81,13 @@
       ]
     },
     {
-      "id": "rss-qbitai-buqo99",
-      "type": "funding",
-      "title": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
-      "url": "https://www.qbitai.com/2026/08/478164.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-23T09:51:49.000Z",
-      "summaryHint": "内存成本飙升逼涨硬件",
-      "tags": [
-        "china",
-        "funding",
-        "deal_signal"
-      ],
-      "amount": "50亿"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-nbkuzh",
       "type": "funding",
-      "title": "800亿港元融资加码AI 阿里宣布AI领域再融资 市场传已超额认购 - 36Kr",
+      "title": "800亿港元融资加码AI 阿里宣布AI领域再融资 市场传已超额认购 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVREJlVU10UTFSSms5ckZsTjZvR0xpV2Y0TXRORnQ5UkFBSDJTWTdsSVJ0anJqTUlCVnRqeWozTEU5T0NpWHdTNVBFaXY5OHFqeGlZ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-23T09:24:00.000Z",
-      "summaryHint": "800亿港元融资加码AI 阿里宣布AI领域再融资 市场传已超额认购 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "800亿港元融资加码AI 阿里宣布AI领域再融资 市场传已超额认购 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -65,45 +97,13 @@
       "amount": "800亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-gz8y4v",
-      "type": "funding",
-      "title": "基站变算力节点，恒湾科技完成B+轮融资 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41WnM3X3MwbGF3V1NKUEdZUnhCUVhPSjFwR3QyZ3NyZzh4N21CT1ZFajFONnZ4b2s0bWw4Q21SZVJWMC1CaXZvNkt4NWpJeHJ4?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-21T11:11:48.000Z",
-      "summaryHint": "基站变算力节点，恒湾科技完成B+轮融资 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "B+轮融资"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-92ynpw",
-      "type": "funding",
-      "title": "博通据悉寻求逾600亿美元债务融资，助力Anthropic等获取AI算力 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wOEplSEk3OFlnNGQ3bnJzaEExelR0WVVJYjNCOGdWT2c5MGd0bW9aZzdTeFBodXVwdHRoLWZoUjM0WV9OUk5RM24wV1ZGVTRKUXBwaldoYTBiZzkycmc?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-20T09:16:00.000Z",
-      "summaryHint": "博通据悉寻求逾600亿美元债务融资，助力Anthropic等获取AI算力 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "600亿"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-mk7405",
       "type": "funding",
-      "title": "大空头与黄仁勋对撕：AI行业5000亿融资堪比安然 - 36Kr",
+      "title": "大空头与黄仁勋对撕：AI行业5000亿融资堪比安然 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oZWNDOWNiMndYVjBldFQyRzctd3JvTU9xQ2FCd3NIR2ZMdG1IVFJQamFFTzZfa3dVaWg1eFNZbXlGSU03LS10RUJHQ0Rwdw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-19T17:11:00.000Z",
-      "summaryHint": "大空头与黄仁勋对撕：AI行业5000亿融资堪比安然 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "大空头与黄仁勋对撕：AI行业5000亿融资堪比安然 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -113,28 +113,13 @@
       "amount": "5000亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-c24zsv",
-      "type": "funding",
-      "title": "具身智能9家“大厂派系”融资PK，最强“厂牌”不是字节、百度，也不是大疆 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03bDJzNGFCQjQ2U3M2aXNEaHlyVUVuczRuVnVGa1pjZExDcDZhTHZYT0RNbWQ5RTNBZHJVODBPM1dOVVppaUJtRTVnbmpMdw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-18T21:48:00.000Z",
-      "summaryHint": "具身智能9家“大厂派系”融资PK，最强“厂牌”不是字节、百度，也不是大疆 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-xvexdq",
       "type": "funding",
-      "title": "智合AI完成数千万元A轮融资，十二年行业积累迎来技术窗口 - 36Kr",
+      "title": "智合AI完成数千万元A轮融资，十二年行业积累迎来技术窗口 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96WEJJRFdNQ1JmdGV5QjhuOHhlQU1NdlNEX2FjSVhnWEtIejRnRjB2NUJobXcwM1UtNTZPVktqdFFFSmIzTjdEdlZHcWxTQQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-18T12:13:00.000Z",
-      "summaryHint": "智合AI完成数千万元A轮融资，十二年行业积累迎来技术窗口 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "智合AI完成数千万元A轮融资，十二年行业积累迎来技术窗口 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -146,11 +131,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-ijho1z",
       "type": "funding",
-      "title": "被黄仁勋挖空的AI芯片独角兽 融资24亿深陷人才流失困境 - 36Kr",
+      "title": "被黄仁勋挖空的AI芯片独角兽 融资24亿深陷人才流失困境 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGQ19MV1A0THlzai1WalZlV1lWdUxYNUpEbjRIU0tCTnNfSWNSZ0xMUTRBakN5ZEV1U2R6bFloMGpadE05UjA1cFBOUkoxRDZ6UlpZ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-18T11:54:00.000Z",
-      "summaryHint": "被黄仁勋挖空的AI芯片独角兽 融资24亿深陷人才流失困境 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "被黄仁勋挖空的AI芯片独角兽 融资24亿深陷人才流失困境 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -160,45 +145,183 @@
       "amount": "24亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-a7qs2",
-      "type": "funding",
-      "title": "10亿美金开局！2024年这条赛道融资爆发 几乎所有玩家都拿到钱了 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MaVczSVJrTnZEeEo3NlJZS2ZMM1NTbUNpeVpwN3VqRjloZnpSZFZCamFUcEJ5MVdtT0IwWnY2V3Z4MHFCc29BcFA4RmFuMUpoVjdr?oc=5",
+      "id": "rss-google_news_cn_36kr_deals-6w0bdn",
+      "type": "news",
+      "title": "AI把债“借”得太贵了，阿里选择“卖股” - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ha3MtVk9NSy00bmc0T0tjT2tSRER4Vmx2N0xDSDdHUDlYb2tjUlpBOVhzNzVMYS1CdENTbW1ZeTBVZTJKTGt5QnVlc0F1anM?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-18T10:03:00.000Z",
-      "summaryHint": "10亿美金开局！2024年这条赛道融资爆发 几乎所有玩家都拿到钱了 &nbsp;&nbsp; 36Kr",
+      "publishedAt": "2026-08-25T05:31:27.000Z",
+      "summaryHint": "AI把债“借”得太贵了，阿里选择“卖股” &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "10亿"
+        "deal_rss"
+      ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-f7ejm8",
-      "type": "funding",
-      "title": "估值366亿，AI视频独角兽又融资，英特尔投了 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wRG1ZZDJlYVJKVnFJaU5jRW01TjJDYTF3QWtzTDFXLWExRzdaWHNYRnBuM1F5ZUNqZnN6UzJGZndFM0k0anhQMG1GT0FtZw?oc=5",
+      "id": "rss-qbitai-kex07o",
+      "type": "news",
+      "title": "赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”",
+      "url": "https://www.qbitai.com/2026/08/478996.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-25T05:20:50.000Z",
+      "summaryHint": "下一代Agent天然会走向云端和更大规模的计算资源",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-2bycdk",
+      "type": "news",
+      "title": "王虹合作者获奖！科学探索奖2026年度获奖名单公布",
+      "url": "https://www.qbitai.com/2026/08/478912.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-25T05:15:23.000Z",
+      "summaryHint": "今年50位获奖人来自13个城市的30家高校、医院和科研机构",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-66fsis",
+      "type": "news",
+      "title": "人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机",
+      "url": "https://www.qbitai.com/2026/08/478839.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-25T04:08:21.000Z",
+      "summaryHint": "2026年8月21日，小猿学习机在京举办“中小学课本学习智能体”首发上线活动。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-kmn358",
+      "type": "news",
+      "title": "WAIC CONNECT | AI出海，不聊虚的！CONNECT带你拿下马来西亚真正的AI采购需求",
+      "url": "https://www.qbitai.com/2026/08/478479.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-25T04:06:18.000Z",
+      "summaryHint": "2026年9月7日–8日，WAIC CONNECT MALAYSIA活动，将在吉隆坡盛大开启！",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-9ea0bx",
+      "type": "news",
+      "title": "具身大满贯还全开源！原力灵机DM0.5登顶RoboDojo，且clone且珍惜",
+      "url": "https://www.qbitai.com/2026/08/478791.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-25T02:22:01.000Z",
+      "summaryHint": "机器人大脑新SOTA",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-xp6cdq",
+      "type": "news",
+      "title": "VC开始靠AI预测未来了",
+      "url": "https://www.qbitai.com/2026/08/478774.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-25T02:16:43.000Z",
+      "summaryHint": "FutureX榜单前十占了仨",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-wc5y6t",
+      "type": "news",
+      "title": "WRC 2026｜生数科技发布最新研究成果，提出通用世界模型五级发展路线",
+      "url": "https://www.qbitai.com/2026/08/478690.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-25T01:46:56.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-5clhpq",
+      "type": "news",
+      "title": "ResNet作者任少卿机器人创业！公司注册就独角兽了",
+      "url": "https://www.qbitai.com/2026/08/478675.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-25T00:35:54.000Z",
+      "summaryHint": "虽然明确机器人创业，但依然在职蔚来",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-o8d36f",
+      "type": "news",
+      "title": "爱奇艺，是时候让纳逗Pro独立了 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56VXp6dGd4LWU3Qm9KM2VHS3BCOWRZazNzS2lOelk4ZV9yMFJ1azFLbmtuYU0tNDA0b0d1eE5pMFlsLUN6YzNsNHNJVFY1bEk?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-17T08:48:00.000Z",
-      "summaryHint": "估值366亿，AI视频独角兽又融资，英特尔投了 &nbsp;&nbsp; 36Kr",
+      "publishedAt": "2026-08-25T00:20:27.000Z",
+      "summaryHint": "爱奇艺，是时候让纳逗Pro独立了 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "366亿"
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-techcrunch_ai-wiyn1m",
+      "type": "news",
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "source": "techcrunch_ai",
+      "publishedAt": "2026-08-24T13:47:26.000Z",
+      "summaryHint": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
+      "tags": [
+        "funding",
+        "us"
+      ]
+    },
+    {
+      "id": "rss-qbitai-2zddqr",
+      "type": "news",
+      "title": "AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊",
+      "url": "https://www.qbitai.com/2026/08/478670.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-24T13:32:13.000Z",
+      "summaryHint": "Visa看到的AI未来",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-yatnl7",
+      "type": "news",
+      "title": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
+      "url": "https://www.qbitai.com/2026/08/478568.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-24T13:21:22.000Z",
+      "summaryHint": "全球大厂开始押注的AI科研，终于有了统一标准",
+      "tags": [
+        "china",
+        "funding"
+      ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-ajm9ps",
       "type": "news",
-      "title": "阿里七年来最大的资本运作 - 36Kr",
+      "title": "阿里七年来最大的资本运作 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90OWZHSHRJQmwxMDdkVVVWdXREOEc0dkxPTnoxd0JTNTZCOERwT1dBZmZpMFl4azZBMjFjWG13MUhFYnJGQUloM1ZlZVEtaFBl?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-24T07:10:58.000Z",
-      "summaryHint": "阿里七年来最大的资本运作 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "阿里七年来最大的资本运作 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -208,158 +331,29 @@
     {
       "id": "rss-google_news_cn_36kr_deals-lmvjv0",
       "type": "news",
-      "title": "类器官和器官芯片公司，为什么都去做AI虚拟细胞了？ - 36Kr",
+      "title": "类器官和器官芯片公司，为什么都去做AI虚拟细胞了？ - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Ya1JvZjJkbmMwVl9aa01FNG9sajcwWkFnYW1LeXF2Ukl5OVJyR2lwNUxCdEo3all5LWtVanJqd1RCeFB3bHo1WU1aRjFxb1k?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-24T06:40:53.000Z",
-      "summaryHint": "类器官和器官芯片公司，为什么都去做AI虚拟细胞了？ &nbsp;&nbsp; 36Kr",
+      "summaryHint": "类器官和器官芯片公司，为什么都去做AI虚拟细胞了？ &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss"
-      ]
-    },
-    {
-      "id": "rss-qbitai-ocn0b9",
-      "type": "news",
-      "title": "8月25日直播预告 | AFAC2026金融智能创新大赛，总决赛路演倒计时来啦！",
-      "url": "https://www.qbitai.com/2026/08/478447.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-24T06:03:13.000Z",
-      "summaryHint": "AFAC2026总决赛路演将于8月25-26日在上海阿纳迪酒店（长宁区临虹路7号）举办。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-hboh7t",
-      "type": "news",
-      "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
-      "url": "https://www.qbitai.com/2026/08/478427.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-24T05:09:27.000Z",
-      "summaryHint": "8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-ehequn",
-      "type": "news",
-      "title": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界",
-      "url": "https://www.qbitai.com/2026/08/478421.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-24T05:04:52.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-x0ah7w",
-      "type": "news",
-      "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
-      "url": "https://www.qbitai.com/2026/08/478358.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-23T23:19:06.000Z",
-      "summaryHint": "Tim和胡彦斌亲自颁奖",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-p891a1",
-      "type": "news",
-      "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
-      "url": "https://www.qbitai.com/2026/08/478319.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-23T13:20:00.000Z",
-      "summaryHint": "玩的就是真实",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-mc7kr5",
-      "type": "news",
-      "title": "具身创业里的香港教授们",
-      "url": "https://www.qbitai.com/2026/08/478289.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-23T11:20:13.000Z",
-      "summaryHint": "香港的大学里冒出了一批很特别的人",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-r2b1v5",
-      "type": "news",
-      "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
-      "url": "https://www.qbitai.com/2026/08/478234.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-23T11:17:22.000Z",
-      "summaryHint": "多多支持像王兴兴这样优秀的具身机器人创业者",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-urbb89",
-      "type": "news",
-      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
-      "url": "https://www.qbitai.com/2026/08/478191.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-23T09:56:12.000Z",
-      "summaryHint": "Tokenizer、视频编码、API报错全扒一遍",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-2vs2yg",
-      "type": "news",
-      "title": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起",
-      "url": "https://www.qbitai.com/2026/08/478093.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-23T09:45:27.000Z",
-      "summaryHint": "AstraTennis时刻背后的硬核技术",
-      "tags": [
-        "china",
-        "funding"
       ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-58elbl",
       "type": "news",
-      "title": "600 亿、5000 亿：美国 AI 开始疯狂借钱 - 36Kr",
+      "title": "600 亿、5000 亿：美国 AI 开始疯狂借钱 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05X3phc3JqUjFvc0V0cHM5ZFVyVW1Za0tfYmNvTGJINXR6TEsxRmZxeE9ZN1VoXzJkamF1SkE4SXVWUGwyT05qQ2xjQUo3eWc?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-23T01:45:07.000Z",
-      "summaryHint": "600 亿、5000 亿：美国 AI 开始疯狂借钱 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "600 亿、5000 亿：美国 AI 开始疯狂借钱 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss"
-      ]
-    },
-    {
-      "id": "rss-techcrunch_ai-5jbng",
-      "type": "news",
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "source": "techcrunch_ai",
-      "publishedAt": "2026-08-22T21:46:56.000Z",
-      "summaryHint": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-      "tags": [
-        "funding",
-        "us"
       ]
     },
     {
@@ -390,61 +384,109 @@
       ]
     },
     {
-      "id": "reddit-rss-kdya4v",
+      "id": "reddit-rss-ij5fzp",
       "type": "social_en",
-      "title": "AAAI 2027 Reviewer Bidding and Assignment Integrity [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vwujcy/aaai_2027_reviewer_bidding_and_assignment/",
-      "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-08-24T06:11:03.000Z",
-      "summaryHint": "Recently, the AAAI 2027 organizers sent an email regarding collusion occurring during the review process, especially in the 2-cycles category (i.e., an author of Paper A reviews Paper B, while an author of Paper B reviews Paper A). Given th",
+      "title": "GrafittiCity A browser spray can where the paint physics are actually simulated — flow rate per second, cone width traded against opacity, and it drips if you hold still",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1vxr889/grafitticity_a_browser_spray_can_where_the_paint/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-08-25T05:52:32.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/AiMediaHalle [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-y0igss",
+      "id": "reddit-rss-6hm3m8",
       "type": "social_en",
-      "title": "4D Gaussian Splatting Might Be the Video Format of the Future. Open Source!",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vwh4ov/4d_gaussian_splatting_might_be_the_video_format/",
+      "title": "Maya point cloud ply and gaussian splatting",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vxqmw0/maya_point_cloud_ply_and_gaussian_splatting/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-23T19:53:04.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/Delicious-Shower8401 [link] &#32; [comments]",
+      "publishedAt": "2026-08-25T05:19:30.000Z",
+      "summaryHint": "An update of my cpp plugin for Maya. PointCloudSnapPro is a C++ plugin for Maya, supporting versions 2025 and 2026 (2027 support planned). Load and visualize point clouds, measure distances, and use Clip Box to hide or isolate parts of your",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-kjoutj",
+      "id": "reddit-rss-pcb3kq",
       "type": "social_en",
-      "title": "How to cite/talk about preprint-subsequent works for a camera-ready version? [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vwg5br/how_to_citetalk_about_preprintsubsequent_works/",
-      "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-08-23T19:15:07.000Z",
-      "summaryHint": "I had a paper accepted to a conference. This paper was originally published as a preprint. Subsequent works citing our preprint focused on the same topic and reused/extended our methodology. I am now preparing the camera-ready version of th",
+      "title": "race car visibility workflow",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1vxpovd/race_car_visibility_workflow/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-08-25T04:28:03.000Z",
+      "summaryHint": "I’m inquiring about modeling / editing surface and UV island parts for a 92’ Willams racing fw14. (I use blender) Could having texture plane for under the car make a difference (assuming intentions were to put in frames where it’s exposed t",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-tdmk5t",
+      "id": "reddit-rss-fzn9t2",
       "type": "social_en",
-      "title": "PLY-TO-SPLAT - Quickly turning Point-Clouds to Gaussian Splats",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vw73n9/plytosplat_quickly_turning_pointclouds_to/",
+      "title": "splatpaint app",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vxh3b4/splatpaint_app/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-23T13:23:02.000Z",
-      "summaryHint": "Link to the Github Repo: https://github.com/PrintedForFun/ply-to-splat Wanted a way to quickly share lidar scans I created in VR or browser-based. Supersplat can do exactly what I wanted but only with gaussian splats. Didn&#39;t want to tra",
+      "publishedAt": "2026-08-24T22:05:59.000Z",
+      "summaryHint": "I searched and did not see this mentioned here yet. I learned of it earlier today so wanted to share. &#32; submitted by &#32; /u/Possible-Blood8032 [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-6fd93y",
+      "id": "reddit-rss-ghpd53",
       "type": "social_en",
-      "title": "3D Gaussian Splat from any Video (Including 360) locally in your machine for free. Works with Intel, AMD, NVIDIA, Apple Silicon (Mac).",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vvf7ou/3d_gaussian_splat_from_any_video_including_360/",
+      "title": "Copilot you say?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxescz/copilot_you_say/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-08-24T20:39:33.000Z",
+      "summaryHint": "talking to any white collar employee &#32; submitted by &#32; /u/edge_compute_user [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-dk65fs",
+      "type": "social_en",
+      "title": "Best Local Vision Language Models - August 2026",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx7ei1/best_local_vision_language_models_august_2026/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-08-24T16:18:56.000Z",
+      "summaryHint": "Share what your favorite models are right now and why . Given the nature of the beast in evaluating VLMs (untrustworthiness of benchmarks, immature tooling, intrinsic stochasticity), please be as detailed as possible in describing your setu",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-c7knm4",
+      "type": "social_en",
+      "title": "Apple M5 Server",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx6ivx/apple_m5_server/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-08-24T15:47:16.000Z",
+      "summaryHint": "Credit to Twitter Post &#32; submitted by &#32; /u/Rymssss [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-476hel",
+      "type": "social_en",
+      "title": "Moléson resort tour",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1vx3690/moléson_resort_tour/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-22T15:22:14.000Z",
-      "summaryHint": "No sign ups, No subscriptions, No upgrades, No Limits, fully local and free. - A 5 Min 360 video took about 2 hours in a modern PC with a dedicated GPU. - Metal / Vulkan accelerated SFM and trainer. - Ships with SOTA Splat rendering engine ",
+      "publishedAt": "2026-08-24T13:41:24.000Z",
+      "summaryHint": "Terrain from open geodata, assembled and rendered in Blender, trained in Postshot &amp; created a tour on splatimation.com My first go at creating a synthetic splat. Pretty fun! Try it out - https://splatimation.com/index.html#/t/9ced855c-2",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-td221y",
+      "type": "social_en",
+      "title": "Interactive product visualization with hand tracking 👌✨️",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1vx1wpb/interactive_product_visualization_with_hand/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-08-24T12:50:05.000Z",
+      "summaryHint": "I made this case study to explore how a potential Work Louder × The Amazing World of Gumball collaboration could be presented through an interactive product visualization. I made it work with both UI controls and a hand-tracked flick gestur",
       "tags": [
         "ai_social"
       ]
