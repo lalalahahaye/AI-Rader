@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T18:45:27.222Z",
+  "updatedAt": "2026-08-29T12:43:01.271Z",
   "items": [
     {
       "id": "rss-google_news_cn_36kr_deals-c12d8o",
@@ -81,20 +81,37 @@
       "round": "种子轮"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-wghufx",
+      "id": "rss-google_news_cn_36kr_deals-yuv5ai",
       "type": "funding",
-      "title": "拒绝670亿，最”凡尔赛”融资诞生 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhODFZM0tRSjBCMUx4Qm4yQU1xdG03cXYtOW90UEU4ZHdKNFphdlpvQnV1WlJvOWg2QktqWUgtTllhY0hJaWg1R0ljSnY4dw?oc=5",
+      "title": "36氪首发｜上科大团队做具身世界模型基础设施，完成千万美元种子轮融资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqa1Y4elBPem40cVQ4di1VNjRid1ZsWlJ6U3dSQ3hMbzVFQ2JJU0tfMXJOR0hiSlNjVV9Tby1RZHNkZFJ4ZmhHZVpaLU5TNTVH?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-26T11:31:00.000Z",
-      "summaryHint": "拒绝670亿，最”凡尔赛”融资诞生 &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-08-27T11:07:00.000Z",
+      "summaryHint": "36氪首发｜上科大团队做具身世界模型基础设施，完成千万美元种子轮融资 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
       ],
-      "amount": "670亿"
+      "round": "种子轮"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-pljunw",
+      "type": "funding",
+      "title": "7亿元A轮融资之后，栖息地想把「家」带到哪里？ - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lckItVnFnN3l3Qk55X0FTdzNpdHk5TDc1WlVPdDJrTzJ0YURsOGJUMXNJSDFqTWlDNmZRazd1UVRtRy05ejdES0tWTy11WVU?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-26T09:59:46.000Z",
+      "summaryHint": "7亿元A轮融资之后，栖息地想把「家」带到哪里？ &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "A轮融资",
+      "amount": "7亿元"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-b9a8ux",
@@ -113,21 +130,6 @@
       "round": "天使轮"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-trrea5",
-      "type": "funding",
-      "title": "李泽湘孵化的睡眠AI硬件公司获新融资，深高新投领投数千万元｜硬氪首发 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NSEQxNHFQdG1BLXhITUFQcHRoT3lXRmdRd1ptVWJJNHVPRkhKM3ItSm9vYndRQjlCb1UzSGRfRU5hM0NpVlA3dDhJZDh0UQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-25T12:00:00.000Z",
-      "summaryHint": "李泽湘孵化的睡眠AI硬件公司获新融资，深高新投领投数千万元｜硬氪首发 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-ezzilf",
       "type": "funding",
       "title": "无事AI：按结果收费解小额纠纷，寻求天使轮融资 - 36 Kr",
@@ -142,6 +144,22 @@
         "deal_signal"
       ],
       "round": "天使轮"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-5gv3nb",
+      "type": "funding",
+      "title": "800亿港元，阿里宣布为AI再融资，传已超额认购 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WNHd5QkpxX3Q1UTY0b0dGaTI5Y2puWlRRLVg5TXpTYlNfa2tVaHdNLUx4cC1wUGtBaG4yVm1xbGtZSjBvX3Q1THpOSnFtdw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-23T09:24:00.000Z",
+      "summaryHint": "800亿港元，阿里宣布为AI再融资，传已超额认购 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "800亿"
     },
     {
       "id": "rss-qbitai-mvvyte",
@@ -314,6 +332,20 @@
       ]
     },
     {
+      "id": "rss-google_news_cn_36kr_deals-hio59f",
+      "type": "news",
+      "title": "英伟达前AI总监颠覆Transformer，5万亿上下文物理AI，推演整个宇宙 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QazRMazF1Y0VIUWF0Yk1XQ09DelhGYTA4QXBDZHdMR19DdDRwOHMwdTJhWmdzYmNLN0JhU0J3aG5QbWFlY0hlN2RqRTJtMms?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-27T02:57:48.000Z",
+      "summaryHint": "英伟达前AI总监颠覆Transformer，5万亿上下文物理AI，推演整个宇宙 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
       "id": "rss-google_news_cn_36kr_deals-8n47vr",
       "type": "news",
       "title": "除了找投资人，FA还能怎么玩？这个“新武器”正在提升项目曝光 - 36 Kr",
@@ -342,51 +374,97 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-m5i9qq",
-      "type": "news",
-      "title": "三个月两轮，中国版Palantir火了 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOWnVLdFEyTHhzdnhNYXFjN3FiN3ZZRm5Ka1dZUFRsV2k2WjFCSXdqZW5OSnZDdFRxRkdibVpBMkpzaVByWF82bHVTVHN3QQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-23T10:45:00.000Z",
-      "summaryHint": "三个月两轮，中国版Palantir火了 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "reddit-rss-bz8fec",
+      "id": "reddit-rss-a4fi1d",
       "type": "social_en",
-      "title": "Weekly VR - What Did you Play?",
-      "url": "https://www.reddit.com/r/virtualreality/comments/1w0xvom/weekly_vr_what_did_you_play/",
-      "source": "reddit_r_virtualreality",
-      "publishedAt": "2026-08-28T18:01:02.000Z",
-      "summaryHint": "Hey r/virtualreality ! Another week in the VR space. Did a certain game or experience stand out to you? This is your spot to chat, share, and discover. When sharing, you might consider sharing: Name of the game or experience. A brief insigh",
+      "title": "Future one we have robots which can carry out all human manual tasks",
+      "url": "https://www.reddit.com/r/artificial/comments/1w1kysb/future_one_we_have_robots_which_can_carry_out_all/",
+      "source": "reddit_r_artificial",
+      "publishedAt": "2026-08-29T12:13:31.000Z",
+      "summaryHint": "What do people think the world will become ? I personally think it will be bad. Very bad. So many people won’t have anything to offer society. So many people out of work. No mechanics, no cleaners, no gardeners, no labourers, no brick layer",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-wi7uw6",
+      "id": "reddit-rss-3abbdz",
       "type": "social_en",
-      "title": "Polished Gameplay Trailer for My Prehistoric Ocean VR Game | Paleo Dive",
-      "url": "https://www.reddit.com/r/virtualreality/comments/1w0xp92/polished_gameplay_trailer_for_my_prehistoric/",
-      "source": "reddit_r_virtualreality",
-      "publishedAt": "2026-08-28T17:54:36.000Z",
-      "summaryHint": "Steam: https://store.steampowered.com/app/4818760/Paleo_Dive/ I slightly reworked the gameplay trailer for Paleo Dive and polished the presentation and a few shots. This trailer focuses mainly on exploration, environments, creatures and the",
+      "title": "AI for clinic workflow automation. what's actually working vs what's just hype right now",
+      "url": "https://www.reddit.com/r/artificial/comments/1w1ix49/ai_for_clinic_workflow_automation_whats_actually/",
+      "source": "reddit_r_artificial",
+      "publishedAt": "2026-08-29T10:25:06.000Z",
+      "summaryHint": "Been running a small PT clinic and also writing dev tutorials on the side, so I sit in a weird middle ground where I understand the tooling but I&#39;m also the one drowning in intake forms and scheduling conflicts at 7am. Tried building so",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-u69oxe",
+      "id": "reddit-rss-y6x92s",
       "type": "social_en",
-      "title": "Sculpting a Gaussian Splat Face?",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w0u186/sculpting_a_gaussian_splat_face/",
+      "title": "We were robbed at Gamescom",
+      "url": "https://www.reddit.com/r/gamedev/comments/1w1hf7j/we_were_robbed_at_gamescom/",
+      "source": "reddit_r_gamedev",
+      "publishedAt": "2026-08-29T08:57:32.000Z",
+      "summaryHint": "Hi everyone, I’m part of the team at Tessera Studios . We came to Gamescom to showcase our game, The Zibbo Show , but on Wednesday morning, we arrived at our booth in the Indie Area at Gamescom only to find our storage cabinet forced open. ",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-74i7b0",
+      "type": "social_en",
+      "title": "[Update] 3DGS/4DGS UE Plugin: International Payment Live + Lite Version Open-Sourced on Fab & GitHub!",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w1fy44/update_3dgs4dgs_ue_plugin_international_payment/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-28T15:40:02.000Z",
-      "summaryHint": "Hello, I want to sculpt a Gaussian splat created from multi-angle photos of my face. Specifically, I would like to make small adjustments such as: Raising the nose bridge Making a wide nose slightly narrower Making the nose slightly smaller",
+      "publishedAt": "2026-08-29T07:30:18.000Z",
+      "summaryHint": "Hi everyone, Quick update on our 3DGS/4DGS Unreal Engine plugin and web service! We’ve officially launched international payment support on our official site: https://mls4dlive.cn/ What’s new on the website: English UI: Full English interfa",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-3yt6xq",
+      "type": "social_en",
+      "title": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities. When OpenAI’s agents went rogue in July, they demonstrated ingenuity and drive beyond what many experts imagined — a dangerous harbinger of what such bots could do in the future. (Gift Article)",
+      "url": "https://www.reddit.com/r/artificial/comments/1w1auoq/anatomy_of_an_autonomous_attack_5_alarming_ai/",
+      "source": "reddit_r_artificial",
+      "publishedAt": "2026-08-29T02:59:57.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/coolbern [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-o8eapj",
+      "type": "social_en",
+      "title": "Did yall saw similar ADs?",
+      "url": "https://www.reddit.com/r/artificial/comments/1w1agp2/did_yall_saw_similar_ads/",
+      "source": "reddit_r_artificial",
+      "publishedAt": "2026-08-29T02:40:51.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/Mediocre_Drawing8164 [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-gfpc1q",
+      "type": "social_en",
+      "title": "After AI backlash, Assassin's Creed creator says 1666: Amsterdam \"won't be using any AI anymore\" and only used it \"in conception and pre-production\"",
+      "url": "https://www.reddit.com/r/gamedev/comments/1w13jr8/after_ai_backlash_assassins_creed_creator_says/",
+      "source": "reddit_r_gamedev",
+      "publishedAt": "2026-08-28T21:33:28.000Z",
+      "summaryHint": "What stood out to me is that Desilets says the AI use was limited to conception and pre-production, and that the team has now removed it completely. It raises an interesting question for developers: if generative AI is only used internally ",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-g6auxy",
+      "type": "social_en",
+      "title": "I built a narrated, subtitled 3D tour of Atlanta: 12 walkable splat scenes plus an open-source caption tool",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w10fah/i_built_a_narrated_subtitled_3d_tour_of_atlanta/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-08-28T19:33:52.000Z",
+      "summaryHint": "Site: https://atlantaspacemachine.com/ (works on mobile, better on desktop) Quick rundown: 10 ground scenes captured/processed with XGRIDS, two captured with Avata 360 and trained in Lichtfeld Studio, all running in PlayCanvas Engine. The a",
       "tags": [
         "ai_social"
       ]
@@ -404,25 +482,13 @@
       ]
     },
     {
-      "id": "reddit-rss-s6abfu",
+      "id": "reddit-rss-t73b8p",
       "type": "social_en",
-      "title": "This guy in the GTA6 trailer made me lol",
-      "url": "https://www.reddit.com/r/virtualreality/comments/1w0l73d/this_guy_in_the_gta6_trailer_made_me_lol/",
-      "source": "reddit_r_virtualreality",
-      "publishedAt": "2026-08-28T08:57:40.000Z",
-      "summaryHint": "Is this how others see us? 😭 &#32; submitted by &#32; /u/whispermochiVR [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-yzgiru",
-      "type": "social_en",
-      "title": "Open Source 3DGS Training Pipeline - NVIDIA / AMD / Intel / Apple, Train 10M SH3 Gaussians in 8GB, 360 Camera Support, Lightning-Fast SfM, Meshing Support - Feedback Welcome",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w0by3s/open_source_3dgs_training_pipeline_nvidia_amd/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-28T00:49:21.000Z",
-      "summaryHint": "Been working on a 3DGS trainer for the past two years, recently added support for various features, so I think it might be helpful to post about it. Link: github.com/harry7557558/spirula-studio &#32; submitted by &#32; /u/harry7557558 [link",
+      "title": "Spelkollektivet Fundraising",
+      "url": "https://www.reddit.com/r/gamedev/comments/1vvk356/spelkollektivet_fundraising/",
+      "source": "reddit_r_gamedev",
+      "publishedAt": "2026-08-22T18:33:19.000Z",
+      "summaryHint": "https://gofund.me/d82ac92d7 We have no connection with Spelkollektivet. But I have met a bunch of people who have gone there for short or long term stays to work on their dream of being a full time indie. It would be a shame to hear this un",
       "tags": [
         "ai_social"
       ]
