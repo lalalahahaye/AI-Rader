@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-30T11:57:24.010Z",
+  "updatedAt": "2026-08-31T13:55:18.426Z",
   "items": [
     {
-      "id": "rss-google_news_cn_36kr_deals-c12d8o",
+      "id": "rss-google_news_cn_36kr_deals-vjn66v",
       "type": "funding",
-      "title": "品浩：AI融资“过多过快”正在推高债券收益率 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZVFBfNTMxcTRuNVhSby1peEJvLWkwaS1qS3N3LWstblc5bWlDUDVfZm9UZjRNblNSd1RmWHcxc3MyZ2kxdGdlT0pfVEpUQndPb1RaakpUbXQ?oc=5",
+      "title": "“词元贷”纾解AI企业融资困境 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41LWhMNlJsVU9Eekl5MEtPVV80amFYSGdNSm11eFhrQktIS011c0czc24zUWxnQUNnQ1lnaVlpVXEyTVFxRVlNR0ctRkQ2MFVqWEtCbVlQWjBtVkFjcWZBUg?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-28T07:32:06.000Z",
-      "summaryHint": "品浩：AI融资“过多过快”正在推高债券收益率 &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-08-31T03:00:10.000Z",
+      "summaryHint": "“词元贷”纾解AI企业融资困境 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -18,13 +18,44 @@
       ]
     },
     {
+      "id": "rss-google_news_cn_36kr_deals-fxgpoz",
+      "type": "funding",
+      "title": "爱诗科技投资、主做精品内容，AI影视公司折叠完成数百万美元融资｜36氪融资首发 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WU1VKdmJoaHNIWWdzN1RNMmswZDB4QzRlMnBsaFZrSHJZY3R6LU9pelNEZHlWX1gzSElobW1adUNkQ1FSc0pDQUZ1QldYdms?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-31T00:16:12.000Z",
+      "summaryHint": "爱诗科技投资、主做精品内容，AI影视公司折叠完成数百万美元融资｜36氪融资首发 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-37jm3r",
+      "type": "funding",
+      "title": "超千万元天使轮融资落地 深圳神奕科技以AI融合BCI推动脑机智能普惠大众 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ya3BHSjBMV3BzMmYtUl95a3JKd19oM2JvNl9OUlZLa1c5SHZhelEydDU5RXVtdEkzTlY3WWFXeWpMU0tuXzRrSUUzUlZncWlIZ18w?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-30T16:58:00.000Z",
+      "summaryHint": "超千万元天使轮融资落地 深圳神奕科技以AI融合BCI推动脑机智能普惠大众 &nbsp;&nbsp; 36氪",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "天使轮"
+    },
+    {
       "id": "rss-google_news_cn_36kr_deals-d0sil8",
       "type": "funding",
-      "title": "“Popi AI”完成种子轮融资 - 36 Kr",
+      "title": "“Popi AI”完成种子轮融资 - 36氪",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xVEpSUHdNcjNIamtPbEdhTEJlVElxRlNzTEZ6TTJzZG44Y3pUS0ZnV2FuUEJxbXhkaVB6LWVrOW4wUmNUdU5mbjJiTzk2a25nNnI4ZVZUbWdSVjZwVVhWTw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-28T03:55:00.000Z",
-      "summaryHint": "“Popi AI”完成种子轮融资 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "“Popi AI”完成种子轮融资 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
@@ -50,10 +81,10 @@
       "amount": "2000亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-lkcv9",
+      "id": "rss-google_news_cn_36kr_deals-5mrzik",
       "type": "funding",
       "title": "产品还没发，估值却到25亿美元：2026年，硅谷热钱涌向AI个人助理 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WVjl1em5JLXNqUlNndEVrUkFtdWFxWEVneXd2VlZuak5HdGYxTEU3T2NQeTQyZDZUak81cUpEWUQwU3M4bk9YYS0wMjRYM2Rv?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rREtTMk5LektkYnAzZGxVV2huRjZ1MGxPVU1wbkh4U3RZXzlzbUtZUkZsY0pUVkJBZEhnenA0NWVhakc2RnBiaklKNlJLUQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-27T17:05:00.000Z",
       "summaryHint": "产品还没发，估值却到25亿美元：2026年，硅谷热钱涌向AI个人助理 &nbsp;&nbsp; 36 Kr",
@@ -66,29 +97,13 @@
       "amount": "25亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-ub01na",
+      "id": "rss-google_news_cn_36kr_deals-77devz",
       "type": "funding",
-      "title": "“Popi AI”完成种子轮融资 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3S2otRWozTzVhY1otRkxnb1BPenVlR3NlbUpzUlRhUGQ4THBpMVBFZm5nMmlQSVkzMU1oZW9QNllNOVZKXzNQSXhpM01QWTBHb1NXSWdxVmVaQmlMQmc?oc=5",
+      "title": "品浩：AI融资“过多过快”正在推高债券收益率 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Ya0lUajdNQ1RkaC1kRFFjd0ZQU2NTclczR3pxcjhxSTZRdkpENUlqTXRNTjQ3M0pWMk5ueDlsMWpWM19zeFJkYnFGTjFJRTNZT05LUEJPNThHUTBGZkE?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-27T12:55:00.000Z",
-      "summaryHint": "“Popi AI”完成种子轮融资 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "种子轮"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-trrea5",
-      "type": "funding",
-      "title": "李泽湘孵化的睡眠AI硬件公司获新融资，深高新投领投数千万元｜硬氪首发 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NSEQxNHFQdG1BLXhITUFQcHRoT3lXRmdRd1ptVWJJNHVPRkhKM3ItSm9vYndRQjlCb1UzSGRfRU5hM0NpVlA3dDhJZDh0UQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-25T12:00:00.000Z",
-      "summaryHint": "李泽湘孵化的睡眠AI硬件公司获新融资，深高新投领投数千万元｜硬氪首发 &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-08-27T16:07:00.000Z",
+      "summaryHint": "品浩：AI融资“过多过快”正在推高债券收益率 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -97,13 +112,13 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-tt9snt",
+      "id": "rss-google_news_cn_36kr_deals-2mul5l",
       "type": "funding",
-      "title": "快鹭科技发布KuWork企业级智能体工作平台 融资细节暂未披露 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpLTNjUzhNRmdGb1I1N1JUc01hV1p0cE1vcGlqUDJRM1lrbUJKcXlwRGlDMUFraUl2d0R1V0g5UWNpSEw5a0ZoNWlTUGNfdmJFUHhr?oc=5",
+      "title": "985教授们集体创业做具身智能，今年已拿下超百亿元融资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rc1Q0dVk2QlZZVFkzSTdqUmN6R25uay1NMzV0UjhzODhIRTRXVWwzdFBtWmExZkpkNng4dXpSMV9kaDlPNlZ3MVFkM082Zw?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-24T11:33:00.000Z",
-      "summaryHint": "快鹭科技发布KuWork企业级智能体工作平台 融资细节暂未披露 &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-08-26T16:34:00.000Z",
+      "summaryHint": "985教授们集体创业做具身智能，今年已拿下超百亿元融资 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -112,52 +127,81 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-q2qlss",
-      "type": "funding",
-      "title": "芯光界完成亿元天使轮融资 启明创投独家投资 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52MnRSUWR0LWlwQXFvd3FZdXRDbklxZkdPREJTelFhSHJjbUllc01BNVhYbHZTWHpkNzhiUjJKY3dJNllqelhzN0I3RE1sZkVK?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-24T11:21:00.000Z",
-      "summaryHint": "芯光界完成亿元天使轮融资 启明创投独家投资 &nbsp;&nbsp; 36 Kr",
+      "id": "rss-qbitai-adu9sw",
+      "type": "news",
+      "title": "滴滴自动驾驶新一代车型开启载客测试服务",
+      "url": "https://www.qbitai.com/2026/08/481923.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-31T07:53:12.000Z",
+      "summaryHint": "近期，滴滴自动驾驶新一代 Robotaxi R2正式开启无人载客测试服务",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "天使轮"
+        "funding"
+      ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-yn7030",
-      "type": "funding",
-      "title": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0eFVZWjlEWGFwem1IWGxvQUFJTGZXR0JyT2dHR0hPd0Uwb05lSEc1bkpqLWhIa3ZnUzZWb0Zna2RMdXJiR1pyaV8xMWtJdw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-23T20:30:00.000Z",
-      "summaryHint": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜 &nbsp;&nbsp; 36 Kr",
+      "id": "rss-qbitai-1gaa1z",
+      "type": "news",
+      "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
+      "url": "https://www.qbitai.com/2026/08/481919.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-31T07:34:02.000Z",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "86亿元"
+        "funding"
+      ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-ezzilf",
-      "type": "funding",
-      "title": "无事AI：按结果收费解小额纠纷，寻求天使轮融资 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxVDZrQ1lkYlFodDVqVXNyZHE2VEp4bl9oVGRfTjRlUU1JNkZ0RC1kb1NyUzk5YnBIZWMwSjJFemxzWFUzakZ2dHllaHZLU2pt?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-23T15:34:00.000Z",
-      "summaryHint": "无事AI：按结果收费解小额纠纷，寻求天使轮融资 &nbsp;&nbsp; 36 Kr",
+      "id": "rss-qbitai-d9vqbs",
+      "type": "news",
+      "title": "「GPT-6」灰测demo刷屏！周四发布在即",
+      "url": "https://www.qbitai.com/2026/08/481893.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-31T04:47:26.000Z",
+      "summaryHint": "核弹爆炸",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "天使轮"
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-dy3a9",
+      "type": "news",
+      "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
+      "url": "https://www.qbitai.com/2026/08/481759.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-31T03:24:34.000Z",
+      "summaryHint": "什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-4ncou0",
+      "type": "news",
+      "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
+      "url": "https://www.qbitai.com/2026/08/481750.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-31T03:11:46.000Z",
+      "summaryHint": "灵犀智涌用一台由Demo级本体组装而成的机器人，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-bmwmdk",
+      "type": "news",
+      "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
+      "url": "https://www.qbitai.com/2026/08/481475.html",
+      "source": "qbitai",
+      "publishedAt": "2026-08-31T03:01:29.000Z",
+      "summaryHint": "自主研究系统的上限，不只取决于模型有多聪明，也取决于系统能否分辨什么是新证据，什么只是一次偶然的高分。",
+      "tags": [
+        "china",
+        "funding"
+      ]
     },
     {
       "id": "rss-qbitai-ilupv8",
@@ -212,83 +256,6 @@
       ]
     },
     {
-      "id": "rss-qbitai-2ti24c",
-      "type": "news",
-      "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
-      "url": "https://www.qbitai.com/2026/08/480940.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-29T12:11:37.000Z",
-      "summaryHint": "Coding正在变成Al世界的数字执行力",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-eli4zj",
-      "type": "news",
-      "title": "OpenClaw：红过，爱过，散了",
-      "url": "https://www.qbitai.com/2026/08/480855.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-29T12:00:51.000Z",
-      "summaryHint": "龙虾退潮，Harness上位",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-1k5her",
-      "type": "news",
-      "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
-      "url": "https://www.qbitai.com/2026/08/480787.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-29T11:35:57.000Z",
-      "summaryHint": "从剧本到成片",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-mvvyte",
-      "type": "news",
-      "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
-      "url": "https://www.qbitai.com/2026/08/480700.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-28T15:36:12.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-dxsvhf",
-      "type": "news",
-      "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
-      "url": "https://www.qbitai.com/2026/08/480666.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-28T11:13:35.000Z",
-      "summaryHint": "久久不愿来到台前的智元掌舵人",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-5xqi8t",
-      "type": "news",
-      "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
-      "url": "https://www.qbitai.com/2026/08/480600.html",
-      "source": "qbitai",
-      "publishedAt": "2026-08-28T09:45:19.000Z",
-      "summaryHint": "企业智能化服务撑起基本盘，第二增长曲线冒头",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-pj6crf",
       "type": "news",
       "title": "AI游戏火了：一批创作者，一年赚走100亿 - 36 Kr",
@@ -330,6 +297,34 @@
       ]
     },
     {
+      "id": "rss-google_news_cn_36kr_deals-8h1d0n",
+      "type": "news",
+      "title": "BAT为AI“换血” - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9taTJFbzdaa1dDX01TMHBpSFV4NlBhV0VOYkRHWEpmbXZZMl9Wc3d4anhfOXlmZmUwcFBlMHFHNUMybGFUeUhlYUQzOVhfQQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-27T10:11:00.000Z",
+      "summaryHint": "BAT为AI“换血” &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-f8389u",
+      "type": "news",
+      "title": "英伟达财报重点解读：黄仁勋六大信号决定AI硬件产业链未来走向 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05VmU5U2hsbUc2UU1kckd5ZG1UUXhpR3o3dU8yQmdFMGhNWDFEdERWcXczTnhJN1BvUmQzYkFTNERkVUplS1p0bzFmWVBNaVNDR1Bz?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-08-25T11:35:00.000Z",
+      "summaryHint": "英伟达财报重点解读：黄仁勋六大信号决定AI硬件产业链未来走向 &nbsp;&nbsp; 36氪",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
       "id": "rss-google_news_cn_36kr_deals-2ms3l4",
       "type": "news",
       "title": "AI把债“借”得太贵了，阿里选择“卖股” - 36 Kr",
@@ -344,61 +339,73 @@
       ]
     },
     {
-      "id": "reddit-rss-536y0f",
+      "id": "reddit-rss-l23sm0",
       "type": "social_en",
-      "title": "Are there any alternatives to Vid2Scene?",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w2e1oi/are_there_any_alternatives_to_vid2scene/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-30T10:32:28.000Z",
-      "summaryHint": "https://preview.redd.it/lqxnskjsohmh1.png?width=1919&amp;format=png&amp;auto=webp&amp;s=e2665dc35f76fd71ef38139aa921078793469fb4 I don&#39;t have a very powerful laptop and sometimes i just like to play around with splatting stuff. Vid2Scen",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-vv91md",
-      "type": "social_en",
-      "title": "Implementing Kimi K3 from scratch in PyTorch [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w2aupi/implementing_kimi_k3_from_scratch_in_pytorch_p/",
+      "title": "Cold emailing profs about PhD positions? Read this [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w3bwci/cold_emailing_profs_about_phd_positions_read_this/",
       "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-08-30T07:28:13.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/Winter_Mistake_3185 [link] &#32; [comments]",
+      "publishedAt": "2026-08-31T12:09:24.000Z",
+      "summaryHint": "This is the time of year where the cold emails I receive about PhD positions tends to ramp up quite a bit. In many countries, this cold emailing is essentially part of the normal recruitment process, so there is nothing inherently wrong wit",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-qh88s9",
+      "id": "reddit-rss-vwbhp4",
       "type": "social_en",
-      "title": "You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w1wt1s/you_can_beat_sota_time_series_anomaly_detection/",
+      "title": "Another (AI enhanced) Gaussian Splat E.T. 1982",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w374p9/another_ai_enhanced_gaussian_splat_et_1982/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-08-31T07:58:57.000Z",
+      "summaryHint": "This is AI enhanced Gaussian Splatting. But nevertheless interesting approach to create scenes like this. The creator is on X. Same guy, same tech: https://www.reddit.com/r/GaussianSplatting/comments/1vyvyv4/gaussian_splat_from_eyes_wide_sh",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-v0vm5k",
+      "type": "social_en",
+      "title": "Gaussian-Splat-Lite — a lightweight Three.js Gaussian Splat renderer inspired by Spark",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w33ew8/gaussiansplatlite_a_lightweight_threejs_gaussian/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-08-31T04:36:36.000Z",
+      "summaryHint": "I&#39;ve been working on Gaussian-Splat-Lite , a lightweight open-source Gaussian Splat renderer for Three.js, based on the overall architecture of Spark but simplified for a smaller and more focused rendering pipeline. Comparison video: ht",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-gtiist",
+      "type": "social_en",
+      "title": "Merging indoor and outdoor scans",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w32qx4/merging_indoor_and_outdoor_scans/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-08-31T04:02:24.000Z",
+      "summaryHint": "I did an indoor and outdoor scan of a property and I&#39;m trying to merge both of them using SuperSplat. I&#39;ve managed to align them but apparently there are a lot of of points from inside and outside that bleed into each other making t",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-om8i08",
+      "type": "social_en",
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w30ti8/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
       "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-08-29T20:16:17.000Z",
-      "summaryHint": "You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm Time Series Anomaly Detection (TSAD) seems to be one of the hottest topics in NeurIPS, SIGKDD, VLDB etc. Many (perhaps most) papers evaluate on Paparrizos",
+      "publishedAt": "2026-08-31T02:30:17.000Z",
+      "summaryHint": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you&#39;re looking for] For Those looking for jobs please use this template Want to",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-bp0lt0",
+      "id": "reddit-rss-in5ple",
       "type": "social_en",
-      "title": "Gausseous",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w1v1m2/gausseous/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-29T19:06:37.000Z",
-      "summaryHint": "Is anyone tried Gausseous ? https://github.com/quixbrics/gausseous You can make so much things, like depth of field and lot cinematic effect. This is so awsome &#32; submitted by &#32; /u/freddewitt [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-g6auxy",
-      "type": "social_en",
-      "title": "I built a narrated, subtitled 3D tour of Atlanta: 12 walkable splat scenes plus an open-source caption tool",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w10fah/i_built_a_narrated_subtitled_3d_tour_of_atlanta/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-08-28T19:33:52.000Z",
-      "summaryHint": "Site: https://atlantaspacemachine.com/ (works on mobile, better on desktop) Quick rundown: 10 ground scenes captured/processed with XGRIDS, two captured with Avata 360 and trained in Lichtfeld Studio, all running in PlayCanvas Engine. The a",
+      "title": "Claude Code for Research Papers [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w2wqbm/claude_code_for_research_papers_r/",
+      "source": "reddit_r_MachineLearning",
+      "publishedAt": "2026-08-30T23:24:07.000Z",
+      "summaryHint": "Third-year PhD student, NLP / interpretability. I want a reality check from people doing similar work. I started using Claude Code for the boring parts: argparse boilerplate, plotting, config wrangling. Over the last few months the scope ha",
       "tags": [
         "ai_social"
       ]
