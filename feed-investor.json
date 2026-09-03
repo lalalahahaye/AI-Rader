@@ -1,15 +1,61 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-02T11:21:53.370Z",
+  "updatedAt": "2026-09-03T11:17:58.498Z",
   "items": [
+    {
+      "id": "rss-google_news_cn_36kr_deals-1uslsx",
+      "type": "funding",
+      "title": "阿布扎比AI企业G42据悉考虑融资数十亿美元 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1raFVsQ0EtSElSMzFjRlRvZ2tWMjgwTEx0eTd2RE15VVRhdVRBTHRma1Q0Z1FfRXlvMVdsUkowdndZaWNVLW9UTDBxaXRpVUVXX2dmN1B5dFNaakFZelE?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-03T06:03:19.000Z",
+      "summaryHint": "阿布扎比AI企业G42据悉考虑融资数十亿美元 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-q9hs8n",
+      "type": "funding",
+      "title": "量才工作网AI+O2O破解蓝领招聘痛点 开启天使轮融资寻求合作 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uUXdfTzhrTXEtSjA5OEJ0bnNxNTF0NDB5cmktRkVackJ4LW9qd1ZTeGJZQVRPSGxxakdMeU8zT0hVUzkxNTRZeWdUMEhydDlKWGtv?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-02T17:32:00.000Z",
+      "summaryHint": "量才工作网AI+O2O破解蓝领招聘痛点 开启天使轮融资寻求合作 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "天使轮"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-m9jhmk",
+      "type": "funding",
+      "title": "广州AI隐形冠军企业成功完成C轮整体融资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xdHVKWDhDZ2pOUHk4clJNQzlWamlyU2E2dnFnTG1QZHhLS3ZGVzdDSVZqN1ZsMjdSUm9fbnFMZ3IxLU1uWTc5QUVDSFp3MjMxSnZ3?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-02T10:09:00.000Z",
+      "summaryHint": "广州AI隐形冠军企业成功完成C轮整体融资 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
     {
       "id": "rss-google_news_cn_36kr_deals-391r8a",
       "type": "funding",
-      "title": "“鼎犀智创”完成数亿元Pre-A轮融资 - 36kr.com",
+      "title": "“鼎犀智创”完成数亿元Pre-A轮融资 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrdHctbGVPZmhhYXF2UmNKbDdfclBLaVhuUW56STRNZ09xRXhtYzB2eWttTXFROGUyT1NQVHQ4N1Zkd085enc0ZzNKX2ZHaktmNFdHY1FMdEJyTGxrZkE?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-02T07:41:36.000Z",
-      "summaryHint": "“鼎犀智创”完成数亿元Pre-A轮融资 &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "“鼎犀智创”完成数亿元Pre-A轮融资 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -19,13 +65,29 @@
       "round": "Pre-A"
     },
     {
+      "id": "rss-google_news_cn_36kr_deals-ev6lk0",
+      "type": "funding",
+      "title": "“合木智能”完成种子轮千万级融资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JcW1razVxY3g1RlZocnFvWGRiZVZ3ek82dmFYS3pDcEVTekhxYW5Jd2dBM3dtWk0zM1E2cnB4aURtSDFQTC1QQlJZMVZwbnNBdUJDbkZqeFJ1Y3pFZ1E?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-02T01:52:13.000Z",
+      "summaryHint": "“合木智能”完成种子轮千万级融资 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "种子轮"
+    },
+    {
       "id": "rss-google_news_cn_36kr_deals-2y55pk",
       "type": "funding",
-      "title": "95后做AI 3D模型，半年内融资约50亿 - 36kr.com",
+      "title": "95后做AI 3D模型，半年内融资约50亿 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80N25GRTdpZnJRZVpURjFPa1dNZDhsSVkxd1Q1LU9TeS1qSnQzWWlCWURST1ptS21UWm91bS1RWjhXZVFqdWg1RDlTNEc5blk?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-02T00:30:19.000Z",
-      "summaryHint": "95后做AI 3D模型，半年内融资约50亿 &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "95后做AI 3D模型，半年内融资约50亿 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -37,11 +99,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-a6w6tp",
       "type": "funding",
-      "title": "VAST半年融资约50亿：曾经的非共识玩家，成了「世界的基座」｜智能涌现首发 - 36kr.com",
+      "title": "VAST半年融资约50亿：曾经的非共识玩家，成了「世界的基座」｜智能涌现首发 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yQkZvaHZCNEdvYUFMLW9fdU1OclJ3WmtCTFk0Mk1pcVJ3N3htdVV1SXU1VlljS2NSNG9YcmZBLTJXLW5rQjVOY2J2bEM2VVg3?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-01T03:48:11.000Z",
-      "summaryHint": "VAST半年融资约50亿：曾经的非共识玩家，成了「世界的基座」｜智能涌现首发 &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "VAST半年融资约50亿：曾经的非共识玩家，成了「世界的基座」｜智能涌现首发 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -53,11 +115,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-b5mqoh",
       "type": "funding",
-      "title": "“VAST”完成B轮和B+轮融资 - 36kr.com",
+      "title": "“VAST”完成B轮和B+轮融资 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ocVlQd3B5SThyWHNBVXVTeWZCV05yNUwyNS1uajNIMkxsUms2ZERSd08xWWZYVzNhcjZpRUx0TmFnaUVpSG5CVmczSm1rNGlyWUpmRWFvNVNPTDVKRUE?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-01T03:31:06.000Z",
-      "summaryHint": "“VAST”完成B轮和B+轮融资 &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "“VAST”完成B轮和B+轮融资 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -69,11 +131,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-z7ga2q",
       "type": "funding",
-      "title": "获亿元级融资，90后CEO押注“自进化个人AI”；为什么一定要做成硬件？ - 36kr.com",
+      "title": "获亿元级融资，90后CEO押注“自进化个人AI”；为什么一定要做成硬件？ - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmRmxka01qUlcxbVN3Y0lEVUwtWUZsTWpOZnF3dEhrTkdjczNoRFc1ajFkSkZBUm1SR19OaWp3V0tEcHBfekFKRHY5MDZWQQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-31T22:04:00.000Z",
-      "summaryHint": "获亿元级融资，90后CEO押注“自进化个人AI”；为什么一定要做成硬件？ &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "获亿元级融资，90后CEO押注“自进化个人AI”；为什么一定要做成硬件？ &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -84,11 +146,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-46ocuu",
       "type": "funding",
-      "title": "硬氪首发 | 异构智算平台天使轮融资千万，瞄准英伟达和国产GPU算力调度 - 36kr.com",
+      "title": "硬氪首发 | 异构智算平台天使轮融资千万，瞄准英伟达和国产GPU算力调度 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qTHpGWUhFaUx2U3hfbTRUMU5iSUQzcG1GRHgtZXVKWlFNZm9xS2xMYVZBczVQOGZDTENKc3ZFZE81Z2lPdGczbUJ6R1paZw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-31T13:31:00.000Z",
-      "summaryHint": "硬氪首发 | 异构智算平台天使轮融资千万，瞄准英伟达和国产GPU算力调度 &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "硬氪首发 | 异构智算平台天使轮融资千万，瞄准英伟达和国产GPU算力调度 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -114,21 +176,6 @@
       "amount": "1.2万"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-vjn66v",
-      "type": "funding",
-      "title": "“词元贷”纾解AI企业融资困境 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41LWhMNlJsVU9Eekl5MEtPVV80amFYSGdNSm11eFhrQktIS011c0czc24zUWxnQUNnQ1lnaVlpVXEyTVFxRVlNR0ctRkQ2MFVqWEtCbVlQWjBtVkFjcWZBUg?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-31T03:00:10.000Z",
-      "summaryHint": "“词元贷”纾解AI企业融资困境 &nbsp;&nbsp; 36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-37jm3r",
       "type": "funding",
       "title": "超千万元天使轮融资落地 深圳神奕科技以AI融合BCI推动脑机智能普惠大众 - 36 Kr",
@@ -145,144 +192,13 @@
       "round": "天使轮"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-nsed4j",
-      "type": "funding",
-      "title": "爱诗科技投资、主做精品内容，AI影视公司折叠完成数百万美元融资｜36氪融资首发 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iZGVVLVB1ZkI0enFZZmlzY19VdGc1eElibmtSLWlqYzRqRkRZWTI3NVZZWnpNdXZXMFo5dTAzY3pWRUozbFNTX25nbmpSS2Q3?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-30T09:15:00.000Z",
-      "summaryHint": "爱诗科技投资、主做精品内容，AI影视公司折叠完成数百万美元融资｜36氪融资首发 &nbsp;&nbsp; 36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-qbitai-uxxh0u",
-      "type": "news",
-      "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
-      "url": "https://www.qbitai.com/2026/09/483274.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-02T09:22:16.000Z",
-      "summaryHint": "SkyProduction（天工工作台）全新版本于8月31日正式上线",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-tlcxmg",
-      "type": "news",
-      "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
-      "url": "https://www.qbitai.com/2026/09/483104.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-02T06:20:17.000Z",
-      "summaryHint": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-v0hst1",
-      "type": "news",
-      "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
-      "url": "https://www.qbitai.com/2026/09/483101.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-02T06:10:26.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-42lyj3",
-      "type": "news",
-      "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
-      "url": "https://www.qbitai.com/2026/09/483097.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-02T06:06:50.000Z",
-      "summaryHint": "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-ysatpa",
-      "type": "news",
-      "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
-      "url": "https://www.qbitai.com/2026/09/482967.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-02T02:48:06.000Z",
-      "summaryHint": "AI客服日扛1.5万通电话",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-3rfgvd",
-      "type": "news",
-      "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
-      "url": "https://www.qbitai.com/2026/09/482652.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-02T02:18:12.000Z",
-      "summaryHint": "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-87arss",
-      "type": "news",
-      "title": "香港首个真实开放场景服务机器人落地兰桂坊",
-      "url": "https://www.qbitai.com/2026/09/482855.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-02T02:06:08.000Z",
-      "summaryHint": "在香港兰桂坊，一位特殊的“酒保”正式上岗",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-58s3ga",
-      "type": "news",
-      "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
-      "url": "https://www.qbitai.com/2026/09/482699.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-02T01:44:24.000Z",
-      "summaryHint": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-kv6c21",
-      "type": "news",
-      "title": "李飞飞发布：全球首个多模态世界模型",
-      "url": "https://www.qbitai.com/2026/09/482586.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-02T01:07:13.000Z",
-      "summaryHint": "一张图补全3D世界，还能给机器人造训练场",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-afnyl0",
       "type": "news",
-      "title": "英伟达是AI供应链的中央银行——黄仁勋构建的护城河究竟有多深 - 36kr.com",
+      "title": "英伟达是AI供应链的中央银行——黄仁勋构建的护城河究竟有多深 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wR2FYdHhLX1JCU01qWlZIbnV5QmgyTVN5TFVEZW9adEZNSFAwVE1wUUUyWDNiWmZxcTNVYnV3LUdkUTRSdUpDQ3hmVm1mQQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-01T17:01:00.000Z",
-      "summaryHint": "英伟达是AI供应链的中央银行——黄仁勋构建的护城河究竟有多深 &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "英伟达是AI供应链的中央银行——黄仁勋构建的护城河究竟有多深 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -290,25 +206,13 @@
       ]
     },
     {
-      "id": "rss-qbitai-cqo33u",
-      "type": "news",
-      "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
-      "url": "https://www.qbitai.com/2026/09/482512.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-01T12:02:39.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-98pim3",
       "type": "news",
-      "title": "CMC资本投资VAST，走进AI 3D原生世界 - 36kr.com",
+      "title": "CMC资本投资VAST，走进AI 3D原生世界 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rLW81cnd3SjRHdzZSMmkyLVpGdW1vOXZRM1kzeE9STWlDT3FDMW9BYXcyTS1VcElHcnI5WXVlVzQ1YWhfMm1GM2wxRVJCZw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-31T15:53:00.000Z",
-      "summaryHint": "CMC资本投资VAST，走进AI 3D原生世界 &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "CMC资本投资VAST，走进AI 3D原生世界 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -329,87 +233,61 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-2s09zo",
-      "type": "news",
-      "title": "AI芯片创业，又开始疯狂了 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kNVdydlVacjV5YVYzSGFuS2pISHY4WS1Sbl9ieFVxNE56b2JTbDNGQTZlNWNrTzljSW1XeFVPZFNUTnB3NTVCQkhvbWFMZw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-27T10:43:00.000Z",
-      "summaryHint": "AI芯片创业，又开始疯狂了 &nbsp;&nbsp; 36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "reddit-rss-r8ofol",
+      "id": "reddit-rss-xauma4",
       "type": "social_en",
-      "title": "Sit back and relax...",
-      "url": "https://www.reddit.com/r/Unity3D/comments/1w563da/sit_back_and_relax/",
-      "source": "reddit_r_Unity3D",
-      "publishedAt": "2026-09-02T10:05:01.000Z",
-      "summaryHint": "One of the demo scenes from my Low Poly Modular Medieval Buildings Pack. &#32; submitted by &#32; /u/LMHPoly [link] &#32; [comments]",
+      "title": "JP gaming website published an article on how to write press releases",
+      "url": "https://www.reddit.com/r/gamedev/comments/1w62l7n/jp_gaming_website_published_an_article_on_how_to/",
+      "source": "reddit_r_gamedev",
+      "publishedAt": "2026-09-03T09:35:51.000Z",
+      "summaryHint": "Today I stumbled upon this article from the Japanese gaming news outlet about how they handle press releases. What caught my attention is that the article says they prefer to receive all the materials (press release text, screenshots, etc.)",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-shbbh7",
+      "id": "reddit-rss-3lwxse",
       "type": "social_en",
-      "title": "World Labs introduces their next world model - Atlas",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w4ljsx/world_labs_introduces_their_next_world_model_atlas/",
+      "title": "We extracted building-level objects from a continuous 3DGS scene",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w5zzvm/we_extracted_buildinglevel_objects_from_a/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-01T19:03:21.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/chronoz99 [link] &#32; [comments]",
+      "publishedAt": "2026-09-03T07:02:26.000Z",
+      "summaryHint": "We’ve been testing a workflow that turns a continuous large-scale 3DGS scene into individual building objects. The point is not just visualization. At building level, the scene becomes easier to pick, position, attach metadata to, and query",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-wrjjt3",
+      "id": "reddit-rss-nveb7k",
       "type": "social_en",
-      "title": "Unity 6.6 is now available",
-      "url": "https://www.reddit.com/r/Unity3D/comments/1w4gise/unity_66_is_now_available/",
-      "source": "reddit_r_Unity3D",
-      "publishedAt": "2026-09-01T16:12:34.000Z",
-      "summaryHint": "Howdy everyone! Your friendly neighborhood Community Man Trey here to share the news that Unity 6.6 is now available! This is a Supported release. So, for those of you who don’t know what that means, it carries the same stability and critic",
+      "title": "The Witcher 4 dev is \"still predominantly using people\" over AI in development, says CEO, but \"everybody has to make those judgments on their own\"",
+      "url": "https://www.reddit.com/r/gamedev/comments/1w5u65v/the_witcher_4_dev_is_still_predominantly_using/",
+      "source": "reddit_r_gamedev",
+      "publishedAt": "2026-09-03T01:59:33.000Z",
+      "summaryHint": "CD Projekt says it is still predominantly using people to develop its games and plans to keep it that way. The studio sees AI as a tool that may help with parts of development, but says it does not intend to rely on AI to make complete game",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-kwdov9",
+      "id": "reddit-rss-yt6z8l",
       "type": "social_en",
-      "title": "A Tour of Historic San Juan, Puerto Rico",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w4dzf9/a_tour_of_historic_san_juan_puerto_rico/",
+      "title": "DirectXSplat v0.1.1 – Native Windows D3D12 Gaussian splat rendering at up to 2.4× the FPS of gsplat with matched PSNR",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w5pgqk/directxsplat_v011_native_windows_d3d12_gaussian/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-01T14:42:50.000Z",
-      "summaryHint": "Scanned by SuperSplat user AJ Creek with an XGRIDS PortalCam, during a few hours ashore from a family cruise. It&#39;s a combination of at least 5 separate scans - close to 2 hours of total scan time - stitched together with a fair amount o",
+      "publishedAt": "2026-09-02T22:32:32.000Z",
+      "summaryHint": "Hi all, Over the past few months, I&#39;ve been working on and off on DirectXSplat, a C++/Direct3D 12 library for rendering 3D Gaussian Splats. It can load PLY, SPZ, .splat, SOG, and lod-meta.json scenes and render them from a host D3D12 ap",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-b0g0v8",
+      "id": "reddit-rss-bxkm79",
       "type": "social_en",
-      "title": "Depth from Gaussian splats in the forward pass, enough to drive DOF and volumetric fog",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w4cx5j/depth_from_gaussian_splats_in_the_forward_pass/",
+      "title": "How I improved the walls in Splat without LIDAR and without new images.",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w5e0vo/how_i_improved_the_walls_in_splat_without_lidar/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-01T14:03:18.000Z",
-      "summaryHint": "Splats are blended geometry, so there&#39;s no depth buffer for post-processing to use. The usual workaround is a proxy mesh matching the capture, rendered in a depth prepass — geometry you author and ship but never see. In PlayCanvas (MIT)",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-gfzzmq",
-      "type": "social_en",
-      "title": "Sphere cannot be build from hexes, but game dev is magic",
-      "url": "https://www.reddit.com/r/Unity3D/comments/1w4761b/sphere_cannot_be_build_from_hexes_but_game_dev_is/",
-      "source": "reddit_r_Unity3D",
-      "publishedAt": "2026-09-01T09:45:04.000Z",
-      "summaryHint": "For our roguelite Tile Crawl, we wanted our meta progression to stand out, so we designed it as a planet to explore. But our run map was already designed using hexes, so for consistency&#39;s sake, we wanted a globe out of hexes as well. We",
+      "publishedAt": "2026-09-02T15:43:50.000Z",
+      "summaryHint": "In my latest tests with Gaussian Splatting, I’ve significantly improved the quality of walls and surfaces with little texture. I used to use this pipeline: RealityScan → camera poses / COLMAP Brush → Gaussian Splat training The result was g",
       "tags": [
         "ai_social"
       ]
