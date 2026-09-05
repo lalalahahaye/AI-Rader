@@ -1,15 +1,63 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-04T11:21:06.965Z",
+  "updatedAt": "2026-09-05T10:38:33.830Z",
   "items": [
     {
-      "id": "rss-google_news_cn_36kr_deals-7xdte8",
+      "id": "rss-google_news_cn_36kr_deals-oifr66",
       "type": "funding",
-      "title": "37亿，AI独角兽拿下新融资，估值336亿-36氪 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hcmV5ZVFNYXFyOU9TZ0RQODVVYWc2dzZrSXA5aEZDM3h4YWNxb2VPQnZSR0JaWXE3LXg5ZGljdFp4blZHbWNJRG5KYkUydlh4?oc=5",
+      "title": "AI初创公司Gimlet完成3亿美元融资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yTkRTX1NWRzd3cW1SSUJNS18weFRlZVI5TXF3ZWRXd05pRV9sbWpPMmg5UlV1SFFxM0lLdFFNX21DQ3dxTlhyT0puTUJkcHg3ZUlvZmdFSnozVkp2b0E?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-04T03:17:34.000Z",
-      "summaryHint": "37亿，AI独角兽拿下新融资，估值336亿-36氪 &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-09-05T01:55:19.000Z",
+      "summaryHint": "AI初创公司Gimlet完成3亿美元融资 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "3亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-979kl0",
+      "type": "funding",
+      "title": "AI云服务公司Nscale寻求35亿美元IPO前融资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Pc3hPemZmU0d0RFliWFBmY2NfRFZZdWh2aHRTR2xFSER5QS1zZ1B6N0lSaFBiSFVOdXlwUjdUNnVmYkRzX1NpMWxVdnhuY3lOQlhEM1MwS3NGSmw4OEE?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-04T12:12:00.000Z",
+      "summaryHint": "AI云服务公司Nscale寻求35亿美元IPO前融资 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "35亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-8m4gxe",
+      "type": "funding",
+      "title": "AI初创公司Gimlet完成3亿美元融资 - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfWEN6TUh3VlpyRjVpbktidGNKMzBWXzEyekM3ZGRBNlBKSFNCQ1p2aGFZWFdreWh0RGNyb0NTb3I1Y2VVajhIOVFhOGhqQjJWc2RQcUVvMmhqUEViVmVSTg?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-04T10:52:00.000Z",
+      "summaryHint": "AI初创公司Gimlet完成3亿美元融资 &nbsp;&nbsp; eu.36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "3亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-v91nyn",
+      "type": "funding",
+      "title": "37亿，AI独角兽拿下新融资，估值336亿 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4OXJhdkhQSjVYclo3UDZCM0pHV1VZMVpEaVowMXcwY0QyRk5DMWF0bmpNV2xwMDZWczNoMl96Ums5cERPY1EzQUEwMVhaQQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-03T12:12:00.000Z",
+      "summaryHint": "37亿，AI独角兽拿下新融资，估值336亿 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -19,43 +67,13 @@
       "amount": "37亿"
     },
     {
-      "id": "rss-qbitai-6ljua1",
-      "type": "funding",
-      "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
-      "url": "https://www.qbitai.com/2026/09/483598.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-04T01:40:42.000Z",
-      "summaryHint": "吃下90%市场",
-      "tags": [
-        "china",
-        "funding",
-        "deal_signal"
-      ],
-      "amount": "10亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-rzbgbw",
-      "type": "funding",
-      "title": "星灿智能完成数千万天使++轮融资，技术与闭环模式重构家庭具身智能落地范式 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wSElZelFpNUpQUEE0TUYtT0lTdEJfcVNUcnJKVDdDWWI0U2lvYTBDbUpVcVBFNUxVREZKUFdQSU9FaUdyYld3Mk1JTGhyclN0?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-03T18:58:00.000Z",
-      "summaryHint": "星灿智能完成数千万天使++轮融资，技术与闭环模式重构家庭具身智能落地范式 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-xblf5n",
       "type": "funding",
-      "title": "296亿美元重金押注AI 科技巨头加码人工智能赛道 - 36 Kr",
+      "title": "296亿美元重金押注AI 科技巨头加码人工智能赛道 - eu.36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhaGZYTFJta3psaHJ5ckJYZjlpTjhtVW9jaExLTFVpYWhxWEFKdERMLTRXdGpIMXVGWWFHT1EyNHRQaWpUVkE1bDJaQ3A2c0VEcmx3?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-03T11:45:00.000Z",
-      "summaryHint": "296亿美元重金押注AI 科技巨头加码人工智能赛道 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "296亿美元重金押注AI 科技巨头加码人工智能赛道 &nbsp;&nbsp; eu.36kr.com",
       "tags": [
         "china",
         "funding",
@@ -78,22 +96,6 @@
         "deal_rss",
         "deal_signal"
       ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-ev6lk0",
-      "type": "funding",
-      "title": "“合木智能”完成种子轮千万级融资 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JcW1razVxY3g1RlZocnFvWGRiZVZ3ek82dmFYS3pDcEVTekhxYW5Jd2dBM3dtWk0zM1E2cnB4aURtSDFQTC1QQlJZMVZwbnNBdUJDbkZqeFJ1Y3pFZ1E?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-02T01:52:13.000Z",
-      "summaryHint": "“合木智能”完成种子轮千万级融资 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "种子轮"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-422y3e",
@@ -143,10 +145,10 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-k3hhu0",
+      "id": "rss-google_news_cn_36kr_deals-46ocuu",
       "type": "funding",
       "title": "硬氪首发 | 异构智算平台天使轮融资千万，瞄准英伟达和国产GPU算力调度 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54aHNSVGNXblF2ZEdpRFlfSVJxenQ2UTk1dnBaelRJQ0J1NUhkRDlSNE5COC1SNmtpQ2xGVVRXNUJwRnp0dXJabzhaM0RPNUVv?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qTHpGWUhFaUx2U3hfbTRUMU5iSUQzcG1GRHgtZXVKWlFNZm9xS2xMYVZBczVQOGZDTENKc3ZFZE81Z2lPdGczbUJ6R1paZw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-31T13:31:00.000Z",
       "summaryHint": "硬氪首发 | 异构智算平台天使轮融资千万，瞄准英伟达和国产GPU算力调度 &nbsp;&nbsp; 36 Kr",
@@ -177,11 +179,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-s6s7ah",
       "type": "funding",
-      "title": "深圳90后团队打造AI助手获亿元融资 1.2万用户抢先下单 - 36 Kr",
+      "title": "深圳90后团队打造AI助手获亿元融资 1.2万用户抢先下单 - eu.36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VaGpGS1M2b05TTGw3STdDbVNMTXNmUFV0WEt6QmpnazNaMWVPX2lacGZsM2MwM1NpbDlpLVF3LUJZcGRtLUNRNnA2UFBNd3Zkb3Nv?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-31T10:15:00.000Z",
-      "summaryHint": "深圳90后团队打造AI助手获亿元融资 1.2万用户抢先下单 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "深圳90后团队打造AI助手获亿元融资 1.2万用户抢先下单 &nbsp;&nbsp; eu.36kr.com",
       "tags": [
         "china",
         "funding",
@@ -189,6 +191,45 @@
         "deal_signal"
       ],
       "amount": "1.2万"
+    },
+    {
+      "id": "rss-qbitai-3n8jsz",
+      "type": "news",
+      "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
+      "url": "https://www.qbitai.com/2026/09/484649.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-05T04:24:25.000Z",
+      "summaryHint": "AI直接吐出正确答案，但最关键的可能不是答案",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-qusryg",
+      "type": "news",
+      "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
+      "url": "https://www.qbitai.com/2026/09/484611.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-05T04:18:54.000Z",
+      "summaryHint": "如此“反骨”的方法，具体又是怎么实现的？",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-eacm6r",
+      "type": "news",
+      "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
+      "url": "https://www.qbitai.com/2026/09/484551.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-05T01:17:56.000Z",
+      "summaryHint": "最后靠Harness救回来",
+      "tags": [
+        "china",
+        "funding"
+      ]
     },
     {
       "id": "rss-qbitai-q4h61m",
@@ -281,29 +322,17 @@
       ]
     },
     {
-      "id": "rss-qbitai-yacwqw",
+      "id": "rss-google_news_cn_36kr_deals-fbhxc",
       "type": "news",
-      "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
-      "url": "https://www.qbitai.com/2026/09/483984.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-04T04:03:04.000Z",
-      "summaryHint": "比新业务更考验一家公司的，可能是怎么对待年轻人。",
+      "title": "美国AI资本豪赌，押上的是美元的命运 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zd1gybi02cndOYmVPZUV3dW5vdXl4S0Fnd2tVeFBsWk9zTHJnY3RUd0ZDcllJVjg1OVJfd0c0cEMydVRQRWlXZ2JPc043UQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-03T20:58:00.000Z",
+      "summaryHint": "美国AI资本豪赌，押上的是美元的命运 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-mj1qkg",
-      "type": "news",
-      "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
-      "url": "https://www.qbitai.com/2026/09/483948.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-03T21:57:08.000Z",
-      "summaryHint": "改进GPT Image 2的噪点问题",
-      "tags": [
-        "china",
-        "funding"
+        "funding",
+        "deal_rss"
       ]
     },
     {
@@ -321,31 +350,51 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-phxp2p",
-      "type": "news",
-      "title": "盛马数字DaaS模式 降低AI硬件落地门槛 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1SXhJVFpCNS02TjlJUkZMaV9GeFFXeUY1TnpDSjhURGxPSFNzQndocDFDMzhSbHZRVXN1d3Y2bXB6cVN3Z2J3TkdocmdwTVNUalhN?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-01T11:23:00.000Z",
-      "summaryHint": "盛马数字DaaS模式 降低AI硬件落地门槛 &nbsp;&nbsp; 36 Kr",
+      "id": "reddit-rss-e9xc2g",
+      "type": "social_en",
+      "title": "School let me borrow a sony FX6 kit for a documentary project - help!!",
+      "url": "https://www.reddit.com/r/videography/comments/1w7c897/school_let_me_borrow_a_sony_fx6_kit_for_a/",
+      "source": "reddit_r_videography",
+      "publishedAt": "2026-09-04T18:15:57.000Z",
+      "summaryHint": "i’m working on a very short amateur documentary about my cities local punk and hardcore scene. my goal is to get interviews, gig videos, and behind the scenes footage of bands &amp; fans. I’m most used to shooting on a hybrid camera for pho",
       "tags": [
-        "china",
-        "funding",
-        "deal_rss"
+        "ai_social"
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-98pim3",
-      "type": "news",
-      "title": "CMC资本投资VAST，走进AI 3D原生世界 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rLW81cnd3SjRHdzZSMmkyLVpGdW1vOXZRM1kzeE9STWlDT3FDMW9BYXcyTS1VcElHcnI5WXVlVzQ1YWhfMm1GM2wxRVJCZw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-31T15:53:00.000Z",
-      "summaryHint": "CMC资本投资VAST，走进AI 3D原生世界 &nbsp;&nbsp; 36 Kr",
+      "id": "reddit-rss-a3xxvp",
+      "type": "social_en",
+      "title": "2-year architectural restoration across 16 stages using 3D Gaussian Splatting to create an interactive 3D time-lapse.",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w76q7t/2year_architectural_restoration_across_16_stages/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-09-04T14:57:21.000Z",
+      "summaryHint": "Over the last two years, we’ve been documenting the restoration of the historic Veerse Toren and construction of a new hotel. We ended up doing 16 separate 3DGS captures throughout the construction process. Besides that, we also show the fu",
       "tags": [
-        "china",
-        "funding",
-        "deal_rss"
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-y7ddcy",
+      "type": "social_en",
+      "title": "I want to fry my house circuits with this beast: 3.200 Watts, SSI 92, Lamp head 17kg",
+      "url": "https://www.reddit.com/r/videography/comments/1w76iom/i_want_to_fry_my_house_circuits_with_this_beast/",
+      "source": "reddit_r_videography",
+      "publishedAt": "2026-09-04T14:49:18.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/mediamuesli [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-h3d31d",
+      "type": "social_en",
+      "title": "PlayCanvas Engine 2.22.0 enables depth-of-field and other depth-based post effects for Gaussian splats",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w73fqz/playcanvas_engine_2220_enables_depthoffield_and/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-09-04T12:46:59.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/MayorOfMonkeys [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
       ]
     },
     {
@@ -361,123 +410,15 @@
       ]
     },
     {
-      "id": "reddit-rss-azns6v",
+      "id": "reddit-rss-mc32cp",
       "type": "social_en",
-      "title": "Framework for simulation of holographic projections",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1w708lj/framework_for_simulation_of_holographic/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-09-04T10:11:16.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/nunogdias [link] &#32; [comments]",
+      "title": "/r/videography Monthly Camera Buying Advice Megathread",
+      "url": "https://www.reddit.com/r/videography/comments/1w3u4ks/rvideography_monthly_camera_buying_advice/",
+      "source": "reddit_r_videography",
+      "publishedAt": "2026-08-31T23:00:44.000Z",
+      "summaryHint": "Welcome to the /r/videography monthly camera buying megathread. All requests asking for camera buying advice must be posted in this thread. If you&#39;ve been directed here by a removal reason or moderator, you&#39;re in the right place! Be",
       "tags": [
         "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-p7dr0e",
-      "type": "social_en",
-      "title": "Should AI ever be fully autonomous for content aimed at children? We chose not to, and it's slowed us down a lot.",
-      "url": "https://www.reddit.com/r/artificial/comments/1w6zhi7/should_ai_ever_be_fully_autonomous_for_content/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-09-04T09:28:14.000Z",
-      "summaryHint": "We built an AI content generation engine for K-5 learning material (worksheets, practice questions, spelling content). Technically, it could run with zero human review. We don&#39;t let it. Every question, every template, every TTS line goe",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-2y5xd",
-      "type": "social_en",
-      "title": "Effects of AI anxiety",
-      "url": "https://www.reddit.com/r/artificial/comments/1w6ygoi/effects_of_ai_anxiety/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-09-04T08:29:05.000Z",
-      "summaryHint": "Hi! I&#39;m running a survey for my MSc dissertation that looks at the effects of AI anxiety. Please, if you&#39;re required to use AI as a part of your job, can you complete it? It will take no more than 5-10 minutes and it would help a lo",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-92wb2s",
-      "type": "social_en",
-      "title": "Can we all acknoledge how crazy AI is?",
-      "url": "https://www.reddit.com/r/artificial/comments/1w6sp4p/can_we_all_acknoledge_how_crazy_ai_is/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-09-04T03:16:23.000Z",
-      "summaryHint": "There is usually so much talk about what AI can&#39;t do, and not what it already can. All the normal things we do using AI would&#39;ve been science fiction 10 years ago. The Turing test used to be the pinnacle of Language Models. I feel l",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-2q45i7",
-      "type": "social_en",
-      "title": "GPT-6 Astra Takes 3D to the Next Level — It Can Now Build Full Worlds in Blender and UE5",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1w6s7pc/gpt6_astra_takes_3d_to_the_next_level_it_can_now/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-09-04T02:52:51.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/Delicious-Shower8401 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-tjjn21",
-      "type": "social_en",
-      "title": "ChatGPT, Claude and Grok Went Down Together: But How Did Gemini Avoid a Major Outage?",
-      "url": "https://www.reddit.com/r/artificial/comments/1w6j83r/chatgpt_claude_and_grok_went_down_together_but/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-09-03T20:31:20.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/beingmodest [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-wcgmj5",
-      "type": "social_en",
-      "title": "First Time GraphicsDesign",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1w6anju/first_time_graphicsdesign/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-09-03T15:29:29.000Z",
-      "summaryHint": "I learn some fundamentals of graphics and add on them suggest me some course or tips &#32; submitted by &#32; /u/Appropriate_Ninja286 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-3lwxse",
-      "type": "social_en",
-      "title": "We extracted building-level objects from a continuous 3DGS scene",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w5zzvm/we_extracted_buildinglevel_objects_from_a/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-03T07:02:26.000Z",
-      "summaryHint": "We’ve been testing a workflow that turns a continuous large-scale 3DGS scene into individual building objects. The point is not just visualization. At building level, the scene becomes easier to pick, position, attach metadata to, and query",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-bxkm79",
-      "type": "social_en",
-      "title": "How I improved the walls in Splat without LIDAR and without new images.",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w5e0vo/how_i_improved_the_walls_in_splat_without_lidar/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-02T15:43:50.000Z",
-      "summaryHint": "In my latest tests with Gaussian Splatting, I’ve significantly improved the quality of walls and surfaces with little texture. I used to use this pipeline: RealityScan → camera poses / COLMAP Brush → Gaussian Splat training The result was g",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "ks-7pbvh7",
-      "type": "crowdfunding",
-      "title": "feed.atom",
-      "url": "https://www.kickstarter.com/projects/feed.atom",
-      "source": "kickstarter_discover",
-      "publishedAt": "2026-09-04T11:19:46.448Z",
-      "summaryHint": "From public discover page; verify on site.",
-      "tags": [
-        "crowdfunding"
       ]
     }
   ]
