@@ -1,7 +1,23 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05T10:38:33.830Z",
+  "updatedAt": "2026-09-06T11:00:44.396Z",
   "items": [
+    {
+      "id": "rss-google_news_cn_36kr_deals-cp1j8o",
+      "type": "funding",
+      "title": "中国公司全球化周报｜VAST累计融资约50亿元 / 天工机器人完成数亿元融资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ESDhjSW1LT3h4Y1B1NWZKMDRsUjlkWC0taXBWcjJBdk8za1NRSnNFTkNhYmI5ZWsyRmdMdjJKWXAxcHVyem1sMWJUYnpwUQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-06T02:18:54.000Z",
+      "summaryHint": "中国公司全球化周报｜VAST累计融资约50亿元 / 天工机器人完成数亿元融资 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "50亿元"
+    },
     {
       "id": "rss-google_news_cn_36kr_deals-oifr66",
       "type": "funding",
@@ -37,11 +53,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-8m4gxe",
       "type": "funding",
-      "title": "AI初创公司Gimlet完成3亿美元融资 - eu.36kr.com",
+      "title": "AI初创公司Gimlet完成3亿美元融资 - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfWEN6TUh3VlpyRjVpbktidGNKMzBWXzEyekM3ZGRBNlBKSFNCQ1p2aGFZWFdreWh0RGNyb0NTb3I1Y2VVajhIOVFhOGhqQjJWc2RQcUVvMmhqUEViVmVSTg?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-04T10:52:00.000Z",
-      "summaryHint": "AI初创公司Gimlet完成3亿美元融资 &nbsp;&nbsp; eu.36kr.com",
+      "summaryHint": "AI初创公司Gimlet完成3亿美元融资 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -69,11 +85,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-xblf5n",
       "type": "funding",
-      "title": "296亿美元重金押注AI 科技巨头加码人工智能赛道 - eu.36kr.com",
+      "title": "296亿美元重金押注AI 科技巨头加码人工智能赛道 - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhaGZYTFJta3psaHJ5ckJYZjlpTjhtVW9jaExLTFVpYWhxWEFKdERMLTRXdGpIMXVGWWFHT1EyNHRQaWpUVkE1bDJaQ3A2c0VEcmx3?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-03T11:45:00.000Z",
-      "summaryHint": "296亿美元重金押注AI 科技巨头加码人工智能赛道 &nbsp;&nbsp; eu.36kr.com",
+      "summaryHint": "296亿美元重金押注AI 科技巨头加码人工智能赛道 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -83,13 +99,13 @@
       "amount": "296亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-lgu91g",
+      "id": "rss-google_news_cn_36kr_deals-m9jhmk",
       "type": "funding",
-      "title": "广州AI隐形冠军，完成C轮整体融资 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OUy1QdGhFZTJqX21UWkZ4bS1scEo1M19MVFdwdmRFdFdod1dBdWJiZUUySGV0c0NpR2x2Y09VS013cEFoaFVIbDBZTFNmdw?oc=5",
+      "title": "广州AI隐形冠军企业成功完成C轮整体融资 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xdHVKWDhDZ2pOUHk4clJNQzlWamlyU2E2dnFnTG1QZHhLS3ZGVzdDSVZqN1ZsMjdSUm9fbnFMZ3IxLU1uWTc5QUVDSFp3MjMxSnZ3?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-02T10:09:00.000Z",
-      "summaryHint": "广州AI隐形冠军，完成C轮整体融资 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "广州AI隐形冠军企业成功完成C轮整体融资 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -145,22 +161,6 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-46ocuu",
-      "type": "funding",
-      "title": "硬氪首发 | 异构智算平台天使轮融资千万，瞄准英伟达和国产GPU算力调度 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qTHpGWUhFaUx2U3hfbTRUMU5iSUQzcG1GRHgtZXVKWlFNZm9xS2xMYVZBczVQOGZDTENKc3ZFZE81Z2lPdGczbUJ6R1paZw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-31T13:31:00.000Z",
-      "summaryHint": "硬氪首发 | 异构智算平台天使轮融资千万，瞄准英伟达和国产GPU算力调度 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "天使轮"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-cmb8df",
       "type": "funding",
       "title": "VAST半年融资约50亿：曾经的非共识玩家，成了「世界的基座」｜智能涌现首发 - 36 Kr",
@@ -177,13 +177,13 @@
       "amount": "50亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-s6s7ah",
+      "id": "rss-google_news_cn_36kr_deals-54h3a",
       "type": "funding",
-      "title": "深圳90后团队打造AI助手获亿元融资 1.2万用户抢先下单 - eu.36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VaGpGS1M2b05TTGw3STdDbVNMTXNmUFV0WEt6QmpnazNaMWVPX2lacGZsM2MwM1NpbDlpLVF3LUJZcGRtLUNRNnA2UFBNd3Zkb3Nv?oc=5",
+      "title": "融资亿元，一群深圳90后做AI助手，1.2万人下单 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkZzRpNlNzWldEU3hhWUt4WEpXMTV0VVVVWnFtVGkzZGlBTFE2cVJoTkM1dWE1M3MxamJVY21qT0o0REM2cXF4WU5zYWt2QQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-08-31T10:15:00.000Z",
-      "summaryHint": "深圳90后团队打造AI助手获亿元融资 1.2万用户抢先下单 &nbsp;&nbsp; eu.36kr.com",
+      "summaryHint": "融资亿元，一群深圳90后做AI助手，1.2万人下单 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -191,6 +191,44 @@
         "deal_signal"
       ],
       "amount": "1.2万"
+    },
+    {
+      "id": "rss-qbitai-bn5sgh",
+      "type": "news",
+      "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
+      "url": "https://www.qbitai.com/2026/09/484890.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-06T04:40:15.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-1oxl8j",
+      "type": "news",
+      "title": "GPT-6带火循环Transformer，阿里早已布局",
+      "url": "https://www.qbitai.com/2026/09/484726.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-05T15:07:08.000Z",
+      "summaryHint": "手握两篇顶会论文",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-bik3n7",
+      "type": "news",
+      "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+      "url": "https://www.qbitai.com/2026/09/484683.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-05T14:46:15.000Z",
+      "summaryHint": "当AI开始“预演”一场暴雨",
+      "tags": [
+        "china",
+        "funding"
+      ]
     },
     {
       "id": "rss-qbitai-3n8jsz",
@@ -284,44 +322,6 @@
       ]
     },
     {
-      "id": "rss-qbitai-s3v4j4",
-      "type": "news",
-      "title": "李飞飞刚发Atlas，中国开源“同款”已抢跑半年？",
-      "url": "https://www.qbitai.com/2026/09/484163.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-04T06:54:12.000Z",
-      "summaryHint": "智能不只是模式识别，更是对世界的建模",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-g9qko9",
-      "type": "news",
-      "title": "2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先",
-      "url": "https://www.qbitai.com/2026/09/484159.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-04T05:53:09.000Z",
-      "summaryHint": "雷鸟创新（RayNeo）包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-edk33h",
-      "type": "news",
-      "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
-      "url": "https://www.qbitai.com/2026/09/484155.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-04T05:48:53.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-fbhxc",
       "type": "news",
       "title": "美国AI资本豪赌，押上的是美元的命运 - 36 Kr",
@@ -350,13 +350,73 @@
       ]
     },
     {
-      "id": "reddit-rss-e9xc2g",
+      "id": "reddit-rss-4z7upw",
       "type": "social_en",
-      "title": "School let me borrow a sony FX6 kit for a documentary project - help!!",
-      "url": "https://www.reddit.com/r/videography/comments/1w7c897/school_let_me_borrow_a_sony_fx6_kit_for_a/",
-      "source": "reddit_r_videography",
-      "publishedAt": "2026-09-04T18:15:57.000Z",
-      "summaryHint": "i’m working on a very short amateur documentary about my cities local punk and hardcore scene. my goal is to get interviews, gig videos, and behind the scenes footage of bands &amp; fans. I’m most used to shooting on a hybrid camera for pho",
+      "title": "I couldn't resist speedtesting my LEGO + UE5 Drum Machine",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1w8s72t/i_couldnt_resist_speedtesting_my_lego_ue5_drum/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-09-06T10:08:42.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/zomb23 [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-b0wfvv",
+      "type": "social_en",
+      "title": "3D archive of Nepali heritage monuments with 3D Gaussian Splatting",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w8ljhc/3d_archive_of_nepali_heritage_monuments_with_3d/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-09-06T03:59:23.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/donttmesswithme [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-1z3eqd",
+      "type": "social_en",
+      "title": "Gaussian Splatting training falling apart on a semi-transparent Gameboy Color shell",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w8gjog/gaussian_splatting_training_falling_apart_on_a/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-09-05T23:57:11.000Z",
+      "summaryHint": "Hello 👋 I&#39;m trying to scan a Game Boy Color with a semi-transparent purple shell, feeding a bunch of photo into RealityScan and then PostShot. The sparse point cloud reconstructs the PCB pretty well(solder points, chips, opaque plastic",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-x8g9c1",
+      "type": "social_en",
+      "title": "Visual Verse sneak peek",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1w8gbhe/visual_verse_sneak_peek/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-09-05T23:46:36.000Z",
+      "summaryHint": "As many of you already know, Epic announced that Blueprints will eventually be phased out in favor of Verse in UE6, and they confirmed they have no plans to build a visual scripting tool for it. I got your back. Feels like home: The familia",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-c43ain",
+      "type": "social_en",
+      "title": "[Free] Music pack — 20 different royalty-free tracks, commercial use allowed",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1w8ekn0/free_music_pack_20_different_royaltyfree_tracks/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-09-05T22:29:56.000Z",
+      "summaryHint": "Hi everyone, I compose royalty-free music and I&#39;ve released a free pack — 20 tracks across nine genres: action cinematic, sci-fi, orchestral, hard rock, electronic techno, retro chiptune, casual and acoustic. WAV and OGG, most tracks in",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-2pnxtk",
+      "type": "social_en",
+      "title": "Unreal 5.8 - Materials Masterclass - Chapter 6: Intro to Transparency",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1w84wis/unreal_58_materials_masterclass_chapter_6_intro/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-09-05T16:13:04.000Z",
+      "summaryHint": "The 6th entry in my Materials course is out! Enjoy! :) &#32; submitted by &#32; /u/Special_Progress282 [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
@@ -369,54 +429,6 @@
       "source": "reddit_r_GaussianSplatting",
       "publishedAt": "2026-09-04T14:57:21.000Z",
       "summaryHint": "Over the last two years, we’ve been documenting the restoration of the historic Veerse Toren and construction of a new hotel. We ended up doing 16 separate 3DGS captures throughout the construction process. Besides that, we also show the fu",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-y7ddcy",
-      "type": "social_en",
-      "title": "I want to fry my house circuits with this beast: 3.200 Watts, SSI 92, Lamp head 17kg",
-      "url": "https://www.reddit.com/r/videography/comments/1w76iom/i_want_to_fry_my_house_circuits_with_this_beast/",
-      "source": "reddit_r_videography",
-      "publishedAt": "2026-09-04T14:49:18.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/mediamuesli [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-h3d31d",
-      "type": "social_en",
-      "title": "PlayCanvas Engine 2.22.0 enables depth-of-field and other depth-based post effects for Gaussian splats",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w73fqz/playcanvas_engine_2220_enables_depthoffield_and/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-04T12:46:59.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/MayorOfMonkeys [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-44quyh",
-      "type": "social_en",
-      "title": "MipMap Desktop 3.2 is here! Air-ground data fusion, Gaussian count control and more workflow tools.",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w71c9n/mipmap_desktop_32_is_here_airground_data_fusion/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-04T11:09:11.000Z",
-      "summaryHint": "We&#39;ve just released MipMap Desktop 3.2, with several updates aimed at making 3D reconstruction workflows more flexible. A few of the bigger changes: Air-ground data fusion: combine aerial data with ground-based LiDAR or panoramic imager",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-mc32cp",
-      "type": "social_en",
-      "title": "/r/videography Monthly Camera Buying Advice Megathread",
-      "url": "https://www.reddit.com/r/videography/comments/1w3u4ks/rvideography_monthly_camera_buying_advice/",
-      "source": "reddit_r_videography",
-      "publishedAt": "2026-08-31T23:00:44.000Z",
-      "summaryHint": "Welcome to the /r/videography monthly camera buying megathread. All requests asking for camera buying advice must be posted in this thread. If you&#39;ve been directed here by a removal reason or moderator, you&#39;re in the right place! Be",
       "tags": [
         "ai_social"
       ]
