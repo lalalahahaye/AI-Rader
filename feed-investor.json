@@ -1,7 +1,51 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T11:00:44.396Z",
+  "updatedAt": "2026-09-07T12:37:13.847Z",
   "items": [
+    {
+      "id": "rss-qbitai-rofnb",
+      "type": "funding",
+      "title": "产业龙头领投！中科类脑完成数亿元B+轮战略融资",
+      "url": "https://www.qbitai.com/2026/09/485039.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-07T04:01:09.000Z",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-w2x8xf",
+      "type": "funding",
+      "title": "完成近5亿元B系列融资，中科院孵化的国防AI企业年入数亿丨36氪首发 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NZzRobDVuOVdiNzVObHpvVEhsS1FBZzdoWEs1VnpVanlGU1FpWWZuR1loamVFNW5yVkxOb19uZFpmeFNkTmlaWGxlU1dCQQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-06T12:12:00.000Z",
+      "summaryHint": "完成近5亿元B系列融资，中科院孵化的国防AI企业年入数亿丨36氪首发 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "5亿元"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-1ty8b8",
+      "type": "funding",
+      "title": "成立1个月融资过亿，清华博士高博文进军AI制药｜星连被投动态 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96VDB6V0JnOW5Fekh3ekUwMWJDZnozWnZqNW9IWTJZTEFCbnhQYTVzaDRZRGtCU0NYR0VpeDdCMVYzU1ZJWU1ORENET0xIXzZycDN3?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-06T11:26:00.000Z",
+      "summaryHint": "成立1个月融资过亿，清华博士高博文进军AI制药｜星连被投动态 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
     {
       "id": "rss-google_news_cn_36kr_deals-cp1j8o",
       "type": "funding",
@@ -53,11 +97,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-8m4gxe",
       "type": "funding",
-      "title": "AI初创公司Gimlet完成3亿美元融资 - 36Kr",
+      "title": "AI初创公司Gimlet完成3亿美元融资 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfWEN6TUh3VlpyRjVpbktidGNKMzBWXzEyekM3ZGRBNlBKSFNCQ1p2aGFZWFdreWh0RGNyb0NTb3I1Y2VVajhIOVFhOGhqQjJWc2RQcUVvMmhqUEViVmVSTg?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-04T10:52:00.000Z",
-      "summaryHint": "AI初创公司Gimlet完成3亿美元融资 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "AI初创公司Gimlet完成3亿美元融资 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -85,11 +129,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-xblf5n",
       "type": "funding",
-      "title": "296亿美元重金押注AI 科技巨头加码人工智能赛道 - 36Kr",
+      "title": "296亿美元重金押注AI 科技巨头加码人工智能赛道 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhaGZYTFJta3psaHJ5ckJYZjlpTjhtVW9jaExLTFVpYWhxWEFKdERMLTRXdGpIMXVGWWFHT1EyNHRQaWpUVkE1bDJaQ3A2c0VEcmx3?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-03T11:45:00.000Z",
-      "summaryHint": "296亿美元重金押注AI 科技巨头加码人工智能赛道 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "296亿美元重金押注AI 科技巨头加码人工智能赛道 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -99,13 +143,13 @@
       "amount": "296亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-m9jhmk",
+      "id": "rss-google_news_cn_36kr_deals-lgu91g",
       "type": "funding",
-      "title": "广州AI隐形冠军企业成功完成C轮整体融资 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xdHVKWDhDZ2pOUHk4clJNQzlWamlyU2E2dnFnTG1QZHhLS3ZGVzdDSVZqN1ZsMjdSUm9fbnFMZ3IxLU1uWTc5QUVDSFp3MjMxSnZ3?oc=5",
+      "title": "广州AI隐形冠军，完成C轮整体融资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OUy1QdGhFZTJqX21UWkZ4bS1scEo1M19MVFdwdmRFdFdod1dBdWJiZUUySGV0c0NpR2x2Y09VS013cEFoaFVIbDBZTFNmdw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-02T10:09:00.000Z",
-      "summaryHint": "广州AI隐形冠军企业成功完成C轮整体融资 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "广州AI隐形冠军，完成C轮整体融资 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -130,22 +174,6 @@
       "amount": "50亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-b5mqoh",
-      "type": "funding",
-      "title": "“VAST”完成B轮和B+轮融资 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ocVlQd3B5SThyWHNBVXVTeWZCV05yNUwyNS1uajNIMkxsUms2ZERSd08xWWZYVzNhcjZpRUx0TmFnaUVpSG5CVmczSm1rNGlyWUpmRWFvNVNPTDVKRUE?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-01T03:31:06.000Z",
-      "summaryHint": "“VAST”完成B轮和B+轮融资 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "B+轮融资"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-z7ga2q",
       "type": "funding",
       "title": "获亿元级融资，90后CEO押注“自进化个人AI”；为什么一定要做成硬件？ - 36 Kr",
@@ -161,36 +189,121 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-cmb8df",
-      "type": "funding",
-      "title": "VAST半年融资约50亿：曾经的非共识玩家，成了「世界的基座」｜智能涌现首发 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XSmlzMzlpdDVuaW9yMXFOTzl2WFR1WVJfeWxOMHN5bndCX0RrZ0szY3FWcjZwRHZhZS1QRTNrRjZrSTM5a1FYbU1Eal9KZw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-31T12:46:00.000Z",
-      "summaryHint": "VAST半年融资约50亿：曾经的非共识玩家，成了「世界的基座」｜智能涌现首发 &nbsp;&nbsp; 36 Kr",
+      "id": "rss-qbitai-facy3d",
+      "type": "news",
+      "title": "3秒变身！会合体的机器人，卖到全球50国",
+      "url": "https://www.qbitai.com/2026/09/485525.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-07T09:34:06.000Z",
+      "summaryHint": "谁说现在机器人都长得差不多的！",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "50亿"
+        "funding"
+      ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-54h3a",
-      "type": "funding",
-      "title": "融资亿元，一群深圳90后做AI助手，1.2万人下单 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkZzRpNlNzWldEU3hhWUt4WEpXMTV0VVVVWnFtVGkzZGlBTFE2cVJoTkM1dWE1M3MxamJVY21qT0o0REM2cXF4WU5zYWt2QQ?oc=5",
+      "id": "rss-qbitai-vbrmib",
+      "type": "news",
+      "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+      "url": "https://www.qbitai.com/2026/09/485431.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-07T09:04:06.000Z",
+      "summaryHint": "OpenAI研究院人均带3个AI实习生",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-fzlk35",
+      "type": "news",
+      "title": "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布",
+      "url": "https://www.qbitai.com/2026/09/485154.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-07T08:51:30.000Z",
+      "summaryHint": "10 月 16–17 日，面向全球开发者的开源技术大会 GOSIM 将首次来到深圳，举办 GOSIM Shenzhen 2026。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-ggafne",
+      "type": "news",
+      "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+      "url": "https://www.qbitai.com/2026/09/485108.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-07T08:36:30.000Z",
+      "summaryHint": "“在两个模型之间找到数学上的共同基础其实非常困难”",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-u4tqxb",
+      "type": "news",
+      "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
+      "url": "https://www.qbitai.com/2026/09/485064.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-07T06:53:26.000Z",
+      "summaryHint": "9月7日，国内首份《中国办公Agent用户行为不完全报告》在京发布。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-dvxtu6",
+      "type": "news",
+      "title": "飞书钉钉危了？\"未央管理\"：40秒生成流程，年费只要1800 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DbWEtYk9ubFlCWjQyMG5sVllQTTJJc0V3bGJwYjlPaHNjckZvOHVGVTJiRTRNRHFGNW9zSHZ6MHVEVGROdlpjdWVqbm85aWVC?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-08-31T10:15:00.000Z",
-      "summaryHint": "融资亿元，一群深圳90后做AI助手，1.2万人下单 &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-09-07T06:11:59.000Z",
+      "summaryHint": "飞书钉钉危了？\"未央管理\"：40秒生成流程，年费只要1800 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "1.2万"
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-qbitai-r5z9m6",
+      "type": "news",
+      "title": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
+      "url": "https://www.qbitai.com/2026/09/485056.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-07T06:03:34.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-chkze5",
+      "type": "news",
+      "title": "业内首个！“千问办公”推出“多人工作台”",
+      "url": "https://www.qbitai.com/2026/09/485046.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-07T05:04:44.000Z",
+      "summaryHint": "近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-8bufp4",
+      "type": "news",
+      "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
+      "url": "https://www.qbitai.com/2026/09/484897.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-06T11:44:21.000Z",
+      "summaryHint": "让机器人学会利用更长的多模态Context",
+      "tags": [
+        "china",
+        "funding"
+      ]
     },
     {
       "id": "rss-qbitai-bn5sgh",
@@ -199,123 +312,6 @@
       "url": "https://www.qbitai.com/2026/09/484890.html",
       "source": "qbitai",
       "publishedAt": "2026-09-06T04:40:15.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-1oxl8j",
-      "type": "news",
-      "title": "GPT-6带火循环Transformer，阿里早已布局",
-      "url": "https://www.qbitai.com/2026/09/484726.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-05T15:07:08.000Z",
-      "summaryHint": "手握两篇顶会论文",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-bik3n7",
-      "type": "news",
-      "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
-      "url": "https://www.qbitai.com/2026/09/484683.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-05T14:46:15.000Z",
-      "summaryHint": "当AI开始“预演”一场暴雨",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-3n8jsz",
-      "type": "news",
-      "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
-      "url": "https://www.qbitai.com/2026/09/484649.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-05T04:24:25.000Z",
-      "summaryHint": "AI直接吐出正确答案，但最关键的可能不是答案",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-qusryg",
-      "type": "news",
-      "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
-      "url": "https://www.qbitai.com/2026/09/484611.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-05T04:18:54.000Z",
-      "summaryHint": "如此“反骨”的方法，具体又是怎么实现的？",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-eacm6r",
-      "type": "news",
-      "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
-      "url": "https://www.qbitai.com/2026/09/484551.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-05T01:17:56.000Z",
-      "summaryHint": "最后靠Harness救回来",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-q4h61m",
-      "type": "news",
-      "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
-      "url": "https://www.qbitai.com/2026/09/484547.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-04T09:23:24.000Z",
-      "summaryHint": "国产卡跑出高品质 AI Token 生产级性能",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-1em4na",
-      "type": "news",
-      "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
-      "url": "https://www.qbitai.com/2026/09/484437.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-04T09:19:29.000Z",
-      "summaryHint": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-txkeaa",
-      "type": "news",
-      "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
-      "url": "https://www.qbitai.com/2026/09/484293.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-04T08:57:14.000Z",
-      "summaryHint": "不训练模型、不调参数",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-v4w3qv",
-      "type": "news",
-      "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
-      "url": "https://www.qbitai.com/2026/09/484203.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-04T07:09:43.000Z",
-      "summaryHint": "5000支队伍同台做题，写尽行业四年变化",
       "tags": [
         "china",
         "funding"
@@ -336,99 +332,97 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-afnyl0",
-      "type": "news",
-      "title": "英伟达是AI供应链的中央银行——黄仁勋构建的护城河究竟有多深 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wR2FYdHhLX1JCU01qWlZIbnV5QmgyTVN5TFVEZW9adEZNSFAwVE1wUUUyWDNiWmZxcTNVYnV3LUdkUTRSdUpDQ3hmVm1mQQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-01T17:01:00.000Z",
-      "summaryHint": "英伟达是AI供应链的中央银行——黄仁勋构建的护城河究竟有多深 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "reddit-rss-4z7upw",
+      "id": "reddit-rss-racxhf",
       "type": "social_en",
-      "title": "I couldn't resist speedtesting my LEGO + UE5 Drum Machine",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1w8s72t/i_couldnt_resist_speedtesting_my_lego_ue5_drum/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-09-06T10:08:42.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/zomb23 [link] &#32; [comments]",
+      "title": "Me trying to keep up with all the new AI models being released",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9of3u/me_trying_to_keep_up_with_all_the_new_ai_models/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-09-07T10:26:51.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/Nunki08 [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-b0wfvv",
+      "id": "reddit-rss-9yy52t",
       "type": "social_en",
-      "title": "3D archive of Nepali heritage monuments with 3D Gaussian Splatting",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w8ljhc/3d_archive_of_nepali_heritage_monuments_with_3d/",
+      "title": "Is this ok ?",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1w9mjnb/is_this_ok/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-09-07T08:39:29.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/Appropriate_Ninja286 [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-2v7io2",
+      "type": "social_en",
+      "title": "WHY DOES THE INTEL IRIS EXIST",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1w9ijtr/why_does_the_intel_iris_exist/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-09-07T04:59:19.000Z",
+      "summaryHint": "THERE IS ABSOLUTELY NO DIGITAL GAME THAT CAN RUN ON THIS ENGINE EXCEPT (TO MY KNOWLEDGE) RDR2???!!!! AND EVEN SO, I&#39;VE ONLY BEEN ABLE TO PLAY THE GAME ONCE (TO COMPLETION) BEFORE IT BECAME IMPOSSIBLE FOR ME TO PLAY THE GAME AGAIN!!!! I ",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-1joide",
+      "type": "social_en",
+      "title": "New Benchmark: The Struggle Bench",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9dlf1/new_benchmark_the_struggle_bench/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-09-07T00:55:28.000Z",
+      "summaryHint": "How it works. The model being tested is given a server capable of running it&#39;s weights and full context. That server is placed in a median priced apartment. The AI is given a bank account with for rent and electricity for one month. Fin",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-w9ajho",
+      "type": "social_en",
+      "title": "two balls",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1w9ah75/two_balls/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-09-06T22:36:38.000Z",
+      "summaryHint": "i wrote a program to study raytracing. up to this moment i can only do some basic stuff. i created a world in which there&#39;re two balls. each of them doesn&#39;t have any color, only reflects or refracts light. background is an infinitel",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-5uuskc",
+      "type": "social_en",
+      "title": "Any good Free local gaussian splatting that is for Android?",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w92xc9/any_good_free_local_gaussian_splatting_that_is/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-06T03:59:23.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/donttmesswithme [link] &#32; [comments]",
+      "publishedAt": "2026-09-06T17:48:15.000Z",
+      "summaryHint": "Is there any app that is not always just for iphone and apple? Something that is for Android and it runs on mobile GPU? Thanks for answers &#32; submitted by &#32; /u/Matejsteinhauser14 [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-1z3eqd",
+      "id": "reddit-rss-tsmfp7",
       "type": "social_en",
-      "title": "Gaussian Splatting training falling apart on a semi-transparent Gameboy Color shell",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w8gjog/gaussian_splatting_training_falling_apart_on_a/",
+      "title": "Noob has 1 chance to record a building before it's demolished in a couple of days, looking for advice",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w919j6/noob_has_1_chance_to_record_a_building_before_its/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-05T23:57:11.000Z",
-      "summaryHint": "Hello 👋 I&#39;m trying to scan a Game Boy Color with a semi-transparent purple shell, feeding a bunch of photo into RealityScan and then PostShot. The sparse point cloud reconstructs the PCB pretty well(solder points, chips, opaque plastic",
+      "publishedAt": "2026-09-06T16:47:30.000Z",
+      "summaryHint": "So my old school is getting knocked down in a few days. I loved this school and was hoping to get access outside it to video it before that happened and was told it should be possible. Came back from holiday 2 days ago and the construction ",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-x8g9c1",
+      "id": "reddit-rss-dyzxd3",
       "type": "social_en",
-      "title": "Visual Verse sneak peek",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1w8gbhe/visual_verse_sneak_peek/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-09-05T23:46:36.000Z",
-      "summaryHint": "As many of you already know, Epic announced that Blueprints will eventually be phased out in favor of Verse in UE6, and they confirmed they have no plans to build a visual scripting tool for it. I got your back. Feels like home: The familia",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-c43ain",
-      "type": "social_en",
-      "title": "[Free] Music pack — 20 different royalty-free tracks, commercial use allowed",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1w8ekn0/free_music_pack_20_different_royaltyfree_tracks/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-09-05T22:29:56.000Z",
-      "summaryHint": "Hi everyone, I compose royalty-free music and I&#39;ve released a free pack — 20 tracks across nine genres: action cinematic, sci-fi, orchestral, hard rock, electronic techno, retro chiptune, casual and acoustic. WAV and OGG, most tracks in",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-2pnxtk",
-      "type": "social_en",
-      "title": "Unreal 5.8 - Materials Masterclass - Chapter 6: Intro to Transparency",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1w84wis/unreal_58_materials_masterclass_chapter_6_intro/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-09-05T16:13:04.000Z",
-      "summaryHint": "The 6th entry in my Materials course is out! Enjoy! :) &#32; submitted by &#32; /u/Special_Progress282 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-a3xxvp",
-      "type": "social_en",
-      "title": "2-year architectural restoration across 16 stages using 3D Gaussian Splatting to create an interactive 3D time-lapse.",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w76q7t/2year_architectural_restoration_across_16_stages/",
+      "title": "Gaussian Splats Can Now Be Converted Into Editable 3D Meshes Locally — No GPU Required",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1w8ta6a/gaussian_splats_can_now_be_converted_into/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-04T14:57:21.000Z",
-      "summaryHint": "Over the last two years, we’ve been documenting the restoration of the historic Veerse Toren and construction of a new hotel. We ended up doing 16 separate 3DGS captures throughout the construction process. Besides that, we also show the fu",
+      "publishedAt": "2026-09-06T11:07:40.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/Certain_Friendship16 [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
