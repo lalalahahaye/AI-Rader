@@ -1,31 +1,46 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T11:26:40.894Z",
+  "updatedAt": "2026-09-10T11:23:09.906Z",
   "items": [
     {
-      "id": "rss-google_news_cn_36kr_deals-w9y9c",
+      "id": "rss-google_news_cn_36kr_deals-x5q22x",
       "type": "funding",
-      "title": "7-8月教育行业融资报告：融资总金额6300万，资本继续押注AI与产业服务 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HQlR6QnBGTkVWZEhrRVpLWGtYMm5oc1c2dUw5NkNXZ2lHano2S1JqalJVcHVVXzFZay1LX0E2VERxYUR4V0V4QWZOMEFnX00?oc=5",
+      "title": "成立不到一年，AI潮玩品牌「IPTAG」完成千万级战略融资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBROElXREVHdE1LRjl5bWpoVEVOeHA4NjBnUWpTVnpjSmItU0paLWxqYllLb3dXVEZ0SkxEczlKb1hpT1Y5bUQ3anJ6X2U3QQ?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-09T10:37:25.000Z",
-      "summaryHint": "7-8月教育行业融资报告：融资总金额6300万，资本继续押注AI与产业服务 &nbsp;&nbsp; 36kr.com",
+      "publishedAt": "2026-09-09T15:37:00.000Z",
+      "summaryHint": "成立不到一年，AI潮玩品牌「IPTAG」完成千万级战略融资 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-hnp63d",
+      "type": "funding",
+      "title": "星语智能完成千万级天使轮融资，AI 400热线跑出头部玩家 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HNVZIa2QxcW9RZEc0M2tZbi1GRHRiTW9yYkUzU2doUUVzejJrcjZVazhabUhzZFA2WVJzYXlObGtnZXgyQ3huZ2M1ZFZWUQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-09T10:00:00.000Z",
+      "summaryHint": "星语智能完成千万级天使轮融资，AI 400热线跑出头部玩家 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
       ],
-      "amount": "6300万"
+      "round": "天使轮"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-a0flif",
       "type": "funding",
-      "title": "AI编程创企Cognition AI融资20亿美元，估值达480亿美元 - 36kr.com",
+      "title": "AI编程创企Cognition AI融资20亿美元，估值达480亿美元 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YYWRiblNzaWNKaHktZE9VVVZZdjlYemgxSlRiU09MWFEwaHJZRmZkX0k1em5HczlyMFFjZXdxb0duRU1CcTZxSkFWSEJ4RE5YeE9UeEhUX05oSjNaemc?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-09T04:18:27.000Z",
-      "summaryHint": "AI编程创企Cognition AI融资20亿美元，估值达480亿美元 &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "AI编程创企Cognition AI融资20亿美元，估值达480亿美元 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -35,30 +50,28 @@
       "amount": "20亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-cpvq6t",
+      "id": "rss-google_news_cn_36kr_deals-upru9k",
       "type": "funding",
-      "title": "Articuler.ai 完成数千万元种子轮融资：从一场活动开始，构建全球 18 亿白领的 AI 社交网络 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJNlBRdXNPNlpCbUVhak0xbFItTEFPeVJMYUFuVG9iQmkzVURFTkxmeWZ2VXBRakdCNjJyYVJ4eW93cU9kVk5BYmh2Tk5Uekph?oc=5",
+      "title": "半年融资三轮，这家公司以AI和数据切入儿童成长交互赛道丨36氪首发 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOUGxOMG9VcE5XeTZiYXR1WU1NcGJ4cnNXRUlhZW91aXdDVzBxMks0cUdfQnliWVVPNTZBZ1RjSzQ5X2x1TWlGYjhoR05TOTg?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-09T03:00:15.000Z",
-      "summaryHint": "Articuler.ai 完成数千万元种子轮融资：从一场活动开始，构建全球 18 亿白领的 AI 社交网络 &nbsp;&nbsp; 36kr.com",
+      "publishedAt": "2026-09-09T02:26:21.000Z",
+      "summaryHint": "半年融资三轮，这家公司以AI和数据切入儿童成长交互赛道丨36氪首发 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
-      ],
-      "round": "种子轮",
-      "amount": "18亿"
+      ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-uos3as",
       "type": "funding",
-      "title": "微纳核芯完成 10 亿元 C1 轮融资，加速突破 AI 大模型推理“芯”瓶颈 - 36kr.com",
+      "title": "微纳核芯完成 10 亿元 C1 轮融资，加速突破 AI 大模型推理“芯”瓶颈 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91Tld2N1MzVXNGWEtIQlJLN3d2SktJX2hQNWp2QTktd25QTWt3ZnYxTUNIN0NjQ2tyZkhVbUxSdWZ2R052UjJYdjRWYXJvYXZ1?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-09T01:03:39.000Z",
-      "summaryHint": "微纳核芯完成 10 亿元 C1 轮融资，加速突破 AI 大模型推理“芯”瓶颈 &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "微纳核芯完成 10 亿元 C1 轮融资，加速突破 AI 大模型推理“芯”瓶颈 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -68,13 +81,13 @@
       "amount": "10亿元"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-e3p7jn",
+      "id": "rss-google_news_cn_36kr_deals-w0f8z4",
       "type": "funding",
-      "title": "36氪首发丨镭萌科技获千万融资，AI陪伴或许还有另一种可能？ - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qdjB2REVPZU5OSXRxWmlZSUpqeEVrck90UnZBYnFZNERCV2dDbnEzUjZBV0tnd2VyX0NydGJxUF8wdUFmaUFkU3c2dnNYdw?oc=5",
+      "title": "奉劝各位AI视频玩家，要融资要上市赶紧的 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1EclZKd3cwS3ZucVE3RHNyUjhDUGRQdHhZZW5CSFNfbWUxOGR1SC16OGhqb3lCVndsMEplOW1yV3pFa05DNDFjakIzcV93UQ?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-08T15:30:00.000Z",
-      "summaryHint": "36氪首发丨镭萌科技获千万融资，AI陪伴或许还有另一种可能？ &nbsp;&nbsp; 36kr.com",
+      "publishedAt": "2026-09-08T21:20:00.000Z",
+      "summaryHint": "奉劝各位AI视频玩家，要融资要上市赶紧的 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -83,13 +96,60 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-tyin0i",
+      "id": "rss-google_news_cn_36kr_deals-uq78c",
       "type": "funding",
-      "title": "超3000亿！中国AI创企半年吸金超猛 77笔上亿融资流向全解析 - eu.36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnSHlWdTh4R19aQnhyUkRETzFIN19qZGVNcVQ4SndGQktrM3dFVWpnbTE2Ny15V0ZfaFcwTkk3REF2UTBGVi1vUXMxakhBLTFwZ2sw?oc=5",
+      "title": "AI让物理新发现“工业化”，比尔·盖茨创立的基金领投PSI种子轮融资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aU0R6di1OZ25GQjR4XzR1eGtEZldYRzFHYzVHTTBVVjVIU3cxRWw0RC1wbjFHSERQSEJlZmJNYTRRRFZUai0tME14YkJKdw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-08T21:00:00.000Z",
+      "summaryHint": "AI让物理新发现“工业化”，比尔·盖茨创立的基金领投PSI种子轮融资 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "种子轮"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-o90wko",
+      "type": "funding",
+      "title": "7-8月教育行业融资报告：融资总金额6300万，资本继续押注AI与产业服务 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ud3RTN0ZOUDB3S1lSRU5OYlFwYnMxa3drcGZtbGdNMUs2Y0ExcHNOdGxHU200cUZCbkRCZG1TWEdaZG9TbVkycHZ2dlF0QQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-08T19:34:00.000Z",
+      "summaryHint": "7-8月教育行业融资报告：融资总金额6300万，资本继续押注AI与产业服务 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "6300万"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-e3p7jn",
+      "type": "funding",
+      "title": "36氪首发丨镭萌科技获千万融资，AI陪伴或许还有另一种可能？ - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qdjB2REVPZU5OSXRxWmlZSUpqeEVrck90UnZBYnFZNERCV2dDbnEzUjZBV0tnd2VyX0NydGJxUF8wdUFmaUFkU3c2dnNYdw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-08T15:30:00.000Z",
+      "summaryHint": "36氪首发丨镭萌科技获千万融资，AI陪伴或许还有另一种可能？ &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-9qwr9r",
+      "type": "funding",
+      "title": "超3000亿，中国AI创企半年猛吸金，77笔上亿融资流向谁？ - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0N2NPNTdCY0xBZEZLY0g3MTNmSTZiOGU3Y1pySFdGS3laRjZzS2hlOEdrVFRuOUlkQjBPMVI4ZjBSQ1JtcUZqQ1VzeVdxX1c2?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-08T11:56:00.000Z",
-      "summaryHint": "超3000亿！中国AI创企半年吸金超猛 77笔上亿融资流向全解析 &nbsp;&nbsp; eu.36kr.com",
+      "summaryHint": "超3000亿，中国AI创企半年猛吸金，77笔上亿融资流向谁？ &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -101,11 +161,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-kk1v1j",
       "type": "funding",
-      "title": "欧洲版OpenAI，融资235亿：1年估值涨80% - 36kr.com",
+      "title": "欧洲版OpenAI，融资235亿：1年估值涨80% - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlcUVkbTd3WndyUjZSTlZuRzJST1NOVEx1T2VmNzZVVHVNWkFNLTdGTV9FQ3Q4QjZvM2J3RDJEYlJVMFpzVXRzRU1qdHdxUQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-08T11:56:00.000Z",
-      "summaryHint": "欧洲版OpenAI，融资235亿：1年估值涨80% &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "欧洲版OpenAI，融资235亿：1年估值涨80% &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -115,56 +175,13 @@
       "amount": "235亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-d65pix",
-      "type": "funding",
-      "title": "半年融资三轮，这家公司以AI和数据切入儿童成长交互赛道丨36氪首发 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oZFFjTVF0aVFMOGRBNVFlR1lTMFh2Umg4Z29hbUp0bnJJaG9xTGdtRXFUVVZUWXNSQVBnclZVcHo4eVE5aUxtRzZkbUNfQQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-08T11:21:00.000Z",
-      "summaryHint": "半年融资三轮，这家公司以AI和数据切入儿童成长交互赛道丨36氪首发 &nbsp;&nbsp; 36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-qbitai-2ke98t",
-      "type": "funding",
-      "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
-      "url": "https://www.qbitai.com/2026/09/485794.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-08T05:05:03.000Z",
-      "summaryHint": "百万奖金、大厂直通、VC跟投",
-      "tags": [
-        "china",
-        "funding",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-qbitai-c400z8",
-      "type": "funding",
-      "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
-      "url": "https://www.qbitai.com/2026/09/485784.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-08T03:22:17.000Z",
-      "summaryHint": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。",
-      "tags": [
-        "china",
-        "funding",
-        "deal_signal"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-4f1z2u",
       "type": "funding",
-      "title": "234亿，“欧洲版OpenAI”融资了 - 36kr.com",
+      "title": "234亿，“欧洲版OpenAI”融资了 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kSDBfQ0wyN0NUMnF2RDVoSXBVYmRfRENOUldhQW5hLW9XdGdzQ2RIU05MMEFwZXRjUFA5NlY1ai1LV1V0Zmt6c19oY181Zw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-07T20:58:00.000Z",
-      "summaryHint": "234亿，“欧洲版OpenAI”融资了 &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "234亿，“欧洲版OpenAI”融资了 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -176,11 +193,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-lj4jxd",
       "type": "funding",
-      "title": "3D存算一体芯片企业谦合益邦完成超20亿元B轮融资 - eu.36kr.com",
+      "title": "3D存算一体芯片企业谦合益邦完成超20亿元B轮融资 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WUjN4ZkVjNlB0NkFPRWwxS0kxTkxaR3pXTjZfQ0c2TmpKa0wtaWJGVUZ4bThMZ0RPb21ZX3FzTi1WMG5DNGJVdEdfWElXeWF6cm5v?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-07T12:54:00.000Z",
-      "summaryHint": "3D存算一体芯片企业谦合益邦完成超20亿元B轮融资 &nbsp;&nbsp; eu.36kr.com",
+      "summaryHint": "3D存算一体芯片企业谦合益邦完成超20亿元B轮融资 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -193,11 +210,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-wqglnv",
       "type": "funding",
-      "title": "把现实世界“搬进”3D，这家公司融资数亿元｜36氪首发 - 36kr.com",
+      "title": "把现实世界“搬进”3D，这家公司融资数亿元｜36氪首发 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwVXZocDg3aGZvUi11RkV2cDVraGxmb1NJSGR1YTFFX3NZT2hNWEhTWXhaVW9jQzgwU0ZVZEtGc2hTdHppTW5qOE1ZRnNtdw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-07T11:49:00.000Z",
-      "summaryHint": "把现实世界“搬进”3D，这家公司融资数亿元｜36氪首发 &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "把现实世界“搬进”3D，这家公司融资数亿元｜36氪首发 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -206,148 +223,130 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-bqnwk8",
-      "type": "funding",
-      "title": "4个月连获两轮融资 张伟杰打造空天算力新生态 让算力突破边界“上天” - eu.36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3OTNDVHF6RGMzNDdURVh1UWtMeDBaNjI5dUhFZDJlNWhLWnBLTjJqMk1XUVE3NDJkYi01VUNwT2NVbkJtTUJvQ1Q5VXRuQklMTFpJ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-07T11:39:00.000Z",
-      "summaryHint": "4个月连获两轮融资 张伟杰打造空天算力新生态 让算力突破边界“上天” &nbsp;&nbsp; eu.36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-1ty8b8",
-      "type": "funding",
-      "title": "成立1个月融资过亿，清华博士高博文进军AI制药｜星连被投动态 - eu.36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96VDB6V0JnOW5Fekh3ekUwMWJDZnozWnZqNW9IWTJZTEFCbnhQYTVzaDRZRGtCU0NYR0VpeDdCMVYzU1ZJWU1ORENET0xIXzZycDN3?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-06T11:26:00.000Z",
-      "summaryHint": "成立1个月融资过亿，清华博士高博文进军AI制药｜星连被投动态 &nbsp;&nbsp; eu.36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-cp1j8o",
-      "type": "funding",
-      "title": "中国公司全球化周报｜VAST累计融资约50亿元 / 天工机器人完成数亿元融资 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ESDhjSW1LT3h4Y1B1NWZKMDRsUjlkWC0taXBWcjJBdk8za1NRSnNFTkNhYmI5ZWsyRmdMdjJKWXAxcHVyem1sMWJUYnpwUQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-05T11:15:00.000Z",
-      "summaryHint": "中国公司全球化周报｜VAST累计融资约50亿元 / 天工机器人完成数亿元融资 &nbsp;&nbsp; 36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "50亿元"
-    },
-    {
-      "id": "rss-qbitai-tws4a8",
+      "id": "rss-qbitai-da9j7q",
       "type": "news",
-      "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还揪出了我的Bug",
-      "url": "https://www.qbitai.com/2026/09/486374.html",
+      "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
+      "url": "https://www.qbitai.com/2026/09/486934.html",
       "source": "qbitai",
-      "publishedAt": "2026-09-09T10:02:54.000Z",
+      "publishedAt": "2026-09-10T10:17:46.000Z",
+      "summaryHint": "多模态AI大牛轮番登台，全球64支团队组团解题",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-vsylv0",
+      "id": "rss-qbitai-wn3t15",
       "type": "news",
-      "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
-      "url": "https://www.qbitai.com/2026/09/486370.html",
+      "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
+      "url": "https://www.qbitai.com/2026/09/486900.html",
       "source": "qbitai",
-      "publishedAt": "2026-09-09T09:57:54.000Z",
+      "publishedAt": "2026-09-10T08:17:05.000Z",
+      "summaryHint": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-sva8fi",
+      "id": "rss-qbitai-s9g9i2",
       "type": "news",
-      "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
-      "url": "https://www.qbitai.com/2026/09/486288.html",
+      "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
+      "url": "https://www.qbitai.com/2026/09/486747.html",
       "source": "qbitai",
-      "publishedAt": "2026-09-09T05:02:30.000Z",
-      "summaryHint": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
+      "publishedAt": "2026-09-10T07:57:55.000Z",
+      "summaryHint": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-p2x99y",
+      "id": "rss-qbitai-1qkol8",
       "type": "news",
-      "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
-      "url": "https://www.qbitai.com/2026/09/486280.html",
+      "title": "这个新开源的世界模型只有1.3B，单卡就能实时跑！",
+      "url": "https://www.qbitai.com/2026/09/486716.html",
       "source": "qbitai",
-      "publishedAt": "2026-09-09T04:52:12.000Z",
-      "summaryHint": "从Demo到货架，这两家公司要让具身智能算得过账",
+      "publishedAt": "2026-09-10T07:44:00.000Z",
+      "summaryHint": "轻量版LingBot-World 2.0",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-4mb8r1",
+      "id": "rss-qbitai-7dj5a",
       "type": "news",
-      "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
-      "url": "https://www.qbitai.com/2026/09/486052.html",
+      "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+      "url": "https://www.qbitai.com/2026/09/486684.html",
       "source": "qbitai",
-      "publishedAt": "2026-09-09T03:39:58.000Z",
-      "summaryHint": "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动",
+      "publishedAt": "2026-09-10T07:25:39.000Z",
+      "summaryHint": "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-v4u2tx",
+      "id": "rss-qbitai-ps5v9q",
       "type": "news",
-      "title": "宜宾，一场机器人“招聘会”的产业雄心",
-      "url": "https://www.qbitai.com/2026/09/486038.html",
+      "title": "营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者",
+      "url": "https://www.qbitai.com/2026/09/486651.html",
       "source": "qbitai",
-      "publishedAt": "2026-09-09T02:15:54.000Z",
-      "summaryHint": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。",
+      "publishedAt": "2026-09-10T06:25:22.000Z",
+      "summaryHint": "从一次投放到一套增长系统，AI 让海外达人营销可规模化复制",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-rbkel4",
+      "id": "rss-qbitai-gcuhtl",
       "type": "news",
-      "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
-      "url": "https://www.qbitai.com/2026/09/485854.html",
+      "title": "一周连发6个模型！这家公司把具身智能的闭环跑通了",
+      "url": "https://www.qbitai.com/2026/09/486625.html",
       "source": "qbitai",
-      "publishedAt": "2026-09-08T06:05:30.000Z",
-      "summaryHint": "Blender也不用学了",
+      "publishedAt": "2026-09-10T04:55:38.000Z",
+      "summaryHint": "模型可以开源，部署经验不能",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-pufp7w",
+      "id": "rss-qbitai-c6gind",
       "type": "news",
-      "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
-      "url": "https://www.qbitai.com/2026/09/485630.html",
+      "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+      "url": "https://www.qbitai.com/2026/09/486436.html",
       "source": "qbitai",
-      "publishedAt": "2026-09-08T02:42:24.000Z",
-      "summaryHint": "从看市场，到见场景；从认识伙伴，到寻找合作。",
+      "publishedAt": "2026-09-10T01:39:13.000Z",
+      "summaryHint": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-9vcvo2",
+      "type": "news",
+      "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
+      "url": "https://www.qbitai.com/2026/09/486350.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-10T00:42:06.000Z",
+      "summaryHint": "赶上了API限时五折",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-wc4p8v",
+      "type": "news",
+      "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+      "url": "https://www.qbitai.com/2026/09/486450.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-09T19:24:22.000Z",
+      "summaryHint": "一比根号二的小胖折叠",
       "tags": [
         "china",
         "funding"
@@ -368,49 +367,97 @@
       ]
     },
     {
-      "id": "reddit-rss-drzf8a",
+      "id": "reddit-rss-y10k2r",
       "type": "social_en",
-      "title": "We’re developing a detective adventure game together with the writer of Altered Carbon",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1wb9mzc/were_developing_a_detective_adventure_game/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-09-09T03:02:50.000Z",
-      "summaryHint": ".curator is a narrative adventure built in Unreal Engine around a reactive world, where story, investigation and player decisions are treated as interconnected systems rather than separate layers. Its post-Victorian alternate Earth combines",
+      "title": "DeepSeek V4-1 Flash is out",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcbid7/deepseek_v41_flash_is_out/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-09-10T06:54:19.000Z",
+      "summaryHint": "Here we go again, DeepSeek is back again with a new model V4-1 Flash A multimodal Mixture-of-Experts (MoE) model with 552B backbone parameters and support for contexts of up to one million tokens Market crash as a service &#32; submitted by",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-ww7btj",
+      "id": "reddit-rss-yls96i",
       "type": "social_en",
-      "title": "Reading textures and render targets is now super cheap using my custom HLSL powered plugin",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1wb3uua/reading_textures_and_render_targets_is_now_super/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-09-08T22:49:44.000Z",
-      "summaryHint": "This is a quick devlog of the latest update I submitted for my Pixel Era plugin which enables super efficient texture / render target reading, allowing mini-maps and heat maps to be used as gameplay triggers on a massive scale with a very s",
+      "title": "Gaussian Splat Flight 7598 Crash Reconstruction",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wcbb6y/gaussian_splat_flight_7598_crash_reconstruction/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-09-10T06:43:16.000Z",
+      "summaryHint": "https://flight-7598-crash.bilawalsidhu.chatgpt.site/ Made with COLMAP, LichtFeld Studio, GEV and Astra. &#32; submitted by &#32; /u/ad2003 [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-zb8buj",
+      "id": "reddit-rss-7e7jwt",
       "type": "social_en",
-      "title": "Is anybody using Linux here?",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1wazvzz/is_anybody_using_linux_here/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-09-08T20:20:06.000Z",
-      "summaryHint": "Is UE5 good for using in Linux? I mainly use Ubuntu so I don&#39;t know should it work well or not &#32; submitted by &#32; /u/Impossible-North4514 [link] &#32; [comments]",
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcagoi/deepseekaideepseekv41flash_hugging_face/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-09-10T05:57:07.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/t4a8945 [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-yl8jn",
+      "id": "reddit-rss-ru54on",
       "type": "social_en",
-      "title": "A psychological horror set in the Appalachian Mountains that me and my team has been working on for a while now!",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1wathj2/a_psychological_horror_set_in_the_appalachian/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-09-08T16:36:35.000Z",
-      "summaryHint": "Hii! So, me and my small indie team has been working on this psychological horror set in the appalachian mountains. We have our own custom visual system plugin to drive our visuals whilst maintaining performance! Here is the teaser of the g",
+      "title": "Annotating streetlights and road signs in a 3DGS scene",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wca1pv/annotating_streetlights_and_road_signs_in_a_3dgs/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-09-10T05:34:40.000Z",
+      "summaryHint": "We’ve been working on annotating individual road assets in 3DGS scenes, including streetlights and road signs. In this example, each asset is labeled separately and linked to its own location and attributes, rather than being treated as par",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-vipzbh",
+      "type": "social_en",
+      "title": "SpatialGlass brings glasses-free 3D gaussian splat viewing to iPhones",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wbp8ho/spatialglass_brings_glassesfree_3d_gaussian_splat/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-09-09T15:44:56.000Z",
+      "summaryHint": "I’m Josh, founder of Madow (SpatialGlass). I wanted to share something exciting we will be bringing through Kickstarter to SpatialGlass, a screen protector that gives you glasses-free 3D on your phone while keeping normal 2D crystal clear. ",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-fabz76",
+      "type": "social_en",
+      "title": "I just updated my laser beam asset pack! I call this the antimatter beam",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1wauuwr/i_just_updated_my_laser_beam_asset_pack_i_call/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-09-08T17:24:53.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/Whole_Potential_9594 [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-1zlf6k",
+      "type": "social_en",
+      "title": "What in The Graphics is Volumetric Rendering?! - Blog post",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1wal0dz/what_in_the_graphics_is_volumetric_rendering_blog/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-09-08T10:50:51.000Z",
+      "summaryHint": "We published a blog post on an intro to Volumetric Rendering as part of our series to discuss and break down our own WIP Volumetric Renderer. In this particular post we talk about - 🔹 The basics of what rendering actually is 🔹 What “Volum",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-jz8g6t",
+      "type": "social_en",
+      "title": "Lorenz attractor",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1w9uz23/lorenz_attractor/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-09-07T15:17:20.000Z",
+      "summaryHint": "I always wanted a wire sculpture of this—now I have one. &#32; submitted by &#32; /u/BashOfBash [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
