@@ -1,7 +1,54 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T11:23:09.906Z",
+  "updatedAt": "2026-09-11T11:24:56.108Z",
   "items": [
+    {
+      "id": "rss-google_news_cn_36kr_deals-287iuc",
+      "type": "funding",
+      "title": "万泽时代启动A1轮融资 正式布局AI工业碳管理赛道 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2Njlyak9qNGhpcWVKVHdTNkk3M0ZveUk1RkM5a1ZwbkVnSEZyVkxKZGk1MTh4UHZSSFl1eGpWdlN1elE2NWFiUlU0cnVQVWZkbTdJ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-10T18:49:00.000Z",
+      "summaryHint": "万泽时代启动A1轮融资 正式布局AI工业碳管理赛道 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-fzk1be",
+      "type": "funding",
+      "title": "313起融资，小鹏机器人、帕西尼领跑，算力脑机企业接续发力，351.59亿同比翻四倍：2026年8月人工智能领域投融资分析 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YT3JITzB6OVEyYkg3MmxFdWpBbjM2cjBjT2M0MXBybjJGd3plUFUwYzNlY3c3cFFPdldDZDZ4Z3pGT01BMHd3dnJkUC12SUE?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-10T11:32:07.000Z",
+      "summaryHint": "313起融资，小鹏机器人、帕西尼领跑，算力脑机企业接续发力，351.59亿同比翻四倍：2026年8月人工智能领域投融资分析 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "351.59亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-6hg9o2",
+      "type": "funding",
+      "title": "AI编程混战：Devin融资480亿、Cursor被SpaceX收购、Copilot被Claude Code反超 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1INDc3N2VNdC1aMndSbU91dUhhZENDbXBRMDBUTTZ3M3dHVHRnS0RleXI1SWRnb1oxLU9teDlMUmRkV2wwNXVFNEQ3UG0zQQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-09T21:47:00.000Z",
+      "summaryHint": "AI编程混战：Devin融资480亿、Cursor被SpaceX收购、Copilot被Claude Code反超 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "480亿"
+    },
     {
       "id": "rss-google_news_cn_36kr_deals-x5q22x",
       "type": "funding",
@@ -96,22 +143,6 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-uq78c",
-      "type": "funding",
-      "title": "AI让物理新发现“工业化”，比尔·盖茨创立的基金领投PSI种子轮融资 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aU0R6di1OZ25GQjR4XzR1eGtEZldYRzFHYzVHTTBVVjVIU3cxRWw0RC1wbjFHSERQSEJlZmJNYTRRRFZUai0tME14YkJKdw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-08T21:00:00.000Z",
-      "summaryHint": "AI让物理新发现“工业化”，比尔·盖茨创立的基金领投PSI种子轮融资 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "种子轮"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-o90wko",
       "type": "funding",
       "title": "7-8月教育行业融资报告：融资总金额6300万，资本继续押注AI与产业服务 - 36 Kr",
@@ -191,35 +222,79 @@
       "amount": "234亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-lj4jxd",
-      "type": "funding",
-      "title": "3D存算一体芯片企业谦合益邦完成超20亿元B轮融资 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WUjN4ZkVjNlB0NkFPRWwxS0kxTkxaR3pXTjZfQ0c2TmpKa0wtaWJGVUZ4bThMZ0RPb21ZX3FzTi1WMG5DNGJVdEdfWElXeWF6cm5v?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-07T12:54:00.000Z",
-      "summaryHint": "3D存算一体芯片企业谦合益邦完成超20亿元B轮融资 &nbsp;&nbsp; 36 Kr",
+      "id": "rss-qbitai-3v3iq3",
+      "type": "news",
+      "title": "不简单，“吃货快乐榜”也全面AI化了",
+      "url": "https://www.qbitai.com/2026/09/487282.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-11T08:59:28.000Z",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "B轮融资",
-      "amount": "20亿元"
+        "funding"
+      ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-wqglnv",
-      "type": "funding",
-      "title": "把现实世界“搬进”3D，这家公司融资数亿元｜36氪首发 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwVXZocDg3aGZvUi11RkV2cDVraGxmb1NJSGR1YTFFX3NZT2hNWEhTWXhaVW9jQzgwU0ZVZEtGc2hTdHppTW5qOE1ZRnNtdw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-07T11:49:00.000Z",
-      "summaryHint": "把现实世界“搬进”3D，这家公司融资数亿元｜36氪首发 &nbsp;&nbsp; 36 Kr",
+      "id": "rss-qbitai-i2g6jx",
+      "type": "news",
+      "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
+      "url": "https://www.qbitai.com/2026/09/487273.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-11T06:19:03.000Z",
+      "summaryHint": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-pk69jl",
+      "type": "news",
+      "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
+      "url": "https://www.qbitai.com/2026/09/487176.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-11T03:57:32.000Z",
+      "summaryHint": "今年12月，北京，MEET2027智能未来大会！",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-9gn44z",
+      "type": "news",
+      "title": "3万台无人车之后，这家公司盯上了城市级物理AI",
+      "url": "https://www.qbitai.com/2026/09/487163.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-11T02:50:47.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-o75vco",
+      "type": "news",
+      "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
+      "url": "https://www.qbitai.com/2026/09/487092.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-11T01:46:55.000Z",
+      "summaryHint": "爆料直指霍奇猜想",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-x3aecv",
+      "type": "news",
+      "title": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
+      "url": "https://www.qbitai.com/2026/09/487055.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-11T00:55:01.000Z",
+      "summaryHint": "15秒视频，50秒出片",
+      "tags": [
+        "china",
+        "funding"
       ]
     },
     {
@@ -275,189 +350,61 @@
       ]
     },
     {
-      "id": "rss-qbitai-7dj5a",
-      "type": "news",
-      "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
-      "url": "https://www.qbitai.com/2026/09/486684.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-10T07:25:39.000Z",
-      "summaryHint": "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-ps5v9q",
-      "type": "news",
-      "title": "营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者",
-      "url": "https://www.qbitai.com/2026/09/486651.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-10T06:25:22.000Z",
-      "summaryHint": "从一次投放到一套增长系统，AI 让海外达人营销可规模化复制",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-gcuhtl",
-      "type": "news",
-      "title": "一周连发6个模型！这家公司把具身智能的闭环跑通了",
-      "url": "https://www.qbitai.com/2026/09/486625.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-10T04:55:38.000Z",
-      "summaryHint": "模型可以开源，部署经验不能",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-c6gind",
-      "type": "news",
-      "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
-      "url": "https://www.qbitai.com/2026/09/486436.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-10T01:39:13.000Z",
-      "summaryHint": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-9vcvo2",
-      "type": "news",
-      "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
-      "url": "https://www.qbitai.com/2026/09/486350.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-10T00:42:06.000Z",
-      "summaryHint": "赶上了API限时五折",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-wc4p8v",
-      "type": "news",
-      "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
-      "url": "https://www.qbitai.com/2026/09/486450.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-09T19:24:22.000Z",
-      "summaryHint": "一比根号二的小胖折叠",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_deals-ityr9g",
-      "type": "news",
-      "title": "李飞飞新访谈：LLM预测Token，世界模型预测「新视角」 - 投资界",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vcmVIdklVMW5QcHlBME44Rk1DaUtCZUhzWUcwTWhldVU4aHNra2VwajFlSDk0bFhwenpRQm9uRWpvVWR2ZnNtRC1WQ3prVUtsWERBdjFR?oc=5",
-      "source": "google_news_cn_deals",
-      "publishedAt": "2026-09-06T09:04:00.000Z",
-      "summaryHint": "李飞飞新访谈：LLM预测Token，世界模型预测「新视角」 &nbsp;&nbsp; 投资界",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "reddit-rss-y10k2r",
+      "id": "reddit-rss-1iirie",
       "type": "social_en",
-      "title": "DeepSeek V4-1 Flash is out",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcbid7/deepseek_v41_flash_is_out/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-09-10T06:54:19.000Z",
-      "summaryHint": "Here we go again, DeepSeek is back again with a new model V4-1 Flash A multimodal Mixture-of-Experts (MoE) model with 552B backbone parameters and support for contexts of up to one million tokens Market crash as a service &#32; submitted by",
+      "title": "Massacre of Unity-chan",
+      "url": "https://www.reddit.com/r/Unity3D/comments/1wd957i/massacre_of_unitychan/",
+      "source": "reddit_r_Unity3D",
+      "publishedAt": "2026-09-11T07:21:07.000Z",
+      "summaryHint": "We wanted to see how our sprite baker handles a model it&#39;s never seen, and Unity-chan volunteered. How the bake works: Pick a rigged 3D model and choose its animations On the timeline you mark where blood and gibs spawn, and pin sounds ",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-yls96i",
+      "id": "reddit-rss-kqu44i",
       "type": "social_en",
-      "title": "Gaussian Splat Flight 7598 Crash Reconstruction",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wcbb6y/gaussian_splat_flight_7598_crash_reconstruction/",
+      "title": "Quake 3 in PlayCanvas with Gaussian Splat rendered map",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wd1yie/quake_3_in_playcanvas_with_gaussian_splat/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-10T06:43:16.000Z",
-      "summaryHint": "https://flight-7598-crash.bilawalsidhu.chatgpt.site/ Made with COLMAP, LichtFeld Studio, GEV and Astra. &#32; submitted by &#32; /u/ad2003 [link] &#32; [comments]",
+      "publishedAt": "2026-09-11T01:19:00.000Z",
+      "summaryHint": "I vibe coded a port of quake 3 movement and weapons into PlayCanvas with a gaussian splat rendered map. Its still a work in progress but I think its pretty damn cool. I grabbed an existing map from: https://superspl.at/ to test with as it w",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-7e7jwt",
+      "id": "reddit-rss-wjc07g",
       "type": "social_en",
-      "title": "deepseek-ai/DeepSeek-V4.1-Flash · Hugging Face",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcagoi/deepseekaideepseekv41flash_hugging_face/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-09-10T05:57:07.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/t4a8945 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-ru54on",
-      "type": "social_en",
-      "title": "Annotating streetlights and road signs in a 3DGS scene",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wca1pv/annotating_streetlights_and_road_signs_in_a_3dgs/",
+      "title": "What is technology better than Guassian Splatting? I feel like nothing can beat it",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wczfha/what_is_technology_better_than_guassian_splatting/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-10T05:34:40.000Z",
-      "summaryHint": "We’ve been working on annotating individual road assets in 3DGS scenes, including streetlights and road signs. In this example, each asset is labeled separately and linked to its own location and attributes, rather than being treated as par",
+      "publishedAt": "2026-09-10T23:29:23.000Z",
+      "summaryHint": "Ive done projects before, Started as 4 llms simulating breaking out of a gamed prison i made where a.i have to make decisions. Went to tech where u draw using ar and projecting ur design to a t shirt. It tracks and changes projection so des",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-vipzbh",
+      "id": "reddit-rss-oqtah9",
       "type": "social_en",
-      "title": "SpatialGlass brings glasses-free 3D gaussian splat viewing to iPhones",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wbp8ho/spatialglass_brings_glassesfree_3d_gaussian_splat/",
+      "title": "WindShire, a cozy game we've been working on about shaping the land and growing your own little world 🌿",
+      "url": "https://www.reddit.com/r/Unity3D/comments/1wcyt6q/windshire_a_cozy_game_weve_been_working_on_about/",
+      "source": "reddit_r_Unity3D",
+      "publishedAt": "2026-09-10T23:03:15.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/XFighterzz [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-880a92",
+      "type": "social_en",
+      "title": "Miniatures Game Built on Guassian Splatting on Kickstarter now!",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wcxnly/miniatures_game_built_on_guassian_splatting_on/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-09T15:44:56.000Z",
-      "summaryHint": "I’m Josh, founder of Madow (SpatialGlass). I wanted to share something exciting we will be bringing through Kickstarter to SpatialGlass, a screen protector that gives you glasses-free 3D on your phone while keeping normal 2D crystal clear. ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-fabz76",
-      "type": "social_en",
-      "title": "I just updated my laser beam asset pack! I call this the antimatter beam",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1wauuwr/i_just_updated_my_laser_beam_asset_pack_i_call/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-09-08T17:24:53.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/Whole_Potential_9594 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-1zlf6k",
-      "type": "social_en",
-      "title": "What in The Graphics is Volumetric Rendering?! - Blog post",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1wal0dz/what_in_the_graphics_is_volumetric_rendering_blog/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-09-08T10:50:51.000Z",
-      "summaryHint": "We published a blog post on an intro to Volumetric Rendering as part of our series to discuss and break down our own WIP Volumetric Renderer. In this particular post we talk about - 🔹 The basics of what rendering actually is 🔹 What “Volum",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-jz8g6t",
-      "type": "social_en",
-      "title": "Lorenz attractor",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1w9uz23/lorenz_attractor/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-09-07T15:17:20.000Z",
-      "summaryHint": "I always wanted a wire sculpture of this—now I have one. &#32; submitted by &#32; /u/BashOfBash [link] &#32; [comments]",
+      "publishedAt": "2026-09-10T22:15:46.000Z",
+      "summaryHint": "We just launched our splats game on Kickstarter! Using splats to get really authentic miniature dioramas. This led us to hand-crafting dioramas in the real world to scan into the game. LMK if you have any questions about the process! Kickst",
       "tags": [
         "ai_social"
       ]
