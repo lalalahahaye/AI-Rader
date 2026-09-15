@@ -1,48 +1,83 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-14T12:51:58.824Z",
+  "updatedAt": "2026-09-15T11:47:17.024Z",
   "items": [
+    {
+      "id": "rss-google_news_cn_36kr_deals-eegev2",
+      "type": "funding",
+      "title": "知名哲学家造AI芯片，融资超15亿，前ASML总裁加盟 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94QlJpNFg2OVd2MkNES3NuQXJIQUF0b1FzcC16NTR5VVJBdlRPRkJpOTBqNmR4YlFTYzdSaFl5cHVYTl9NWjRQTGlLdW5wQQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-14T19:20:00.000Z",
+      "summaryHint": "知名哲学家造AI芯片，融资超15亿，前ASML总裁加盟 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "15亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-92vtg3",
+      "type": "funding",
+      "title": "Demo几天就能做量产却要几年 集贤科技靠卖铲人逻辑完成数千万A轮融资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OQkZVX201T1E0bTNhcUZJa2lzUWM4VkVrUFpjTlZaOWk3dUZfU1ZxWkkzVnVxeUFILWNLNnROZ3ZWOUdJdmNZd0pzX2NJU1lnZ2Vz?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-14T15:20:00.000Z",
+      "summaryHint": "Demo几天就能做量产却要几年 集贤科技靠卖铲人逻辑完成数千万A轮融资 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "A轮融资"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-z3rt9k",
+      "type": "funding",
+      "title": "「深度内核 DeepKernel」完成种子轮融资，L2F 光源创业者基金参与投资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4Tm5PeFR3VHN5TF9WYWtxYTgwTUZYNDVMVktWVV9XWlNTX0FhM0FUNWd6aDA3VGtNZWhLVUtuX0haWDRDYkt6TWJaMkY1ejNRdWww?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-14T15:02:00.000Z",
+      "summaryHint": "「深度内核 DeepKernel」完成种子轮融资，L2F 光源创业者基金参与投资 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "种子轮"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-sg3i5l",
+      "type": "funding",
+      "title": "时隔两月再融50亿美元 智谱AI持续大额募资背后核心原因解析 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LeTF6RVZnY3BtOFhMSzBXYjctZzZFZkd0bE91cjlsR2ltZFFUeXZSbTZoRXQ3OG1zbFJSZDJqNGZxQ3RQckZaa2N5cngySTZ2aUw0?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-14T12:13:00.000Z",
+      "summaryHint": "时隔两月再融50亿美元 智谱AI持续大额募资背后核心原因解析 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "50亿"
+    },
     {
       "id": "rss-google_news_en_deals-fwo9vi",
       "type": "funding",
       "title": "Arcustin Games has raised half a million dollars for the development of mobile AI games - WN Hub",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nbkJsZXB5cHkzOHAzY0M3UjUtNHQ1dW95SWpqcU5pYTdoSWwwZjZGZXJsV1kya2loLWljOUNkc2FaUWNzNkZpdW1sLVRTYjcxaURkaVJfcF9qQQ?oc=5",
       "source": "google_news_en_deals",
-      "publishedAt": "2026-09-14T09:37:02.000Z",
+      "publishedAt": "2026-09-14T09:41:38.000Z",
       "summaryHint": "Arcustin Games has raised half a million dollars for the development of mobile AI games &nbsp;&nbsp; WN Hub",
       "tags": [
         "us",
         "funding",
         "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-qbitai-5rq9mg",
-      "type": "funding",
-      "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
-      "url": "https://www.qbitai.com/2026/09/488912.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-14T07:55:12.000Z",
-      "summaryHint": "险资、券商与头部创投持续加码",
-      "tags": [
-        "china",
-        "funding",
-        "deal_signal"
-      ],
-      "amount": "3亿"
-    },
-    {
-      "id": "rss-qbitai-shvxqk",
-      "type": "funding",
-      "title": "奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX",
-      "url": "https://www.qbitai.com/2026/09/488699.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-14T02:56:45.000Z",
-      "summaryHint": "还是太嫩了啊Dario",
-      "tags": [
-        "china",
-        "funding",
         "deal_signal"
       ]
     },
@@ -63,10 +98,10 @@
       "round": "天使轮"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-4k43d0",
+      "id": "rss-google_news_cn_36kr_deals-tf8vfa",
       "type": "funding",
       "title": "半年融资超去年1.7倍，AI有没有泡沫？投资人：5年后超90%资本投向AI - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1welhmdEVFUlBFOHMwcmtqZFBXd203c3VEUG1FWW0xTktReWxIdXo0YXh2NjA4bUZKSXhFZXFMMWJuRFhDaUFPakhvWFp0dw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBETWFhZVVKWVY4MHlfcTNxZEdXVW9NSXhGZEkwM3czVHkzSmh6RmdVMzZ3a2pqeW0teFFnZTNPbm9SZnE1QlJ6UFRYa2VyYVNC?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-13T12:07:00.000Z",
       "summaryHint": "半年融资超去年1.7倍，AI有没有泡沫？投资人：5年后超90%资本投向AI &nbsp;&nbsp; 36 Kr",
@@ -107,22 +142,6 @@
         "deal_rss",
         "deal_signal"
       ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-fxwlq6",
-      "type": "funding",
-      "title": "情感智能珠宝硬件公司完成天使轮融资 荣耀AI Connect生态企业参投｜硬氪首发 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5McldhYXFHcU1EaWRlMVBhcGpCeFk4WmZnaTFpck5ZYUpPZkFGeE9OcGJFQ1lvbnpVdUJOdjk1cFBCeGxUVFlVeHA0TWFibndxS2x3?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-11T11:29:00.000Z",
-      "summaryHint": "情感智能珠宝硬件公司完成天使轮融资 荣耀AI Connect生态企业参投｜硬氪首发 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "天使轮"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-mg75f3",
@@ -172,22 +191,6 @@
       "amount": "480亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-9xhyc2",
-      "type": "funding",
-      "title": "2026年8月人工智能投融资分析：313起交易总规模351.59亿同比翻四倍小鹏机器人帕西尼领跑算力脑机赛道持续发力 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZdGtIYV9OSUxwMWY1UUFhR1ZGa0tNbE93NzM3T3pWWlloRGVTMFVadkxldmZqaDkybHREQTNuSG1BNFNBZWs3QUJRM3dyeGZ1YWRr?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-09T20:29:00.000Z",
-      "summaryHint": "2026年8月人工智能投融资分析：313起交易总规模351.59亿同比翻四倍小鹏机器人帕西尼领跑算力脑机赛道持续发力 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "351.59亿"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-hnp63d",
       "type": "funding",
       "title": "星语智能完成千万级天使轮融资，AI 400热线跑出头部玩家 - 36 Kr",
@@ -202,21 +205,6 @@
         "deal_signal"
       ],
       "round": "天使轮"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-e3p7jn",
-      "type": "funding",
-      "title": "36氪首发丨镭萌科技获千万融资，AI陪伴或许还有另一种可能？ - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qdjB2REVPZU5OSXRxWmlZSUpqeEVrck90UnZBYnFZNERCV2dDbnEzUjZBV0tnd2VyX0NydGJxUF8wdUFmaUFkU3c2dnNYdw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-09T06:39:03.000Z",
-      "summaryHint": "36氪首发丨镭萌科技获千万融资，AI陪伴或许还有另一种可能？ &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-w0f8z4",
@@ -234,20 +222,68 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-ae682e",
-      "type": "funding",
-      "title": "超3000亿，中国AI创企半年猛吸金，77笔上亿融资流向谁？ - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MelFYUHlKSUxialFRMTFGclZXRFFkemZPU3JPTUtZZENXUGp1SmdiZmZ1aEZWWHhZS0h5cXQwRTZ4TDhaX0lGTGJvWUNhZw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-08T11:56:00.000Z",
-      "summaryHint": "超3000亿，中国AI创企半年猛吸金，77笔上亿融资流向谁？ &nbsp;&nbsp; 36 Kr",
+      "id": "rss-qbitai-zaqpmx",
+      "type": "news",
+      "title": "一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影",
+      "url": "https://www.qbitai.com/2026/09/489381.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-15T09:58:00.000Z",
+      "summaryHint": "打破分子模拟“不可能三角”",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "3000亿"
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-ytcces",
+      "type": "news",
+      "title": "Meta新研究：字节模型蒸馏后，天花板破了",
+      "url": "https://www.qbitai.com/2026/09/489337.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-15T06:37:16.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-a8281d",
+      "type": "news",
+      "title": "前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了",
+      "url": "https://www.qbitai.com/2026/09/489288.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-15T05:39:10.000Z",
+      "summaryHint": "未来的AI不仅能解决问题，还能提出有价值的洞见、建立新的概念框架，让数学家在此基础上继续探索。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-4xdokv",
+      "type": "news",
+      "title": "9月21日，深圳前海！聊聊工业AI与生态共创的下一步",
+      "url": "https://www.qbitai.com/2026/09/489277.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-15T05:20:30.000Z",
+      "summaryHint": "西门子Xcelerator繁星生态大会，在生态合作中共赢机遇",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-7a91pw",
+      "type": "news",
+      "title": "7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开",
+      "url": "https://www.qbitai.com/2026/09/489227.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-15T02:17:34.000Z",
+      "summaryHint": "几百个Agent参与研发，AI开始造AI",
+      "tags": [
+        "china",
+        "funding"
+      ]
     },
     {
       "id": "rss-qbitai-4mcpyl",
@@ -314,45 +350,6 @@
       ]
     },
     {
-      "id": "rss-qbitai-g4y850",
-      "type": "news",
-      "title": "2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会",
-      "url": "https://www.qbitai.com/2026/09/488875.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-14T06:20:36.000Z",
-      "summaryHint": "共话AI时代的生活、影像与创造。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-58k68l",
-      "type": "news",
-      "title": "AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI",
-      "url": "https://www.qbitai.com/2026/09/488832.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-14T03:45:46.000Z",
-      "summaryHint": "小模型突破瓶颈，旗舰模型打开新空间",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-npnzmw",
-      "type": "news",
-      "title": "中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱",
-      "url": "https://www.qbitai.com/2026/09/488725.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-14T03:18:42.000Z",
-      "summaryHint": "这家中国公司，刚跑完了物理闭环里最难的一段路",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-fs3oo3",
       "type": "news",
       "title": "AI视频第一股，真的重要吗？ - 36 Kr",
@@ -367,85 +364,73 @@
       ]
     },
     {
-      "id": "reddit-rss-vc1viq",
+      "id": "reddit-rss-4z8q4k",
       "type": "social_en",
-      "title": "Apparently indie game development is my mid-life crisis",
-      "url": "https://www.reddit.com/r/gamedev/comments/1wfyfk6/apparently_indie_game_development_is_my_midlife/",
-      "source": "reddit_r_gamedev",
-      "publishedAt": "2026-09-14T09:17:32.000Z",
-      "summaryHint": "I have a PhD in physics and a perfectly respectable, high-paying engineering job. I also recently turned 40. So naturally, instead of buying a sports car or getting really into golf, I&#39;ve already spent about $20,000 making a niche indie",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-jr9qim",
-      "type": "social_en",
-      "title": "timberborn put ads on tiktok, gets AI slop pushed",
-      "url": "https://www.reddit.com/r/gamedev/comments/1wfyand/timberborn_put_ads_on_tiktok_gets_ai_slop_pushed/",
-      "source": "reddit_r_gamedev",
-      "publishedAt": "2026-09-14T09:09:13.000Z",
-      "summaryHint": "https://reddit.com/comments/1wfw89n/comment/p9pshct Without their knowledge the new ad campaign for the V1.1 update was AI generated by tiktok, meta does the same bullshit... If you want to advertise on those platforms, you might don&#39;t ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-c2ecah",
-      "type": "social_en",
-      "title": "Any Space King fans here, I used Apple Sharp to turn this artwork this into 3DGS",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wfdzim/any_space_king_fans_here_i_used_apple_sharp_to/",
+      "title": "I built a fully browser-based COLMAP photogrammetry workspace",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wgwm3d/i_built_a_fully_browserbased_colmap/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-13T17:31:28.000Z",
-      "summaryHint": "Feel free to check it out yourself https://superspl.at/scene/9127aae2 &#32; submitted by &#32; /u/KSzkodaGames [link] &#32; [comments]",
+      "publishedAt": "2026-09-15T10:31:25.000Z",
+      "summaryHint": "Hello! I&#39;m super excited to launch my free browser-based photogrammetry workspace today: offlinetools.io/colmap It’s a free and fully local browser implementation of the popular open-source photogrammetry software COLMAP. No download, i",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-tvk2h5",
+      "id": "reddit-rss-3wx4ww",
       "type": "social_en",
-      "title": "#Mémwa: 3D Scanning Memories…",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wfayy9/mémwa_3d_scanning_memories/",
+      "title": "Music Video with Gaussian Splatting",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wgwkf4/music_video_with_gaussian_splatting/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-13T15:38:06.000Z",
-      "summaryHint": "I turn my insta360 X6 360 videos into Gaussian Splattings using my custom app, and then I import them in blender to convert them into animated scenes using geometry nodes. Fragments of memories preserved digitally to be re-experienced forev",
+      "publishedAt": "2026-09-15T10:29:03.000Z",
+      "summaryHint": "We started a project 3 years ago and wanted to experiment with Nerf in Luma. Then life needed more attention, and I had to pause. A few months ago I found the old project in my folder and said, &#39;f*** it I finish it now!&#39; Technology ",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-prqi6r",
+      "id": "reddit-rss-4x7qkw",
       "type": "social_en",
-      "title": "Okay, let’s build an open-source one-click Gaussian Splatting app.",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wfa53y/okay_lets_build_an_opensource_oneclick_gaussian/",
+      "title": "How much work in progress can a workshop submission be [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wgv7hi/how_much_work_in_progress_can_a_workshop/",
+      "source": "reddit_r_MachineLearning",
+      "publishedAt": "2026-09-15T09:13:12.000Z",
+      "summaryHint": "Hi, let&#39;s suppose I am working on an algorithm that uses principles x to solve problems A and B. I already implemented a very basic algorithm that used principle &quot;x mini&quot; to just solve problem A, ran experiments, but have not ",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-8th7es",
+      "type": "social_en",
+      "title": "[Update] LuluSplat for Mac(Apple silicon)",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wghqfl/update_lulusplat_for_macapple_silicon/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-13T15:05:33.000Z",
-      "summaryHint": "A few weeks ago, I open-sourced a small project I had been working on: OOOSplat . The idea was simple: I wanted to make Gaussian Splatting without having to manually jump between frame extraction, COLMAP, training tools, viewers, and editor",
+      "publishedAt": "2026-09-14T22:07:44.000Z",
+      "summaryHint": "v1.1.0 https://liquiduslabs.com/lulusplat/ • Two Training options: Vanilla (msplat) - [Improved to use only half the memory v1.1.0]. Fast baseline but prone to needle-like floaters and dead splats. MCMC (metal-gauss) - Added in v1.1.0 Margi",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-41bfbb",
+      "id": "reddit-rss-r564eo",
       "type": "social_en",
-      "title": "Questions For An Game Dev Lawyer",
-      "url": "https://www.reddit.com/r/gamedev/comments/1wd24f8/questions_for_an_game_dev_lawyer/",
-      "source": "reddit_r_gamedev",
-      "publishedAt": "2026-09-11T01:26:07.000Z",
-      "summaryHint": "Hello friends! 👋 I have a question for all you amazing devs. I am going to be interviewing Jacob Vela, who runs Argo Law ( https://argolawyer.com/ ), a law firm that specializes in law for game developers! (Oh, and he has also launched his",
+      "title": "RSI is not happening [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wgazy4/rsi_is_not_happening_r/",
+      "source": "reddit_r_MachineLearning",
+      "publishedAt": "2026-09-14T18:03:41.000Z",
+      "summaryHint": "A new paper (I&#39;m not a coauthor BTW -- I just found it interesting) argues, basically, that RSI 1 is not on the horizon 2, because current (at the time the study was done) agents cannot do open-ended ML research. Specifically, they took",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-vd3xfl",
+      "id": "reddit-rss-82hjln",
       "type": "social_en",
-      "title": "/r/gamedev Policy on Removing Posts about AI",
-      "url": "https://www.reddit.com/r/gamedev/comments/1wb1n69/rgamedev_policy_on_removing_posts_about_ai/",
-      "source": "reddit_r_gamedev",
-      "publishedAt": "2026-09-08T21:23:55.000Z",
-      "summaryHint": "Hello everyone! The mod team here on r/gamedev wanted to make a quick post regarding a new policy we will be abiding by as far as removing low effort content. A few weeks ago, we published our policy on AI use in r/gamedev : https://www.red",
+      "title": "Teach ML! Community service project from Stanford [N]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wbf3ox/teach_ml_community_service_project_from_stanford_n/",
+      "source": "reddit_r_MachineLearning",
+      "publishedAt": "2026-09-09T07:54:14.000Z",
+      "summaryHint": "Hi r/machinelearning . Nice to meet you! My name is Chris Piech and I&#39;m a professor at Stanford University in the AI lab. I built a class called Probability for AI: pai.stanford.edu. It starts Oct 9th and applications are due end of Sep",
       "tags": [
         "ai_social"
       ]
