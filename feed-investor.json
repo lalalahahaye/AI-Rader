@@ -1,21 +1,55 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T11:03:01.034Z",
+  "updatedAt": "2026-09-20T11:27:51.165Z",
   "items": [
     {
-      "id": "rss-techcrunch_ai-d6ho8z",
+      "id": "rss-google_news_cn_36kr_deals-dexjmf",
       "type": "funding",
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "source": "techcrunch_ai",
-      "publishedAt": "2026-09-18T23:25:01.000Z",
-      "summaryHint": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "title": "不是卖一套软件，而是建一套体系：雄图智能完成200万天使轮，用AI营销闭环服务中小企业 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uOW0yWkliUVQwYXRFT3JDZTB3SHY4Z3hWS1dkc3ZDY2M1dTZkX1NRdjM4NG9xTTRsRlptNkpOb2NIOWlWTkRaQWpCQnV2djVU?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-20T03:07:53.000Z",
+      "summaryHint": "不是卖一套软件，而是建一套体系：雄图智能完成200万天使轮，用AI营销闭环服务中小企业 &nbsp;&nbsp; 36Kr",
       "tags": [
+        "china",
         "funding",
-        "us",
+        "deal_rss",
         "deal_signal"
       ],
-      "amount": "$100M"
+      "round": "天使轮",
+      "amount": "200万"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-wer5s4",
+      "type": "funding",
+      "title": "教育融资低谷期 上半年资本重点押注的AI教育产品盘点 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50aTJwdVBCY2d6S1VzVVBjVWpLM2ItbjdrSjYzZWd1dkRMbzRIX09NcE1DWjNpam9SSDFCRTE0Z2tzYW5uMmY5blNwNm1tbmdEUm9J?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-19T12:00:00.000Z",
+      "summaryHint": "教育融资低谷期 上半年资本重点押注的AI教育产品盘点 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-192bp3",
+      "type": "funding",
+      "title": "雄图智能完成200万天使轮融资 打造AI营销闭环体系赋能中小企业 不止是售卖软件 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCMmFLZUhfeVBOeV9HTGJSUFdlenNyenBWNGxRSWNNWjhrNTlJVEdHQ2kxUm5XUWQ1cU14WFZSV3g4RTdxVEhZZG5EYk9mSlFhWkVB?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-19T11:36:00.000Z",
+      "summaryHint": "雄图智能完成200万天使轮融资 打造AI营销闭环体系赋能中小企业 不止是售卖软件 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "天使轮",
+      "amount": "200万"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-8oj38g",
@@ -48,6 +82,22 @@
         "deal_signal"
       ],
       "amount": "5亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-4trzsq",
+      "type": "funding",
+      "title": "AI营销创企“Profound”完成D轮1.8亿美元融资，估值达18亿美元 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MUDFkWU00MjhRS0N2c1J5Z3FqRXlrRUlXQm1PeFpNWkgyWEFLYlJuLWg0Y3pjR28tSDR5dWRBS2J1NTE2NTFabWIyWHFtMVdtbnNYTHhyUi1pSGlwaXVIaw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-17T00:07:04.000Z",
+      "summaryHint": "AI营销创企“Profound”完成D轮1.8亿美元融资，估值达18亿美元 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "1.8亿"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-6ulfxb",
@@ -97,96 +147,137 @@
       "amount": "20亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-7zd8dc",
+      "id": "rss-google_news_cn_36kr_deals-ryqie3",
       "type": "funding",
-      "title": "创办3个月拿下4亿融资，RSI赛道火了 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kUUFYeDBvZDVSdUVSalVva1dRcWt4ekRUNEFqZC1kMTA0b3cxNTc1dURBUm1uU1VDb3J4RFpqNllKOXdnRVl3WXRzNzhudw?oc=5",
+      "title": "量巡科技完成天使轮融资，打造AI 加速与量子启发计算平台 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Jd09zaDIxd2ZWUlR6YzJQbWw3Xy1LWGJTRzhhc2ZObXF5WVNjenYxRDY3aE43TUs4OS1Md3VlTl81RjVOcUxWdDVSQ0NNWGdm?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-15T21:38:00.000Z",
-      "summaryHint": "创办3个月拿下4亿融资，RSI赛道火了 &nbsp;&nbsp; 36Kr",
+      "publishedAt": "2026-09-13T12:14:00.000Z",
+      "summaryHint": "量巡科技完成天使轮融资，打造AI 加速与量子启发计算平台 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
       ],
-      "amount": "4亿"
+      "round": "天使轮"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-7gzcq3",
-      "type": "funding",
-      "title": "27岁清华助理教授创业，探索AI自主进化，两个月融资数亿 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nVXRKSEx2V3J5cW9GU1FDc21XVmZ6SGU3TlJMWmFuTGlJQ0xsQ0JRWnZKN1NuVGE4OUxBUkdpMlhpS3N6VHR1YmNhVFl5QXdB?oc=5",
+      "id": "rss-google_news_cn_36kr_deals-hnvkeo",
+      "type": "news",
+      "title": "字节“亲儿子”，揭开了AI制药的资本局 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YQTI1d3NYbl83OFlWZmp6cktxR1k5MV8tUFFRVXJqWmRlX2U3eEt3WTUwNllZTzN2WmJ0NTZqc1pmbVRaS0o3c3MyZkVldw?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-15T15:30:00.000Z",
-      "summaryHint": "27岁清华助理教授创业，探索AI自主进化，两个月融资数亿 &nbsp;&nbsp; 36Kr",
+      "publishedAt": "2026-09-20T09:34:00.000Z",
+      "summaryHint": "字节“亲儿子”，揭开了AI制药的资本局 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
-        "deal_rss",
-        "deal_signal"
+        "deal_rss"
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-2shr2t",
-      "type": "funding",
-      "title": "OpenAl考虑在IPO之前一轮融资获得1.2万亿美元估值 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ubXA3ODNXdzRJRTBsQ3NCS0pRYmxyY1Zmc0tVcVhPUllTVVZ1eURfMERrajE3MnNEZU1DNDdLWmFacW4yaUIyRkVnbEF0Zw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-15T11:07:00.000Z",
-      "summaryHint": "OpenAl考虑在IPO之前一轮融资获得1.2万亿美元估值 &nbsp;&nbsp; 36Kr",
+      "id": "rss-qbitai-a3acec",
+      "type": "news",
+      "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
+      "url": "https://www.qbitai.com/2026/09/492939.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-20T08:30:32.000Z",
+      "summaryHint": "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "1.2万"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-2jhjew",
-      "type": "funding",
-      "title": "无销售收入翻倍拒融资 14人团队AI浪潮下的反共识创业实验 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHQ0xURVNOalV1cFhleDdlYm83dXhoTjBpMTBUTjZTczQwcmFuOGNjLU42QVoxY3NJMmNyam5NMk1nOXl0d1M2MndtNGZOUExnR3dr?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-15T10:09:00.000Z",
-      "summaryHint": "无销售收入翻倍拒融资 14人团队AI浪潮下的反共识创业实验 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
+        "funding"
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-eegev2",
-      "type": "funding",
-      "title": "知名哲学家造AI芯片，融资超15亿，前ASML总裁加盟 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94QlJpNFg2OVd2MkNES3NuQXJIQUF0b1FzcC16NTR5VVJBdlRPRkJpOTBqNmR4YlFTYzdSaFl5cHVYTl9NWjRQTGlLdW5wQQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-14T19:20:00.000Z",
-      "summaryHint": "知名哲学家造AI芯片，融资超15亿，前ASML总裁加盟 &nbsp;&nbsp; 36Kr",
+      "id": "rss-qbitai-s9psdd",
+      "type": "news",
+      "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
+      "url": "https://www.qbitai.com/2026/09/492912.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-20T08:01:13.000Z",
+      "summaryHint": "亚马逊云科技给企业安全用Agent打了个样",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "15亿"
+        "funding"
+      ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-tf8vfa",
-      "type": "funding",
-      "title": "半年融资超去年1.7倍，AI有没有泡沫？投资人：5年后超90%资本投向AI - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBETWFhZVVKWVY4MHlfcTNxZEdXVW9NSXhGZEkwM3czVHkzSmh6RmdVMzZ3a2pqeW0teFFnZTNPbm9SZnE1QlJ6UFRYa2VyYVNC?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-13T12:07:00.000Z",
-      "summaryHint": "半年融资超去年1.7倍，AI有没有泡沫？投资人：5年后超90%资本投向AI &nbsp;&nbsp; 36Kr",
+      "id": "rss-qbitai-gyel2f",
+      "type": "news",
+      "title": "预售价31.98万-38.98万元，腾势Z9S展车抵达全国166城334家门店",
+      "url": "https://www.qbitai.com/2026/09/492873.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-20T07:51:09.000Z",
+      "summaryHint": "腾势Z9S迎来成都车展首秀",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-o8ij8i",
+      "type": "news",
+      "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
+      "url": "https://www.qbitai.com/2026/09/492849.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-20T02:48:18.000Z",
+      "summaryHint": "9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-ur6ubo",
+      "type": "news",
+      "title": "“留给人类阻止AI的时间不多了”",
+      "url": "https://www.qbitai.com/2026/09/492755.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-19T11:53:12.000Z",
+      "summaryHint": "AI有可能终结我们所有人",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-eps5wq",
+      "type": "news",
+      "title": "马斯克批量收购破产公司ing…世界首富脑子是不一样",
+      "url": "https://www.qbitai.com/2026/09/492661.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-19T11:48:06.000Z",
+      "summaryHint": "老马想买倒闭公司数据为哪般",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-1in7uy",
+      "type": "news",
+      "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
+      "url": "https://www.qbitai.com/2026/09/492573.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-19T11:43:12.000Z",
+      "summaryHint": "设计、前端一口气全干了，结果后端没来上班",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-t9a7rp",
+      "type": "news",
+      "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
+      "url": "https://www.qbitai.com/2026/09/492550.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-19T11:36:11.000Z",
+      "summaryHint": "AI能否提出相对论？",
+      "tags": [
+        "china",
+        "funding"
       ]
     },
     {
@@ -216,123 +307,6 @@
       ]
     },
     {
-      "id": "rss-qbitai-uxx04m",
-      "type": "news",
-      "title": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
-      "url": "https://www.qbitai.com/2026/09/492467.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-19T06:44:02.000Z",
-      "summaryHint": "让开放模型与可负担的算力成为数学研究的共享基石",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-qtkvz4",
-      "type": "news",
-      "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
-      "url": "https://www.qbitai.com/2026/09/492429.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-19T06:39:32.000Z",
-      "summaryHint": "同一预测核心，跨七类系统验证",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-techcrunch_ai-n995bv",
-      "type": "news",
-      "title": "World model companies are keeping a lot of secrets",
-      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "source": "techcrunch_ai",
-      "publishedAt": "2026-09-18T20:18:14.000Z",
-      "summaryHint": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
-      "tags": [
-        "funding",
-        "us"
-      ]
-    },
-    {
-      "id": "rss-qbitai-s8pr5p",
-      "type": "news",
-      "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
-      "url": "https://www.qbitai.com/2026/09/492426.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-18T15:58:21.000Z",
-      "summaryHint": "协同布局AI基础设施",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-ulxv4o",
-      "type": "news",
-      "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
-      "url": "https://www.qbitai.com/2026/09/492421.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-18T15:50:20.000Z",
-      "summaryHint": "成果中唯一聚焦算电协同全链路运营的AI技术产品",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-rmvpg",
-      "type": "news",
-      "title": "具身智能技术路线尚未定型，基础设施却先收敛",
-      "url": "https://www.qbitai.com/2026/09/492238.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-18T13:16:33.000Z",
-      "summaryHint": "从一次成功到一万次稳定执行，具身智能还缺什么？",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-t8gocs",
-      "type": "news",
-      "title": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
-      "url": "https://www.qbitai.com/2026/09/492175.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-18T12:22:47.000Z",
-      "summaryHint": "LimiX让模型理解数据背后的因果机制",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-gmfg2h",
-      "type": "news",
-      "title": "白天务农晚上码农，这个斐济农民跨越一万公里来拼多多取经",
-      "url": "https://www.qbitai.com/2026/09/492015.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-18T09:19:37.000Z",
-      "summaryHint": "那些数以亿万计的，仍在等待被市场看见的小农户们。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-n8i7bw",
-      "type": "news",
-      "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
-      "url": "https://www.qbitai.com/2026/09/491875.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-18T06:11:06.000Z",
-      "summaryHint": "用通用AI去啃最硬的骨头，这条路走得通",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-1ud7ja",
       "type": "news",
       "title": "AI制药一级热 - 36Kr",
@@ -347,10 +321,10 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-ls34ne",
+      "id": "rss-google_news_cn_36kr_deals-8vefi2",
       "type": "news",
       "title": "投资人想劝劝AI创业者，理性看待自己的估值吧 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91VmdBUkJvOXRySFhPc2FvX0hRQ0VJSlRjZUd0OGczMUdURXVRdmhGZVVOX1RqZ0tCU2hSUVNLZUNFTFVGU2ZoamdHN0pKTU96?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50a1pEMElvWHNLSmx5cUFuWnJqRlk2TjQ5OE1BN2hzUzh1c0ZVSm41NXVrRFRzVGliOUo1Y1lHTWZTTnJQcmZjbXFsa3V6dw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-17T21:07:00.000Z",
       "summaryHint": "投资人想劝劝AI创业者，理性看待自己的估值吧 &nbsp;&nbsp; 36Kr",
@@ -375,109 +349,73 @@
       ]
     },
     {
-      "id": "reddit-rss-b1vjd1",
+      "id": "reddit-rss-ulfjvk",
       "type": "social_en",
-      "title": "If I suck at a game genre should I still make it?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1wkinc7/if_i_suck_at_a_game_genre_should_i_still_make_it/",
-      "source": "reddit_r_gamedev",
-      "publishedAt": "2026-09-19T10:27:36.000Z",
-      "summaryHint": "I like fighting games but I am genuinely horrible and I&#39;m making one rn should I give up? &#32; submitted by &#32; /u/FluffyPursuer [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-gb1vu0",
-      "type": "social_en",
-      "title": "AI is a better teacher than most human teachers",
-      "url": "https://www.reddit.com/r/artificial/comments/1wkibwi/ai_is_a_better_teacher_than_most_human_teachers/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-09-19T10:09:37.000Z",
-      "summaryHint": "I genuinely don&#39;t understand why so many people are against AI, especially when it comes to education. I&#39;m in my 3rdyear of a 4 year program and honestly AI has basically saved my academic life. I&#39;m studying something related to",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-t3u8ie",
-      "type": "social_en",
-      "title": "What happens to our money if banking system gets hacked by AI and data gets wiped out?",
-      "url": "https://www.reddit.com/r/artificial/comments/1wk993r/what_happens_to_our_money_if_banking_system_gets/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-09-19T01:59:52.000Z",
-      "summaryHint": "Last month it was astra and today it&#39;s Gemini that went out of the system/sandbox and hacked it&#39;s way out. If it becomes worse, what happens to our money? Especially if the records get corrupted? Here is a dumb idea I guess, Would c",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-kazx9y",
-      "type": "social_en",
-      "title": "US chip fabs face massive 157,000 worker shortfall, mere 3% of US engineering grads enter chipmaking — despite six-figure salaries, US chip manufacturers are in dire need of engineers and technicians",
-      "url": "https://www.reddit.com/r/artificial/comments/1wk11rt/us_chip_fabs_face_massive_157000_worker_shortfall/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-09-18T20:12:13.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/xx_HeckinChonker_xx [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-hqcmys",
-      "type": "social_en",
-      "title": "Introducing Gaussian Splat Relighting",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wk02ik/introducing_gaussian_splat_relighting/",
+      "title": "Trying out the iPhone app by XGRID",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wld2f5/trying_out_the_iphone_app_by_xgrid/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-18T19:35:31.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/ad2003 [link] &#32; [comments]",
+      "publishedAt": "2026-09-20T10:03:16.000Z",
+      "summaryHint": "I recently used the iPhone app of XGRID and tried to scan this delicious pancake breakfast: https://youtu.be/YnxBysFL7ZM &#32; submitted by &#32; /u/curious_cat_3556 [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-blns9i",
+      "id": "reddit-rss-xx01fz",
       "type": "social_en",
-      "title": "Playing arround with emojis and splats",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wjrbcj/playing_arround_with_emojis_and_splats/",
+      "title": "Offering 3D Gaussian Splatting as a service for Real Estate? Is the tech mature enough yet?",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wktjam/offering_3d_gaussian_splatting_as_a_service_for/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-18T14:11:25.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/Had78 [link] &#32; [comments]",
+      "publishedAt": "2026-09-19T18:23:57.000Z",
+      "summaryHint": "Hey everyone, I recently finished my engineering degree where my Bachelor&#39;s thesis was heavily focused on 3D Mapping and 3D Gaussian Splatting and while I&#39;m currently looking for a job, I have some downtime that I want to put to goo",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-iki0tn",
+      "id": "reddit-rss-6lrq9u",
       "type": "social_en",
-      "title": "What’s a game mechanic players think is super complex, but is actually a dumb 3-line hack?",
-      "url": "https://www.reddit.com/r/gamedev/comments/1wjqvik/whats_a_game_mechanic_players_think_is_super/",
-      "source": "reddit_r_gamedev",
-      "publishedAt": "2026-09-18T13:54:19.000Z",
-      "summaryHint": "Like enemies that “flank” you but really just pick a random point behind cover. Share the smoke and mirrors. &#32; submitted by &#32; /u/RatioSpiritual5298 [link] &#32; [comments]",
+      "title": "1-bit OKLab quantization + dithering: There are two colors on this image!",
+      "url": "https://www.reddit.com/r/Unity3D/comments/1wkq85p/1bit_oklab_quantization_dithering_there_are_two/",
+      "source": "reddit_r_Unity3D",
+      "publishedAt": "2026-09-19T16:12:30.000Z",
+      "summaryHint": "I hope this displays properly, I video&#39;ed in 4k just to hopefully avoid the compression algo killing it. Here&#39;s my OKLab quantizer, with separate h/s/v, support for custom patterns(halftone patterns/noise instead of dither) adjustab",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-uhhx82",
+      "id": "reddit-rss-3sl4jb",
       "type": "social_en",
-      "title": "Turning a captured 3DGS scene into a playable game in 2h",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wjoi65/turning_a_captured_3dgs_scene_into_a_playable/",
+      "title": "Best 3DGS Viewer / Help Rendering Big Scenes on iPhone",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wko3k6/best_3dgs_viewer_help_rendering_big_scenes_on/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-18T12:12:24.000Z",
-      "summaryHint": "This 3DGS scene was scanned during my trip with in Prague this May — took me about 20 minutes on-site. Then turned it into an interactive wizard game in just 2h, using ChatGPT 6-Astra + Unreal Engine + Tripo AI + XGRIDS LCC plugin for UE. H",
+      "publishedAt": "2026-09-19T14:45:26.000Z",
+      "summaryHint": "I&#39;m having trouble running some 3DGS models on my phone with most viewers because either it makes the quality worse (for example, Supersplat) or it runs really slow and laggy (or both). The best viewer I&#39;ve found (which I&#39;m curr",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-wmnba6",
+      "id": "reddit-rss-4djqh",
       "type": "social_en",
-      "title": "The internet is inbreeding.",
-      "url": "https://www.reddit.com/r/artificial/comments/1wjmxvx/the_internet_is_inbreeding/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-09-18T10:53:33.000Z",
-      "summaryHint": "The internet is inbreeding. Lately, when I ask AI for sources, I barely recognize any of them. Not the &quot;oh, a niche blog I hadn&#39;t seen before&quot; kind of unfamiliar — more like websites that seem to exist for the sole purpose of ",
+      "title": "I made a Unity plugin that adds soft-body flesh physics directly to animated characters",
+      "url": "https://www.reddit.com/r/Unity3D/comments/1wkkmsx/i_made_a_unity_plugin_that_adds_softbody_flesh/",
+      "source": "reddit_r_Unity3D",
+      "publishedAt": "2026-09-19T12:12:58.000Z",
+      "summaryHint": "I’ve been working on Flesh Dynamics , a Unity tool for adding soft-body motion and collision response directly to animated characters. The hardest parts were getting it to work reliably across different skinned meshes, avoiding ugly hard co",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-l2up4u",
+      "type": "social_en",
+      "title": "6.7 (LTS) Beta Sweepstakes - Your chance to win a GPU, Switch or Unity Swag!",
+      "url": "https://www.reddit.com/r/Unity3D/comments/1wixyy1/67_lts_beta_sweepstakes_your_chance_to_win_a_gpu/",
+      "source": "reddit_r_Unity3D",
+      "publishedAt": "2026-09-17T15:58:55.000Z",
+      "summaryHint": "Hiii folks, We’re happy to announce our Beta Sweepstakes with the Unity 6000.7 release. This release includes a major UI Toolkit push (grid layout, z-index, gaps, gradients, and a new integrated authoring workflow), built-in Localization an",
       "tags": [
         "ai_social"
       ]
