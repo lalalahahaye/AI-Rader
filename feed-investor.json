@@ -1,15 +1,44 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-22T11:42:20.787Z",
+  "updatedAt": "2026-09-23T11:40:57.195Z",
   "items": [
     {
-      "id": "rss-google_news_cn_36kr_deals-u268ze",
+      "id": "rss-qbitai-p0myfk",
       "type": "funding",
-      "title": "一年融资近29亿，IPO前“国家队”密集入场，硅基流动冲刺“Token工厂第一股”-36氪 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JUWs0MHh0aUVtRDBrMDhJc2FWWUtoMExEUE5pTGFQdEhRLXJVSF9UdGRacTNDanNHWFNlNV9kV1FIRzlqX3FEQlJRYWwxQThR?oc=5",
+      "title": "达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”",
+      "url": "https://www.qbitai.com/2026/09/496494.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-23T09:46:57.000Z",
+      "summaryHint": "打造算电协同领域“Windows”级操作系统",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-xa9zd4",
+      "type": "funding",
+      "title": "字节刚下场，多家公司融资数千万？但最火的AI游戏赛道根本不赚钱 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rbUhvMS1Ya0ZFR18yUEpHVG5kcVY5TUIxckh4Z0ptcTVVN1N4aVhuV3MzajFOa3NRcjFSUWxfZ2cybU0xQk91UjlaQ3BBdw?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-22T11:25:31.000Z",
-      "summaryHint": "一年融资近29亿，IPO前“国家队”密集入场，硅基流动冲刺“Token工厂第一股”-36氪 &nbsp;&nbsp; 36kr.com",
+      "publishedAt": "2026-09-22T17:22:00.000Z",
+      "summaryHint": "字节刚下场，多家公司融资数千万？但最火的AI游戏赛道根本不赚钱 &nbsp;&nbsp; 36氪",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-ulgtzw",
+      "type": "funding",
+      "title": "一年融资近29亿，IPO前“国家队”密集入场，硅基流动冲刺“Token工厂第一股” - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1M0FZbXVMRWNyeGNBVGRLdGl2dXJJZm9lTWh0UUd5T1N4RjV4UlZQckthZS1nWU1TQm1aQmlHSkl6WnRWOThrNDU0NVVHUQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-21T20:24:00.000Z",
+      "summaryHint": "一年融资近29亿，IPO前“国家队”密集入场，硅基流动冲刺“Token工厂第一股” &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
@@ -17,22 +46,6 @@
         "deal_signal"
       ],
       "amount": "29亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-ly39nf",
-      "type": "funding",
-      "title": "悟空蓝寻求天使轮融资 资金将用于规模化落地及研发迭代 - eu.36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VcGF6M2JIM1dmWFBpem9aZGtmWlRfbllFRmliVkJJQ1JRVV9FUEItX3FQR0xFMGlpNjRxRF9lZThCSkxWajlTanFiaURSYlhCbzlN?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-22T06:31:00.000Z",
-      "summaryHint": "悟空蓝寻求天使轮融资 资金将用于规模化落地及研发迭代 &nbsp;&nbsp; eu.36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "天使轮"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-53rriq",
@@ -50,13 +63,30 @@
       ]
     },
     {
+      "id": "rss-google_news_cn_36kr_deals-vtceg9",
+      "type": "funding",
+      "title": "PanelAI启动300-500万元天使轮融资 本轮融资暂未完成 - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRRmMxZmxpWWxGMVJ6Mmp3WTZCVThHS2FGLXFuS0xtaEJraElPT1Juekk4M1VOZ3lyZkREM19CVEQtTF8xZDd1QXpRMDZiMDZtXzNv?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-20T13:49:00.000Z",
+      "summaryHint": "PanelAI启动300-500万元天使轮融资 本轮融资暂未完成 &nbsp;&nbsp; eu.36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "天使轮",
+      "amount": "500万元"
+    },
+    {
       "id": "rss-google_news_cn_36kr_deals-ht6ny5",
       "type": "funding",
-      "title": "超亿元融资、化工龙头押注：沃时科技一年内完成多轮融资，多家知名产业及财务投资方联手加码 AI4S研发基础设施 - 36kr.com",
+      "title": "超亿元融资、化工龙头押注：沃时科技一年内完成多轮融资，多家知名产业及财务投资方联手加码 AI4S研发基础设施 - 36氪",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hbHJRWEJ4WFUxLTR6VUNha0dRVVpRZkRPOTJMRF9Jcmxqc01lWldRSmV5TlBoNFduMGZJR3dMZlRRMEZGMUp6QUdhTy12dw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-20T10:00:00.000Z",
-      "summaryHint": "超亿元融资、化工龙头押注：沃时科技一年内完成多轮融资，多家知名产业及财务投资方联手加码 AI4S研发基础设施 &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "超亿元融资、化工龙头押注：沃时科技一年内完成多轮融资，多家知名产业及财务投资方联手加码 AI4S研发基础设施 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
@@ -67,11 +97,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-dexjmf",
       "type": "funding",
-      "title": "不是卖一套软件，而是建一套体系：雄图智能完成200万天使轮，用AI营销闭环服务中小企业 - 36kr.com",
+      "title": "不是卖一套软件，而是建一套体系：雄图智能完成200万天使轮，用AI营销闭环服务中小企业 - 36氪",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uOW0yWkliUVQwYXRFT3JDZTB3SHY4Z3hWS1dkc3ZDY2M1dTZkX1NRdjM4NG9xTTRsRlptNkpOb2NIOWlWTkRaQWpCQnV2djVU?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-20T03:07:53.000Z",
-      "summaryHint": "不是卖一套软件，而是建一套体系：雄图智能完成200万天使轮，用AI营销闭环服务中小企业 &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "不是卖一套软件，而是建一套体系：雄图智能完成200万天使轮，用AI营销闭环服务中小企业 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
@@ -82,13 +112,13 @@
       "amount": "200万"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-7kok9r",
+      "id": "rss-google_news_cn_36kr_deals-ijupya",
       "type": "funding",
-      "title": "融资12亿，收入暴涨300%：一家AI广告公司爆了 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wQUw5Q1NIVUFPbFBmQ1JGNVBCd3h1ZWRMblllNUNrX1FGN2VPUkJkaG5TN1NjSmNXdmtBYTNGelhUcFpsazc1dnd6YWRJZw?oc=5",
+      "title": "融资12亿营收暴涨300% 这家AI广告公司凭硬核实力引爆行业 - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NNjcwR0dOMW5EVHlHN09UMHZqd3lJdjFPcUtWTGhwaWh3QXFmUV9wM19leVdJSFlqNEZrelVBWUtuZmhpdTdzUVBjNDhBU3Ytazdr?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-19T22:05:00.000Z",
-      "summaryHint": "融资12亿，收入暴涨300%：一家AI广告公司爆了 &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "融资12亿营收暴涨300% 这家AI广告公司凭硬核实力引爆行业 &nbsp;&nbsp; eu.36kr.com",
       "tags": [
         "china",
         "funding",
@@ -100,11 +130,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-a9o3ax",
       "type": "funding",
-      "title": "AI算力芯片独角兽奕行智能再获20亿融资， 加速RISC-V云端AI算力商业化落地与生态引领 - 36kr.com",
+      "title": "AI算力芯片独角兽奕行智能再获20亿融资， 加速RISC-V云端AI算力商业化落地与生态引领 - 36氪",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tUGxuSzhpQ21wd1ZVVkxKc0dlVExLTVZOM1hlb1BFZWc0WTZnenBOSDN1eDY3WGdFLWFwc0tRSmNZck9ycWY3d0VfR0FaOXdJ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-19T21:58:00.000Z",
-      "summaryHint": "AI算力芯片独角兽奕行智能再获20亿融资， 加速RISC-V云端AI算力商业化落地与生态引领 &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "AI算力芯片独角兽奕行智能再获20亿融资， 加速RISC-V云端AI算力商业化落地与生态引领 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
@@ -114,13 +144,13 @@
       "amount": "20亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-wer5s4",
+      "id": "rss-google_news_cn_36kr_deals-k4ptb7",
       "type": "funding",
-      "title": "教育融资低谷期 上半年资本重点押注的AI教育产品盘点 - eu.36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50aTJwdVBCY2d6S1VzVVBjVWpLM2ItbjdrSjYzZWd1dkRMbzRIX09NcE1DWjNpam9SSDFCRTE0Z2tzYW5uMmY5blNwNm1tbmdEUm9J?oc=5",
+      "title": "教育融资低谷里，资本在上半年押注了哪些 AI 教育产品？ - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KdEo5Z3lLSUVvMkwyMkt1Z3R2eXFRa1BWVnM2eVhkZ3JTeFI0RDduWHdyUFVqMlpyQlFDNk9NdWhzYmt1QUNUZGtlaUdLQQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-19T12:00:00.000Z",
-      "summaryHint": "教育融资低谷期 上半年资本重点押注的AI教育产品盘点 &nbsp;&nbsp; eu.36kr.com",
+      "summaryHint": "教育融资低谷里，资本在上半年押注了哪些 AI 教育产品？ &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
@@ -146,143 +176,142 @@
       "amount": "200万"
     },
     {
-      "id": "rss-qbitai-z9uuc2",
+      "id": "rss-qbitai-nynihs",
       "type": "news",
-      "title": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
-      "url": "https://www.qbitai.com/2026/09/494120.html",
+      "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
+      "url": "https://www.qbitai.com/2026/09/496609.html",
       "source": "qbitai",
-      "publishedAt": "2026-09-22T10:06:34.000Z",
-      "summaryHint": "9月22日，在2026杭州云栖大会企业级Agent实践峰会上，基元律动联合创始人兼CTO韩凯发表演讲《从Harness到RSI飞轮》。",
+      "publishedAt": "2026-09-23T10:35:16.000Z",
+      "summaryHint": "联想天禧AI携全场景多端产品矩阵亮相阿里云栖大会",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-xbjvrm",
+      "id": "rss-qbitai-qdncmh",
       "type": "news",
-      "title": "别让一部片子倒在交付前：SkyProduction 抢先首发短剧质检",
-      "url": "https://www.qbitai.com/2026/09/494043.html",
+      "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
+      "url": "https://www.qbitai.com/2026/09/496578.html",
       "source": "qbitai",
-      "publishedAt": "2026-09-22T10:01:53.000Z",
-      "summaryHint": "上传成片和字幕，系统自动从字幕、音画、内容底线三个维度逐集跑一遍，输出可下载、可回填的质检报告。",
+      "publishedAt": "2026-09-23T09:56:53.000Z",
+      "summaryHint": "商汤大装置异构混推创新实践与技术演进",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-qo0h5n",
+      "id": "rss-qbitai-ojlc1d",
       "type": "news",
-      "title": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
-      "url": "https://www.qbitai.com/2026/09/493865.html",
+      "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
+      "url": "https://www.qbitai.com/2026/09/496493.html",
       "source": "qbitai",
-      "publishedAt": "2026-09-22T08:49:12.000Z",
-      "summaryHint": "9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”",
+      "publishedAt": "2026-09-23T09:50:26.000Z",
+      "summaryHint": "企业AI服务迎来平台化交付时代",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-r4pcpw",
+      "id": "rss-qbitai-8x3t0y",
       "type": "news",
-      "title": "首届中央企业量子人才科创空间产业应用创新大赛在合肥举办 中央企业发布真实业务场景需求",
-      "url": "https://www.qbitai.com/2026/09/493819.html",
+      "title": "它石智航顶尖团队引领中国具身智能率先迈入规模化落地阶段",
+      "url": "https://www.qbitai.com/2026/09/496481.html",
       "source": "qbitai",
-      "publishedAt": "2026-09-22T08:35:24.000Z",
-      "summaryHint": "9月21日，首届中央企业量子人才科创空间产业应用创新大赛发布会在合肥举行",
+      "publishedAt": "2026-09-23T08:54:04.000Z",
+      "summaryHint": "它石智航将继续扩大研发团队，加快布局生产基地，全面提升机器人交付能力",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-xk1cv",
+      "id": "rss-qbitai-5rah73",
       "type": "news",
-      "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数",
-      "url": "https://www.qbitai.com/2026/09/493629.html",
+      "title": "斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”",
+      "url": "https://www.qbitai.com/2026/09/496471.html",
       "source": "qbitai",
-      "publishedAt": "2026-09-22T03:48:05.000Z",
-      "summaryHint": "未来Qwen4.5、Qwen5等版本将扩展至5-10T参数。",
+      "publishedAt": "2026-09-23T08:45:22.000Z",
+      "summaryHint": "9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2.0-23B-A3B",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-ymg7x",
+      "id": "rss-qbitai-4a150u",
       "type": "news",
-      "title": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
-      "url": "https://www.qbitai.com/2026/09/493625.html",
+      "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
+      "url": "https://www.qbitai.com/2026/09/496393.html",
       "source": "qbitai",
-      "publishedAt": "2026-09-22T03:42:43.000Z",
-      "summaryHint": "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。",
+      "publishedAt": "2026-09-23T07:29:50.000Z",
+      "summaryHint": "每秒能产生5000+个沙盒",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-o78qi0",
+      "id": "rss-qbitai-ihdsuo",
       "type": "news",
-      "title": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远",
-      "url": "https://www.qbitai.com/2026/09/493510.html",
+      "title": "Qwen一号位定了！刘大一恒接棒",
+      "url": "https://www.qbitai.com/2026/09/496384.html",
       "source": "qbitai",
-      "publishedAt": "2026-09-22T03:13:44.000Z",
-      "summaryHint": "“潮起之时，靠岸相见”",
+      "publishedAt": "2026-09-23T07:27:49.000Z",
+      "summaryHint": "与稚晖君同届天才少年",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-agxp2d",
+      "id": "rss-qbitai-7kg5nz",
       "type": "news",
-      "title": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石",
-      "url": "https://www.qbitai.com/2026/09/493502.html",
+      "title": "Jev vs Decitron：同为决策AI，为什么不是一回事？",
+      "url": "https://www.qbitai.com/2026/09/496352.html",
       "source": "qbitai",
-      "publishedAt": "2026-09-22T02:59:29.000Z",
-      "summaryHint": "吴泳铭表示，阿里巴巴将坚定投入AI模型、AI芯片和AI云这三项基础设施建设，这是阿里的长期战略选择。",
+      "publishedAt": "2026-09-23T06:38:07.000Z",
+      "summaryHint": "对复杂现实进行推演与决策",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-tgiazv",
+      "id": "rss-qbitai-x5fc8r",
       "type": "news",
-      "title": "阿里吴泳铭最新演讲：未来机器思考的总量将达到人类的1000倍以上",
-      "url": "https://www.qbitai.com/2026/09/493485.html",
+      "title": "实时世界模型进入“全科生”阶段，PixVerse R2先交卷！",
+      "url": "https://www.qbitai.com/2026/09/496329.html",
       "source": "qbitai",
-      "publishedAt": "2026-09-22T02:52:05.000Z",
-      "summaryHint": "9月22日，在2026杭州云栖大会上，阿里巴巴集团CEO吴泳铭发表最新演讲，阐述了对“机器智能”时代的思考。",
+      "publishedAt": "2026-09-23T06:08:50.000Z",
+      "summaryHint": "实时性和通用能力，世界模型可以全都要",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-tnzzas",
+      "id": "rss-sifted-nmjtd5",
       "type": "news",
-      "title": "AI算力之争不靠堆卡！浪潮信息捅破智算「能力天花板」，还瓦解了「产能焦虑」",
-      "url": "https://www.qbitai.com/2026/09/493363.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-22T02:22:06.000Z",
-      "summaryHint": "弥补算力缺口，不能只靠堆料",
+      "title": "Qdrant’s next chapter: From vector search into physical AI",
+      "url": "https://sifted.eu/articles/qdrants-next-chapter-from-vector-search-into-physical-ai/",
+      "source": "sifted",
+      "publishedAt": "2026-09-23T05:00:02.000Z",
       "tags": [
-        "china",
+        "eu",
         "funding"
       ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-z16uya",
       "type": "news",
-      "title": "字节、腾讯、阿里、百度举债下注AI：大厂的生存选择题 - 36kr.com",
+      "title": "字节、腾讯、阿里、百度举债下注AI：大厂的生存选择题 - 36氪",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JYmpQTl9BbEhYS0dna1JvTXdCOHlSWEhtcU5ybDcxT1FnWXZMSkdwek5wRFR4ZjRIZ1FVaDNIRDNlZU84Ny1vUURqbXVuQQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-21T09:12:00.000Z",
-      "summaryHint": "字节、腾讯、阿里、百度举债下注AI：大厂的生存选择题 &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "字节、腾讯、阿里、百度举债下注AI：大厂的生存选择题 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
@@ -292,11 +321,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-5e4a1d",
       "type": "news",
-      "title": "字节、百度与恒瑞、诺和诺德，抢滩AI制药商业化 - 36kr.com",
+      "title": "字节、百度与恒瑞、诺和诺德，抢滩AI制药商业化 - 36氪",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WUFAwRUhTaUkyV1B4QnVGdHgyeUd1MjBiUi1vZmdERnBiOVZ1ZTVRQWJBRlpDOVJWVXBNZHNuSDNmeXlRSGFhbG12SnBPZw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-20T19:24:00.000Z",
-      "summaryHint": "字节、百度与恒瑞、诺和诺德，抢滩AI制药商业化 &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "字节、百度与恒瑞、诺和诺德，抢滩AI制药商业化 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
@@ -306,11 +335,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-e2o5qn",
       "type": "news",
-      "title": "张一鸣，又创造了一个100亿 - 36kr.com",
+      "title": "张一鸣，又创造了一个100亿 - 36氪",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSQTduNThkUm8yZFRNYlRTbnMzUTY4SlFSR1RDZG8tdEpTSlRreU1XT2xzRDNkX2N6QTZIZnc1RVJkejMxQWs3TEVTbnNmZw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-20T12:24:00.000Z",
-      "summaryHint": "张一鸣，又创造了一个100亿 &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "张一鸣，又创造了一个100亿 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
@@ -320,11 +349,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-hnvkeo",
       "type": "news",
-      "title": "字节“亲儿子”，揭开了AI制药的资本局 - 36kr.com",
+      "title": "字节“亲儿子”，揭开了AI制药的资本局 - 36氪",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YQTI1d3NYbl83OFlWZmp6cktxR1k5MV8tUFFRVXJqWmRlX2U3eEt3WTUwNllZTzN2WmJ0NTZqc1pmbVRaS0o3c3MyZkVldw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-20T09:34:00.000Z",
-      "summaryHint": "字节“亲儿子”，揭开了AI制药的资本局 &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "字节“亲儿子”，揭开了AI制药的资本局 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
@@ -334,98 +363,84 @@
     {
       "id": "rss-google_news_cn_thesis-jf073l",
       "type": "news",
-      "title": "AI短剧的导演部倒闭了，新offer在哪里？ - 36kr.com",
+      "title": "AI短剧的导演部倒闭了，新offer在哪里？ - 36氪",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zWmZsX0N5aVVzcGxzMkZDV2w5eUE0S3lzUTcyUXRydjlKTFVZaWRtS1g4NHBDZlFWUExpcjdTRkc1Rk9tTzI2V0lyYmhSUQ?oc=5",
       "source": "google_news_cn_thesis",
       "publishedAt": "2026-09-19T18:11:00.000Z",
-      "summaryHint": "AI短剧的导演部倒闭了，新offer在哪里？ &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "AI短剧的导演部倒闭了，新offer在哪里？ &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-1ud7ja",
-      "type": "news",
-      "title": "AI制药一级热 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kVnp5ZjFvUGRqeDFXci1GSE96eTVRc2VSU2ZYN3NRZzZiOUY1U2szX1NuNEF3X2lpN0tTT0pQSW12eFpSOW9ucmlHZ1VOUQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-17T22:33:00.000Z",
-      "summaryHint": "AI制药一级热 &nbsp;&nbsp; 36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "reddit-rss-a2y9lu",
+      "id": "reddit-rss-koktt",
       "type": "social_en",
-      "title": "Xiaomi releases MiMo-V2.6: \"Frontier intelligence, all the modalities, built in public.\" [N]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wn36d4/xiaomi_releases_mimov26_frontier_intelligence_all/",
-      "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-09-22T07:56:31.000Z",
-      "summaryHint": "The total training cost was just $3.5M. The model comes with a live benchmaxxing dashboard. https://preview.redd.it/89uurv5r21rh1.png?width=1518&amp;format=png&amp;auto=webp&amp;s=e5d641ef941882e6dc5c023a78695f40173c5c80 https://mimo.xiaomi",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-19ku2z",
-      "type": "social_en",
-      "title": "Paper on ArXiv for a year now, should I disclose about it in ICLR submission? [Discussion]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wn30sf/paper_on_arxiv_for_a_year_now_should_i_disclose/",
-      "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-09-22T07:46:51.000Z",
-      "summaryHint": "Hi, I have a solo paper on arxiv from my masters studies, which was my part-time work and a few months back I got back to it and tried to finally make it publication ready. Do I need to disclose it in the main paper for ICLR submission that",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-dtdmhv",
-      "type": "social_en",
-      "title": "Quest 3 Gaussian Splatting App",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wmwugh/quest_3_gaussian_splatting_app/",
+      "title": "Using a 600K-splat scene as an editorial interface",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wo1kw1/using_a_600ksplat_scene_as_an_editorial_interface/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-22T02:18:09.000Z",
-      "summaryHint": "Working on a quest 3 splatting app for fun. I also have a mobile version working for android. The desktop companion app makes it pretty easy and quick to get the scans off device and into lichtfeld. I plan on getting my insta360 x6 supporte",
+      "publishedAt": "2026-09-23T09:54:02.000Z",
+      "summaryHint": "We filmed Charging Bull at 5am to get Bowling Green without the usual crowds, then built a ~600K-splat scene. For us, the interesting part was using it as more than a 3D backdrop. Parts of the sculpture link to stories, facts and interactiv",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-2f5laz",
+      "id": "reddit-rss-4bja7o",
       "type": "social_en",
-      "title": "Climate change visualized with Gaussian Splatting",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wmmmqn/climate_change_visualized_with_gaussian_splatting/",
+      "title": "Postshot vs Lichtfield vs Houdini",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wo1kgt/postshot_vs_lichtfield_vs_houdini/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-21T19:23:33.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/Dung3onlord [link] &#32; [comments]",
+      "publishedAt": "2026-09-23T09:53:19.000Z",
+      "summaryHint": "Right now, you can use both software for training Gaussian Splat data. I’m interested in your opinions on them. Which one do you use, and why? Also, have you trained with Houdini? Which one is better for scanning objects? &#32; submitted by",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-3lcwoq",
+      "id": "reddit-rss-2kq1l",
       "type": "social_en",
-      "title": "Scanning houses just got 10x cheaper",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wmlobx/scanning_houses_just_got_10x_cheaper/",
+      "title": "I've just finished my first game on steam!",
+      "url": "https://www.reddit.com/r/Unity3D/comments/1wnzmne/ive_just_finished_my_first_game_on_steam/",
+      "source": "reddit_r_Unity3D",
+      "publishedAt": "2026-09-23T07:56:17.000Z",
+      "summaryHint": "A co-op action-adventure inspired by Magicka, I might have bit more than I could chew.. CodeMonkey once recommended I should move from pvp to co-op pve and so I did. I&#39;ve first added pvp gamemodes like 1v1 and 1v1v1v1, then started work",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-7uamw",
+      "type": "social_en",
+      "title": "RELEASE THE RIVER 🌊: Making a desert bloom on a Unity Terrain",
+      "url": "https://www.reddit.com/r/Unity3D/comments/1wne3jg/release_the_river_making_a_desert_bloom_on_a/",
+      "source": "reddit_r_Unity3D",
+      "publishedAt": "2026-09-22T16:21:52.000Z",
+      "summaryHint": "Here is a short writeup on how I did this watering effect in my game Super Bloom . I have written about this before here on this sub but since then I have developed a new approach which improved performance by a lot (like from ~50 fps @ 2.5",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-qiwm2",
+      "type": "social_en",
+      "title": "a splat or something else 😁",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wnbxqd/a_splat_or_something_else/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-21T18:49:28.000Z",
-      "summaryHint": "This house was captured by SuperSplat user Tony Rose with an Insta360 X5, a ~$500 consumer 360 camera. Not long ago a scan like this would have meant a $5,000+ LiDAR rig. The whole pipeline is free and open source: Capture: Insta360 X5 (in ",
+      "publishedAt": "2026-09-22T15:02:09.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/CleanDifference6455 [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-sjzd1m",
+      "id": "reddit-rss-l2up4u",
       "type": "social_en",
-      "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
-      "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-09-18T16:13:30.000Z",
-      "summaryHint": "Hi r/MachineLearning ! I&#39;m James Gung, a principal applied scientist at AWS. I joined Amazon in 2021 and have since worked on AI services like Lex, Bedrock, Q Business, and Amazon Quick (an AI assistant for work). In that time, I&#39;ve",
+      "title": "6.7 (LTS) Beta Sweepstakes - Your chance to win a GPU, Switch or Unity Swag!",
+      "url": "https://www.reddit.com/r/Unity3D/comments/1wixyy1/67_lts_beta_sweepstakes_your_chance_to_win_a_gpu/",
+      "source": "reddit_r_Unity3D",
+      "publishedAt": "2026-09-17T15:58:55.000Z",
+      "summaryHint": "Hiii folks, We’re happy to announce our Beta Sweepstakes with the Unity 6000.7 release. This release includes a major UI Toolkit push (grid layout, z-index, gaps, gradients, and a new integrated authoring workflow), built-in Localization an",
       "tags": [
         "ai_social"
       ]
