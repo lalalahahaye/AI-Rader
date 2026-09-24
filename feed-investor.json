@@ -1,29 +1,78 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-23T11:40:57.195Z",
+  "updatedAt": "2026-09-24T11:49:34.024Z",
   "items": [
     {
-      "id": "rss-qbitai-p0myfk",
+      "id": "rss-google_news_cn_36kr_deals-5jam1z",
       "type": "funding",
-      "title": "达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”",
-      "url": "https://www.qbitai.com/2026/09/496494.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-23T09:46:57.000Z",
-      "summaryHint": "打造算电协同领域“Windows”级操作系统",
+      "title": "累计融资139亿，京东、蚂蚁同日出手，AI医疗到底为啥这么吃香？-36氪 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03RTltZ1haOTBBbVpSMWhPTGtlS3FfYURZTFF5aGctRHlZNFJra3FTNlNvY2s1YmlDSHpXMkw4dE01cUhCbVJNZTZWZGRVQ19F?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-24T01:11:47.000Z",
+      "summaryHint": "累计融资139亿，京东、蚂蚁同日出手，AI医疗到底为啥这么吃香？-36氪 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "139亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-mbln5w",
+      "type": "funding",
+      "title": "AI新材料公司获数千万天使轮融资，已合作固态电池与化工龙头丨36氪首发 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUdnA2ajlnWjc5TnNWOTIxSWlmT2xVby1xWG1NOVJqRGU5WmFjZGdwLUk2N0l5WXVmVDlPOXpPZExPZFlSZm9vcVpGd19Kdw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-23T10:32:00.000Z",
+      "summaryHint": "AI新材料公司获数千万天使轮融资，已合作固态电池与化工龙头丨36氪首发 &nbsp;&nbsp; 36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "天使轮"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-uqwhr8",
+      "type": "funding",
+      "title": "量子AI团队3个月连获两轮融资 硬核科技资本追捧新赛道 - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84alpQVXhvNUk2QUJQUmoxeVdRa3otUXJLZkpsRndFWW5wRkpjN2ZMS3NtSVc4ekwxeG9JRmZtOFRERXdZWnpxNUlCOUZQYlVIclBJ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-23T10:32:00.000Z",
+      "summaryHint": "量子AI团队3个月连获两轮融资 硬核科技资本追捧新赛道 &nbsp;&nbsp; eu.36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
         "deal_signal"
       ]
     },
     {
+      "id": "rss-google_news_cn_36kr_deals-r9rtve",
+      "type": "funding",
+      "title": "AI通信基础设施公司Bird.com完成4.5亿美元融资 - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VdmMzZWJtSlNFRURsSjNxbl9XXzRkZFk5N1F1RjhvSUM0aXVZbkJMQnRoN0lBbDljYUdLTlRjYzNnOEUyMXczRTNDSHZHelNNT2Rtcjd0bmVTS0ZLVHRneA?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-23T08:12:00.000Z",
+      "summaryHint": "AI通信基础设施公司Bird.com完成4.5亿美元融资 &nbsp;&nbsp; eu.36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "4.5亿"
+    },
+    {
       "id": "rss-google_news_cn_36kr_deals-xa9zd4",
       "type": "funding",
-      "title": "字节刚下场，多家公司融资数千万？但最火的AI游戏赛道根本不赚钱 - 36氪",
+      "title": "字节刚下场，多家公司融资数千万？但最火的AI游戏赛道根本不赚钱 - 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rbUhvMS1Ya0ZFR18yUEpHVG5kcVY5TUIxckh4Z0ptcTVVN1N4aVhuV3MzajFOa3NRcjFSUWxfZ2cybU0xQk91UjlaQ3BBdw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-22T17:22:00.000Z",
-      "summaryHint": "字节刚下场，多家公司融资数千万？但最火的AI游戏赛道根本不赚钱 &nbsp;&nbsp; 36氪",
+      "summaryHint": "字节刚下场，多家公司融资数千万？但最火的AI游戏赛道根本不赚钱 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -34,11 +83,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-ulgtzw",
       "type": "funding",
-      "title": "一年融资近29亿，IPO前“国家队”密集入场，硅基流动冲刺“Token工厂第一股” - 36氪",
+      "title": "一年融资近29亿，IPO前“国家队”密集入场，硅基流动冲刺“Token工厂第一股” - 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1M0FZbXVMRWNyeGNBVGRLdGl2dXJJZm9lTWh0UUd5T1N4RjV4UlZQckthZS1nWU1TQm1aQmlHSkl6WnRWOThrNDU0NVVHUQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-21T20:24:00.000Z",
-      "summaryHint": "一年融资近29亿，IPO前“国家队”密集入场，硅基流动冲刺“Token工厂第一股” &nbsp;&nbsp; 36氪",
+      "summaryHint": "一年融资近29亿，IPO前“国家队”密集入场，硅基流动冲刺“Token工厂第一股” &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -48,19 +97,20 @@
       "amount": "29亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-53rriq",
+      "id": "rss-google_news_cn_36kr_deals-ly39nf",
       "type": "funding",
-      "title": "太原理工3D生物打印定制皮肤项目市场化融资 科创医疗项目投资对接 - eu.36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BRUtMeVY2ZF9CQ2lPNDdEV1djcFE1NG03M183OGJVR3N0ak0yejdpeTlyRmxZNFVpdU5QLUJyenY0TWowSVd5MEphcmp6V19UMk13?oc=5",
+      "title": "悟空蓝寻求天使轮融资 资金将用于规模化落地及研发迭代 - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VcGF6M2JIM1dmWFBpem9aZGtmWlRfbllFRmliVkJJQ1JRVV9FUEItX3FQR0xFMGlpNjRxRF9lZThCSkxWajlTanFiaURSYlhCbzlN?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-21T15:57:00.000Z",
-      "summaryHint": "太原理工3D生物打印定制皮肤项目市场化融资 科创医疗项目投资对接 &nbsp;&nbsp; eu.36kr.com",
+      "publishedAt": "2026-09-21T15:31:00.000Z",
+      "summaryHint": "悟空蓝寻求天使轮融资 资金将用于规模化落地及研发迭代 &nbsp;&nbsp; eu.36kr.com",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
-      ]
+      ],
+      "round": "天使轮"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-vtceg9",
@@ -80,38 +130,6 @@
       "amount": "500万元"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-ht6ny5",
-      "type": "funding",
-      "title": "超亿元融资、化工龙头押注：沃时科技一年内完成多轮融资，多家知名产业及财务投资方联手加码 AI4S研发基础设施 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hbHJRWEJ4WFUxLTR6VUNha0dRVVpRZkRPOTJMRF9Jcmxqc01lWldRSmV5TlBoNFduMGZJR3dMZlRRMEZGMUp6QUdhTy12dw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-20T10:00:00.000Z",
-      "summaryHint": "超亿元融资、化工龙头押注：沃时科技一年内完成多轮融资，多家知名产业及财务投资方联手加码 AI4S研发基础设施 &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-dexjmf",
-      "type": "funding",
-      "title": "不是卖一套软件，而是建一套体系：雄图智能完成200万天使轮，用AI营销闭环服务中小企业 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uOW0yWkliUVQwYXRFT3JDZTB3SHY4Z3hWS1dkc3ZDY2M1dTZkX1NRdjM4NG9xTTRsRlptNkpOb2NIOWlWTkRaQWpCQnV2djVU?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-20T03:07:53.000Z",
-      "summaryHint": "不是卖一套软件，而是建一套体系：雄图智能完成200万天使轮，用AI营销闭环服务中小企业 &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "天使轮",
-      "amount": "200万"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-ijupya",
       "type": "funding",
       "title": "融资12亿营收暴涨300% 这家AI广告公司凭硬核实力引爆行业 - eu.36kr.com",
@@ -128,29 +146,13 @@
       "amount": "12亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-a9o3ax",
+      "id": "rss-google_news_cn_36kr_deals-wer5s4",
       "type": "funding",
-      "title": "AI算力芯片独角兽奕行智能再获20亿融资， 加速RISC-V云端AI算力商业化落地与生态引领 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tUGxuSzhpQ21wd1ZVVkxKc0dlVExLTVZOM1hlb1BFZWc0WTZnenBOSDN1eDY3WGdFLWFwc0tRSmNZck9ycWY3d0VfR0FaOXdJ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-19T21:58:00.000Z",
-      "summaryHint": "AI算力芯片独角兽奕行智能再获20亿融资， 加速RISC-V云端AI算力商业化落地与生态引领 &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "20亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-k4ptb7",
-      "type": "funding",
-      "title": "教育融资低谷里，资本在上半年押注了哪些 AI 教育产品？ - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KdEo5Z3lLSUVvMkwyMkt1Z3R2eXFRa1BWVnM2eVhkZ3JTeFI0RDduWHdyUFVqMlpyQlFDNk9NdWhzYmt1QUNUZGtlaUdLQQ?oc=5",
+      "title": "教育融资低谷期 上半年资本重点押注的AI教育产品盘点 - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50aTJwdVBCY2d6S1VzVVBjVWpLM2ItbjdrSjYzZWd1dkRMbzRIX09NcE1DWjNpam9SSDFCRTE0Z2tzYW5uMmY5blNwNm1tbmdEUm9J?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-19T12:00:00.000Z",
-      "summaryHint": "教育融资低谷里，资本在上半年押注了哪些 AI 教育产品？ &nbsp;&nbsp; 36氪",
+      "summaryHint": "教育融资低谷期 上半年资本重点押注的AI教育产品盘点 &nbsp;&nbsp; eu.36kr.com",
       "tags": [
         "china",
         "funding",
@@ -174,6 +176,96 @@
       ],
       "round": "天使轮",
       "amount": "200万"
+    },
+    {
+      "id": "rss-qbitai-nu1toi",
+      "type": "news",
+      "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
+      "url": "https://www.qbitai.com/2026/09/496816.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-24T08:20:12.000Z",
+      "summaryHint": "人类演示一次，机器人即可实现跨场景任务复用",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-dgtv5y",
+      "type": "news",
+      "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
+      "url": "https://www.qbitai.com/2026/09/496779.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-24T05:46:10.000Z",
+      "summaryHint": "Stripe Managed Payments (SMP) 现已全面上线",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-czs8rr",
+      "type": "news",
+      "title": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
+      "url": "https://www.qbitai.com/2026/09/496778.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-24T05:45:20.000Z",
+      "summaryHint": "专治人机动作对不齐",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-25nnuh",
+      "type": "news",
+      "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
+      "url": "https://www.qbitai.com/2026/09/496767.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-24T05:19:55.000Z",
+      "summaryHint": "开源一座具身智能的新“塔台”",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-puh98m",
+      "type": "news",
+      "title": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶",
+      "url": "https://www.qbitai.com/2026/09/496658.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-24T02:51:18.000Z",
+      "summaryHint": "9月23日，2026海信电视秋季新品发布会上，定位“原生真彩，性能旗舰”的RGB-Mini LED新品E7S Pro+正式发布",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-ap1cme",
+      "type": "news",
+      "title": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT",
+      "url": "https://www.qbitai.com/2026/09/496647.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-24T02:23:12.000Z",
+      "summaryHint": "美国也开启了全民养虾狂潮",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-ya8qu3",
+      "type": "news",
+      "title": "成立九年，中科类脑把积累装进Token工厂",
+      "url": "https://www.qbitai.com/2026/09/496615.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-24T00:48:02.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
     },
     {
       "id": "rss-qbitai-nynihs",
@@ -215,103 +307,13 @@
       ]
     },
     {
-      "id": "rss-qbitai-8x3t0y",
-      "type": "news",
-      "title": "它石智航顶尖团队引领中国具身智能率先迈入规模化落地阶段",
-      "url": "https://www.qbitai.com/2026/09/496481.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-23T08:54:04.000Z",
-      "summaryHint": "它石智航将继续扩大研发团队，加快布局生产基地，全面提升机器人交付能力",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-5rah73",
-      "type": "news",
-      "title": "斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”",
-      "url": "https://www.qbitai.com/2026/09/496471.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-23T08:45:22.000Z",
-      "summaryHint": "9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2.0-23B-A3B",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-4a150u",
-      "type": "news",
-      "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
-      "url": "https://www.qbitai.com/2026/09/496393.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-23T07:29:50.000Z",
-      "summaryHint": "每秒能产生5000+个沙盒",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-ihdsuo",
-      "type": "news",
-      "title": "Qwen一号位定了！刘大一恒接棒",
-      "url": "https://www.qbitai.com/2026/09/496384.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-23T07:27:49.000Z",
-      "summaryHint": "与稚晖君同届天才少年",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-7kg5nz",
-      "type": "news",
-      "title": "Jev vs Decitron：同为决策AI，为什么不是一回事？",
-      "url": "https://www.qbitai.com/2026/09/496352.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-23T06:38:07.000Z",
-      "summaryHint": "对复杂现实进行推演与决策",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-x5fc8r",
-      "type": "news",
-      "title": "实时世界模型进入“全科生”阶段，PixVerse R2先交卷！",
-      "url": "https://www.qbitai.com/2026/09/496329.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-23T06:08:50.000Z",
-      "summaryHint": "实时性和通用能力，世界模型可以全都要",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-sifted-nmjtd5",
-      "type": "news",
-      "title": "Qdrant’s next chapter: From vector search into physical AI",
-      "url": "https://sifted.eu/articles/qdrants-next-chapter-from-vector-search-into-physical-ai/",
-      "source": "sifted",
-      "publishedAt": "2026-09-23T05:00:02.000Z",
-      "tags": [
-        "eu",
-        "funding"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-z16uya",
       "type": "news",
-      "title": "字节、腾讯、阿里、百度举债下注AI：大厂的生存选择题 - 36氪",
+      "title": "字节、腾讯、阿里、百度举债下注AI：大厂的生存选择题 - 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JYmpQTl9BbEhYS0dna1JvTXdCOHlSWEhtcU5ybDcxT1FnWXZMSkdwek5wRFR4ZjRIZ1FVaDNIRDNlZU84Ny1vUURqbXVuQQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-21T09:12:00.000Z",
-      "summaryHint": "字节、腾讯、阿里、百度举债下注AI：大厂的生存选择题 &nbsp;&nbsp; 36氪",
+      "summaryHint": "字节、腾讯、阿里、百度举债下注AI：大厂的生存选择题 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -321,11 +323,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-5e4a1d",
       "type": "news",
-      "title": "字节、百度与恒瑞、诺和诺德，抢滩AI制药商业化 - 36氪",
+      "title": "字节、百度与恒瑞、诺和诺德，抢滩AI制药商业化 - 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WUFAwRUhTaUkyV1B4QnVGdHgyeUd1MjBiUi1vZmdERnBiOVZ1ZTVRQWJBRlpDOVJWVXBNZHNuSDNmeXlRSGFhbG12SnBPZw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-20T19:24:00.000Z",
-      "summaryHint": "字节、百度与恒瑞、诺和诺德，抢滩AI制药商业化 &nbsp;&nbsp; 36氪",
+      "summaryHint": "字节、百度与恒瑞、诺和诺德，抢滩AI制药商业化 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -335,25 +337,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-e2o5qn",
       "type": "news",
-      "title": "张一鸣，又创造了一个100亿 - 36氪",
+      "title": "张一鸣，又创造了一个100亿 - 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSQTduNThkUm8yZFRNYlRTbnMzUTY4SlFSR1RDZG8tdEpTSlRreU1XT2xzRDNkX2N6QTZIZnc1RVJkejMxQWs3TEVTbnNmZw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-20T12:24:00.000Z",
-      "summaryHint": "张一鸣，又创造了一个100亿 &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-hnvkeo",
-      "type": "news",
-      "title": "字节“亲儿子”，揭开了AI制药的资本局 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YQTI1d3NYbl83OFlWZmp6cktxR1k5MV8tUFFRVXJqWmRlX2U3eEt3WTUwNllZTzN2WmJ0NTZqc1pmbVRaS0o3c3MyZkVldw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-20T09:34:00.000Z",
-      "summaryHint": "字节“亲儿子”，揭开了AI制药的资本局 &nbsp;&nbsp; 36氪",
+      "summaryHint": "张一鸣，又创造了一个100亿 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -363,84 +351,72 @@
     {
       "id": "rss-google_news_cn_thesis-jf073l",
       "type": "news",
-      "title": "AI短剧的导演部倒闭了，新offer在哪里？ - 36氪",
+      "title": "AI短剧的导演部倒闭了，新offer在哪里？ - 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zWmZsX0N5aVVzcGxzMkZDV2w5eUE0S3lzUTcyUXRydjlKTFVZaWRtS1g4NHBDZlFWUExpcjdTRkc1Rk9tTzI2V0lyYmhSUQ?oc=5",
       "source": "google_news_cn_thesis",
       "publishedAt": "2026-09-19T18:11:00.000Z",
-      "summaryHint": "AI短剧的导演部倒闭了，新offer在哪里？ &nbsp;&nbsp; 36氪",
+      "summaryHint": "AI短剧的导演部倒闭了，新offer在哪里？ &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "reddit-rss-koktt",
+      "id": "reddit-rss-7znw0z",
       "type": "social_en",
-      "title": "Using a 600K-splat scene as an editorial interface",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wo1kw1/using_a_600ksplat_scene_as_an_editorial_interface/",
+      "title": "test",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1woxhpr/test/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-23T09:54:02.000Z",
-      "summaryHint": "We filmed Charging Bull at 5am to get Bowling Green without the usual crowds, then built a ~600K-splat scene. For us, the interesting part was using it as more than a 3D backdrop. Parts of the sculpture link to stories, facts and interactiv",
+      "publishedAt": "2026-09-24T09:58:54.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/Working_Elephant_619 [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-4bja7o",
+      "id": "reddit-rss-wcgfds",
       "type": "social_en",
-      "title": "Postshot vs Lichtfield vs Houdini",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wo1kgt/postshot_vs_lichtfield_vs_houdini/",
+      "title": "Gaussian splat experiments in my living room with Octane",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wox9aj/gaussian_splat_experiments_in_my_living_room_with/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-23T09:53:19.000Z",
-      "summaryHint": "Right now, you can use both software for training Gaussian Splat data. I’m interested in your opinions on them. Which one do you use, and why? Also, have you trained with Houdini? Which one is better for scanning objects? &#32; submitted by",
+      "publishedAt": "2026-09-24T09:44:20.000Z",
+      "summaryHint": "Feeling quite positive from this first splat I made last weekend in my living room. Recording of the live viewer in Octane render with some nice dof. &#32; submitted by &#32; /u/waltmannz [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-2kq1l",
+      "id": "reddit-rss-m2cxn6",
       "type": "social_en",
-      "title": "I've just finished my first game on steam!",
-      "url": "https://www.reddit.com/r/Unity3D/comments/1wnzmne/ive_just_finished_my_first_game_on_steam/",
-      "source": "reddit_r_Unity3D",
-      "publishedAt": "2026-09-23T07:56:17.000Z",
-      "summaryHint": "A co-op action-adventure inspired by Magicka, I might have bit more than I could chew.. CodeMonkey once recommended I should move from pvp to co-op pve and so I did. I&#39;ve first added pvp gamemodes like 1v1 and 1v1v1v1, then started work",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-7uamw",
-      "type": "social_en",
-      "title": "RELEASE THE RIVER 🌊: Making a desert bloom on a Unity Terrain",
-      "url": "https://www.reddit.com/r/Unity3D/comments/1wne3jg/release_the_river_making_a_desert_bloom_on_a/",
-      "source": "reddit_r_Unity3D",
-      "publishedAt": "2026-09-22T16:21:52.000Z",
-      "summaryHint": "Here is a short writeup on how I did this watering effect in my game Super Bloom . I have written about this before here on this sub but since then I have developed a new approach which improved performance by a lot (like from ~50 fps @ 2.5",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-qiwm2",
-      "type": "social_en",
-      "title": "a splat or something else 😁",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wnbxqd/a_splat_or_something_else/",
+      "title": "Free Blender add-on: turn any 3D model into a ready-to-train COLMAP dataset (Postshot / LichtFeld Studio)",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wol9nl/free_blender_addon_turn_any_3d_model_into_a/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-22T15:02:09.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/CleanDifference6455 [link] &#32; [comments]",
+      "publishedAt": "2026-09-23T23:10:46.000Z",
+      "summaryHint": "Workflow Blender LichtFeld If you already have a 3D model, you don&#39;t need photos and structure-from-motion to get a splat. Gaussian Render Capture renders the capture in Blender: cameras on a sphere around the model, one image per camer",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-l2up4u",
+      "id": "reddit-rss-9h0ru0",
       "type": "social_en",
-      "title": "6.7 (LTS) Beta Sweepstakes - Your chance to win a GPU, Switch or Unity Swag!",
-      "url": "https://www.reddit.com/r/Unity3D/comments/1wixyy1/67_lts_beta_sweepstakes_your_chance_to_win_a_gpu/",
-      "source": "reddit_r_Unity3D",
-      "publishedAt": "2026-09-17T15:58:55.000Z",
-      "summaryHint": "Hiii folks, We’re happy to announce our Beta Sweepstakes with the Unity 6000.7 release. This release includes a major UI Toolkit push (grid layout, z-index, gaps, gradients, and a new integrated authoring workflow), built-in Localization an",
+      "title": "Looking to the Light",
+      "url": "https://www.reddit.com/r/videography/comments/1woepst/looking_to_the_light/",
+      "source": "reddit_r_videography",
+      "publishedAt": "2026-09-23T18:52:31.000Z",
+      "summaryHint": "I did this shoot the other day (freelance). I feel like I could have done a better job with the lighting, but I am not fully sure how, or if I understand how to make the lighting better. The background is lit by some dimmable overheads on t",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-otd0z8",
+      "type": "social_en",
+      "title": "Company I work for wants to use me for video",
+      "url": "https://www.reddit.com/r/videography/comments/1woawws/company_i_work_for_wants_to_use_me_for_video/",
+      "source": "reddit_r_videography",
+      "publishedAt": "2026-09-23T16:32:31.000Z",
+      "summaryHint": "Hey all, My company is work for (in a non video roll) wants to use me for doing video for something. They expect me to use my own equipment. At my normal hourly wage(which is less than what I would charge for free lance). That seems highly ",
       "tags": [
         "ai_social"
       ]
