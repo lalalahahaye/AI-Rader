@@ -1,7 +1,70 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27T12:06:12.757Z",
+  "updatedAt": "2026-09-28T13:59:40.464Z",
   "items": [
+    {
+      "id": "rss-google_news_cn_36kr_deals-us0pd7",
+      "type": "funding",
+      "title": "单月收入破千万，AI应用公司智灵新境完成数千万元天使轮融资｜36氪首发 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50N2luRExPOHdVRlhVWkM3TGNvZXpxQllRWDA0WDRWSU9JSHJMSy1rNHdaOEpZYWhUeDNuQVhLOEtad015ZW1vWkgwTFAzY0lm?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-28T13:33:33.000Z",
+      "summaryHint": "单月收入破千万，AI应用公司智灵新境完成数千万元天使轮融资｜36氪首发 &nbsp;&nbsp; 36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "天使轮"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-x7497m",
+      "type": "funding",
+      "title": "「斜跃智能」完成数亿元天使+轮融资，线性联合投资-36氪 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FR2xVSTVlUVZHMWxFOUY2bWhnc3ZKY1Jrd1hNRE9DWDdmOWh4TU5BV2x0WHoxWjZYZFNOb1Z3N3NHcUhEak9RSi04Yw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-28T09:59:32.000Z",
+      "summaryHint": "「斜跃智能」完成数亿元天使+轮融资，线性联合投资-36氪 &nbsp;&nbsp; 36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-tnyfuq",
+      "type": "funding",
+      "title": "收入暴涨16倍，融资23亿：一家AI数据公司爆了 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE41aFNuZ0l2MWRfdnRvTkVkSldEbWtjaUlrOHBwYnN5c1Iyd0xTR29UQ0tlZTV3X2xKM2ozWWNPZ0tvalpraU1UU2dhMmR4QQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-27T21:13:00.000Z",
+      "summaryHint": "收入暴涨16倍，融资23亿：一家AI数据公司爆了 &nbsp;&nbsp; 36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "23亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-cqju72",
+      "type": "funding",
+      "title": "“包养式融资”，估值1200亿 - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3Nmpsb3RHejNwN0NwZDE5b2RBclZVMGg4UWxBeEtWUEdLc1pYc2c0T1hfOWtKakRJY0dUQTRqUGpYZ1JfSjJhcVpQdFh4ZHhyTWFv?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-27T12:56:00.000Z",
+      "summaryHint": "“包养式融资”，估值1200亿 &nbsp;&nbsp; eu.36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "1200亿"
+    },
     {
       "id": "rss-qbitai-8swvyk",
       "type": "funding",
@@ -19,11 +82,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-nhigrc",
       "type": "funding",
-      "title": "融资3亿，她宣布公司倒闭 - 36Kr",
+      "title": "融资3亿，她宣布公司倒闭 - 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RRXR1SUF4UTVtbDNLdFZfYWFrTm1qY0EwN3NEWG03bEtMTlI0SllFaGJlRFd6S0NkLVlBM0JXQ3hxRTFSSmRrZHNoRzFLQQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-25T18:29:00.000Z",
-      "summaryHint": "融资3亿，她宣布公司倒闭 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "融资3亿，她宣布公司倒闭 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -35,11 +98,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-197x2q",
       "type": "funding",
-      "title": "累计融资139亿，京东、蚂蚁同日出手，AI医疗到底为啥这么吃香？ - 36Kr",
+      "title": "累计融资139亿，京东、蚂蚁同日出手，AI医疗到底为啥这么吃香？ - 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OQzgxMW1pTjdDMGdveFc5VTREVjhiMWZXdGxfUmR0Y2RKZXBXdkJwRHJjajBmOW54QWFiU1M0NGxwQmZYTF9aaURDT1ViQQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-24T01:08:00.000Z",
-      "summaryHint": "累计融资139亿，京东、蚂蚁同日出手，AI医疗到底为啥这么吃香？ &nbsp;&nbsp; 36Kr",
+      "summaryHint": "累计融资139亿，京东、蚂蚁同日出手，AI医疗到底为啥这么吃香？ &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -51,11 +114,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-mbln5w",
       "type": "funding",
-      "title": "AI新材料公司获数千万天使轮融资，已合作固态电池与化工龙头丨36氪首发 - 36Kr",
+      "title": "AI新材料公司获数千万天使轮融资，已合作固态电池与化工龙头丨36氪首发 - 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUdnA2ajlnWjc5TnNWOTIxSWlmT2xVby1xWG1NOVJqRGU5WmFjZGdwLUk2N0l5WXVmVDlPOXpPZExPZFlSZm9vcVpGd19Kdw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-23T10:32:00.000Z",
-      "summaryHint": "AI新材料公司获数千万天使轮融资，已合作固态电池与化工龙头丨36氪首发 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "AI新材料公司获数千万天使轮融资，已合作固态电池与化工龙头丨36氪首发 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -67,26 +130,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-uqwhr8",
       "type": "funding",
-      "title": "量子AI团队3个月连获两轮融资 硬核科技资本追捧新赛道 - 36Kr",
+      "title": "量子AI团队3个月连获两轮融资 硬核科技资本追捧新赛道 - eu.36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84alpQVXhvNUk2QUJQUmoxeVdRa3otUXJLZkpsRndFWW5wRkpjN2ZMS3NtSVc4ekwxeG9JRmZtOFRERXdZWnpxNUlCOUZQYlVIclBJ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-23T10:32:00.000Z",
-      "summaryHint": "量子AI团队3个月连获两轮融资 硬核科技资本追捧新赛道 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-xt34c",
-      "type": "funding",
-      "title": "高瓴出手投资 AI芯片卖铲人汪大祥成功获得融资 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kbEo2cjVSbEFNQy1ONXJueVk5eHJBUXBveEM1bGRfQnZDcV9EVkpzUlJMVDd0djhfRk16NHExLUt1azdkRGRZM2MtaEZweXBGNnQ0?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-23T10:32:00.000Z",
-      "summaryHint": "高瓴出手投资 AI芯片卖铲人汪大祥成功获得融资 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "量子AI团队3个月连获两轮融资 硬核科技资本追捧新赛道 &nbsp;&nbsp; eu.36kr.com",
       "tags": [
         "china",
         "funding",
@@ -97,11 +145,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-mh7z4z",
       "type": "funding",
-      "title": "AI通信基础设施公司Bird.com完成4.5亿美元融资 - 36Kr",
+      "title": "AI通信基础设施公司Bird.com完成4.5亿美元融资 - 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wUE96S1RraFU0dktlcFpSUlBHbHZrSUR5MmhPN2ZqNjRfcXpkUllseFIwWjQxMmxLODgxXzRyUEpoVWVwUEhRVldVRXJVbERhNzVaU3RpTVI?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-23T08:12:00.000Z",
-      "summaryHint": "AI通信基础设施公司Bird.com完成4.5亿美元融资 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "AI通信基础设施公司Bird.com完成4.5亿美元融资 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -111,37 +159,82 @@
       "amount": "4.5亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-ly39nf",
-      "type": "funding",
-      "title": "悟空蓝寻求天使轮融资 资金将用于规模化落地及研发迭代 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VcGF6M2JIM1dmWFBpem9aZGtmWlRfbllFRmliVkJJQ1JRVV9FUEItX3FQR0xFMGlpNjRxRF9lZThCSkxWajlTanFiaURSYlhCbzlN?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-21T15:31:00.000Z",
-      "summaryHint": "悟空蓝寻求天使轮融资 资金将用于规模化落地及研发迭代 &nbsp;&nbsp; 36Kr",
+      "id": "rss-qbitai-ifuy53",
+      "type": "news",
+      "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
+      "url": "https://www.qbitai.com/2026/09/498877.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-28T12:43:53.000Z",
+      "summaryHint": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "天使轮"
+        "funding"
+      ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-vtceg9",
-      "type": "funding",
-      "title": "PanelAI启动300-500万元天使轮融资 本轮融资暂未完成 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRRmMxZmxpWWxGMVJ6Mmp3WTZCVThHS2FGLXFuS0xtaEJraElPT1Juekk4M1VOZ3lyZkREM19CVEQtTF8xZDd1QXpRMDZiMDZtXzNv?oc=5",
+      "id": "rss-qbitai-wl34z9",
+      "type": "news",
+      "title": "HC归来，华为正重新定义AIDC基础设施",
+      "url": "https://www.qbitai.com/2026/09/498787.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-28T11:18:27.000Z",
+      "summaryHint": "AI基础设施下一站：算电协同",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-47lt66",
+      "type": "news",
+      "title": "一半火焰一半海水：AI眼镜的IPO元年，撞上7月退潮 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HU1pMbDh5dXE3dWNHUjJtbGl0blo5UjM2Mjd1Zk1ZSnA2UmRsY0xoYnJIU2FiYmhLX0FHN2FvZU1ZYTBIS0s2S3Z4MktNUQ?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-20T13:49:00.000Z",
-      "summaryHint": "PanelAI启动300-500万元天使轮融资 本轮融资暂未完成 &nbsp;&nbsp; 36Kr",
+      "publishedAt": "2026-09-27T18:14:00.000Z",
+      "summaryHint": "一半火焰一半海水：AI眼镜的IPO元年，撞上7月退潮 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "天使轮",
-      "amount": "500万元"
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-qbitai-5dcl7v",
+      "type": "news",
+      "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+      "url": "https://www.qbitai.com/2026/09/498633.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-27T14:20:35.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-xbd1ba",
+      "type": "news",
+      "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+      "url": "https://www.qbitai.com/2026/09/498605.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-27T13:57:57.000Z",
+      "summaryHint": "想让开发者“说句话就能跑量子计算”",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-kmcwb4",
+      "type": "news",
+      "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
+      "url": "https://www.qbitai.com/2026/09/498584.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-27T13:40:02.000Z",
+      "summaryHint": "中秋假期文具OpenRouter调用日榜榜首",
+      "tags": [
+        "china",
+        "funding"
+      ]
     },
     {
       "id": "rss-qbitai-7cqqfq",
@@ -171,11 +264,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-fvq3tv",
       "type": "news",
-      "title": "管住AI，成了一门新生意 - 36Kr",
+      "title": "管住AI，成了一门新生意 - 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PQ19MR0VvNDByNnhDYkVYTmNuSzhVbk1mbTk0eEhjaUNxWm1PMTE0ZWRWYm93UGl5Q001OXFpYklwSEg1UVBGQVZqc0hkQQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-26T09:41:00.000Z",
-      "summaryHint": "管住AI，成了一门新生意 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "管住AI，成了一门新生意 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -222,39 +315,13 @@
       ]
     },
     {
-      "id": "rss-qbitai-yx0ofd",
-      "type": "news",
-      "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
-      "url": "https://www.qbitai.com/2026/09/497425.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-26T07:12:05.000Z",
-      "summaryHint": "vLLM人马创业公司团队出品",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-lpizjn",
-      "type": "news",
-      "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
-      "url": "https://www.qbitai.com/2026/09/497382.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-26T07:04:15.000Z",
-      "summaryHint": "还把「密钥」叫战利品",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-iuj4a0",
       "type": "news",
-      "title": "张小龙开始用小微替掉元宝了 - 36Kr",
+      "title": "张小龙开始用小微替掉元宝了 - 36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KSmU2czNfT09FMkRFSktpa3lmSXhSQ2lNaURROFZWdk9qU29vdUlZNW9YMGkzWGcta28zaGVxUE9QSktlUnczS2tqUHg4UQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-26T02:45:50.000Z",
-      "summaryHint": "张小龙开始用小微替掉元宝了 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "张小龙开始用小微替掉元宝了 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -262,13 +329,13 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-zcwwg6",
+      "id": "rss-google_news_cn_36kr_deals-8vrcux",
       "type": "news",
-      "title": "AI制药进入「价值兑现前夜」 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKbF9GMDNxYzlJLUZhcVBiLWt5UTJLQWxpQ3BlQ24zbko0VjFKSnV5U0VFdlFuX1dJRTVpSjdqcnBvZEgtWXhsM1dUQ041UQ?oc=5",
+      "title": "2025 AI制药行业发展新机遇：正式迈入价值兑现前夜 - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBWlJzOXlkTVlETUdOSmx1LXpCWGtpQzdrQnp5c0hDTTY0MFNlZFEzajJ0SkZOeXJFUFZ0amIzZDVJbnpVV3VVbktfaUUwSUVQbllJ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-25T19:34:00.000Z",
-      "summaryHint": "AI制药进入「价值兑现前夜」 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "2025 AI制药行业发展新机遇：正式迈入价值兑现前夜 &nbsp;&nbsp; eu.36kr.com",
       "tags": [
         "china",
         "funding",
@@ -276,162 +343,61 @@
       ]
     },
     {
-      "id": "rss-qbitai-iy81df",
-      "type": "news",
-      "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
-      "url": "https://www.qbitai.com/2026/09/497278.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-25T13:24:20.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-ms7x5b",
-      "type": "news",
-      "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
-      "url": "https://www.qbitai.com/2026/09/497177.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-25T13:15:45.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-8gee1l",
-      "type": "news",
-      "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
-      "url": "https://www.qbitai.com/2026/09/497108.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-25T10:00:14.000Z",
-      "summaryHint": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-8mahtu",
-      "type": "news",
-      "title": "外贸AI Agent - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UTzdyMklsSnlXYXdZMXJDRWJ1aDBhc3EyU0g2MGZmS2RDcFRjTno2MGxyX3BaV3pJcUFFRFJCb1E1T0xmNkJMZ1VUZ3dYQ2RxVzVMeFZKRnhrU2xua0VV?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-23T23:24:45.000Z",
-      "summaryHint": "外贸AI Agent &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-z16uya",
-      "type": "news",
-      "title": "字节、腾讯、阿里、百度举债下注AI：大厂的生存选择题 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JYmpQTl9BbEhYS0dna1JvTXdCOHlSWEhtcU5ybDcxT1FnWXZMSkdwek5wRFR4ZjRIZ1FVaDNIRDNlZU84Ny1vUURqbXVuQQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-21T09:12:00.000Z",
-      "summaryHint": "字节、腾讯、阿里、百度举债下注AI：大厂的生存选择题 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "reddit-rss-j3szbd",
+      "id": "reddit-rss-sjk34j",
       "type": "social_en",
-      "title": "Blender 5.3 Is Getting Native 3D Gaussian Splat Support",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wrg6hv/blender_53_is_getting_native_3d_gaussian_splat/",
+      "title": "Shot BTS for a fashion shoot.",
+      "url": "https://www.reddit.com/r/videography/comments/1wseze4/shot_bts_for_a_fashion_shoot/",
+      "source": "reddit_r_videography",
+      "publishedAt": "2026-09-28T13:42:50.000Z",
+      "summaryHint": "Was tasked with shooting bts for a Dutch photographer’s shoot of Maison Michel hats for their 90 year anniversary. Shot on BMPCC6k and a DJI ronin 4D. Studio lights were simple, two aperture 1200d’s. Had some struggle color matching the two",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-ibvvei",
+      "type": "social_en",
+      "title": "Align your 3DGS scans. Show what changed. Build an interactive tour.",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1ws9zcb/align_your_3dgs_scans_show_what_changed_build_an/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-27T09:50:26.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/WranglerOk6194 [link] &#32; [comments]",
+      "publishedAt": "2026-09-28T09:29:35.000Z",
+      "summaryHint": "Align your scans. Show what changed. Build an interactive tour. The Splat Toolkit brings together Splat Aligner and TimeSplat to turn separate Gaussian Splat captures into interactive presentations, with capture stages, multimedia hotspots ",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-cldc06",
+      "id": "reddit-rss-fqj7wx",
       "type": "social_en",
-      "title": "Gaussian Render Capture 1.2.0: remove floaters from a trained splat using the model's depth (free Blender add-on)",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wrg3rr/gaussian_render_capture_120_remove_floaters_from/",
+      "title": "What’s Kubrick’s using in this photo?",
+      "url": "https://www.reddit.com/r/videography/comments/1ws1p1p/whats_kubricks_using_in_this_photo/",
+      "source": "reddit_r_videography",
+      "publishedAt": "2026-09-28T01:40:20.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/acroyearII [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-t4kils",
+      "type": "social_en",
+      "title": "Turning images to 3D splats",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wrklfk/turning_images_to_3d_splats/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-27T09:45:45.000Z",
-      "summaryHint": "Update to the free Blender add-on I posted a few days ago (renders a COLMAP dataset from a 3D model for Postshot / LichtFeld Studio). New in 1.2.0: Clean Splat . When you train from renders, you still have the model – so you know exactly wh",
+      "publishedAt": "2026-09-27T13:44:13.000Z",
+      "summaryHint": "Ive been experimenting with a workflow where I try to create splats from a single image, and feeding it into an AI video model to make splats &#32; submitted by &#32; /u/Roznick [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-4m0h71",
+      "id": "reddit-rss-8ovqci",
       "type": "social_en",
-      "title": "Another \"Harness matters\" post (codex cli > pi and opencode)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrfp50/another_harness_matters_post_codex_cli_pi_and/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-09-27T09:20:52.000Z",
-      "summaryHint": "I run my own LLM while also having a Openai subscription. Also tried DeepSeek (latest flash now). I run Qwen 3.8 flash Next at an amazing speed on my 2x3090 + Ram! But local LLM never did worked for me outside some demos like build me a &qu",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-kj9d1s",
-      "type": "social_en",
-      "title": "Colony - a 4K seamless loop I made [OC]",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1wr9s21/colony_a_4k_seamless_loop_i_made_oc/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-09-27T03:38:15.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/has_some_chill [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-cmldpv",
-      "type": "social_en",
-      "title": "42x Faster Prompt Lookup Drafting in llama.cpp",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr5ylm/42x_faster_prompt_lookup_drafting_in_llamacpp/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-09-27T00:23:41.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/Available_Pressure47 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-qj6pd2",
-      "type": "social_en",
-      "title": "Are there tools/methods to align multiple splats together? (I.E. an apartment, each room being scanned and trained seperately)",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wr30kn/are_there_toolsmethods_to_align_multiple_splats/",
+      "title": "I 3D Scanned a Entire Location in One Flight with DJI Avata 360",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wrjf3p/i_3d_scanned_a_entire_location_in_one_flight_with/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-26T22:06:14.000Z",
-      "summaryHint": "Ive been trying to turn my whole apartment into a gaussian splat. And while it generally works, because of the sheer size, every splat trainer seems to loose details and sharpness. Even with Millions of Splats, the tools all seem to not ach",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-2xarsj",
-      "type": "social_en",
-      "title": "Anybody enjoy music visualizers?",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1wq0t1d/anybody_enjoy_music_visualizers/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-09-25T16:25:16.000Z",
-      "summaryHint": "Cymata is a cellular automata based music visualizer for iOS and tvOS, lots of different modes and effects for you to play with and listen to your music. Lots more examples here &#32; submitted by &#32; /u/0__O0--O0_0 [link] &#32; [comments",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-m7o6oa",
-      "type": "social_en",
-      "title": "Realistic Ocean with Waves for Ship Mooring application (WebGL)",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1woz52u/realistic_ocean_with_waves_for_ship_mooring/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-09-24T11:31:06.000Z",
-      "summaryHint": "We needed realistic looking water with waves that mimics the serene oceans to complement the realistic look of Ship Mooring Analysis tool Optimoor 3D that we are developing at the moment. We also wanted it to match with the minimal visual f",
+      "publishedAt": "2026-09-27T12:49:50.000Z",
+      "summaryHint": "First post on Reddit. Hi everyone, I&#39;m Gabriel and I love creating Gaussian splats. Today I want to share some results I got with the DJI Avata 360. The whole flight was around 3 minutes, about 2,000 images trained locally, and the resu",
       "tags": [
         "ai_social"
       ]
