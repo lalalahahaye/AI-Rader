@@ -1,22 +1,36 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-28T13:59:40.464Z",
+  "updatedAt": "2026-09-29T12:56:42.973Z",
   "items": [
     {
-      "id": "rss-google_news_cn_36kr_deals-us0pd7",
+      "id": "rss-google_news_cn_36kr_deals-x1t3am",
       "type": "funding",
-      "title": "单月收入破千万，AI应用公司智灵新境完成数千万元天使轮融资｜36氪首发 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50N2luRExPOHdVRlhVWkM3TGNvZXpxQllRWDA0WDRWSU9JSHJMSy1rNHdaOEpZYWhUeDNuQVhLOEtad015ZW1vWkgwTFAzY0lm?oc=5",
+      "title": "14人团队、百亿美元估值，硅谷AI新神话诞生：Instinct-36氪 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wUldZeTdhNWtkSWVtajA0M2FxYXpZMU84Z0xiZU1FUmpFNlhIVEl2Z1dWMjZVOFhlazk4OEk2WkJMdGVCeHJfUmtUcFFkcEU?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-28T13:33:33.000Z",
-      "summaryHint": "单月收入破千万，AI应用公司智灵新境完成数千万元天使轮融资｜36氪首发 &nbsp;&nbsp; 36kr.com",
+      "publishedAt": "2026-09-29T08:57:33.000Z",
+      "summaryHint": "14人团队、百亿美元估值，硅谷AI新神话诞生：Instinct-36氪 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-qbitai-pmkg4x",
+      "type": "funding",
+      "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
+      "url": "https://www.qbitai.com/2026/09/499135.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-29T07:10:59.000Z",
+      "summaryHint": "诺因从Demo走向家庭",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
       ],
-      "round": "天使轮"
+      "amount": "10亿元"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-x7497m",
@@ -32,6 +46,22 @@
         "deal_rss",
         "deal_signal"
       ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-jkbt5i",
+      "type": "funding",
+      "title": "单月收入破千万，AI应用公司智灵新境完成数千万元天使轮融资｜36氪首发 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sa1BXYVBONEJaYWs3MzVCZzdlZTJSTzFlQUgycTlKcXRCMUJrUkNvejh4a1JqVXZvQnN4dXVxXzlidkNueWRnVnR0WGtudw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-27T22:30:00.000Z",
+      "summaryHint": "单月收入破千万，AI应用公司智灵新境完成数千万元天使轮融资｜36氪首发 &nbsp;&nbsp; 36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "天使轮"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-tnyfuq",
@@ -64,36 +94,6 @@
         "deal_signal"
       ],
       "amount": "1200亿"
-    },
-    {
-      "id": "rss-qbitai-8swvyk",
-      "type": "funding",
-      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
-      "url": "https://www.qbitai.com/2026/09/498478.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-26T11:49:43.000Z",
-      "summaryHint": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
-      "tags": [
-        "china",
-        "funding",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-nhigrc",
-      "type": "funding",
-      "title": "融资3亿，她宣布公司倒闭 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RRXR1SUF4UTVtbDNLdFZfYWFrTm1qY0EwN3NEWG03bEtMTlI0SllFaGJlRFd6S0NkLVlBM0JXQ3hxRTFSSmRrZHNoRzFLQQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-25T18:29:00.000Z",
-      "summaryHint": "融资3亿，她宣布公司倒闭 &nbsp;&nbsp; 36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "3亿"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-197x2q",
@@ -157,6 +157,71 @@
         "deal_signal"
       ],
       "amount": "4.5亿"
+    },
+    {
+      "id": "rss-qbitai-538ii2",
+      "type": "news",
+      "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
+      "url": "https://www.qbitai.com/2026/09/499239.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-29T10:56:33.000Z",
+      "summaryHint": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-luk7tb",
+      "type": "news",
+      "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+      "url": "https://www.qbitai.com/2026/09/499188.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-29T07:59:46.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-dbe9vv",
+      "type": "news",
+      "title": "OpenAI因新模型太强叫停发布",
+      "url": "https://www.qbitai.com/2026/09/499140.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-29T07:49:20.000Z",
+      "summaryHint": "AGI计划暂停。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-z1bnbn",
+      "type": "news",
+      "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
+      "url": "https://www.qbitai.com/2026/09/499098.html",
+      "source": "qbitai",
+      "publishedAt": "2026-09-29T00:49:30.000Z",
+      "summaryHint": "李飞飞将入职AMD首席科学家",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-socjq1",
+      "type": "news",
+      "title": "最猛清华副教授，7个月融了27亿 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HLUdEOWx0Y3QxRjBKcEpkR3RtWG9tYktVXy1kT2NETmhranZqRHJwSnVsUEpKdGRNUW9KUnZWT1dEUTIwTkhPNlctVG9wQQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-28T18:12:00.000Z",
+      "summaryHint": "最猛清华副教授，7个月融了27亿 &nbsp;&nbsp; 36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
     },
     {
       "id": "rss-qbitai-ifuy53",
@@ -237,31 +302,6 @@
       ]
     },
     {
-      "id": "rss-qbitai-7cqqfq",
-      "type": "news",
-      "title": "啥题啊能干崩OpenAI最强模型训练…",
-      "url": "https://www.qbitai.com/2026/09/498546.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-27T09:44:16.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-techcrunch_ai-xfoe9a",
-      "type": "news",
-      "title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "source": "techcrunch_ai",
-      "publishedAt": "2026-09-26T14:00:00.000Z",
-      "summaryHint": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-      "tags": [
-        "funding",
-        "us"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-fvq3tv",
       "type": "news",
       "title": "管住AI，成了一门新生意 - 36kr.com",
@@ -273,45 +313,6 @@
         "china",
         "funding",
         "deal_rss"
-      ]
-    },
-    {
-      "id": "rss-qbitai-ivgn1x",
-      "type": "news",
-      "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
-      "url": "https://www.qbitai.com/2026/09/498271.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-26T09:07:41.000Z",
-      "summaryHint": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-l23y6g",
-      "type": "news",
-      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
-      "url": "https://www.qbitai.com/2026/09/497624.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-26T09:01:00.000Z",
-      "summaryHint": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-5wo1k8",
-      "type": "news",
-      "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
-      "url": "https://www.qbitai.com/2026/09/497613.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-26T07:18:05.000Z",
-      "summaryHint": "大伟哥：如果做不到，一年两年之后过来打我脸",
-      "tags": [
-        "china",
-        "funding"
       ]
     },
     {
@@ -343,61 +344,85 @@
       ]
     },
     {
-      "id": "reddit-rss-sjk34j",
+      "id": "reddit-rss-y29iiz",
       "type": "social_en",
-      "title": "Shot BTS for a fashion shoot.",
-      "url": "https://www.reddit.com/r/videography/comments/1wseze4/shot_bts_for_a_fashion_shoot/",
-      "source": "reddit_r_videography",
-      "publishedAt": "2026-09-28T13:42:50.000Z",
-      "summaryHint": "Was tasked with shooting bts for a Dutch photographer’s shoot of Maison Michel hats for their 90 year anniversary. Shot on BMPCC6k and a DJI ronin 4D. Studio lights were simple, two aperture 1200d’s. Had some struggle color matching the two",
+      "title": "Custom Depth with TemporalAA Jitter OFF",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1wt8mlb/custom_depth_with_temporalaa_jitter_off/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-09-29T12:20:58.000Z",
+      "summaryHint": "I’m working on a small firefighter game and today I learned that you can get rid of that annoying outline jitter (or any jitter caused by the Custom Depth buffer) that happens when your PP material’s Blendable Location is set to After Tonem",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-ibvvei",
+      "id": "reddit-rss-46dunu",
       "type": "social_en",
-      "title": "Align your 3DGS scans. Show what changed. Build an interactive tour.",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1ws9zcb/align_your_3dgs_scans_show_what_changed_build_an/",
+      "title": "Took a custom head through MetaHuman Creator (From Custom Mesh + Auto Solve) and groomed it again - full workflow",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1wt84gv/took_a_custom_head_through_metahuman_creator_from/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-09-29T11:56:57.000Z",
+      "summaryHint": "I made a tutorial on reusing one groom across many heads and then turning a custom head into a MetaHuman. Since most of the tricky part is on the MetaHuman side, here&#39;s the short version of the UE workflow so you don&#39;t have to watch",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-py0v8v",
+      "type": "social_en",
+      "title": "How to capture a huge 800x300m indoor space for Gaussian Splatting?",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wt7b98/how_to_capture_a_huge_800x300m_indoor_space_for/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-28T09:29:35.000Z",
-      "summaryHint": "Align your scans. Show what changed. Build an interactive tour. The Splat Toolkit brings together Splat Aligner and TimeSplat to turn separate Gaussian Splat captures into interactive presentations, with capture stages, multimedia hotspots ",
+      "publishedAt": "2026-09-29T11:13:44.000Z",
+      "summaryHint": "Hi everyone, We are trying to scan a massive 800x300m indoor venue using an Insta360 camera to create a walkable 3D environment and a top-down view. Our test results came out very blurry . We tried using COLMAP and Lichtfeld , but given the",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-fqj7wx",
+      "id": "reddit-rss-pwe7bu",
       "type": "social_en",
-      "title": "What’s Kubrick’s using in this photo?",
-      "url": "https://www.reddit.com/r/videography/comments/1ws1p1p/whats_kubricks_using_in_this_photo/",
-      "source": "reddit_r_videography",
-      "publishedAt": "2026-09-28T01:40:20.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/acroyearII [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-t4kils",
-      "type": "social_en",
-      "title": "Turning images to 3D splats",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wrklfk/turning_images_to_3d_splats/",
+      "title": "I built an open-source iPhone 3DGS scanner with on-device training using ARKit + Metal",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wt3h9v/i_built_an_opensource_iphone_3dgs_scanner_with/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-27T13:44:13.000Z",
-      "summaryHint": "Ive been experimenting with a workflow where I try to create splats from a single image, and feeding it into an AI video model to make splats &#32; submitted by &#32; /u/Roznick [link] &#32; [comments]",
+      "publishedAt": "2026-09-29T07:16:57.000Z",
+      "summaryHint": "Hi everyone, I’d like to share my open-source project: ARKit 3DGS Scanner . Video Demo: https://github.com/KuoFengYuan/arkit-3dgs-scanner/blob/main/docs/media/demo.mp4 https://reddit.com/link/1wt3h9v/video/ad2l9s8luesh1/player GitHub: https",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-8ovqci",
+      "id": "reddit-rss-hfnere",
       "type": "social_en",
-      "title": "I 3D Scanned a Entire Location in One Flight with DJI Avata 360",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wrjf3p/i_3d_scanned_a_entire_location_in_one_flight_with/",
+      "title": "Epic Games Launcher is super laggy and crashing my other applications in Windows.",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1wt00ss/epic_games_launcher_is_super_laggy_and_crashing/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-09-29T03:58:16.000Z",
+      "summaryHint": "Is anyone else experiencing this? The launcher installer is version 20.3.3. &#32; submitted by &#32; /u/luckskywatcher [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-1uucc7",
+      "type": "social_en",
+      "title": "GPU to CPU read operations of textures, materials and render targets with unseen performance",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1wssxm9/gpu_to_cpu_read_operations_of_textures_materials/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-09-28T22:26:38.000Z",
+      "summaryHint": "Refining and upgrading my plugin further, this updates introduces a dedicated cache for the reader to submit requests to and for the requesters to fetch their values from. The cache is a huge upgrade which deprecates the need for an async i",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-84wnkl",
+      "type": "social_en",
+      "title": "I built a free Mac slideshow app using Apple's Reframe model to turn single photos into moving Gaussian scenes",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wsjwvj/i_built_a_free_mac_slideshow_app_using_apples/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-27T12:49:50.000Z",
-      "summaryHint": "First post on Reddit. Hi everyone, I&#39;m Gabriel and I love creating Gaussian splats. Today I want to share some results I got with the DJI Avata 360. The whole flight was around 3 minutes, about 2,000 images trained locally, and the resu",
+      "publishedAt": "2026-09-28T16:50:02.000Z",
+      "summaryHint": "I&#39;m the developer of Spatial Slideshow, a free Mac app that uses the Reframe model installed with Apple Photos to reconstruct a Gaussian scene from an ordinary photo, then move the camera through it. I wanted to watch whole photo albums",
       "tags": [
         "ai_social"
       ]
