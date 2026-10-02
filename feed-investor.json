@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T13:20:10.185Z",
+  "updatedAt": "2026-10-02T12:39:16.178Z",
   "items": [
     {
       "id": "rss-google_news_cn_36kr_deals-wrq0ji",
@@ -20,11 +20,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-2c490a",
       "type": "funding",
-      "title": "36氪专访 华为诺亚生成式大模型负责人创业家庭具身 一年融资超10亿 - 36 Kr",
+      "title": "36氪专访 华为诺亚生成式大模型负责人创业家庭具身 一年融资超10亿 - eu.36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ITkhUNEdnTmNQUDV3VlNBWHB0S2dCc281TmhQVTFnUEtaU2l1V09tZmE1UUFldWk1LUpqS0FfVWJwRG9oUWphTHlpTjhiLUVtM0Jr?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-28T10:00:00.000Z",
-      "summaryHint": "36氪专访 华为诺亚生成式大模型负责人创业家庭具身 一年融资超10亿 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "36氪专访 华为诺亚生成式大模型负责人创业家庭具身 一年融资超10亿 &nbsp;&nbsp; eu.36kr.com",
       "tags": [
         "china",
         "funding",
@@ -34,29 +34,13 @@
       "amount": "10亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-jkbt5i",
-      "type": "funding",
-      "title": "单月收入破千万，AI应用公司智灵新境完成数千万元天使轮融资｜36氪首发 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1sa1BXYVBONEJaYWs3MzVCZzdlZTJSTzFlQUgycTlKcXRCMUJrUkNvejh4a1JqVXZvQnN4dXVxXzlidkNueWRnVnR0WGtudw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-27T22:30:00.000Z",
-      "summaryHint": "单月收入破千万，AI应用公司智灵新境完成数千万元天使轮融资｜36氪首发 &nbsp;&nbsp; 36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "天使轮"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-dum2sb",
       "type": "funding",
-      "title": "AI代理初创公司Instinct以100亿美元估值完成10亿美元融资 - 36 Kr",
+      "title": "AI代理初创公司Instinct以100亿美元估值完成10亿美元融资 - eu.36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56aHVGaUdnWXB1c1FIaEhfYnBsb2pJVUdJdUJXNnc4NEhEM0p1NUdyeFR2dU92XzFqTElQTnN1MS1odHFQbkc3Nl9HNzd0MmQ1eXdySDRScVROTFhHVjl4eA?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-27T20:36:00.000Z",
-      "summaryHint": "AI代理初创公司Instinct以100亿美元估值完成10亿美元融资 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "AI代理初创公司Instinct以100亿美元估值完成10亿美元融资 &nbsp;&nbsp; eu.36kr.com",
       "tags": [
         "china",
         "funding",
@@ -84,11 +68,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-cqju72",
       "type": "funding",
-      "title": "“包养式融资”，估值1200亿 - 36 Kr",
+      "title": "“包养式融资”，估值1200亿 - eu.36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3Nmpsb3RHejNwN0NwZDE5b2RBclZVMGg4UWxBeEtWUEdLc1pYc2c0T1hfOWtKakRJY0dUQTRqUGpYZ1JfSjJhcVpQdFh4ZHhyTWFv?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-27T12:56:00.000Z",
-      "summaryHint": "“包养式融资”，估值1200亿 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "“包养式融资”，估值1200亿 &nbsp;&nbsp; eu.36kr.com",
       "tags": [
         "china",
         "funding",
@@ -96,6 +80,71 @@
         "deal_signal"
       ],
       "amount": "1200亿"
+    },
+    {
+      "id": "rss-qbitai-g8xpiu",
+      "type": "news",
+      "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+      "url": "https://www.qbitai.com/2026/10/500098.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-02T07:34:15.000Z",
+      "summaryHint": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-sprsex",
+      "type": "news",
+      "title": "丘成桐新论文致谢了GPT和Claude",
+      "url": "https://www.qbitai.com/2026/10/499991.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-02T07:27:03.000Z",
+      "summaryHint": "44年前被亲自列入问题清单",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-d2xikk",
+      "type": "news",
+      "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
+      "url": "https://www.qbitai.com/2026/10/499958.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-02T06:46:32.000Z",
+      "summaryHint": "换区也没用",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-wfaswx",
+      "type": "news",
+      "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+      "url": "https://www.qbitai.com/2026/10/499812.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-01T15:06:30.000Z",
+      "summaryHint": "用ImageNet训练encoder",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-g7ipiz",
+      "type": "news",
+      "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+      "url": "https://www.qbitai.com/2026/10/499663.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-01T15:02:14.000Z",
+      "summaryHint": "价格只有Astra一半",
+      "tags": [
+        "china",
+        "funding"
+      ]
     },
     {
       "id": "rss-qbitai-5b2r9p",
@@ -163,81 +212,17 @@
       ]
     },
     {
-      "id": "rss-qbitai-aldhi1",
+      "id": "rss-google_news_cn_36kr_deals-kh1193",
       "type": "news",
-      "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
-      "url": "https://www.qbitai.com/2026/09/499308.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-30T05:18:05.000Z",
-      "summaryHint": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-36pa3c",
-      "type": "news",
-      "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
-      "url": "https://www.qbitai.com/2026/09/499280.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-30T04:42:22.000Z",
-      "summaryHint": "机器人上市，风向有变",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-oqyf65",
-      "type": "news",
-      "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
-      "url": "https://www.qbitai.com/2026/09/499263.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-30T02:53:17.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-ichxji",
-      "type": "news",
-      "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
-      "url": "https://www.qbitai.com/2026/09/499246.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-29T23:01:05.000Z",
-      "summaryHint": "今年devday牙膏挤爆",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-ut69do",
-      "type": "news",
-      "title": "开抢清华00后 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Mb01HXzd3VlM0eldOVkVCdXViR0RYaHNhaDZrOVRiaHlEbnlhVUtmQU1sR3BycTBlMWNCek5ob0JTU3dUYjg0NXdKcVgxQQ?oc=5",
+      "title": "硅谷藏了多少隐形债务？ - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94WnowSkJTdGpLOF9fSldIcUJyZExyUm15WjIyQUZNRHRhdFhDeDdaSzhydDdZa3JtTTFVR1pqRzRCMWFodXBBenZBSzZnZw?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-29T14:05:00.000Z",
-      "summaryHint": "开抢清华00后 &nbsp;&nbsp; 36kr.com",
+      "publishedAt": "2026-09-29T22:00:00.000Z",
+      "summaryHint": "硅谷藏了多少隐形债务？ &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
         "deal_rss"
-      ]
-    },
-    {
-      "id": "rss-qbitai-538ii2",
-      "type": "news",
-      "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
-      "url": "https://www.qbitai.com/2026/09/499239.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-29T10:56:33.000Z",
-      "summaryHint": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景",
-      "tags": [
-        "china",
-        "funding"
       ]
     },
     {
@@ -255,27 +240,13 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-socjq1",
+      "id": "rss-google_news_cn_36kr_deals-6ullas",
       "type": "news",
-      "title": "最猛清华副教授，7个月融了27亿 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HLUdEOWx0Y3QxRjBKcEpkR3RtWG9tYktVXy1kT2NETmhranZqRHJwSnVsUEpKdGRNUW9KUnZWT1dEUTIwTkhPNlctVG9wQQ?oc=5",
+      "title": "机器人触觉战争：半年涌入百亿资本，多家公司争夺「触觉第一股」-36氪 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3M1hwNktZOWRjbFpMcklPbkVYV2RVMjdSRWxjcWRCVDc0ZlliOTRaRHVGSW5ncXFYZU5Ib2lfb05JdXA4RjhMWHJpNlhPWjFP?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-28T18:12:00.000Z",
-      "summaryHint": "最猛清华副教授，7个月融了27亿 &nbsp;&nbsp; 36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-q7x77y",
-      "type": "news",
-      "title": "ARR真的是大模型企业的黄金指标吗？ - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mc0EwN1JKNkFOaGJ5YUxoOTg1eDg3WUEtZl9CUFQtQy1jZ1lwX01mOEVfXzlhRjlMeTBFRnYtTlltSHFWZ0YyanhPZ0VzUQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-27T20:27:00.000Z",
-      "summaryHint": "ARR真的是大模型企业的黄金指标吗？ &nbsp;&nbsp; 36kr.com",
+      "publishedAt": "2026-09-28T12:27:00.000Z",
+      "summaryHint": "机器人触觉战争：半年涌入百亿资本，多家公司争夺「触觉第一股」-36氪 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -311,6 +282,34 @@
       ]
     },
     {
+      "id": "rss-google_news_cn_36kr_deals-74pv25",
+      "type": "news",
+      "title": "OpenAI突发急刹车，AI竟在全网植入自我复制代码，血洗联合国内网 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OSW1teFVWQTRmZ0ZCMkpXbnBVVjhJSWFfSkNPUG1peFRYU1ZucWdnamFFTkttRTNWa2p4SE9RcnhwQ0Z5VDBkMzd1cU9aZw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-27T17:56:00.000Z",
+      "summaryHint": "OpenAI突发急刹车，AI竟在全网植入自我复制代码，血洗联合国内网 &nbsp;&nbsp; 36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-p4ny1a",
+      "type": "news",
+      "title": "哪些环节已透支？公募把脉AI 2.0 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1dUxldnROaUpEUDhpMHg3eE4xTmtIcVYxa1M1Z3RtVEVUWEZwTFJRNzh3eXluLWtZemljNG1wNnliM2psbjJBUW1NT2IzQQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-27T16:34:00.000Z",
+      "summaryHint": "哪些环节已透支？公募把脉AI 2.0 &nbsp;&nbsp; 36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
       "id": "rss-google_news_cn_36kr_deals-fvq3tv",
       "type": "news",
       "title": "管住AI，成了一门新生意 - 36kr.com",
@@ -327,11 +326,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-8vrcux",
       "type": "news",
-      "title": "2025 AI制药行业发展新机遇：正式迈入价值兑现前夜 - 36 Kr",
+      "title": "2025 AI制药行业发展新机遇：正式迈入价值兑现前夜 - eu.36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBWlJzOXlkTVlETUdOSmx1LXpCWGtpQzdrQnp5c0hDTTY0MFNlZFEzajJ0SkZOeXJFUFZ0amIzZDVJbnpVV3VVbktfaUUwSUVQbllJ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-25T19:34:00.000Z",
-      "summaryHint": "2025 AI制药行业发展新机遇：正式迈入价值兑现前夜 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "2025 AI制药行业发展新机遇：正式迈入价值兑现前夜 &nbsp;&nbsp; eu.36kr.com",
       "tags": [
         "china",
         "funding",
@@ -339,109 +338,73 @@
       ]
     },
     {
-      "id": "reddit-rss-8kh7vz",
+      "id": "reddit-rss-vb8r1d",
       "type": "social_en",
-      "title": "Why am I like this? (Full Chat and Image generation on a 286 Tandy 1000 TL/3)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuxzdg/why_am_i_like_this_full_chat_and_image_generation/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-10-01T12:20:55.000Z",
-      "summaryHint": "40 year tech gap? No problem! The Tandy runs DeskMind, a native DOS program. It talks over WiFi (a PicoMEM 2 card with mTCP) to a small Python server on my PC. That server drives Qwen3.8-27B (NInfer on a 5090) and Krea 2 (ComfyUI on a 4090)",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-tna24z",
-      "type": "social_en",
-      "title": "Qwen4Exp: add MTP by am17an · Pull Request #29761 · ggml-org/llama.cpp",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuwrsk/qwen4exp_add_mtp_by_am17an_pull_request_29761/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-10-01T11:18:34.000Z",
-      "summaryHint": "now you can use MTP with Qwen Flash Next, time to switch from Qwen 3.8 27B? (merged after 17h of development) quants: https://huggingface.co/ggml-org/Qwen3.8-Flash-Next-GGUF link to the previous discussion (I deleted the old post to avoid d",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-qo9sxk",
-      "type": "social_en",
-      "title": "Immersive Omaha Beach - 6/6/1944",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wuw0ne/immersive_omaha_beach_661944/",
+      "title": "Best workflow for iPhone Gaussian Splatting + editable terrain + Blender house model?",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wvqumw/best_workflow_for_iphone_gaussian_splatting/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-01T10:36:11.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/Cryogenicality [link] &#32; [comments]",
+      "publishedAt": "2026-10-02T11:00:37.000Z",
+      "summaryHint": "Hey everyone, I’m trying to figure out the best workflow for scanning my property with an iPhone and then using that data for house planning / visualization. My idea is to capture the whole property with an iPhone and create a Gaussian Spla",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-z2bsc2",
+      "id": "reddit-rss-7gllb8",
       "type": "social_en",
-      "title": "Retro car",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1wuus6m/retro_car/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-10-01T09:19:18.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/Cage_Creed [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-orjnr3",
-      "type": "social_en",
-      "title": "Free asset available on FAB",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1wuuomi/free_asset_available_on_fab/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-10-01T09:12:54.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/Hot-Appointment-2488 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-96uppg",
-      "type": "social_en",
-      "title": "[Update] LuluSplat now on Windows, running on old RX570",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wusspf/update_lulusplat_now_on_windows_running_on_old/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-01T07:09:12.000Z",
-      "summaryHint": "v1.1.2 https://liquiduslabs.com/lulusplat/ Video shows running on Windows 10 with an old Radeon RX570. High efficiency training that supports old video cards as long as it has Vulkan 1.1. Same features as Mac version. Trainers — Vanilla (gs",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-v3hw06",
-      "type": "social_en",
-      "title": "c++ operating system level primitives with window and render functions",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1wum4es/c_operating_system_level_primitives_with_window/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-10-01T01:03:44.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/wizard_creator_seth [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-rse4ct",
-      "type": "social_en",
-      "title": "Least to most expensive (Somewhat modern) GPU's with 32gb of vram (Under $1600) Based on ebay listings",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuk9so/least_to_most_expensive_somewhat_modern_gpus_with/",
+      "title": "llama, server: add /v1/systemone API (models: laya, julia-1, lev, openjev, kev) by ngxson · Pull Request #29818 · ggml-org/llama.cpp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvqbrz/llama_server_add_v1systemone_api_models_laya/",
       "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-09-30T23:36:12.000Z",
-      "summaryHint": "I was researching prices on ebay and fed claude a bunch of images of listings. I had it make a chart and thought it would be useful to share. &#32; submitted by &#32; /u/Rombodawg [link] &#32; [comments]",
+      "publishedAt": "2026-10-02T10:29:47.000Z",
+      "summaryHint": "Now you can jev without jev https://huggingface.co/ggml-org/OpenJev-GGUF https://huggingface.co/ggml-org/lev-GGUF https://huggingface.co/ggml-org/Julia-1-GGUF https://huggingface.co/ggml-org/Laya-GGUF https://huggingface.co/ggml-org/Kev-4B-",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-u9wf87",
+      "id": "reddit-rss-j5yz9b",
       "type": "social_en",
-      "title": "Art Galleries are moving online - thanks to 3D Gaussian splatting",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wu1c4x/art_galleries_are_moving_online_thanks_to_3d/",
+      "title": "Does anyone know if any new releases from Mistral are planned?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvpxg8/does_anyone_know_if_any_new_releases_from_mistral/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-10-02T10:05:59.000Z",
+      "summaryHint": "It’s been a long time since the last models came out. I notice they are selling GLM on the site, and I wonder if they are developing something, given the long silence. &#32; submitted by &#32; /u/LegacyRemaster [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-7xpz8",
+      "type": "social_en",
+      "title": "Same bedroom, 8 phone walks, 3 great and 5 foggy. Frames + COLMAP scene attached. What am I missing?",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wvj4yf/same_bedroom_8_phone_walks_3_great_and_5_foggy/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-09-30T10:25:42.000Z",
-      "summaryHint": "Captured by Braincraft GmbH: &quot;Doors of Perception&quot;, an exhibition of in-camera multiple-exposure photographs by Nabiha &amp; Thom, shown at Spitäle Würzburg in autumn 2025. SuperSplat link: https://superspl.at/scene/a6df26f1 The c",
+      "publishedAt": "2026-10-02T03:11:23.000Z",
+      "summaryHint": "I&#39;m trying to build walkable splats of apartment rooms from phone video. Samsung, handheld, no gimbal. Three of my walks came out great. Five came out foggy or blurry. Same bedroom, same pipeline, and I can&#39;t nail down why. Pipeline",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-a7m6xu",
+      "type": "social_en",
+      "title": "Pi 1.0 released - MCP support now included by default",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvffcr/pi_10_released_mcp_support_now_included_by_default/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-10-02T00:09:04.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/psychohistorian8 [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-qk48ls",
+      "type": "social_en",
+      "title": "Fast GSplat in blender SHARP+",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wv815x/fast_gsplat_in_blender_sharp/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-10-01T18:58:55.000Z",
+      "summaryHint": "I&#39;m working on a blender addon for concept artists. Mainly it&#39;s for combining photobashing workflow with pure 3D. ML Sharp is an awesome little model from apple that can spit out a single view splat from single image. It&#39;s super",
       "tags": [
         "ai_social"
       ]
