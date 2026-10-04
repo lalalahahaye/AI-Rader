@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-03T11:42:47.175Z",
+  "updatedAt": "2026-10-04T12:25:20.290Z",
   "items": [
+    {
+      "id": "rss-qbitai-74joa2",
+      "type": "funding",
+      "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+      "url": "https://www.qbitai.com/2026/10/501451.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-04T00:53:29.000Z",
+      "summaryHint": "专业3D模型反而更稀缺了",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "amount": "1亿"
+    },
     {
       "id": "rss-qbitai-a7teec",
       "type": "funding",
@@ -17,13 +32,28 @@
       "amount": "100亿"
     },
     {
+      "id": "rss-google_news_cn_36kr_deals-dsilh3",
+      "type": "funding",
+      "title": "130余家公司国庆节后率先披露三季报，部分上半年盈利个股获融资客重点加仓 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xVktidW5qUE1UbjhTZlhmWFNrT2tuQ0l1cURiUm1CTzJ5Nmk3SElCOWhFT1lnb21fR2pXOHNRZmlqaDNoWXBzUW5vUUQzVFNMczh1Z0VtdGc?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-02T10:42:00.000Z",
+      "summaryHint": "130余家公司国庆节后率先披露三季报，部分上半年盈利个股获融资客重点加仓 &nbsp;&nbsp; 36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
       "id": "rss-google_news_cn_36kr_deals-7zw7a1",
       "type": "funding",
-      "title": "字节美团投资的机器人公司破产 累计烧光6亿元融资 - 36Kr",
+      "title": "字节美团投资的机器人公司破产 累计烧光6亿元融资 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLcV8tU1M5OThWeWNpS2JrOHZtR3g3X29SVGczSGpUbUZ1bnFEZlJwcjR5Q1RJajBtc05sSHU5ZTJrSzdkV0NaYWRGX2Q1V2lxUTEw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-29T16:34:00.000Z",
-      "summaryHint": "字节美团投资的机器人公司破产 累计烧光6亿元融资 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "字节美团投资的机器人公司破产 累计烧光6亿元融资 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -48,28 +78,13 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-t0m5pj",
-      "type": "funding",
-      "title": "斯坦福博士后做柔性触觉传感器，再获亿元级融资｜硬氪首发 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50djNvLVFuSnE4OHpIOGxqclJXVlZZdDFrcV9XYS1DRWp1cDdCendHY2g3cGx3MUpEUFYtcFV0OC1YUEdYSkwzTWlHZXo0UQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-28T11:30:00.000Z",
-      "summaryHint": "斯坦福博士后做柔性触觉传感器，再获亿元级融资｜硬氪首发 &nbsp;&nbsp; 36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-2c490a",
       "type": "funding",
-      "title": "36氪专访 华为诺亚生成式大模型负责人创业家庭具身 一年融资超10亿 - 36Kr",
+      "title": "36氪专访 华为诺亚生成式大模型负责人创业家庭具身 一年融资超10亿 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ITkhUNEdnTmNQUDV3VlNBWHB0S2dCc281TmhQVTFnUEtaU2l1V09tZmE1UUFldWk1LUpqS0FfVWJwRG9oUWphTHlpTjhiLUVtM0Jr?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-28T10:00:00.000Z",
-      "summaryHint": "36氪专访 华为诺亚生成式大模型负责人创业家庭具身 一年融资超10亿 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "36氪专访 华为诺亚生成式大模型负责人创业家庭具身 一年融资超10亿 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -81,11 +96,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-dum2sb",
       "type": "funding",
-      "title": "AI代理初创公司Instinct以100亿美元估值完成10亿美元融资 - 36Kr",
+      "title": "AI代理初创公司Instinct以100亿美元估值完成10亿美元融资 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56aHVGaUdnWXB1c1FIaEhfYnBsb2pJVUdJdUJXNnc4NEhEM0p1NUdyeFR2dU92XzFqTElQTnN1MS1odHFQbkc3Nl9HNzd0MmQ1eXdySDRScVROTFhHVjl4eA?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-27T20:36:00.000Z",
-      "summaryHint": "AI代理初创公司Instinct以100亿美元估值完成10亿美元融资 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "AI代理初创公司Instinct以100亿美元估值完成10亿美元融资 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -113,11 +128,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-cqju72",
       "type": "funding",
-      "title": "“包养式融资”，估值1200亿 - 36Kr",
+      "title": "“包养式融资”，估值1200亿 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3Nmpsb3RHejNwN0NwZDE5b2RBclZVMGg4UWxBeEtWUEdLc1pYc2c0T1hfOWtKakRJY0dUQTRqUGpYZ1JfSjJhcVpQdFh4ZHhyTWFv?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-27T12:56:00.000Z",
-      "summaryHint": "“包养式融资”，估值1200亿 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "“包养式融资”，估值1200亿 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -125,6 +140,46 @@
         "deal_signal"
       ],
       "amount": "1200亿"
+    },
+    {
+      "id": "rss-qbitai-6q0b4x",
+      "type": "news",
+      "title": "AI算力硬合作，马斯克还是更相信中国制造",
+      "url": "https://www.qbitai.com/2026/10/501605.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-04T06:12:22.000Z",
+      "summaryHint": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-z2l5sx",
+      "type": "news",
+      "title": "最火AI岗位FDE：月薪5万，都干这些…",
+      "url": "https://www.qbitai.com/2026/10/501506.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-04T06:05:35.000Z",
+      "summaryHint": "什么是FDE？它会一直存在吗？",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-jpafsn",
+      "type": "news",
+      "title": "中国公司全球化周报｜速卖通智能经营AI Agent全面上线 / 百度海外版Kooko用户破千万 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90QUx6ZmJIbFU4am5OaFhpUWJfazR2REhtdE1oUEVteXpQTDlsMXQ2ei1TaVprcFYwd2FWV28ybXA1YV9LMHRYaDNwOUV5Zw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-03T10:18:00.000Z",
+      "summaryHint": "中国公司全球化周报｜速卖通智能经营AI Agent全面上线 / 百度海外版Kooko用户破千万 &nbsp;&nbsp; 36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
     },
     {
       "id": "rss-qbitai-mc41vy",
@@ -218,45 +273,6 @@
       ]
     },
     {
-      "id": "rss-qbitai-g7ipiz",
-      "type": "news",
-      "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
-      "url": "https://www.qbitai.com/2026/10/499663.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-01T15:02:14.000Z",
-      "summaryHint": "价格只有Astra一半",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-5b2r9p",
-      "type": "news",
-      "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
-      "url": "https://www.qbitai.com/2026/09/499654.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-30T14:03:43.000Z",
-      "summaryHint": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-3f90iv",
-      "type": "news",
-      "title": "直播回顾：工业AI的下一个机会在哪？",
-      "url": "https://www.qbitai.com/2026/09/499605.html",
-      "source": "qbitai",
-      "publishedAt": "2026-09-30T12:11:24.000Z",
-      "summaryHint": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-c912t4",
       "type": "news",
       "title": "“AI空头”思考：云大厂“ROIC下滑”、大模型“难有护城河”、OpenAI是“AI时代WeWork”、Muse背后“人肉电池” - 36kr.com",
@@ -278,6 +294,20 @@
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-28T12:27:00.000Z",
       "summaryHint": "机器人触觉战争：半年涌入百亿资本，多家公司争夺「触觉第一股」-36氪 &nbsp;&nbsp; 36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-1wpkb9",
+      "type": "news",
+      "title": "基金投顾AI部署走到哪一步了？易方达、华夏、南方、嘉实、中欧等头部公募及财富子AI部署全景调研 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpbHlfdXZsa1owZVdFQlBHNkxTdXhMUXZvMXcwMDZtSFBpemQ2MlNBckNFQjB3LWRwYTl3Wk5JN2YyWDdtZlUtODRLclpRUQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-27T18:15:00.000Z",
+      "summaryHint": "基金投顾AI部署走到哪一步了？易方达、华夏、南方、嘉实、中欧等头部公募及财富子AI部署全景调研 &nbsp;&nbsp; 36kr.com",
       "tags": [
         "china",
         "funding",
@@ -327,99 +357,85 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-kprjbt",
-      "type": "news",
-      "title": "苹果真正的AI杀手锏，根本不是 Siri - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MeWp6amtqV2JURmRvREhtM1FiWkU0aFRwcFdhUlc2R1VYWFdVREpGdHlvMThQUkFZY0s5c1hkbk5xV2d4dHlCMTFQMjg5QQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-27T12:55:00.000Z",
-      "summaryHint": "苹果真正的AI杀手锏，根本不是 Siri &nbsp;&nbsp; 36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "reddit-rss-1z1rfy",
+      "id": "reddit-rss-w7cppi",
       "type": "social_en",
-      "title": "Quixel assets that aren't full 360 models should have a mirroring or auto polygon filling variant.",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1wwksuv/quixel_assets_that_arent_full_360_models_should/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-10-03T11:20:21.000Z",
-      "summaryHint": "So many of the assets have an invisible side. Rocks need to get fully placed under the surface (harder with random terrain, and procedural placement). Any objects missing a side need to be perfectly pushed up against walls. It seems like fo",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-ktfds6",
-      "type": "social_en",
-      "title": "Fake Volumetric Clouds Using WPO and Pixel Depth Offset",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1wwieq8/fake_volumetric_clouds_using_wpo_and_pixel_depth/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-10-03T08:51:34.000Z",
-      "summaryHint": "Fake volumetric cloud effects created using WPO and pixel depth offset, along with cloud fade in/out height using camera position. &#32; submitted by &#32; /u/globalvariable7 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-ezc6ns",
-      "type": "social_en",
-      "title": "Standart Texture Import Settings",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1wwgn1r/standart_texture_import_settings/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-10-03T06:59:58.000Z",
-      "summaryHint": "Is it possible to have a standart texture group of my choice be assigned by default when I import a texture, or have a setting that does that for all textures already in a project? I aim for a low poly style with pixelated textures, think o",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-4zbaxi",
-      "type": "social_en",
-      "title": "Other Fab sellers: do you get decent sales but barely any reviews?",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1wweazx/other_fab_sellers_do_you_get_decent_sales_but/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-10-03T04:40:16.000Z",
-      "summaryHint": "I&#39;ve noticed that even when sales are going well, very few buyers leave a rating or any feedback. Does anyone else experience this? I don’t expect everyone to leave a review, but as a creator, it’s hard to know how people are getting on",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-lbbb1c",
-      "type": "social_en",
-      "title": "Blender 5.3 3DGS editing add-on",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1ww97os/blender_53_3dgs_editing_addon/",
+      "title": "3DGS Viewer for VS Code",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wxd7ct/3dgs_viewer_for_vs_code/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-03T00:07:09.000Z",
-      "summaryHint": "I worked with Claude to build a blender add-on for retouching 3DGS models in Blender 5.3 (alpha) now that it has native support for splats. This will not work in earlier versions of Blender. I wanted a tool to edit splats like I would retou",
+      "publishedAt": "2026-10-04T11:15:39.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/backperswhi [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-av153f",
+      "id": "reddit-rss-xyl1xj",
       "type": "social_en",
-      "title": "Uma Thurman, Pulp Fiction, 1994",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1ww6j80/uma_thurman_pulp_fiction_1994/",
+      "title": "“The photoshop of gaussian splatting”",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wxco59/the_photoshop_of_gaussian_splatting/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-02T22:01:55.000Z",
-      "summaryHint": "My fifth guassian splat. Having a lot of fun with it. Image -&gt; 5s 360 AI Video -&gt; Guassian Splat (30,000 steps) What&#39;s next outside of VR and just standard Guassian Viewer? What else can we do with it? &#32; submitted by &#32; /u/",
+      "publishedAt": "2026-10-04T10:43:42.000Z",
+      "summaryHint": "I did not used ai to write this so sorry for my rumbling or grammar mistakes! 😆 I am currently working on a supersplat fork, which is deeply modified. I am implementing many usefull tools to manipulate your gaussian splats before publishin",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-6zl1pc",
+      "id": "reddit-rss-yxe84l",
       "type": "social_en",
-      "title": "Reinventing the wheel isn't a breakthrough. Stop presenting duplicate wrappers as revolutionary tools.",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1ww2hap/reinventing_the_wheel_isnt_a_breakthrough_stop/",
+      "title": "Top ARC-ΑGI-3 scores on Kaggle just went from 7% to 56% [N]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wxcd4k/top_arcαgi3_scores_on_kaggle_just_went_from_7_to/",
+      "source": "reddit_r_MachineLearning",
+      "publishedAt": "2026-10-04T10:24:58.000Z",
+      "summaryHint": "https://preview.redd.it/gkjgii48gfth1.png?width=575&amp;format=png&amp;auto=webp&amp;s=4e1c35bdacf41d18a6409baedcddc9432ec79814 This happened over the past 30 days. So smallish local models (Kagglers can only use those), in a harness, just ",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-3s4x3m",
+      "type": "social_en",
+      "title": "Working with an AI Company That Does Things You Disagree With [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wxar4x/working_with_an_ai_company_that_does_things_you/",
+      "source": "reddit_r_MachineLearning",
+      "publishedAt": "2026-10-04T08:41:09.000Z",
+      "summaryHint": "I&#39;m a PhD student in machine learning in the EU and was looking for internships at exciting companies. I shortlisted few and applied by reaching out to people and now reading project descriptions sent by the recruiters. I don&#39;t want",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-kue6y9",
+      "type": "social_en",
+      "title": "8 cameras 25 fps capture",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wwynvw/8_cameras_25_fps_capture/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-02T19:14:20.000Z",
-      "summaryHint": "The explosion of open source models and workflows right now is insane. As technology moves fast, it&#39;s completely natural that different people end up arriving at the exact same point and using similar patterns at the same time. That par",
+      "publishedAt": "2026-10-03T21:34:58.000Z",
+      "summaryHint": "Little Project with my dad in the Backyard &#32; submitted by &#32; /u/Natural-Will-5525 [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-j9qmv1",
+      "type": "social_en",
+      "title": "[D] Self-Promotion Thread",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wvi1j8/d_selfpromotion_thread/",
+      "source": "reddit_r_MachineLearning",
+      "publishedAt": "2026-10-02T02:15:05.000Z",
+      "summaryHint": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link shorteners, link aggregator websites , ",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-pdmk30",
+      "type": "social_en",
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wunvg4/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "source": "reddit_r_MachineLearning",
+      "publishedAt": "2026-10-01T02:30:09.000Z",
+      "summaryHint": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you&#39;re looking for] For Those looking for jobs please use this template Want to",
       "tags": [
         "ai_social"
       ]
