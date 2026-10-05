@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04T12:25:20.290Z",
+  "updatedAt": "2026-10-05T14:44:34.887Z",
   "items": [
     {
       "id": "rss-qbitai-74joa2",
@@ -34,11 +34,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-dsilh3",
       "type": "funding",
-      "title": "130余家公司国庆节后率先披露三季报，部分上半年盈利个股获融资客重点加仓 - 36kr.com",
+      "title": "130余家公司国庆节后率先披露三季报，部分上半年盈利个股获融资客重点加仓 - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xVktidW5qUE1UbjhTZlhmWFNrT2tuQ0l1cURiUm1CTzJ5Nmk3SElCOWhFT1lnb21fR2pXOHNRZmlqaDNoWXBzUW5vUUQzVFNMczh1Z0VtdGc?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-10-02T10:42:00.000Z",
-      "summaryHint": "130余家公司国庆节后率先披露三季报，部分上半年盈利个股获融资客重点加仓 &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "130余家公司国庆节后率先披露三季报，部分上半年盈利个股获融资客重点加仓 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -49,11 +49,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-7zw7a1",
       "type": "funding",
-      "title": "字节美团投资的机器人公司破产 累计烧光6亿元融资 - 36 Kr",
+      "title": "字节美团投资的机器人公司破产 累计烧光6亿元融资 - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLcV8tU1M5OThWeWNpS2JrOHZtR3g3X29SVGczSGpUbUZ1bnFEZlJwcjR5Q1RJajBtc05sSHU5ZTJrSzdkV0NaYWRGX2Q1V2lxUTEw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-29T16:34:00.000Z",
-      "summaryHint": "字节美团投资的机器人公司破产 累计烧光6亿元融资 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "字节美团投资的机器人公司破产 累计烧光6亿元融资 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -65,11 +65,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-wrq0ji",
       "type": "funding",
-      "title": "14人团队、百亿美元估值，硅谷AI新神话诞生：Instinct - 36kr.com",
+      "title": "14人团队、百亿美元估值，硅谷AI新神话诞生：Instinct - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9iRzBkXzh0UzlmNXN5amJxTnBZOUZ6NlNFZGZoT2NKM000SHdtVGx1eEM3cGhHZ2xUb1J3WkQ2cUFKVHZ3U3pEUDVnMUtGZw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-28T17:56:00.000Z",
-      "summaryHint": "14人团队、百亿美元估值，硅谷AI新神话诞生：Instinct &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "14人团队、百亿美元估值，硅谷AI新神话诞生：Instinct &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -78,68 +78,84 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-2c490a",
-      "type": "funding",
-      "title": "36氪专访 华为诺亚生成式大模型负责人创业家庭具身 一年融资超10亿 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ITkhUNEdnTmNQUDV3VlNBWHB0S2dCc281TmhQVTFnUEtaU2l1V09tZmE1UUFldWk1LUpqS0FfVWJwRG9oUWphTHlpTjhiLUVtM0Jr?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-28T10:00:00.000Z",
-      "summaryHint": "36氪专访 华为诺亚生成式大模型负责人创业家庭具身 一年融资超10亿 &nbsp;&nbsp; 36 Kr",
+      "id": "rss-techcrunch_ai-tx2rao",
+      "type": "news",
+      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+      "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+      "source": "techcrunch_ai",
+      "publishedAt": "2026-10-05T12:00:00.000Z",
+      "summaryHint": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
       "tags": [
-        "china",
         "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "10亿"
+        "us"
+      ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-dum2sb",
-      "type": "funding",
-      "title": "AI代理初创公司Instinct以100亿美元估值完成10亿美元融资 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56aHVGaUdnWXB1c1FIaEhfYnBsb2pJVUdJdUJXNnc4NEhEM0p1NUdyeFR2dU92XzFqTElQTnN1MS1odHFQbkc3Nl9HNzd0MmQ1eXdySDRScVROTFhHVjl4eA?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-27T20:36:00.000Z",
-      "summaryHint": "AI代理初创公司Instinct以100亿美元估值完成10亿美元融资 &nbsp;&nbsp; 36 Kr",
+      "id": "rss-qbitai-lxxfkr",
+      "type": "news",
+      "title": "刚刚，诺贝尔奖颁给光遗传学！",
+      "url": "https://www.qbitai.com/2026/10/501720.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-05T10:37:01.000Z",
+      "summaryHint": "从绿藻里的光开关，到控制神经元",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "100亿"
+        "funding"
+      ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-ltx0jh",
-      "type": "funding",
-      "title": "不到 1 个月估值暴涨 100 亿美元，Jev 创造者：ChatGPT 把 AI 带歪了 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12RDRvZG8ySnpHUVpHWWZwZFNpZ1Y2VFdmSFFWZjJuazJ3VlI4NUxaRDB4RklrTjBvMXBEMWtIT1VGZlRGM042RnJxd1pHQQ?oc=5",
+      "id": "rss-google_news_cn_36kr_deals-5kh4my",
+      "type": "news",
+      "title": "机房紧缺，资本反而开始“挑剔”数据中心？ - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UMWYxT0d3YUVyRG5FSlBDU0hLYl9GQWx4UmNoeDlyWUlvTFRwUTBtV2dhWkV5TUpienNwV1gxMlhkWFByVWRweHk1cmJudw?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-27T13:03:00.000Z",
-      "summaryHint": "不到 1 个月估值暴涨 100 亿美元，Jev 创造者：ChatGPT 把 AI 带歪了 &nbsp;&nbsp; 36kr.com",
+      "publishedAt": "2026-10-05T08:04:59.000Z",
+      "summaryHint": "机房紧缺，资本反而开始“挑剔”数据中心？ &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "100亿"
+        "deal_rss"
+      ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-cqju72",
-      "type": "funding",
-      "title": "“包养式融资”，估值1200亿 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3Nmpsb3RHejNwN0NwZDE5b2RBclZVMGg4UWxBeEtWUEdLc1pYc2c0T1hfOWtKakRJY0dUQTRqUGpYZ1JfSjJhcVpQdFh4ZHhyTWFv?oc=5",
+      "id": "rss-qbitai-m3m5xa",
+      "type": "news",
+      "title": "刚刚，Hinton发了首篇RSI论文",
+      "url": "https://www.qbitai.com/2026/10/501705.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-05T04:42:52.000Z",
+      "summaryHint": "AI已经开始真正进入「造下一代AI」的流水线",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-jqe1yb",
+      "type": "news",
+      "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+      "url": "https://www.qbitai.com/2026/10/501700.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-05T02:50:46.000Z",
+      "summaryHint": "有改进就体验，没改进就重置，横竖不亏。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-kh1193",
+      "type": "news",
+      "title": "硅谷藏了多少隐形债务？ - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94WnowSkJTdGpLOF9fSldIcUJyZExyUm15WjIyQUZNRHRhdFhDeDdaSzhydDdZa3JtTTFVR1pqRzRCMWFodXBBenZBSzZnZw?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-27T12:56:00.000Z",
-      "summaryHint": "“包养式融资”，估值1200亿 &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-10-04T21:18:32.000Z",
+      "summaryHint": "硅谷藏了多少隐形债务？ &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "1200亿"
+        "deal_rss"
+      ]
     },
     {
       "id": "rss-qbitai-6q0b4x",
@@ -165,20 +181,6 @@
       "tags": [
         "china",
         "funding"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-jpafsn",
-      "type": "news",
-      "title": "中国公司全球化周报｜速卖通智能经营AI Agent全面上线 / 百度海外版Kooko用户破千万 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90QUx6ZmJIbFU4am5OaFhpUWJfazR2REhtdE1oUEVteXpQTDlsMXQ2ei1TaVprcFYwd2FWV28ybXA1YV9LMHRYaDNwOUV5Zw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-03T10:18:00.000Z",
-      "summaryHint": "中国公司全球化周报｜速卖通智能经营AI Agent全面上线 / 百度海外版Kooko用户破千万 &nbsp;&nbsp; 36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
       ]
     },
     {
@@ -208,19 +210,6 @@
       ]
     },
     {
-      "id": "rss-techcrunch_ai-c4ev9k",
-      "type": "news",
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "source": "techcrunch_ai",
-      "publishedAt": "2026-10-02T19:15:51.000Z",
-      "summaryHint": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-      "tags": [
-        "funding",
-        "us"
-      ]
-    },
-    {
       "id": "rss-qbitai-g8xpiu",
       "type": "news",
       "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
@@ -234,52 +223,69 @@
       ]
     },
     {
-      "id": "rss-qbitai-sprsex",
+      "id": "rss-google_news_cn_36kr_deals-spc7u2",
       "type": "news",
-      "title": "丘成桐新论文致谢了GPT和Claude",
-      "url": "https://www.qbitai.com/2026/10/499991.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-02T07:27:03.000Z",
-      "summaryHint": "44年前被亲自列入问题清单",
+      "title": "独立AI原生影视Utopai Studios 跻身文生权威榜单全球第二-36氪 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56a1J4NDZRVzBOQWNnMWlxX25CUzdLOGVWbzZyWU5YOXcwRXhSR0x4Q05BWVZqbFJQdjJBT3BrUElkaDhiOUM5bHlaejNGRGtJ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-01T12:13:29.000Z",
+      "summaryHint": "独立AI原生影视Utopai Studios 跻身文生权威榜单全球第二-36氪 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
-        "funding"
+        "funding",
+        "deal_rss"
       ]
     },
     {
-      "id": "rss-qbitai-d2xikk",
+      "id": "rss-google_news_cn_36kr_deals-7rh9xw",
       "type": "news",
-      "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
-      "url": "https://www.qbitai.com/2026/10/499958.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-02T06:46:32.000Z",
-      "summaryHint": "换区也没用",
+      "title": "元宝将杀入个人智能体大战 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBieUdoWnplV2dkUXVrWEtUeV9CbmVva1hHNjNiOXA5c2hyc3Q5RDA4eTRXUjBwUTg3eXVudFNNTTZhVHBEN3lUQ1Q1bGxYQQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-29T19:25:00.000Z",
+      "summaryHint": "元宝将杀入个人智能体大战 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
-        "funding"
+        "funding",
+        "deal_rss"
       ]
     },
     {
-      "id": "rss-qbitai-wfaswx",
+      "id": "rss-google_news_cn_36kr_deals-3f90hj",
       "type": "news",
-      "title": "何恺明团队新作：看猫片就能学会ARC挑战",
-      "url": "https://www.qbitai.com/2026/10/499812.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-01T15:06:30.000Z",
-      "summaryHint": "用ImageNet训练encoder",
+      "title": "三个月，智谱跌没1万亿 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iN0ZObnU0S3hmT0xDMDN1R3ZGZ2NBVGhqZ2tWT0dBMGQ4ZEplU2lDZm9LbDZhS1hwZDEyMTJRVjMybi1LMDlTSW1GdVY0aWd4?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-29T12:46:00.000Z",
+      "summaryHint": "三个月，智谱跌没1万亿 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
-        "funding"
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-48vko6",
+      "type": "news",
+      "title": "就该她拿大结果 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xYWNKdm1XWXJGWEk2ZVE2cWJBdUxPZzdROEZ5LWpabWhIdGk0dGxHa3lwUVpXS1FWNTJ6a2QtTW81NFg2bm1NeVBfNXlxUQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-09-29T10:48:19.000Z",
+      "summaryHint": "就该她拿大结果 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
       ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-c912t4",
       "type": "news",
-      "title": "“AI空头”思考：云大厂“ROIC下滑”、大模型“难有护城河”、OpenAI是“AI时代WeWork”、Muse背后“人肉电池” - 36kr.com",
+      "title": "“AI空头”思考：云大厂“ROIC下滑”、大模型“难有护城河”、OpenAI是“AI时代WeWork”、Muse背后“人肉电池” - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42UHgyMWdXZUlLQkEyS0NzQUc5S0VYMzBaWmU0SmFjQWQ2Vy05dDEtWEFQNjZXYVN4UVVaMTJWakhVX3I1TGZHUW44dWsxZw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-28T20:26:00.000Z",
-      "summaryHint": "“AI空头”思考：云大厂“ROIC下滑”、大模型“难有护城河”、OpenAI是“AI时代WeWork”、Muse背后“人肉电池” &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "“AI空头”思考：云大厂“ROIC下滑”、大模型“难有护城河”、OpenAI是“AI时代WeWork”、Muse背后“人肉电池” &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
@@ -287,155 +293,73 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-6ullas",
-      "type": "news",
-      "title": "机器人触觉战争：半年涌入百亿资本，多家公司争夺「触觉第一股」-36氪 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3M1hwNktZOWRjbFpMcklPbkVYV2RVMjdSRWxjcWRCVDc0ZlliOTRaRHVGSW5ncXFYZU5Ib2lfb05JdXA4RjhMWHJpNlhPWjFP?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-28T12:27:00.000Z",
-      "summaryHint": "机器人触觉战争：半年涌入百亿资本，多家公司争夺「触觉第一股」-36氪 &nbsp;&nbsp; 36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-1wpkb9",
-      "type": "news",
-      "title": "基金投顾AI部署走到哪一步了？易方达、华夏、南方、嘉实、中欧等头部公募及财富子AI部署全景调研 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpbHlfdXZsa1owZVdFQlBHNkxTdXhMUXZvMXcwMDZtSFBpemQ2MlNBckNFQjB3LWRwYTl3Wk5JN2YyWDdtZlUtODRLclpRUQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-27T18:15:00.000Z",
-      "summaryHint": "基金投顾AI部署走到哪一步了？易方达、华夏、南方、嘉实、中欧等头部公募及财富子AI部署全景调研 &nbsp;&nbsp; 36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-47lt66",
-      "type": "news",
-      "title": "一半火焰一半海水：AI眼镜的IPO元年，撞上7月退潮 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HU1pMbDh5dXE3dWNHUjJtbGl0blo5UjM2Mjd1Zk1ZSnA2UmRsY0xoYnJIU2FiYmhLX0FHN2FvZU1ZYTBIS0s2S3Z4MktNUQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-27T18:14:00.000Z",
-      "summaryHint": "一半火焰一半海水：AI眼镜的IPO元年，撞上7月退潮 &nbsp;&nbsp; 36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-74pv25",
-      "type": "news",
-      "title": "OpenAI突发急刹车，AI竟在全网植入自我复制代码，血洗联合国内网 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OSW1teFVWQTRmZ0ZCMkpXbnBVVjhJSWFfSkNPUG1peFRYU1ZucWdnamFFTkttRTNWa2p4SE9RcnhwQ0Z5VDBkMzd1cU9aZw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-27T17:56:00.000Z",
-      "summaryHint": "OpenAI突发急刹车，AI竟在全网植入自我复制代码，血洗联合国内网 &nbsp;&nbsp; 36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-p4ny1a",
-      "type": "news",
-      "title": "哪些环节已透支？公募把脉AI 2.0 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1dUxldnROaUpEUDhpMHg3eE4xTmtIcVYxa1M1Z3RtVEVUWEZwTFJRNzh3eXluLWtZemljNG1wNnliM2psbjJBUW1NT2IzQQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-27T16:34:00.000Z",
-      "summaryHint": "哪些环节已透支？公募把脉AI 2.0 &nbsp;&nbsp; 36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "reddit-rss-w7cppi",
+      "id": "reddit-rss-wm3jli",
       "type": "social_en",
-      "title": "3DGS Viewer for VS Code",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wxd7ct/3dgs_viewer_for_vs_code/",
+      "title": "The Rode Lav clip isn't great.",
+      "url": "https://www.reddit.com/r/videography/comments/1wya7bh/the_rode_lav_clip_isnt_great/",
+      "source": "reddit_r_videography",
+      "publishedAt": "2026-10-05T14:37:22.000Z",
+      "summaryHint": "My use case for lavs favours using the tie clip that it comes with most of the time. (See picture) I&#39;ve grown fond of the type of clip that is found in a Sennheiser G2/G3 or Sony UWP series. But since purchasing a set of rode video mic ",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-oqg8or",
+      "type": "social_en",
+      "title": "Concerns about the Blackmagic URSA mini pro 12K",
+      "url": "https://www.reddit.com/r/videography/comments/1wy7bmp/concerns_about_the_blackmagic_ursa_mini_pro_12k/",
+      "source": "reddit_r_videography",
+      "publishedAt": "2026-10-05T12:31:02.000Z",
+      "summaryHint": "Hello! I&#39;m an intermediate filmmaker/videographer with a sony A6700 and 2 lenses. I have been looking for ways to improve my setup and came across a blackmagic ursa mini pro 12k for 1800 eur. From what i&#39;ve researched i think it is ",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-7s42eb",
+      "type": "social_en",
+      "title": "Turning in place vs. moving the camera: a visual guide to capture for Gaussian splatting",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wy5h9e/turning_in_place_vs_moving_the_camera_a_visual/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-04T11:15:39.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/backperswhi [link] &#32; [comments]",
+      "publishedAt": "2026-10-05T10:53:12.000Z",
+      "summaryHint": "Turning the camera changes the viewing direction. Moving it can reveal surfaces that were hidden from the previous position. We made this 75-second animation at MakeWorlds to show the difference around a static subject. As you move, keep ne",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-xyl1xj",
+      "id": "reddit-rss-secjf7",
       "type": "social_en",
-      "title": "“The photoshop of gaussian splatting”",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wxco59/the_photoshop_of_gaussian_splatting/",
+      "title": "Are there any open-source solutions where I can display Gaussian splats in the browser and limit the walking area?",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wy4c0i/are_there_any_opensource_solutions_where_i_can/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-04T10:43:42.000Z",
-      "summaryHint": "I did not used ai to write this so sorry for my rumbling or grammar mistakes! 😆 I am currently working on a supersplat fork, which is deeply modified. I am implementing many usefull tools to manipulate your gaussian splats before publishin",
+      "publishedAt": "2026-10-05T09:41:42.000Z",
+      "summaryHint": "I would like to have similar functionality to supersplat. I am making a presentation that should have a walking first person perspective along with a way to limit the walking area. The whole thing is a work in progress, I would like to dabb",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-yxe84l",
+      "id": "reddit-rss-53qku0",
       "type": "social_en",
-      "title": "Top ARC-ΑGI-3 scores on Kaggle just went from 7% to 56% [N]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wxcd4k/top_arcαgi3_scores_on_kaggle_just_went_from_7_to/",
-      "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-10-04T10:24:58.000Z",
-      "summaryHint": "https://preview.redd.it/gkjgii48gfth1.png?width=575&amp;format=png&amp;auto=webp&amp;s=4e1c35bdacf41d18a6409baedcddc9432ec79814 This happened over the past 30 days. So smallish local models (Kagglers can only use those), in a harness, just ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-3s4x3m",
-      "type": "social_en",
-      "title": "Working with an AI Company That Does Things You Disagree With [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wxar4x/working_with_an_ai_company_that_does_things_you/",
-      "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-10-04T08:41:09.000Z",
-      "summaryHint": "I&#39;m a PhD student in machine learning in the EU and was looking for internships at exciting companies. I shortlisted few and applied by reaching out to people and now reading project descriptions sent by the recruiters. I don&#39;t want",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-kue6y9",
-      "type": "social_en",
-      "title": "8 cameras 25 fps capture",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wwynvw/8_cameras_25_fps_capture/",
+      "title": "When I need a break from my screen, I make it disappear.⁣",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wxtuxf/when_i_need_a_break_from_my_screen_i_make_it/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-03T21:34:58.000Z",
-      "summaryHint": "Little Project with my dad in the Backyard &#32; submitted by &#32; /u/Natural-Will-5525 [link] &#32; [comments]",
+      "publishedAt": "2026-10-04T23:36:18.000Z",
+      "summaryHint": "Vitre, experiment #2.⁣ ⁣ This time I’m using one of the monitors on my desk. It happens to sit right in front of a glass wall looking into the hallway and the rest of the office, which makes for a much more interesting view.⁣ ⁣ Press the bu",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-j9qmv1",
+      "id": "reddit-rss-k81org",
       "type": "social_en",
-      "title": "[D] Self-Promotion Thread",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wvi1j8/d_selfpromotion_thread/",
-      "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-10-02T02:15:05.000Z",
-      "summaryHint": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link shorteners, link aggregator websites , ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-pdmk30",
-      "type": "social_en",
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wunvg4/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-10-01T02:30:09.000Z",
-      "summaryHint": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you&#39;re looking for] For Those looking for jobs please use this template Want to",
+      "title": "/r/videography Monthly Camera Buying Advice Megathread",
+      "url": "https://www.reddit.com/r/videography/comments/1wujic6/rvideography_monthly_camera_buying_advice/",
+      "source": "reddit_r_videography",
+      "publishedAt": "2026-09-30T23:01:01.000Z",
+      "summaryHint": "Welcome to the /r/videography monthly camera buying megathread. All requests asking for camera buying advice must be posted in this thread. If you&#39;ve been directed here by a removal reason or moderator, you&#39;re in the right place! Be",
       "tags": [
         "ai_social"
       ]
