@@ -1,7 +1,39 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T14:44:34.887Z",
+  "updatedAt": "2026-10-06T13:21:31.834Z",
   "items": [
+    {
+      "id": "rss-google_news_cn_36kr_deals-g5n1xj",
+      "type": "funding",
+      "title": "快手可灵AI计划最早明年赴港上市，至少融资10亿美元 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEQzhQa0hLNEpGQUFWU1pEX2d0a2tfQi12UFc1Y3g0V3BTWWJyb3hKcTRkMldFWFQ0bmtNZEIwak12cFdqQXU5TGVWcFhiaVl1WmlLd3ZVNTA3WlVyQmc?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-06T04:29:55.000Z",
+      "summaryHint": "快手可灵AI计划最早明年赴港上市，至少融资10亿美元 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "10亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-189arl",
+      "type": "funding",
+      "title": "多家阿联酋基金以及贝莱德据悉商谈参与OpenAI最新一轮300亿美元融资 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZbGZ5eEdISDZSNTRrSXVaaUM2Sk1ZWkptdHU0T2ltaHNLZVBJcDlBcC1GWFFYVzV1THlXN2NNd2lhQlRHUThQbzk5aTg1Ym9hczhkcUI3X1E?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-06T03:06:14.000Z",
+      "summaryHint": "多家阿联酋基金以及贝莱德据悉商谈参与OpenAI最新一轮300亿美元融资 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "300亿"
+    },
     {
       "id": "rss-qbitai-74joa2",
       "type": "funding",
@@ -16,20 +48,6 @@
         "deal_signal"
       ],
       "amount": "1亿"
-    },
-    {
-      "id": "rss-qbitai-a7teec",
-      "type": "funding",
-      "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
-      "url": "https://www.qbitai.com/2026/10/500148.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-03T02:38:19.000Z",
-      "tags": [
-        "china",
-        "funding",
-        "deal_signal"
-      ],
-      "amount": "100亿"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-dsilh3",
@@ -49,11 +67,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-7zw7a1",
       "type": "funding",
-      "title": "字节美团投资的机器人公司破产 累计烧光6亿元融资 - 36Kr",
+      "title": "字节美团投资的机器人公司破产 累计烧光6亿元融资 - eu.36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLcV8tU1M5OThWeWNpS2JrOHZtR3g3X29SVGczSGpUbUZ1bnFEZlJwcjR5Q1RJajBtc05sSHU5ZTJrSzdkV0NaYWRGX2Q1V2lxUTEw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-09-29T16:34:00.000Z",
-      "summaryHint": "字节美团投资的机器人公司破产 累计烧光6亿元融资 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "字节美团投资的机器人公司破产 累计烧光6亿元融资 &nbsp;&nbsp; eu.36kr.com",
       "tags": [
         "china",
         "funding",
@@ -63,31 +81,56 @@
       "amount": "6亿元"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-wrq0ji",
+      "id": "rss-google_news_cn_36kr_deals-1j919f",
       "type": "funding",
-      "title": "14人团队、百亿美元估值，硅谷AI新神话诞生：Instinct - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9iRzBkXzh0UzlmNXN5amJxTnBZOUZ6NlNFZGZoT2NKM000SHdtVGx1eEM3cGhHZ2xUb1J3WkQ2cUFKVHZ3U3pEUDVnMUtGZw?oc=5",
+      "title": "一年营收46亿，Anthropic怎么敢花出去5180亿美元？ - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBreW5vTU01VkE1Y0tEVDJpZ0kta0lpUWVBZk9BR2NaeFlrMGpWbGt4UnlqMnBBSHVlRjZOU29SYWRpQVNRdm5wVS1xVk5kakhQ?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-28T17:56:00.000Z",
-      "summaryHint": "14人团队、百亿美元估值，硅谷AI新神话诞生：Instinct &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-09-29T13:56:00.000Z",
+      "summaryHint": "一年营收46亿，Anthropic怎么敢花出去5180亿美元？ &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
+      ],
+      "amount": "46亿"
+    },
+    {
+      "id": "rss-qbitai-a94v8h",
+      "type": "news",
+      "title": "刚刚，诺贝尔物理奖一人独揽！",
+      "url": "https://www.qbitai.com/2026/10/501746.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-06T10:44:58.000Z",
+      "summaryHint": "南极洲甚至有一座高地以他名字命名",
+      "tags": [
+        "china",
+        "funding"
       ]
     },
     {
-      "id": "rss-techcrunch_ai-tx2rao",
+      "id": "rss-qbitai-4f9ezk",
       "type": "news",
-      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-      "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-      "source": "techcrunch_ai",
-      "publishedAt": "2026-10-05T12:00:00.000Z",
-      "summaryHint": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+      "title": "不er，咋陶哲轩也成AI减速派了？？",
+      "url": "https://www.qbitai.com/2026/10/501736.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-06T07:59:17.000Z",
       "tags": [
-        "funding",
-        "us"
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-j3np7l",
+      "type": "news",
+      "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+      "url": "https://www.qbitai.com/2026/10/501726.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-06T06:45:40.000Z",
+      "tags": [
+        "china",
+        "funding"
       ]
     },
     {
@@ -184,6 +227,34 @@
       ]
     },
     {
+      "id": "rss-google_news_cn_deals-hxytjd",
+      "type": "news",
+      "title": "清华姚班+MIT博士，却走成了中国最磕磕绊绊的AI独角兽-yeeyi - YeeYi",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Pd3hMTTh3cVNueUlJUlNLTG5JWThHVVEtWDczNlRFZDU2NmducnVjZUd4RzlYRmlXLURQZXF5b2pleW9YcjJFQW1UZGlFM1BadDY1cnd3?oc=5",
+      "source": "google_news_cn_deals",
+      "publishedAt": "2026-10-03T17:10:18.000Z",
+      "summaryHint": "清华姚班+MIT博士，却走成了中国最磕磕绊绊的AI独角兽-yeeyi &nbsp;&nbsp; YeeYi",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-jpafsn",
+      "type": "news",
+      "title": "中国公司全球化周报｜速卖通智能经营AI Agent全面上线 / 百度海外版Kooko用户破千万 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90QUx6ZmJIbFU4am5OaFhpUWJfazR2REhtdE1oUEVteXpQTDlsMXQ2ei1TaVprcFYwd2FWV28ybXA1YV9LMHRYaDNwOUV5Zw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-03T10:18:00.000Z",
+      "summaryHint": "中国公司全球化周报｜速卖通智能经营AI Agent全面上线 / 百度海外版Kooko用户破千万 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
       "id": "rss-qbitai-mc41vy",
       "type": "news",
       "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
@@ -191,32 +262,6 @@
       "source": "qbitai",
       "publishedAt": "2026-10-03T07:54:43.000Z",
       "summaryHint": "岗位JD甩了篇技术报告",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-3pd5sr",
-      "type": "news",
-      "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
-      "url": "https://www.qbitai.com/2026/10/501368.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-03T04:41:24.000Z",
-      "summaryHint": "又咋啦。。。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-g8xpiu",
-      "type": "news",
-      "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
-      "url": "https://www.qbitai.com/2026/10/500098.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-02T07:34:15.000Z",
-      "summaryHint": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
       "tags": [
         "china",
         "funding"
@@ -251,115 +296,61 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-3f90hj",
-      "type": "news",
-      "title": "三个月，智谱跌没1万亿 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iN0ZObnU0S3hmT0xDMDN1R3ZGZ2NBVGhqZ2tWT0dBMGQ4ZEplU2lDZm9LbDZhS1hwZDEyMTJRVjMybi1LMDlTSW1GdVY0aWd4?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-29T12:46:00.000Z",
-      "summaryHint": "三个月，智谱跌没1万亿 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-48vko6",
-      "type": "news",
-      "title": "就该她拿大结果 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xYWNKdm1XWXJGWEk2ZVE2cWJBdUxPZzdROEZ5LWpabWhIdGk0dGxHa3lwUVpXS1FWNTJ6a2QtTW81NFg2bm1NeVBfNXlxUQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-29T10:48:19.000Z",
-      "summaryHint": "就该她拿大结果 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-c912t4",
-      "type": "news",
-      "title": "“AI空头”思考：云大厂“ROIC下滑”、大模型“难有护城河”、OpenAI是“AI时代WeWork”、Muse背后“人肉电池” - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42UHgyMWdXZUlLQkEyS0NzQUc5S0VYMzBaWmU0SmFjQWQ2Vy05dDEtWEFQNjZXYVN4UVVaMTJWakhVX3I1TGZHUW44dWsxZw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-09-28T20:26:00.000Z",
-      "summaryHint": "“AI空头”思考：云大厂“ROIC下滑”、大模型“难有护城河”、OpenAI是“AI时代WeWork”、Muse背后“人肉电池” &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "reddit-rss-wm3jli",
+      "id": "reddit-rss-gfn74j",
       "type": "social_en",
-      "title": "The Rode Lav clip isn't great.",
-      "url": "https://www.reddit.com/r/videography/comments/1wya7bh/the_rode_lav_clip_isnt_great/",
-      "source": "reddit_r_videography",
-      "publishedAt": "2026-10-05T14:37:22.000Z",
-      "summaryHint": "My use case for lavs favours using the tie clip that it comes with most of the time. (See picture) I&#39;ve grown fond of the type of clip that is found in a Sennheiser G2/G3 or Sony UWP series. But since purchasing a set of rode video mic ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-oqg8or",
-      "type": "social_en",
-      "title": "Concerns about the Blackmagic URSA mini pro 12K",
-      "url": "https://www.reddit.com/r/videography/comments/1wy7bmp/concerns_about_the_blackmagic_ursa_mini_pro_12k/",
-      "source": "reddit_r_videography",
-      "publishedAt": "2026-10-05T12:31:02.000Z",
-      "summaryHint": "Hello! I&#39;m an intermediate filmmaker/videographer with a sony A6700 and 2 lenses. I have been looking for ways to improve my setup and came across a blackmagic ursa mini pro 12k for 1800 eur. From what i&#39;ve researched i think it is ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-7s42eb",
-      "type": "social_en",
-      "title": "Turning in place vs. moving the camera: a visual guide to capture for Gaussian splatting",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wy5h9e/turning_in_place_vs_moving_the_camera_a_visual/",
+      "title": "Spirula studio: far objects blurry",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wz2c8a/spirula_studio_far_objects_blurry/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-05T10:53:12.000Z",
-      "summaryHint": "Turning the camera changes the viewing direction. Moving it can reveal surfaces that were hidden from the previous position. We made this 75-second animation at MakeWorlds to show the difference around a static subject. As you move, keep ne",
+      "publishedAt": "2026-10-06T13:16:10.000Z",
+      "summaryHint": "I use Osmo 360 in 8k mode and Spirula Studio, but the far away objects, like the castle here is very blurry. How can i improve it, or is it the limitation of gaussian splatting? Also what&#39;s the recommended parameters for such a splat? A",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-secjf7",
+      "id": "reddit-rss-5zv4z",
       "type": "social_en",
-      "title": "Are there any open-source solutions where I can display Gaussian splats in the browser and limit the walking area?",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wy4c0i/are_there_any_opensource_solutions_where_i_can/",
+      "title": "This time the tracking runs with a 120 fps global-shutter camera.⁣",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wz24hq/this_time_the_tracking_runs_with_a_120_fps/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-05T09:41:42.000Z",
-      "summaryHint": "I would like to have similar functionality to supersplat. I am making a presentation that should have a walking first person perspective along with a way to limit the walking area. The whole thing is a work in progress, I would like to dabb",
+      "publishedAt": "2026-10-06T13:06:38.000Z",
+      "summaryHint": "This time the tracking runs with a 120 fps global-shutter camera.⁣ ⁣ Getting twice as many position updates, with much fewer gaps when tracking faster movements… It feels much better.⁣ ⁣ The window is still rendering from a position roughly",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-53qku0",
+      "id": "reddit-rss-990hng",
       "type": "social_en",
-      "title": "When I need a break from my screen, I make it disappear.⁣",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wxtuxf/when_i_need_a_break_from_my_screen_i_make_it/",
+      "title": "Title: Update: my iPhone 3DGS scanner is now SplatCapture Studio — free TestFlight beta",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1wyvyy9/title_update_my_iphone_3dgs_scanner_is_now/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-04T23:36:18.000Z",
-      "summaryHint": "Vitre, experiment #2.⁣ ⁣ This time I’m using one of the monitors on my desk. It happens to sit right in front of a glass wall looking into the hallway and the rest of the office, which makes for a much more interesting view.⁣ ⁣ Press the bu",
+      "publishedAt": "2026-10-06T07:00:39.000Z",
+      "summaryHint": "Hi everyone! Following up on my earlier post about ARKit 3DGS Scanner — the project is now called SplatCapture Studio , and it’s available as a free TestFlight beta. You can scan a space, build a 3D model, and explore it directly on your iP",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-k81org",
+      "id": "reddit-rss-qzxkoa",
       "type": "social_en",
-      "title": "/r/videography Monthly Camera Buying Advice Megathread",
-      "url": "https://www.reddit.com/r/videography/comments/1wujic6/rvideography_monthly_camera_buying_advice/",
-      "source": "reddit_r_videography",
-      "publishedAt": "2026-09-30T23:01:01.000Z",
-      "summaryHint": "Welcome to the /r/videography monthly camera buying megathread. All requests asking for camera buying advice must be posted in this thread. If you&#39;ve been directed here by a removal reason or moderator, you&#39;re in the right place! Be",
+      "title": "MW2 VR x2!!! it’s raining VR mods so hard right now! Peep description!",
+      "url": "https://www.reddit.com/r/virtualreality/comments/1wynsnn/mw2_vr_x2_its_raining_vr_mods_so_hard_right_now/",
+      "source": "reddit_r_virtualreality",
+      "publishedAt": "2026-10-05T23:39:13.000Z",
+      "summaryHint": "My guy it’s raining VR mods so hard that we got MW2 and MW2 remastered from 2 different people who didn’t know about each other on the same day. Both fully fleshed out. &#32; submitted by &#32; /u/TheVirtualSamurai [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-qp0k4s",
+      "type": "social_en",
+      "title": "Weekly VR - What Did you Play?",
+      "url": "https://www.reddit.com/r/virtualreality/comments/1ww0kxr/weekly_vr_what_did_you_play/",
+      "source": "reddit_r_virtualreality",
+      "publishedAt": "2026-10-02T18:00:28.000Z",
+      "summaryHint": "Hey r/virtualreality ! Another week in the VR space. Did a certain game or experience stand out to you? This is your spot to chat, share, and discover. When sharing, you might consider sharing: Name of the game or experience. A brief insigh",
       "tags": [
         "ai_social"
       ]
