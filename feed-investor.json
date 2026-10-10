@@ -1,7 +1,72 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-09T13:21:08.751Z",
+  "updatedAt": "2026-10-10T12:35:56.778Z",
   "items": [
+    {
+      "id": "rss-google_news_cn_36kr_deals-1bjflk",
+      "type": "funding",
+      "title": "「利太智药」完成近 5000 万元种子轮融资，打造 AI 原生多肽药物研发平台 - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XT2VCdi1lRGJhYmVDN1VTSGczZ0gxX1p4a0dONXZuaWkwY1FPYzhFaHdCRmFUazdFaWVTb19MWTY2dnRGZ0N0cHRJUzF0ZUwydy1z?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-09T12:21:00.000Z",
+      "summaryHint": "「利太智药」完成近 5000 万元种子轮融资，打造 AI 原生多肽药物研发平台 &nbsp;&nbsp; eu.36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "种子轮",
+      "amount": "5000万元"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-kkpd9t",
+      "type": "funding",
+      "title": "OpenAI营收预期缩水 Manus获5亿美元融资 AI赛道风向生变 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UQ2J3c09kZktGQ2lJTTNFQ0dxVUc2ZlpObVBrc0xOLTJzV1JxQVd0RkNmaWFjcVAwempXdnRBcVVJZS1WQjlxMlNHbUU2dnhUeGtv?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-09T12:20:00.000Z",
+      "summaryHint": "OpenAI营收预期缩水 Manus获5亿美元融资 AI赛道风向生变 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "5亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-hcdpbw",
+      "type": "funding",
+      "title": "MiniMax跌掉80%、DeepSeek拟融资1000亿：大模型IPO潮谁来接盘？-36氪 - 36kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qS0I3MjdTY3lZVVU0NmJtbDZ6cEszZDdUYWk2am1nVjdpdlhGWkxNNEMzZlRSNlljUE83Y0ZOZUxCSTAzSlZTSmc1X1JHTzUx?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-09T10:33:00.000Z",
+      "summaryHint": "MiniMax跌掉80%、DeepSeek拟融资1000亿：大模型IPO潮谁来接盘？-36氪 &nbsp;&nbsp; 36kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "1000亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-oaanx9",
+      "type": "funding",
+      "title": "不聊天的AI，上线不到一个月，完成75亿美元估值融资 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Wcmc5VDUta3h2QlhPb2h3ZTBGQUxiMEhqUDJLV2g2SFd1aHpoUHBkRm5WMU03WUNSNmxVMWk5Sms3SnZoMHFBSGhOYw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-09T09:55:00.000Z",
+      "summaryHint": "不聊天的AI，上线不到一个月，完成75亿美元估值融资 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "75亿"
+    },
     {
       "id": "rss-google_news_cn_36kr_deals-mlew98",
       "type": "funding",
@@ -128,52 +193,70 @@
       "amount": "500亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-cnh17o",
-      "type": "funding",
-      "title": "SpaceX据悉拟融资400亿美元用于购买英伟达芯片 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUbS1tY3NXV3lTSXZMejZPUDFFczhncXVuRFNHWHRqUzhVb0dFeXF6ZTM4NkdoaENBSmd5QnRXU1RUZXhOVjRMZ0ozRTY5VElBV0NqN0FUbzVPa3FJOUE?oc=5",
+      "id": "rss-google_news_cn_36kr_deals-alzv2k",
+      "type": "news",
+      "title": "超过四分之一的新锐AI公司，出自他们之手-36氪 - www.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ob1p5emJhbm11THNpeWw5LUVwb3dXbW1INUNkME9FWlB5YW1TNW1hQ3ZFZVBvcFFNZXR6ZTZ4RTZXV01ZQUpKd2k2Z01ENDA?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-07T03:41:52.000Z",
-      "summaryHint": "SpaceX据悉拟融资400亿美元用于购买英伟达芯片 &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-10-10T09:05:16.000Z",
+      "summaryHint": "超过四分之一的新锐AI公司，出自他们之手-36氪 &nbsp;&nbsp; www.36kr.com",
       "tags": [
         "china",
         "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "400亿"
+        "deal_rss"
+      ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-dakpxx",
-      "type": "funding",
-      "title": "AI算力初创公司Lambda拟在IPO前最后一轮融资中筹集40亿美元 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUYjkwSWpIVU5UbnE3N1VOV1NTcXdHU0ctYnE0amlZc0lVX19SczVxTk5STHVJcHpDeUM3c3RfZDQySnY3a3dPNkR0SDc1WXA3ZTcteHE2SVU?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-06T10:53:00.000Z",
-      "summaryHint": "AI算力初创公司Lambda拟在IPO前最后一轮融资中筹集40亿美元 &nbsp;&nbsp; 36 Kr",
+      "id": "rss-qbitai-58wbx6",
+      "type": "news",
+      "title": "特斯拉FSD，在欧洲被打回原形",
+      "url": "https://www.qbitai.com/2026/10/502467.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-10T06:59:02.000Z",
+      "summaryHint": "马斯克反而发文道谢？",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "40亿"
+        "funding"
+      ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-nm6nex",
-      "type": "funding",
-      "title": "月之暗面据悉完成IPO前融资 最新估值约500亿美元-36氪 - 36kr",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRWVI3c1RTeWdXSXVadGgweHVLM2lmbTNPMU5EdGlYdC0zZDQ3UUVIa0IxQWFUdlhXUnFtTHUxM1FUeHFuZHBaRUwxXzFqc2tTMzFOdnM3aHA?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-05T13:19:00.000Z",
-      "summaryHint": "月之暗面据悉完成IPO前融资 最新估值约500亿美元-36氪 &nbsp;&nbsp; 36kr",
+      "id": "rss-techcrunch_ai-7ihtsd",
+      "type": "news",
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "source": "techcrunch_ai",
+      "publishedAt": "2026-10-09T16:56:42.000Z",
+      "summaryHint": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting t",
       "tags": [
-        "china",
         "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "500亿"
+        "us"
+      ]
+    },
+    {
+      "id": "rss-techcrunch_ai-e5ys23",
+      "type": "news",
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "source": "techcrunch_ai",
+      "publishedAt": "2026-10-09T16:53:02.000Z",
+      "summaryHint": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting t",
+      "tags": [
+        "funding",
+        "us"
+      ]
+    },
+    {
+      "id": "rss-techcrunch_ai-f7dg5t",
+      "type": "news",
+      "title": "a16z’s Olivia Moore on the state of consumer AI",
+      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+      "source": "techcrunch_ai",
+      "publishedAt": "2026-10-09T15:43:33.000Z",
+      "summaryHint": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+      "tags": [
+        "funding",
+        "us"
+      ]
     },
     {
       "id": "rss-qbitai-6lkyrn",
@@ -212,20 +295,6 @@
       "tags": [
         "china",
         "funding"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-y5u9r4",
-      "type": "news",
-      "title": "刘陈杰：高利率正在对AI做一次全面压力测试-36氪 - www.36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yUjY4cFNxU0FXaVgtakpZZWJDa1dRRDRBci1neFpFajRrQlVBcWhaVVpINV9lQTJpMEU0dEhfdlVwa0FuLUFrYkFXR2JXZlE?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-09T07:30:23.000Z",
-      "summaryHint": "刘陈杰：高利率正在对AI做一次全面压力测试-36氪 &nbsp;&nbsp; www.36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
       ]
     },
     {
@@ -307,26 +376,13 @@
       ]
     },
     {
-      "id": "rss-qbitai-5y4xwy",
+      "id": "rss-google_news_cn_36kr_deals-4k6sec",
       "type": "news",
-      "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
-      "url": "https://www.qbitai.com/2026/10/502096.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-09T02:03:48.000Z",
-      "summaryHint": "让AI反复试错的“练兵场”来了",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-qzmd4r",
-      "type": "news",
-      "title": "大厂借钱，买断未来 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aNG1JWDFfRVBMMnNjT0IyRDNuVDZCS3FDYktDYUNUZnVFUUNYY1ZzS0x0NDJkUGRyZ19JY3cxSklEWE5iQmRsNUR3c1NLbHlB?oc=5",
+      "title": "刘陈杰：高利率正在对AI做一次全面压力测试 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TWno4Ql9qNF82Skd5eXpsWl9Id25Cc2lfOWItQmwwU3UyM0kySTRhVjQ4NmlfSlAybmpYNGpjOHFmeURaYVhXQWE2c0UzUQ?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-09T01:59:38.000Z",
-      "summaryHint": "大厂借钱，买断未来 &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-10-08T16:29:00.000Z",
+      "summaryHint": "刘陈杰：高利率正在对AI做一次全面压力测试 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -334,135 +390,85 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-pimzg4",
-      "type": "news",
-      "title": "英伟达没能捧出澳洲的AI估值神话 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xTVdVQk9tSk5XNG9DQzZFb0FXTEtNY2k1SllsT3NBZmstYk14Y3JsRDhONFZFQ0k4Y0xmZ1I2dUVaMTBUSFJ3cEdBdjdWZw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-08T20:30:00.000Z",
-      "summaryHint": "英伟达没能捧出澳洲的AI估值神话 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "reddit-rss-5x6pwz",
+      "id": "reddit-rss-rf4czp",
       "type": "social_en",
-      "title": "Relaxing colored-water swirls in an interactive real-time Vulkan fluid simulation",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1x1kyx6/relaxing_coloredwater_swirls_in_an_interactive/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-10-09T13:10:34.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/shroo-m [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-ku01vc",
-      "type": "social_en",
-      "title": "William Shatner gives take on AI",
-      "url": "https://www.reddit.com/r/artificial/comments/1x1ku7k/william_shatner_gives_take_on_ai/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-10-09T13:04:44.000Z",
-      "summaryHint": "From the &quot;Dropping Names with Brent and Jonny&quot; podcast. &#32; submitted by &#32; /u/MightyMouse420 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-9awz88",
-      "type": "social_en",
-      "title": "[HRLW] Shatter physics",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1x1k97e/hrlw_shatter_physics/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-10-09T12:37:31.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/vexetrixx [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-62klcy",
-      "type": "social_en",
-      "title": "Can you retexture a Gaussian Splat after it has been captured?",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x1hyju/can_you_retexture_a_gaussian_splat_after_it_has/",
+      "title": "I built a WebGPU editor that combines Gaussian Splats and Meshes and exports them as a single HTML file.",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x2dtvp/i_built_a_webgpu_editor_that_combines_gaussian/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-09T10:36:17.000Z",
-      "summaryHint": "I am working on a project that follows the history of a building and I would like to show it over the last 200 years, updating the window dressing for the businesses that have been there over the years. At the moment I have a 3D model that ",
+      "publishedAt": "2026-10-10T12:13:40.000Z",
+      "summaryHint": "Hi everyone. I’ve spent the last six months building 3DPEER, a browser-based WebGPU editor for scenes that combine Gaussian splats and meshes. It launched this week, and I’d like feedback from people who work with splats every day. The vide",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-l78mgo",
+      "id": "reddit-rss-gwdj0",
       "type": "social_en",
-      "title": "Wikipedia says rogue AI agents from OpenAI edited its private wikis and hammered its servers",
-      "url": "https://www.reddit.com/r/artificial/comments/1x14l4d/wikipedia_says_rogue_ai_agents_from_openai_edited/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-10-08T22:20:09.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/esporx [link] &#32; [comments]",
+      "title": "We are looking for a Level Designer",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1x2bjul/we_are_looking_for_a_level_designer/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-10-10T10:03:51.000Z",
+      "summaryHint": "We’re a small, international team of six developers and designers, working remotely from different parts of the world, building a photorealistic, modern tactical FPS in Unreal Engine 5. We’re currently looking for a Level Designer to join o",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-kxbjvh",
+      "id": "reddit-rss-dgdejz",
       "type": "social_en",
-      "title": "I did reconstruct a street in 3D using only Tesla’s cameras. Makes me wonder what Tesla is doing with footage from 10M cars?",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x11vmc/i_did_reconstruct_a_street_in_3d_using_only/",
+      "title": "Epic requires the same achievements on its store if your game has them on Steam. Scar Achievements 3.0 does both from one Blueprint node.",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1x29e03/epic_requires_the_same_achievements_on_its_store/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-10-10T07:47:26.000Z",
+      "summaryHint": "If you sell on Steam and Epic, Epic wants your achievements on its store too (for games onboarded after March 2023). Doing that by hand means two setups and two sets of code to keep in sync. That’s what my plugin, Scar Achievements, takes c",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-1sz8j8",
+      "type": "social_en",
+      "title": "Level blockout is driving me insane",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1x24tas/level_blockout_is_driving_me_insane/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-10-10T03:20:44.000Z",
+      "summaryHint": "Hey guys, I downloaded unreal not long ago for my bachelors, and I&#39;ll have an assessment that requires me to build a level blockout. Because I don&#39;t have experience in Unreal, I&#39;m struggling a lot with it. Specifically, the mesh",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-cflstf",
+      "type": "social_en",
+      "title": "Faking lower FPD",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1x23kh1/faking_lower_fpd/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-10-10T02:13:59.000Z",
+      "summaryHint": "Is there anyway to “fake” a lower fps to appear to have 24 fps but still playing at 60 fps? &#32; submitted by &#32; /u/Psychological_Way449 [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-vyuchy",
+      "type": "social_en",
+      "title": "Spirula + Blender 5.3 pretentious arty test I made",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x1ydfl/spirula_blender_53_pretentious_arty_test_i_made/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-08T20:29:38.000Z",
-      "summaryHint": "This is one of the most ambitious projects I’ve worked on, so I wanted to share it here. Teslas can have up to 8 exterior cameras recording everything around them. I took footage from those cameras and turned it into a 3D Gaussian splat of ",
+      "publishedAt": "2026-10-09T22:04:00.000Z",
+      "summaryHint": "I have been experimenting with Spirula. I like it - a lot! Using the geometry models to calculate normals and depth help a great deal with capturing interiors. Combine THAT with the latest alpha build of Blender 5.3 that can render splats, ",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-dld5zc",
+      "id": "reddit-rss-f0ac71",
       "type": "social_en",
-      "title": "Training Splats Inside Blender | SplatGen 5.3 Alpha Showcase",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x0zlv2/training_splats_inside_blender_splatgen_53_alpha/",
+      "title": "I added a ToF sensor to the equation...",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x1ptde/i_added_a_tof_sensor_to_the_equation/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-08T19:03:27.000Z",
-      "summaryHint": "I’m the developer of SplatGen, a Blender add-on that helps turn your 3D scenes and assets into Gaussian Splats. This showcase walks through the new Blender 5.3 workflow, from preparing your scene to training and viewing the results. Build c",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-o8qfbb",
-      "type": "social_en",
-      "title": "Descent, an animated piece I made",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1x0yhq2/descent_an_animated_piece_i_made/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-10-08T18:21:48.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/has_some_chill [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-3c1xpt",
-      "type": "social_en",
-      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-      "url": "https://www.reddit.com/r/artificial/comments/1x0ydf8/anthropic_bans_abusive_or_cruel_behavior_toward/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-10-08T18:17:36.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/esporx [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-qyqse3",
-      "type": "social_en",
-      "title": "Trump declares anyone who uses the term Artificial Intelligence to be ‘The Enemy!’",
-      "url": "https://www.reddit.com/r/artificial/comments/1x0wq2k/trump_declares_anyone_who_uses_the_term/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-10-08T17:14:58.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/theindependentonline [link] &#32; [comments]",
+      "publishedAt": "2026-10-09T16:24:34.000Z",
+      "summaryHint": "Both the captured Gaussian Splat and the Femto Bolt depth data are registered to the physical space and rendered with the same off-axis projection… so now people passing through the hallway are captured and inserted into the 3DGS scene. Sti",
       "tags": [
         "ai_social"
       ]
