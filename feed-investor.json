@@ -1,15 +1,93 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T12:35:56.778Z",
+  "updatedAt": "2026-10-11T12:54:06.391Z",
   "items": [
+    {
+      "id": "rss-google_news_cn_36kr_deals-da4pu8",
+      "type": "funding",
+      "title": "AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fWTJ5Y212RnZZS0hBUjgyQzMzWmU4dW5HWE8zYXVtdGNFbUhvOFAwanZGNmlFcVREYUtlZVhrMDZ6YUd6V0x5TVlSY0g2Zw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-10T11:00:00.000Z",
+      "summaryHint": "AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发 &nbsp;&nbsp; 36氪",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "B轮融资"
+    },
+    {
+      "id": "rss-qbitai-ym1n76",
+      "type": "funding",
+      "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
+      "url": "https://www.qbitai.com/2026/10/502492.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-10T08:54:08.000Z",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "amount": "75亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-4j5j8i",
+      "type": "funding",
+      "title": "不聊天的AI，上线不到一个月，完成75亿美元估值融资 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmSEgtV2NicXFCNDlXSkR1ZV9vNDlPQ01PQWtfU1Bzbk9xZ21oVmFPSzZyM0taTVFMWEpCamtHQ1prZml6TlBSVzVMbW1iUQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-10T00:55:00.000Z",
+      "summaryHint": "不聊天的AI，上线不到一个月，完成75亿美元估值融资 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "75亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-p6is2y",
+      "type": "funding",
+      "title": "三周估值暴涨37倍，Jev背后公司，融资58.6亿 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hQnI0U2dUbkpPRmtLeldDZkxJX0Y2LXdWWnFubTc5SHdCQk5nd1lla0kzbmxXTmcwYnZjZV9JTmdSdGdLSTc5V2dqZzF3QQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-09T22:51:00.000Z",
+      "summaryHint": "三周估值暴涨37倍，Jev背后公司，融资58.6亿 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "58.6亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-jmydwl",
+      "type": "funding",
+      "title": "前OpenAI员工打造非聊天AI 获8.7亿美元融资 上线两周引老东家跟进 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YOHBjNE1udW1lb3dILVdscHA4VEtPTlA5TE5CSERaTjdyY1hSa0lUTkVCSzI2M281R3dEVHRGeE1NNkNGNHc4TUlUR3FBRjBFWTU0?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-09T22:19:00.000Z",
+      "summaryHint": "前OpenAI员工打造非聊天AI 获8.7亿美元融资 上线两周引老东家跟进 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "8.7亿"
+    },
     {
       "id": "rss-google_news_cn_36kr_deals-1bjflk",
       "type": "funding",
-      "title": "「利太智药」完成近 5000 万元种子轮融资，打造 AI 原生多肽药物研发平台 - eu.36kr.com",
+      "title": "「利太智药」完成近 5000 万元种子轮融资，打造 AI 原生多肽药物研发平台 - 36氪",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XT2VCdi1lRGJhYmVDN1VTSGczZ0gxX1p4a0dONXZuaWkwY1FPYzhFaHdCRmFUazdFaWVTb19MWTY2dnRGZ0N0cHRJUzF0ZUwydy1z?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-10-09T12:21:00.000Z",
-      "summaryHint": "「利太智药」完成近 5000 万元种子轮融资，打造 AI 原生多肽药物研发平台 &nbsp;&nbsp; eu.36kr.com",
+      "summaryHint": "「利太智药」完成近 5000 万元种子轮融资，打造 AI 原生多肽药物研发平台 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
@@ -36,13 +114,13 @@
       "amount": "5亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-hcdpbw",
+      "id": "rss-google_news_cn_36kr_deals-nazo6f",
       "type": "funding",
-      "title": "MiniMax跌掉80%、DeepSeek拟融资1000亿：大模型IPO潮谁来接盘？-36氪 - 36kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qS0I3MjdTY3lZVVU0NmJtbDZ6cEszZDdUYWk2am1nVjdpdlhGWkxNNEMzZlRSNlljUE83Y0ZOZUxCSTAzSlZTSmc1X1JHTzUx?oc=5",
+      "title": "MiniMax跌掉80%、DeepSeek拟融资1000亿：大模型IPO潮谁来接盘？ - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wVFVVN2ViLVJZNkgzaDRvSTViS3hLbFhUaVh4bzQ5ZE5wMklfZGJGb211VnJVVVd5cENCNGtWU2JkQ1lfZ3BUeFdxOWVpUQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-10-09T10:33:00.000Z",
-      "summaryHint": "MiniMax跌掉80%、DeepSeek拟融资1000亿：大模型IPO潮谁来接盘？-36氪 &nbsp;&nbsp; 36kr",
+      "summaryHint": "MiniMax跌掉80%、DeepSeek拟融资1000亿：大模型IPO潮谁来接盘？ &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -50,22 +128,6 @@
         "deal_signal"
       ],
       "amount": "1000亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-oaanx9",
-      "type": "funding",
-      "title": "不聊天的AI，上线不到一个月，完成75亿美元估值融资 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Wcmc5VDUta3h2QlhPb2h3ZTBGQUxiMEhqUDJLV2g2SFd1aHpoUHBkRm5WMU03WUNSNmxVMWk5Sms3SnZoMHFBSGhOYw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-09T09:55:00.000Z",
-      "summaryHint": "不聊天的AI，上线不到一个月，完成75亿美元估值融资 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "75亿"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-mlew98",
@@ -84,22 +146,6 @@
       "amount": "1.59亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-c7q7za",
-      "type": "funding",
-      "title": "融资33亿，Manus杀回百亿美元赛道：做私人AI助理 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrcTI3RHJKMFJWQlZRWGVvZFhMR09PZmtPbVROa1NwakJYdk90cUFWTjN3S0xROXMzU1A1M05uNW1wVXFkaVViYlZ3X2ZmaVAy?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-08T11:57:28.000Z",
-      "summaryHint": "融资33亿，Manus杀回百亿美元赛道：做私人AI助理 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "33亿"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-gtapgy",
       "type": "funding",
       "title": "超30亿美元疯狂涌入，物理AI正在捅破AI制药天花板 - 36Kr",
@@ -114,6 +160,22 @@
         "deal_signal"
       ],
       "amount": "30亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-im61tq",
+      "type": "funding",
+      "title": "融资33亿，Manus杀回百亿美元赛道：做私人AI助理 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5naDhpX3JhRGt0Y3FtOHE5SEM4THNrZGhNX05LTW1uclhqNlB1cXlsM0pNRzBTMXBDMC1IdnFZbU9mVWVDS0VnT1hEMFZHZw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-07T20:52:00.000Z",
+      "summaryHint": "融资33亿，Manus杀回百亿美元赛道：做私人AI助理 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "33亿"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-phcqjj",
@@ -147,36 +209,6 @@
       "round": "天使轮"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-kq17ll",
-      "type": "funding",
-      "title": "教人摆姿势的相机App，融资千万 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GMFN0bnJDNDgtOUFQZUVBejh0VTBRYjl2TmJOQU9ub1BGb2lxakdSblByZmVQQUd6SFl2M0dCRTNfUmtScURycFhMX3lRQQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-07T11:52:00.000Z",
-      "summaryHint": "教人摆姿势的相机App，融资千万 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-pn1awo",
-      "type": "funding",
-      "title": "梁文锋重磅出手 DeepSeek完成千亿级融资引行业热议 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Fb2FDbjNjaEdzeEg5OUZ2XzNVdkdzSHJLU0VNcjFhOFdTZzZwNEVodnUwcW5waTBzV3pvN3ZNU09WbnNvUDl1OWFGMkpYaDE2ZlNr?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-07T09:22:00.000Z",
-      "summaryHint": "梁文锋重磅出手 DeepSeek完成千亿级融资引行业热议 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-qj0djx",
       "type": "funding",
       "title": "博通据悉计划为OpenAI定制芯片项目融资逾500亿美元 - 36Kr",
@@ -193,17 +225,92 @@
       "amount": "500亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-alzv2k",
+      "id": "rss-qbitai-jiq7km",
       "type": "news",
-      "title": "超过四分之一的新锐AI公司，出自他们之手-36氪 - www.36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ob1p5emJhbm11THNpeWw5LUVwb3dXbW1INUNkME9FWlB5YW1TNW1hQ3ZFZVBvcFFNZXR6ZTZ4RTZXV01ZQUpKd2k2Z01ENDA?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-10T09:05:16.000Z",
-      "summaryHint": "超过四分之一的新锐AI公司，出自他们之手-36氪 &nbsp;&nbsp; www.36kr.com",
+      "title": "王的猜想，刚刚扩展到四维",
+      "url": "https://www.qbitai.com/2026/10/502584.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-11T05:23:47.000Z",
       "tags": [
         "china",
-        "funding",
-        "deal_rss"
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-j1ol6f",
+      "type": "news",
+      "title": "硅谷AI现状：谁有算力谁是爹",
+      "url": "https://www.qbitai.com/2026/10/502585.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-11T05:22:38.000Z",
+      "summaryHint": "马斯克连横A社，硅谷VC开始囤GPU",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-5l0i5n",
+      "type": "news",
+      "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
+      "url": "https://www.qbitai.com/2026/10/502550.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-11T05:18:04.000Z",
+      "summaryHint": "初代4o的API快照进入停用倒计时",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-777ahm",
+      "type": "news",
+      "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
+      "url": "https://www.qbitai.com/2026/10/502544.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-11T03:27:08.000Z",
+      "summaryHint": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-8mc5o7",
+      "type": "news",
+      "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
+      "url": "https://www.qbitai.com/2026/10/502541.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-10T10:30:36.000Z",
+      "summaryHint": "西门子将以更集中、更场景化的方式，展示其工业全栈能力",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-wpv5me",
+      "type": "news",
+      "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
+      "url": "https://www.qbitai.com/2026/10/502496.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-10T09:07:43.000Z",
+      "summaryHint": "2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-mordcb",
+      "type": "news",
+      "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
+      "url": "https://www.qbitai.com/2026/10/502484.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-10T08:52:16.000Z",
+      "tags": [
+        "china",
+        "funding"
       ]
     },
     {
@@ -220,6 +327,20 @@
       ]
     },
     {
+      "id": "rss-google_news_cn_36kr_deals-rjd7xf",
+      "type": "news",
+      "title": "超过四分之一的新锐AI公司，出自他们之手 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5heGFsMTl0c3Zhc29oZklEN0RFTG9lZWhUVGRaNmhsNE5qdHRoMlltQXVlamNqZnhFSldHekZ2V0JNV09ZTnRDNjI5akhPdw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-09T18:00:00.000Z",
+      "summaryHint": "超过四分之一的新锐AI公司，出自他们之手 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
       "id": "rss-techcrunch_ai-7ihtsd",
       "type": "news",
       "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
@@ -227,32 +348,6 @@
       "source": "techcrunch_ai",
       "publishedAt": "2026-10-09T16:56:42.000Z",
       "summaryHint": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting t",
-      "tags": [
-        "funding",
-        "us"
-      ]
-    },
-    {
-      "id": "rss-techcrunch_ai-e5ys23",
-      "type": "news",
-      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-      "source": "techcrunch_ai",
-      "publishedAt": "2026-10-09T16:53:02.000Z",
-      "summaryHint": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting t",
-      "tags": [
-        "funding",
-        "us"
-      ]
-    },
-    {
-      "id": "rss-techcrunch_ai-f7dg5t",
-      "type": "news",
-      "title": "a16z’s Olivia Moore on the state of consumer AI",
-      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-      "source": "techcrunch_ai",
-      "publishedAt": "2026-10-09T15:43:33.000Z",
-      "summaryHint": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
       "tags": [
         "funding",
         "us"
@@ -272,203 +367,109 @@
       ]
     },
     {
-      "id": "rss-qbitai-4peh6v",
-      "type": "news",
-      "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
-      "url": "https://www.qbitai.com/2026/10/502422.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-09T08:53:08.000Z",
-      "summaryHint": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-ag1ffd",
-      "type": "news",
-      "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
-      "url": "https://www.qbitai.com/2026/10/502411.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-09T08:47:34.000Z",
-      "summaryHint": "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-zhno5y",
-      "type": "news",
-      "title": "字节找到了DeepSeek时强时弱的原因",
-      "url": "https://www.qbitai.com/2026/10/502364.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-09T07:11:55.000Z",
-      "summaryHint": "答不答得对，得看Token站位",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-n8a7k4",
-      "type": "news",
-      "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
-      "url": "https://www.qbitai.com/2026/10/502359.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-09T06:28:55.000Z",
-      "summaryHint": "Google 研究成果首次登上《柳叶刀》主刊",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-adwyfp",
-      "type": "news",
-      "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
-      "url": "https://www.qbitai.com/2026/10/502330.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-09T04:15:05.000Z",
-      "summaryHint": "机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-9b80u1",
-      "type": "news",
-      "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
-      "url": "https://www.qbitai.com/2026/10/502125.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-09T03:52:21.000Z",
-      "summaryHint": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-ognxg9",
-      "type": "news",
-      "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
-      "url": "https://www.qbitai.com/2026/10/502114.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-09T02:51:10.000Z",
-      "summaryHint": "江淮再度跌停",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-wu5338",
-      "type": "news",
-      "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
-      "url": "https://www.qbitai.com/2026/10/502106.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-09T02:37:22.000Z",
-      "summaryHint": "多Agent协同还能自我进化",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-4k6sec",
-      "type": "news",
-      "title": "刘陈杰：高利率正在对AI做一次全面压力测试 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TWno4Ql9qNF82Skd5eXpsWl9Id25Cc2lfOWItQmwwU3UyM0kySTRhVjQ4NmlfSlAybmpYNGpjOHFmeURaYVhXQWE2c0UzUQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-08T16:29:00.000Z",
-      "summaryHint": "刘陈杰：高利率正在对AI做一次全面压力测试 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "reddit-rss-rf4czp",
+      "id": "reddit-rss-il4di6",
       "type": "social_en",
-      "title": "I built a WebGPU editor that combines Gaussian Splats and Meshes and exports them as a single HTML file.",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x2dtvp/i_built_a_webgpu_editor_that_combines_gaussian/",
+      "title": "The Internet is wild😂😂",
+      "url": "https://www.reddit.com/r/artificial/comments/1x36tu3/the_internet_is_wild/",
+      "source": "reddit_r_artificial",
+      "publishedAt": "2026-10-11T12:20:27.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/Sevives [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-xlf291",
+      "type": "social_en",
+      "title": "Jeff Bezos says AI will deliver a 3-day work week — while Amazon cuts 30,000 jobs",
+      "url": "https://www.reddit.com/r/artificial/comments/1x36hoz/jeff_bezos_says_ai_will_deliver_a_3day_work_week/",
+      "source": "reddit_r_artificial",
+      "publishedAt": "2026-10-11T12:02:52.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/lulzxdxdxd [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-flma9n",
+      "type": "social_en",
+      "title": "When your method gets +2 PSNR on test views but the reviewer asks for a video",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x33kbr/when_your_method_gets_2_psnr_on_test_views_but/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-10T12:13:40.000Z",
-      "summaryHint": "Hi everyone. I’ve spent the last six months building 3DPEER, a browser-based WebGPU editor for scenes that combine Gaussian splats and meshes. It launched this week, and I’d like feedback from people who work with splats every day. The vide",
+      "publishedAt": "2026-10-11T09:11:30.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/nagomot0 [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-gwdj0",
+      "id": "reddit-rss-o22xps",
       "type": "social_en",
-      "title": "We are looking for a Level Designer",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1x2bjul/we_are_looking_for_a_level_designer/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-10-10T10:03:51.000Z",
-      "summaryHint": "We’re a small, international team of six developers and designers, working remotely from different parts of the world, building a photorealistic, modern tactical FPS in Unreal Engine 5. We’re currently looking for a Level Designer to join o",
+      "title": "Fucking Hate the whole new trends of \"Reverse Engineer Anything\"",
+      "url": "https://www.reddit.com/r/gamedev/comments/1x320cp/fucking_hate_the_whole_new_trends_of_reverse/",
+      "source": "reddit_r_gamedev",
+      "publishedAt": "2026-10-11T07:35:25.000Z",
+      "summaryHint": "Cool and shit, but this can also kill personal project of pasionate devs, like this shit is not even ethical in some use cases, taking someones property/project and bypassing premium features, stealing their engineering ideas etc, shit like",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-dgdejz",
+      "id": "reddit-rss-anagpt",
       "type": "social_en",
-      "title": "Epic requires the same achievements on its store if your game has them on Steam. Scar Achievements 3.0 does both from one Blueprint node.",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1x29e03/epic_requires_the_same_achievements_on_its_store/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-10-10T07:47:26.000Z",
-      "summaryHint": "If you sell on Steam and Epic, Epic wants your achievements on its store too (for games onboarded after March 2023). Doing that by hand means two setups and two sets of code to keep in sync. That’s what my plugin, Scar Achievements, takes c",
+      "title": "Claude Opus 5.5 decompiles a PS2-era game overnight, and hundreds of them now run in browser tabs",
+      "url": "https://www.reddit.com/r/artificial/comments/1x2tq6s/claude_opus_55_decompiles_a_ps2era_game_overnight/",
+      "source": "reddit_r_artificial",
+      "publishedAt": "2026-10-10T23:57:43.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/lulzxdxdxd [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-1sz8j8",
+      "id": "reddit-rss-ve4kpb",
       "type": "social_en",
-      "title": "Level blockout is driving me insane",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1x24tas/level_blockout_is_driving_me_insane/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-10-10T03:20:44.000Z",
-      "summaryHint": "Hey guys, I downloaded unreal not long ago for my bachelors, and I&#39;ll have an assessment that requires me to build a level blockout. Because I don&#39;t have experience in Unreal, I&#39;m struggling a lot with it. Specifically, the mesh",
+      "title": "I added nearly 3,000 chicken names to my game... the hard way.",
+      "url": "https://www.reddit.com/r/gamedev/comments/1x2qcvc/i_added_nearly_3000_chicken_names_to_my_game_the/",
+      "source": "reddit_r_gamedev",
+      "publishedAt": "2026-10-10T21:17:45.000Z",
+      "summaryHint": "I have a chicken-farming game, and I thought it would add some personality if every chicken that arrived at your farm had its own name. Asking an AI for a list of names wasn&#39;t an option; I didn&#39;t want silly, generic names. I wanted ",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-cflstf",
+      "id": "reddit-rss-y3yyjs",
       "type": "social_en",
-      "title": "Faking lower FPD",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1x23kh1/faking_lower_fpd/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-10-10T02:13:59.000Z",
-      "summaryHint": "Is there anyway to “fake” a lower fps to appear to have 24 fps but still playing at 60 fps? &#32; submitted by &#32; /u/Psychological_Way449 [link] &#32; [comments]",
+      "title": "Non-text AI model maker Jev valued at $7.5B just weeks after launch",
+      "url": "https://www.reddit.com/r/artificial/comments/1x2prfl/nontext_ai_model_maker_jev_valued_at_75b_just/",
+      "source": "reddit_r_artificial",
+      "publishedAt": "2026-10-10T20:52:03.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/lulzxdxdxd [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-vyuchy",
+      "id": "reddit-rss-6tf8w5",
       "type": "social_en",
-      "title": "Spirula + Blender 5.3 pretentious arty test I made",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x1ydfl/spirula_blender_53_pretentious_arty_test_i_made/",
+      "title": "How to prevent it appear transparent?",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x2o6sr/how_to_prevent_it_appear_transparent/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-09T22:04:00.000Z",
-      "summaryHint": "I have been experimenting with Spirula. I like it - a lot! Using the geometry models to calculate normals and depth help a great deal with capturing interiors. Combine THAT with the latest alpha build of Blender 5.3 that can render splats, ",
+      "publishedAt": "2026-10-10T19:44:58.000Z",
+      "summaryHint": "Made with Spirula, imported and screen recorded while in supersplat editor. It appears transparent, it&#39;s very obvious in full screen. Is there any way to prevent this? I am aware shiny metallic surfaces are tricky to work with, that&#39",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-f0ac71",
+      "id": "reddit-rss-jqy1hi",
       "type": "social_en",
-      "title": "I added a ToF sensor to the equation...",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x1ptde/i_added_a_tof_sensor_to_the_equation/",
+      "title": "I built an iPhone app for planning camera shots inside Gaussian splats - looking for beta testers",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x2ls2v/i_built_an_iphone_app_for_planning_camera_shots/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-09T16:24:34.000Z",
-      "summaryHint": "Both the captured Gaussian Splat and the Femto Bolt depth data are registered to the physical space and rendered with the same off-axis projection… so now people passing through the hallway are captured and inserted into the 3DGS scene. Sti",
+      "publishedAt": "2026-10-10T18:03:15.000Z",
+      "summaryHint": "Hey all - I built FrameRoam, an iPhone app that imports a spatial scan (Scaniverse, Polycam, etc.) and lets you plan camera positions, moves, and full shot sequences inside the splat before a shoot. Basically location scouting from your cou",
       "tags": [
         "ai_social"
       ]
