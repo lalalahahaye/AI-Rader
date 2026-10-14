@@ -1,22 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T14:15:24.107Z",
+  "updatedAt": "2026-10-14T11:56:45.627Z",
   "items": [
     {
-      "id": "rss-google_news_cn_36kr_deals-yb6e5u",
+      "id": "rss-google_news_cn_36kr_deals-hcz55a",
       "type": "funding",
-      "title": "DeepSeek融资翻倍至1000亿，新一轮投资方基本确定，IPO节奏加快 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SX2RVUUVZbGR5aFZrZDczdmJuaGY3OVZtblZwc0FQOVJzeEk0MmR4elp3eVpVRW11SGRSSmRLNzExRG0tUk9QZDgzQTgtdW50?oc=5",
+      "title": "DeepSeek，千亿融资追踪，LP称仍在动态变化 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FUWVhSWdGYVRBVXA4M2VtUkdCOF9HMGlPNVBLRVl0QWlxNFdIRkk1d0VnZlNkLUcxci01NFM2TUV2VG9FZmlKa3ZEbjVOdw?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-13T13:42:18.000Z",
-      "summaryHint": "DeepSeek融资翻倍至1000亿，新一轮投资方基本确定，IPO节奏加快 &nbsp;&nbsp; 36 Kr",
+      "publishedAt": "2026-10-13T11:18:00.000Z",
+      "summaryHint": "DeepSeek，千亿融资追踪，LP称仍在动态变化 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
-      ],
-      "amount": "1000亿"
+      ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-2kvhyo",
@@ -35,42 +34,45 @@
       "round": "Pre-A"
     },
     {
-      "id": "rss-qbitai-wwlbfc",
+      "id": "rss-google_news_cn_36kr_deals-rs89rh",
       "type": "funding",
-      "title": "9大赛道，23份企业真实考卷！上海具身智能大考，邀千队共解题",
-      "url": "https://www.qbitai.com/2026/10/502784.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-13T04:07:04.000Z",
-      "summaryHint": "赢奖金、拿融资、送出海",
+      "title": "DeepSeek融资翻倍至1000亿，新一轮投资方基本确定，IPO节奏加快 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GVWZjNm9McWMzUXNwdWlWd1A0YWtRY283TjJrRzA1ZHV1VmFfcXlkOUxDbU13RUxIMndvZ3JVOGtkQ21fNVhGTzJoUHdpUQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-12T22:38:00.000Z",
+      "summaryHint": "DeepSeek融资翻倍至1000亿，新一轮投资方基本确定，IPO节奏加快 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-qbitai-a6v1ab",
-      "type": "funding",
-      "title": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录",
-      "url": "https://www.qbitai.com/2026/10/502767.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-13T04:01:15.000Z",
-      "summaryHint": "算力、模型、行业，三层生意一起做",
-      "tags": [
-        "china",
-        "funding",
+        "deal_rss",
         "deal_signal"
       ],
-      "amount": "23亿"
+      "amount": "1000亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-q9oo5o",
+      "type": "funding",
+      "title": "炸裂：DeepSeek将完成第二轮1000亿融资 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kb3M3UVFoYzJhN0t4ZDhpS2lJNHo2MnhEaWswRE9abEdJR1FLdzJzT1d5OWVyQkRuWTlkaUxTN0l6aGhUUXFxb19ISFVqZw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-12T20:57:00.000Z",
+      "summaryHint": "炸裂：DeepSeek将完成第二轮1000亿融资 &nbsp;&nbsp; 36氪",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "1000亿"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-sxnvu1",
       "type": "funding",
-      "title": "深度云海完成千万级天使轮融资，前百度搜索团队创办｜36氪首发 - 36 Kr",
+      "title": "深度云海完成千万级天使轮融资，前百度搜索团队创办｜36氪首发 - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84YWdFYjkxX2RvYy1MNmVOcWtWNzZITmJpdllQUHQtY2N3UmNrV2NIbzd3Vm92cW9vVDZyZWJ2TFpreV9UMzM5aTBhRVhPWEd3?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-10-12T12:10:00.000Z",
-      "summaryHint": "深度云海完成千万级天使轮融资，前百度搜索团队创办｜36氪首发 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "深度云海完成千万级天使轮融资，前百度搜索团队创办｜36氪首发 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -78,21 +80,6 @@
         "deal_signal"
       ],
       "round": "天使轮"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-b5b0c3",
-      "type": "funding",
-      "title": "36氪首发 | 获数千万融资，ModCraft想让AI通过Mod理解游戏设计 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11elZiS1gtcjgxendUZGsteUl3ZkFfWmk5bl84R2l3YXdhUWdfR0JNa2pJWmJRUU1rSXdpbGVHWTRpUHdvSEJoMmJBUkh5Zw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-12T11:28:26.000Z",
-      "summaryHint": "36氪首发 | 获数千万融资，ModCraft想让AI通过Mod理解游戏设计 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-vhjiia",
@@ -111,13 +98,13 @@
       "amount": "5亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-6jw8eh",
+      "id": "rss-google_news_cn_36kr_deals-2oizog",
       "type": "funding",
-      "title": "复旦师生Pre-A轮融资超10亿，想让AI懂人的情绪与处境 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TXzRnS2s0YWhzbGFRbWJlTlpiQm93bzJwQ1BxN0dwZVV0Wk1GaE5pRk1uWWRlSWVmU0JmcWwyTGhUT3pkRHhBdzZjSXZPWWd3?oc=5",
+      "title": "复旦师生Pre-A轮融资超10亿，想让AI懂人的情绪与处境 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1uOGJRMzFwcjNhOW55U29pNDRBMmE5eGNwNFpHRWpqZUZOenpKS01HS2t5NnFsMGVTMi0wUk9iMUFoSi01bkh3LTFuUkw5QQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-10-12T10:15:00.000Z",
-      "summaryHint": "复旦师生Pre-A轮融资超10亿，想让AI懂人的情绪与处境 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "复旦师生Pre-A轮融资超10亿，想让AI懂人的情绪与处境 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -210,149 +197,172 @@
       "round": "B轮融资"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-kkpd9t",
-      "type": "funding",
-      "title": "OpenAI营收预期缩水 Manus获5亿美元融资 AI赛道风向生变 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UQ2J3c09kZktGQ2lJTTNFQ0dxVUc2ZlpObVBrc0xOLTJzV1JxQVd0RkNmaWFjcVAwempXdnRBcVVJZS1WQjlxMlNHbUU2dnhUeGtv?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-09T12:20:00.000Z",
-      "summaryHint": "OpenAI营收预期缩水 Manus获5亿美元融资 AI赛道风向生变 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "5亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-4hvrfv",
+      "id": "rss-qbitai-kuwqmn",
       "type": "news",
-      "title": "先行探索智能体未来终端，STEPX Neo打开人机共生新形态 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83emVGR1k4c1hmSWU4UVo1NHF6YzNjRktoSjhvd1lGY3N2b1NzWVBIcUsybExKRjYzdV9OaWtzajVCamFsOHdaM0xCVlJGRGRU?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-13T13:21:48.000Z",
-      "summaryHint": "先行探索智能体未来终端，STEPX Neo打开人机共生新形态 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "rss-qbitai-3f2op0",
-      "type": "news",
-      "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
-      "url": "https://www.qbitai.com/2026/10/503107.html",
+      "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
+      "url": "https://www.qbitai.com/2026/10/503294.html",
       "source": "qbitai",
-      "publishedAt": "2026-10-13T11:05:39.000Z",
-      "summaryHint": "让VLA从“演示可用”逼近“产线可用”",
+      "publishedAt": "2026-10-14T10:41:47.000Z",
+      "summaryHint": "“具身进实景，劳动最光荣”",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-xrq836",
+      "id": "rss-sifted-s6a3me",
       "type": "news",
-      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
-      "url": "https://www.qbitai.com/2026/10/503093.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-13T09:33:37.000Z",
-      "summaryHint": "Winverse AI",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-wk5duf",
-      "type": "news",
-      "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
-      "url": "https://www.qbitai.com/2026/10/502992.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-13T07:20:23.000Z",
-      "summaryHint": "宝马保时捷缺席",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-jaj7z1",
-      "type": "news",
-      "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
-      "url": "https://www.qbitai.com/2026/10/502954.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-13T07:19:21.000Z",
-      "summaryHint": "让材料感知压力，造出超薄高密度电子皮肤",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-5t7hr8",
-      "type": "news",
-      "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
-      "url": "https://www.qbitai.com/2026/10/502920.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-13T06:19:10.000Z",
-      "summaryHint": "拉马克进化的幽灵",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-k89pxh",
-      "type": "news",
-      "title": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
-      "url": "https://www.qbitai.com/2026/10/502907.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-13T06:00:20.000Z",
-      "summaryHint": "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-sifted-pe6nd",
-      "type": "news",
-      "title": "What will it take for Europe to win in physical AI?",
-      "url": "https://sifted.eu/articles/sifted-summit-europe-physical-ai/",
+      "title": "How I became a community manager at Lovable",
+      "url": "https://sifted.eu/articles/how-i-got-hired-by-lovable/",
       "source": "sifted",
-      "publishedAt": "2026-10-13T05:00:36.000Z",
+      "publishedAt": "2026-10-14T10:40:56.000Z",
       "tags": [
         "eu",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-als6ou",
+      "id": "rss-qbitai-ii1dhm",
       "type": "news",
-      "title": "退差价、约保养、订球场、跟客服磨赔偿，千问Go什么都想管",
-      "url": "https://www.qbitai.com/2026/10/502849.html",
+      "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
+      "url": "https://www.qbitai.com/2026/10/503244.html",
       "source": "qbitai",
-      "publishedAt": "2026-10-13T04:04:22.000Z",
-      "summaryHint": "丢一句话进去，事儿就办完了",
+      "publishedAt": "2026-10-14T08:01:18.000Z",
+      "summaryHint": "这妥妥是个物理版Agent啊！",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-ljxyqz",
+      "id": "rss-qbitai-2ei830",
       "type": "news",
-      "title": "优必选上榜 2026 年《财富》全球未来成长 120 强，位列全球第 11、中国企业第一",
-      "url": "https://www.qbitai.com/2026/10/502770.html",
+      "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
+      "url": "https://www.qbitai.com/2026/10/503231.html",
       "source": "qbitai",
-      "publishedAt": "2026-10-13T02:01:56.000Z",
-      "summaryHint": "优必选以总分 115 拿下2026 Fortune Future 120全球第 11 名",
+      "publishedAt": "2026-10-14T07:12:02.000Z",
+      "summaryHint": "汽车竞争正在回归汽车本身",
       "tags": [
         "china",
         "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-qyacd2",
+      "type": "news",
+      "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
+      "url": "https://www.qbitai.com/2026/10/503211.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-14T07:03:44.000Z",
+      "summaryHint": "从创意到成本，AI正在重写综艺的生产逻辑",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-teffe1",
+      "type": "news",
+      "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
+      "url": "https://www.qbitai.com/2026/10/503201.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-14T06:45:38.000Z",
+      "summaryHint": "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-62j8us",
+      "type": "news",
+      "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
+      "url": "https://www.qbitai.com/2026/10/503198.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-14T06:24:00.000Z",
+      "summaryHint": "CMOS标准工艺兼容的1TnR技术路线加速研发。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-wriib4",
+      "type": "news",
+      "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
+      "url": "https://www.qbitai.com/2026/10/503172.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-14T04:51:32.000Z",
+      "summaryHint": "给Ego补上缺失的交互信息",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-x8k4pb",
+      "type": "news",
+      "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
+      "url": "https://www.qbitai.com/2026/10/503173.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-14T04:09:29.000Z",
+      "summaryHint": "从“懂空间”到“能干活”",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-ji939o",
+      "type": "news",
+      "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
+      "url": "https://www.qbitai.com/2026/10/503165.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-14T03:32:48.000Z",
+      "summaryHint": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-5ry1u1",
+      "type": "news",
+      "title": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！",
+      "url": "https://www.qbitai.com/2026/10/503157.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-14T02:14:50.000Z",
+      "summaryHint": "一次采集，反复使用",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_thesis-kfj9eu",
+      "type": "news",
+      "title": "当世界模型实现实时推理，能给AI应用带来什么创业机会？ - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ORFR4cVUzcEVtYWRzUHNDc1ZUMVctZHFCcEVaMnZFdDJ0b3dvLXFHcmtLX1BkNElQeVZUcFBqc05QN0JCcldIbVJRV2Z4Zw?oc=5",
+      "source": "google_news_cn_thesis",
+      "publishedAt": "2026-10-13T19:07:00.000Z",
+      "summaryHint": "当世界模型实现实时推理，能给AI应用带来什么创业机会？ &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-sl5xlx",
+      "type": "news",
+      "title": "先行探索智能体未来终端，STEPX Neo打开人机共生新形态 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WbFB2dm1DMXpocGtsekpjSGZBNThaZ3h3eFh6a0tuNjRFSDl1cVhYaWx3WDZXcHVTTWc3Rl94NXpFNkJtMlpuZW1ab2prUQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-12T22:18:00.000Z",
+      "summaryHint": "先行探索智能体未来终端，STEPX Neo打开人机共生新形态 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
       ]
     },
     {
@@ -370,13 +380,85 @@
       ]
     },
     {
-      "id": "reddit-rss-d03zqm",
+      "id": "reddit-rss-q18kaq",
       "type": "social_en",
-      "title": "09 - Stereo Vision 3D Reconstruction Tutorial | Python OpenCV Open3D Complete Pipeline",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x4unm2/09_stereo_vision_3d_reconstruction_tutorial/",
+      "title": "[For Hire] Unreal Engine Developer & 3D Artist | Blueprints, Multiplayer & Game Characters",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1x5o4fe/for_hire_unreal_engine_developer_3d_artist/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-10-14T10:54:04.000Z",
+      "summaryHint": "Hi everyone! I’m Vojin, an Unreal Engine developer and 3D artist based in Malta, available for freelance work. I have over four years of professional experience across game development, VR, and virtual production. Blueprint development is o",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-je3ugp",
+      "type": "social_en",
+      "title": "Exploring Atlux in Unreal Engine 5, from studio setup to Gaussian Splatting capture",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1x5mzmi/exploring_atlux_in_unreal_engine_5_from_studio/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-10-14T09:45:03.000Z",
+      "summaryHint": "I put together a walkthrough of Atlux, covering its studio tools, rendering and capture workflow for Gaussian Splatting. Hopefully useful if you’re exploring ways to present your Unreal scenes. Happy to cover a particular section in more de",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-yh7y99",
+      "type": "social_en",
+      "title": "Splat light interaction in Blender Alpha 5.4",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x5mxv2/splat_light_interaction_in_blender_alpha_54/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-13T11:57:17.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/JonathanTabet [link] &#32; [comments]",
+      "publishedAt": "2026-10-14T09:41:53.000Z",
+      "summaryHint": "I tried out the native Splat integration inside of Blender, I gotta say it’s pretty fun. Even though the splat itself is rather low quality, it was the best example for the light interaction. I just swapped out the emission texture and repl",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-nenplj",
+      "type": "social_en",
+      "title": "Our game is made 99% using blueprints. It's a shame that BPs will be deprecated in the future. The system made it possible for 3 art-minded people to make a game.",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1x5ktpw/our_game_is_made_99_using_blueprints_its_a_shame/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-10-14T07:21:55.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/Ultraturpasauna [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-kdtpta",
+      "type": "social_en",
+      "title": "Training Gaussian splats on a PS5 with Spirula Studio",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x5az2p/training_gaussian_splats_on_a_ps5_with_spirula/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-10-13T22:39:28.000Z",
+      "summaryHint": "Training Gaussian splats on a PS5 with Spirula Studio, running natively on the console’s AMD GPU via the new PS5 Vulkan port. Impasse Saint Claude in Paris, captured a few years ago with Insta360 &#32; submitted by &#32; /u/gradeeterna [lin",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-r0uvvs",
+      "type": "social_en",
+      "title": "Align Gaussian Splats. Same bike, same place, different lighting.",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x55x7a/align_gaussian_splats_same_bike_same_place/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-10-13T19:16:37.000Z",
+      "summaryHint": "I finally got my hands on an XGRIDS PortalCam, and for my first test I scanned a Schindelhauer Bikes Ludwig Classic four times as daylight faded into night. Same bike, same place, different lighting. The teaser below shows the process. I&#3",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-ffr9ly",
+      "type": "social_en",
+      "title": "I've been maintaining a UE 5.8 fork for D3D12 / deferred / classic shadows: hardware tessellation is back, UE6 backports, RE:Dox and more. Sharing in case it's useful to anyone",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1x4zk53/ive_been_maintaining_a_ue_58_fork_for_d3d12/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-10-13T15:23:02.000Z",
+      "summaryHint": "Hi all, For a while I&#39;ve been working on Unreal Engine X, my fork based of Unreal Engine 5.8. I built it for my own project, but some of it might help others, so I&#39;m sharing it. It&#39;s now merged with Epic&#39;s 5.8.3 release. The",
       "tags": [
         "ai_social"
       ]
@@ -389,54 +471,6 @@
       "source": "reddit_r_GaussianSplatting",
       "publishedAt": "2026-10-13T09:11:09.000Z",
       "summaryHint": "Hi there! 👋 Every day, I get messages from people asking why their posts were removed. The answer is simple: Please use clean links — no tracking parameters, no affiliate links, no LinkedIn, whatsoever. Help us keep the community clean and",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-utlsc7",
-      "type": "social_en",
-      "title": "Machine Learning Tutorial/Workshop [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x4qcxw/machine_learning_tutorialworkshop_d/",
-      "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-10-13T07:34:40.000Z",
-      "summaryHint": "This post is to let people know about a workshop/tutorial on Machine Learning that will run on the (blue) math discord server: discord.gg/maths . The place is nice, people are cool and helpful, and as you can see it is a mathematics server,",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-u9hilo",
-      "type": "social_en",
-      "title": "What is the strongest mechanistic argument that next token prediction plus reinforcement learning can produce open-ended general intelligence? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x4awlk/what_is_the_strongest_mechanistic_argument_that/",
-      "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-10-12T19:09:27.000Z",
-      "summaryHint": "Most conversations I see on various AI subreddits start from the assumption that AGI/RSI/ASI is possible, we&#39;re on the way right now, and that things will be incredibly different afterward. The only question is what the post-AGI world l",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-pmswi7",
-      "type": "social_en",
-      "title": "I built two browser games made entirely of splats!",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x47d9u/i_built_two_browser_games_made_entirely_of_splats/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-12T17:00:25.000Z",
-      "summaryHint": "For a while I&#39;ve wanted to build a Slenderman-like game on Gaussian splats, unfortunately I never quite got around to it as I&#39;ve had more pressing things to do. With the recent virality of Opus 5.5&#39;s modding and coding capabilit",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-t9696y",
-      "type": "social_en",
-      "title": "Is this made with Gaussian Splatting?",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x46bl0/is_this_made_with_gaussian_splatting/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-12T16:21:48.000Z",
-      "summaryHint": "I&#39;m pretty sure it&#39;s not made like how it&#39;s portrayed because the motion is too smooth. I was thinking either they have an expensive programmable camera arm thingy and managed to get the cat to look at the camera all the time, o",
       "tags": [
         "ai_social"
       ]
