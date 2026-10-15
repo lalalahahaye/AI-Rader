@@ -1,7 +1,23 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T11:56:45.627Z",
+  "updatedAt": "2026-10-15T11:33:20.236Z",
   "items": [
+    {
+      "id": "rss-google_news_cn_36kr_deals-69st3c",
+      "type": "funding",
+      "title": "智元创新启动新一轮融资，估值500亿，港股IPO暂缓 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9takdSbWlZNnptZkF2M2k3SWRJaEJNYlZkYmRzdXppZERsajZYckVFblZSVUs4NVRxRTYzMzdSUTRqUWhwQm1YQzlwVUFFUQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-13T20:31:00.000Z",
+      "summaryHint": "智元创新启动新一轮融资，估值500亿，港股IPO暂缓 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "500亿"
+    },
     {
       "id": "rss-google_news_cn_36kr_deals-hcz55a",
       "type": "funding",
@@ -164,37 +180,17 @@
       "amount": "43亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-r9gkk",
-      "type": "funding",
-      "title": "白犀牛完成1亿美元C轮融资，L4无人配送生态布局提速｜36氪首发 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByU19zUVZUMk1OQUVadWZkX1l5RGsxS2h3N1E5Zm1ZYXl5Y0lKN3Q0UnRVS0VybjlDRm1zWEZZd1YzNXBIQU1Gd2RkcEo0QjBV?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-11T12:13:00.000Z",
-      "summaryHint": "白犀牛完成1亿美元C轮融资，L4无人配送生态布局提速｜36氪首发 &nbsp;&nbsp; 36Kr",
+      "id": "rss-qbitai-buywqi",
+      "type": "news",
+      "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
+      "url": "https://www.qbitai.com/2026/10/503303.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-15T01:56:20.000Z",
+      "summaryHint": "给企业Agent打了个样",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "C轮融资",
-      "amount": "1亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-da4pu8",
-      "type": "funding",
-      "title": "AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fWTJ5Y212RnZZS0hBUjgyQzMzWmU4dW5HWE8zYXVtdGNFbUhvOFAwanZGNmlFcVREYUtlZVhrMDZ6YUd6V0x5TVlSY0g2Zw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-10T11:00:00.000Z",
-      "summaryHint": "AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "B轮融资"
+        "funding"
+      ]
     },
     {
       "id": "rss-qbitai-kuwqmn",
@@ -210,15 +206,17 @@
       ]
     },
     {
-      "id": "rss-sifted-s6a3me",
+      "id": "rss-google_news_cn_36kr_deals-atjmfp",
       "type": "news",
-      "title": "How I became a community manager at Lovable",
-      "url": "https://sifted.eu/articles/how-i-got-hired-by-lovable/",
-      "source": "sifted",
-      "publishedAt": "2026-10-14T10:40:56.000Z",
+      "title": "美股AI基建信用危机爆发 机构预警CRWV违约 NBIS AMD股价暴跌 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12MVRKR25QRTU2MFR2R29wQWlYT05SOVYwajVFclpEOHhsZEdoRzIzLTlMa2lqcFAzdG92MDlVWlV3cDJBVGw3Q1FZMFBGYUo4U3ow?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-14T09:54:00.000Z",
+      "summaryHint": "美股AI基建信用危机爆发 机构预警CRWV违约 NBIS AMD股价暴跌 &nbsp;&nbsp; 36Kr",
       "tags": [
-        "eu",
-        "funding"
+        "china",
+        "funding",
+        "deal_rss"
       ]
     },
     {
@@ -326,26 +324,13 @@
       ]
     },
     {
-      "id": "rss-qbitai-5ry1u1",
+      "id": "rss-google_news_cn_thesis-6051qo",
       "type": "news",
-      "title": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！",
-      "url": "https://www.qbitai.com/2026/10/503157.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-14T02:14:50.000Z",
-      "summaryHint": "一次采集，反复使用",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_thesis-kfj9eu",
-      "type": "news",
-      "title": "当世界模型实现实时推理，能给AI应用带来什么创业机会？ - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ORFR4cVUzcEVtYWRzUHNDc1ZUMVctZHFCcEVaMnZFdDJ0b3dvLXFHcmtLX1BkNElQeVZUcFBqc05QN0JCcldIbVJRV2Z4Zw?oc=5",
+      "title": "世界模型实时推理落地赋能AI应用 解锁全新创业机遇解析 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41Rk9RZDZDemZtc3NOVHRFWnNiSTJDYW5PWnNYbVpSY3RFdWZLd2ZBZUxXU0ZQVXhkQXpNVHdCekNRNU5UOHZOODI1SmVOM21Pb2ZJ?oc=5",
       "source": "google_news_cn_thesis",
       "publishedAt": "2026-10-13T19:07:00.000Z",
-      "summaryHint": "当世界模型实现实时推理，能给AI应用带来什么创业机会？ &nbsp;&nbsp; 36Kr",
+      "summaryHint": "世界模型实时推理落地赋能AI应用 解锁全新创业机遇解析 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding"
@@ -354,11 +339,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-sl5xlx",
       "type": "news",
-      "title": "先行探索智能体未来终端，STEPX Neo打开人机共生新形态 - 36Kr",
+      "title": "先行探索智能体未来终端，STEPX Neo打开人机共生新形态 - 36氪",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WbFB2dm1DMXpocGtsekpjSGZBNThaZ3h3eFh6a0tuNjRFSDl1cVhYaWx3WDZXcHVTTWc3Rl94NXpFNkJtMlpuZW1ab2prUQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-10-12T22:18:00.000Z",
-      "summaryHint": "先行探索智能体未来终端，STEPX Neo打开人机共生新形态 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "先行探索智能体未来终端，STEPX Neo打开人机共生新形态 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
@@ -380,85 +365,37 @@
       ]
     },
     {
-      "id": "reddit-rss-q18kaq",
+      "id": "reddit-rss-vlrnsu",
       "type": "social_en",
-      "title": "[For Hire] Unreal Engine Developer & 3D Artist | Blueprints, Multiplayer & Game Characters",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1x5o4fe/for_hire_unreal_engine_developer_3d_artist/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-10-14T10:54:04.000Z",
-      "summaryHint": "Hi everyone! I’m Vojin, an Unreal Engine developer and 3D artist based in Malta, available for freelance work. I have over four years of professional experience across game development, VR, and virtual production. Blueprint development is o",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-je3ugp",
-      "type": "social_en",
-      "title": "Exploring Atlux in Unreal Engine 5, from studio setup to Gaussian Splatting capture",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1x5mzmi/exploring_atlux_in_unreal_engine_5_from_studio/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-10-14T09:45:03.000Z",
-      "summaryHint": "I put together a walkthrough of Atlux, covering its studio tools, rendering and capture workflow for Gaussian Splatting. Hopefully useful if you’re exploring ways to present your Unreal scenes. Happy to cover a particular section in more de",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-yh7y99",
-      "type": "social_en",
-      "title": "Splat light interaction in Blender Alpha 5.4",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x5mxv2/splat_light_interaction_in_blender_alpha_54/",
+      "title": "InfiniSplat v2 released: Analyzing and Improving Feed-Forward 3DGS from Any Views",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x6ek76/infinisplat_v2_released_analyzing_and_improving/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-14T09:41:53.000Z",
-      "summaryHint": "I tried out the native Splat integration inside of Blender, I gotta say it’s pretty fun. Even though the splat itself is rather low quality, it was the best example for the light interaction. I just swapped out the emission texture and repl",
+      "publishedAt": "2026-10-15T06:44:21.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/Elven77AI [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-nenplj",
+      "id": "reddit-rss-2b5nve",
       "type": "social_en",
-      "title": "Our game is made 99% using blueprints. It's a shame that BPs will be deprecated in the future. The system made it possible for 3 art-minded people to make a game.",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1x5ktpw/our_game_is_made_99_using_blueprints_its_a_shame/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-10-14T07:21:55.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/Ultraturpasauna [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-kdtpta",
-      "type": "social_en",
-      "title": "Training Gaussian splats on a PS5 with Spirula Studio",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x5az2p/training_gaussian_splats_on_a_ps5_with_spirula/",
+      "title": "a little aquarium inside an old Mac — made with Gaussian splats",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x6c9tc/a_little_aquarium_inside_an_old_mac_made_with/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-13T22:39:28.000Z",
-      "summaryHint": "Training Gaussian splats on a PS5 with Spirula Studio, running natively on the console’s AMD GPU via the new PS5 Vulkan port. Impasse Saint Claude in Paris, captured a few years ago with Insta360 &#32; submitted by &#32; /u/gradeeterna [lin",
+      "publishedAt": "2026-10-15T04:27:18.000Z",
+      "summaryHint": "made this little Mac aquarium in evova &#32; submitted by &#32; /u/y0un51n [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-r0uvvs",
+      "id": "reddit-rss-g0yz6i",
       "type": "social_en",
-      "title": "Align Gaussian Splats. Same bike, same place, different lighting.",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x55x7a/align_gaussian_splats_same_bike_same_place/",
+      "title": "Neural denoiser for Gaussian-Splat-Lite for Three.js",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x5qbk1/neural_denoiser_for_gaussiansplatlite_for_threejs/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-13T19:16:37.000Z",
-      "summaryHint": "I finally got my hands on an XGRIDS PortalCam, and for my first test I scanned a Schindelhauer Bikes Ludwig Classic four times as daylight faded into night. Same bike, same place, different lighting. The teaser below shows the process. I&#3",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-ffr9ly",
-      "type": "social_en",
-      "title": "I've been maintaining a UE 5.8 fork for D3D12 / deferred / classic shadows: hardware tessellation is back, UE6 backports, RE:Dox and more. Sharing in case it's useful to anyone",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1x4zk53/ive_been_maintaining_a_ue_58_fork_for_d3d12/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-10-13T15:23:02.000Z",
-      "summaryHint": "Hi all, For a while I&#39;ve been working on Unreal Engine X, my fork based of Unreal Engine 5.8. I built it for my own project, but some of it might help others, so I&#39;m sharing it. It&#39;s now merged with Epic&#39;s 5.8.3 release. The",
+      "publishedAt": "2026-10-14T12:47:53.000Z",
+      "summaryHint": "I&#39;ve recently been experimenting with a neural denoiser for the Stochastic mode in Gaussian-Splat-Lite , an extremely high-performance open-source 3D Gaussian Splatting renderer for Three.js. Stochastic rendering can be faster than norm",
       "tags": [
         "ai_social"
       ]
