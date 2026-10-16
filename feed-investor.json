@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T11:33:20.236Z",
+  "updatedAt": "2026-10-16T11:28:05.062Z",
   "items": [
+    {
+      "id": "rss-google_news_cn_36kr_deals-l27enk",
+      "type": "funding",
+      "title": "拿下两轮数亿元融资，清华博导刘子鸣要造能自己设计模型的「元模型」 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9OSzNxb3dEQWZDNXlTYk9TaWhMTkpQR2JYcGFkODQ3TTRBT1VsbkJMTEhXT1l5cVY2aVlUaVNoUEl5VGxydDVPUHhOOFQzZw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-15T17:05:00.000Z",
+      "summaryHint": "拿下两轮数亿元融资，清华博导刘子鸣要造能自己设计模型的「元模型」 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-tckh22",
+      "type": "funding",
+      "title": "CoreWeave违约概率超六成，黄仁勋“灭火”：融资成本在下降，无需英伟达兜底 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WS1U2Z1IxT3FfUjhfQkNyX3k4eUZsenlrbU45SHF1Z1lZMXJYY0Vnb0dtTTBYUE9fYmo1SjEzQTlPWTU5cHUyenJNY0Mzdw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-15T13:09:00.000Z",
+      "summaryHint": "CoreWeave违约概率超六成，黄仁勋“灭火”：融资成本在下降，无需英伟达兜底 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-qbitai-9k80l5",
+      "type": "funding",
+      "title": "刚刚，苹果正式迈入5万亿美元时代",
+      "url": "https://www.qbitai.com/2026/10/503434.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-15T05:36:16.000Z",
+      "summaryHint": "曝国行12月上线",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "amount": "5万"
+    },
     {
       "id": "rss-google_news_cn_36kr_deals-69st3c",
       "type": "funding",
@@ -19,28 +64,13 @@
       "amount": "500亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-hcz55a",
-      "type": "funding",
-      "title": "DeepSeek，千亿融资追踪，LP称仍在动态变化 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FUWVhSWdGYVRBVXA4M2VtUkdCOF9HMGlPNVBLRVl0QWlxNFdIRkk1d0VnZlNkLUcxci01NFM2TUV2VG9FZmlKa3ZEbjVOdw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-13T11:18:00.000Z",
-      "summaryHint": "DeepSeek，千亿融资追踪，LP称仍在动态变化 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-2kvhyo",
       "type": "funding",
-      "title": "「荆华密算」完成近亿元 Pre-A 轮融资，全面解决高敏场景 “AI 不敢用” 难题 | 光源伙伴 - 36 Kr",
+      "title": "「荆华密算」完成近亿元 Pre-A 轮融资，全面解决高敏场景 “AI 不敢用” 难题 | 光源伙伴 - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91bDVuQkxHclBFMzdXQTlITk5lYWl1NDMybUxla3NpZkl5UWdIS1hlQXVMOGFQMmN3YXNxMGFNbU5aM01NUVUwWHhiaw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-10-13T06:09:28.000Z",
-      "summaryHint": "「荆华密算」完成近亿元 Pre-A 轮融资，全面解决高敏场景 “AI 不敢用” 难题 | 光源伙伴 &nbsp;&nbsp; 36 Kr",
+      "summaryHint": "「荆华密算」完成近亿元 Pre-A 轮融资，全面解决高敏场景 “AI 不敢用” 难题 | 光源伙伴 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -52,11 +82,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-rs89rh",
       "type": "funding",
-      "title": "DeepSeek融资翻倍至1000亿，新一轮投资方基本确定，IPO节奏加快 - 36Kr",
+      "title": "DeepSeek融资翻倍至1000亿，新一轮投资方基本确定，IPO节奏加快 - 36氪",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GVWZjNm9McWMzUXNwdWlWd1A0YWtRY283TjJrRzA1ZHV1VmFfcXlkOUxDbU13RUxIMndvZ3JVOGtkQ21fNVhGTzJoUHdpUQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-10-12T22:38:00.000Z",
-      "summaryHint": "DeepSeek融资翻倍至1000亿，新一轮投资方基本确定，IPO节奏加快 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "DeepSeek融资翻倍至1000亿，新一轮投资方基本确定，IPO节奏加快 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
@@ -98,72 +128,6 @@
       "round": "天使轮"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-vhjiia",
-      "type": "funding",
-      "title": "类脑计算再升温：Flourish获5亿美元融资，用脑科学押注下一代AI范式 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVZ2RXaFZfRmNtRWlyQU9QY1hDYy1YTEVHblhETVVjMTlqSHM3T0s2VXlLSUJTSEhhX1g2TTZuLUdDT3R3WTFfUVREdzBtNW9j?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-12T11:10:00.000Z",
-      "summaryHint": "类脑计算再升温：Flourish获5亿美元融资，用脑科学押注下一代AI范式 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "5亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-2oizog",
-      "type": "funding",
-      "title": "复旦师生Pre-A轮融资超10亿，想让AI懂人的情绪与处境 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1uOGJRMzFwcjNhOW55U29pNDRBMmE5eGNwNFpHRWpqZUZOenpKS01HS2t5NnFsMGVTMi0wUk9iMUFoSi01bkh3LTFuUkw5QQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-12T10:15:00.000Z",
-      "summaryHint": "复旦师生Pre-A轮融资超10亿，想让AI懂人的情绪与处境 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "Pre-A",
-      "amount": "10亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-w3v39t",
-      "type": "funding",
-      "title": "模思智能完成超10亿元Pre-A轮融资，押注下一代AI全模态实时交互基座｜星连被投动态 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mLVlseTFhT3dsTVE0ZFV6ZFBiOHQzb01NczF1X0NsN1JSMmJGX0h6Xzdha21fN3hMTkRXSnZNa1MxWnJnMWlyM21kUUpjTzlT?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-12T09:03:37.000Z",
-      "summaryHint": "模思智能完成超10亿元Pre-A轮融资，押注下一代AI全模态实时交互基座｜星连被投动态 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "Pre-A",
-      "amount": "10亿元"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-fxlzzh",
-      "type": "funding",
-      "title": "23亿，AI Infra独角兽又拿到大额融资 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Lc3hKeTNqZ3hRellVRUhNTjV6aTZiVWhzdnJnZlZMbGx5NmtZQmZyYUFVdm1jc3dhMVc0T3FmWGlQaTFBLXhxM2RyZw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-11T21:31:00.000Z",
-      "summaryHint": "23亿，AI Infra独角兽又拿到大额融资 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "23亿"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-fdxy2b",
       "type": "funding",
       "title": "累计43亿，国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿 - 36Kr",
@@ -180,39 +144,79 @@
       "amount": "43亿"
     },
     {
-      "id": "rss-qbitai-buywqi",
-      "type": "news",
-      "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
-      "url": "https://www.qbitai.com/2026/10/503303.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-15T01:56:20.000Z",
-      "summaryHint": "给企业Agent打了个样",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-kuwqmn",
-      "type": "news",
-      "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
-      "url": "https://www.qbitai.com/2026/10/503294.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-14T10:41:47.000Z",
-      "summaryHint": "“具身进实景，劳动最光荣”",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-atjmfp",
-      "type": "news",
-      "title": "美股AI基建信用危机爆发 机构预警CRWV违约 NBIS AMD股价暴跌 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12MVRKR25QRTU2MFR2R29wQWlYT05SOVYwajVFclpEOHhsZEdoRzIzLTlMa2lqcFAzdG92MDlVWlV3cDJBVGw3Q1FZMFBGYUo4U3ow?oc=5",
+      "id": "rss-google_news_cn_36kr_deals-yic7tu",
+      "type": "funding",
+      "title": "白犀牛完成1亿美元C轮融资，L4无人配送生态布局提速｜36氪首发 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VTF9GejBNSy1hR0IyQ3J0YzJPeDJUVnJIRmxOczRubUtHQ0ppM2o1Mmc1T3paMGlFZV9vUlZoRTdKQkQwNk1EMkFZYw?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-14T09:54:00.000Z",
-      "summaryHint": "美股AI基建信用危机爆发 机构预警CRWV违约 NBIS AMD股价暴跌 &nbsp;&nbsp; 36Kr",
+      "publishedAt": "2026-10-11T12:13:00.000Z",
+      "summaryHint": "白犀牛完成1亿美元C轮融资，L4无人配送生态布局提速｜36氪首发 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "C轮融资",
+      "amount": "1亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-da4pu8",
+      "type": "funding",
+      "title": "AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fWTJ5Y212RnZZS0hBUjgyQzMzWmU4dW5HWE8zYXVtdGNFbUhvOFAwanZGNmlFcVREYUtlZVhrMDZ6YUd6V0x5TVlSY0g2Zw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-10T11:00:00.000Z",
+      "summaryHint": "AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "B轮融资"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-1bjflk",
+      "type": "funding",
+      "title": "「利太智药」完成近 5000 万元种子轮融资，打造 AI 原生多肽药物研发平台 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XT2VCdi1lRGJhYmVDN1VTSGczZ0gxX1p4a0dONXZuaWkwY1FPYzhFaHdCRmFUazdFaWVTb19MWTY2dnRGZ0N0cHRJUzF0ZUwydy1z?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-09T12:21:00.000Z",
+      "summaryHint": "「利太智药」完成近 5000 万元种子轮融资，打造 AI 原生多肽药物研发平台 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "种子轮",
+      "amount": "5000万元"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-kkpd9t",
+      "type": "funding",
+      "title": "OpenAI营收预期缩水 Manus获5亿美元融资 AI赛道风向生变 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UQ2J3c09kZktGQ2lJTTNFQ0dxVUc2ZlpObVBrc0xOLTJzV1JxQVd0RkNmaWFjcVAwempXdnRBcVVJZS1WQjlxMlNHbUU2dnhUeGtv?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-09T12:20:00.000Z",
+      "summaryHint": "OpenAI营收预期缩水 Manus获5亿美元融资 AI赛道风向生变 &nbsp;&nbsp; 36 Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "5亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-pyhv80",
+      "type": "news",
+      "title": "赛道顶流陨落，国内玩家“折戟”，AI陪伴何去何从？ - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LeHVfSkgyckJBYjRKZXp0aGpKT0ctSHVTZjlEMmY1YlJ1Z1VqQlpkSUtxeG1aQkJLMDYzVW1rVzlmUE9JeFNtQ2JtRUxQZw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-15T18:30:00.000Z",
+      "summaryHint": "赛道顶流陨落，国内玩家“折戟”，AI陪伴何去何从？ &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -220,117 +224,129 @@
       ]
     },
     {
-      "id": "rss-qbitai-ii1dhm",
+      "id": "rss-qbitai-7sn7tn",
       "type": "news",
-      "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
-      "url": "https://www.qbitai.com/2026/10/503244.html",
+      "title": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
+      "url": "https://www.qbitai.com/2026/10/503645.html",
       "source": "qbitai",
-      "publishedAt": "2026-10-14T08:01:18.000Z",
-      "summaryHint": "这妥妥是个物理版Agent啊！",
+      "publishedAt": "2026-10-15T10:07:08.000Z",
+      "summaryHint": "京东11.11已于10月12日晚8点全面开启，首日下单用户数实现同比双位数增长。",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-2ei830",
+      "id": "rss-qbitai-a5vbsm",
       "type": "news",
-      "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
-      "url": "https://www.qbitai.com/2026/10/503231.html",
+      "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
+      "url": "https://www.qbitai.com/2026/10/503640.html",
       "source": "qbitai",
-      "publishedAt": "2026-10-14T07:12:02.000Z",
-      "summaryHint": "汽车竞争正在回归汽车本身",
+      "publishedAt": "2026-10-15T09:43:29.000Z",
+      "summaryHint": "Siri AI这次不包括在内",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-qyacd2",
+      "id": "rss-qbitai-iq8d37",
       "type": "news",
-      "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
-      "url": "https://www.qbitai.com/2026/10/503211.html",
+      "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
+      "url": "https://www.qbitai.com/2026/10/503614.html",
       "source": "qbitai",
-      "publishedAt": "2026-10-14T07:03:44.000Z",
-      "summaryHint": "从创意到成本，AI正在重写综艺的生产逻辑",
+      "publishedAt": "2026-10-15T08:48:31.000Z",
+      "summaryHint": "Agent究竟该如何深入业务毛细血管？",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-teffe1",
+      "id": "rss-qbitai-hb3hwm",
       "type": "news",
-      "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
-      "url": "https://www.qbitai.com/2026/10/503201.html",
+      "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+      "url": "https://www.qbitai.com/2026/10/503611.html",
       "source": "qbitai",
-      "publishedAt": "2026-10-14T06:45:38.000Z",
-      "summaryHint": "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布",
+      "publishedAt": "2026-10-15T08:16:19.000Z",
+      "summaryHint": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-62j8us",
+      "id": "rss-qbitai-ibb7oo",
       "type": "news",
-      "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
-      "url": "https://www.qbitai.com/2026/10/503198.html",
+      "title": "这个双十一，百灵新模型干起活来不烧心",
+      "url": "https://www.qbitai.com/2026/10/503532.html",
       "source": "qbitai",
-      "publishedAt": "2026-10-14T06:24:00.000Z",
-      "summaryHint": "CMOS标准工艺兼容的1TnR技术路线加速研发。",
+      "publishedAt": "2026-10-15T07:35:24.000Z",
+      "summaryHint": "大模型好不好用，百灵拿成品说话",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-wriib4",
+      "id": "rss-qbitai-orse71",
       "type": "news",
-      "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
-      "url": "https://www.qbitai.com/2026/10/503172.html",
+      "title": "AI时代，商学院这样培养未来商业领袖",
+      "url": "https://www.qbitai.com/2026/10/503504.html",
       "source": "qbitai",
-      "publishedAt": "2026-10-14T04:51:32.000Z",
-      "summaryHint": "给Ego补上缺失的交互信息",
+      "publishedAt": "2026-10-15T07:22:34.000Z",
+      "summaryHint": "未来十年共创1000个AI课题",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-x8k4pb",
+      "id": "rss-qbitai-q6x9dm",
       "type": "news",
-      "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
-      "url": "https://www.qbitai.com/2026/10/503173.html",
+      "title": "基元律动宣布开发者入驻超30万，开启双11预售福利",
+      "url": "https://www.qbitai.com/2026/10/503501.html",
       "source": "qbitai",
-      "publishedAt": "2026-10-14T04:09:29.000Z",
-      "summaryHint": "从“懂空间”到“能干活”",
+      "publishedAt": "2026-10-15T06:59:37.000Z",
+      "summaryHint": "基元律动（Token Rhythm）宣布已有超过30万名开发者入驻，同期推出双11预售限时福利。",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-ji939o",
+      "id": "rss-qbitai-8w6hyi",
       "type": "news",
-      "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
-      "url": "https://www.qbitai.com/2026/10/503165.html",
+      "title": "苹果AI国内上线，阿里百度浮出水面",
+      "url": "https://www.qbitai.com/2026/10/503497.html",
       "source": "qbitai",
-      "publishedAt": "2026-10-14T03:32:48.000Z",
-      "summaryHint": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
+      "publishedAt": "2026-10-15T06:52:45.000Z",
+      "summaryHint": "苹果 Apple Intelligence（苹果智能）在中国大陆的上线进入最后阶段。",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-google_news_cn_thesis-6051qo",
+      "id": "rss-qbitai-629ifa",
       "type": "news",
-      "title": "世界模型实时推理落地赋能AI应用 解锁全新创业机遇解析 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41Rk9RZDZDemZtc3NOVHRFWnNiSTJDYW5PWnNYbVpSY3RFdWZLd2ZBZUxXU0ZQVXhkQXpNVHdCekNRNU5UOHZOODI1SmVOM21Pb2ZJ?oc=5",
+      "title": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
+      "url": "https://www.qbitai.com/2026/10/503446.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-15T06:35:46.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_thesis-kfj9eu",
+      "type": "news",
+      "title": "当世界模型实现实时推理，能给AI应用带来什么创业机会？ - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ORFR4cVUzcEVtYWRzUHNDc1ZUMVctZHFCcEVaMnZFdDJ0b3dvLXFHcmtLX1BkNElQeVZUcFBqc05QN0JCcldIbVJRV2Z4Zw?oc=5",
       "source": "google_news_cn_thesis",
       "publishedAt": "2026-10-13T19:07:00.000Z",
-      "summaryHint": "世界模型实时推理落地赋能AI应用 解锁全新创业机遇解析 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "当世界模型实现实时推理，能给AI应用带来什么创业机会？ &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding"
@@ -339,11 +355,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-sl5xlx",
       "type": "news",
-      "title": "先行探索智能体未来终端，STEPX Neo打开人机共生新形态 - 36氪",
+      "title": "先行探索智能体未来终端，STEPX Neo打开人机共生新形态 - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WbFB2dm1DMXpocGtsekpjSGZBNThaZ3h3eFh6a0tuNjRFSDl1cVhYaWx3WDZXcHVTTWc3Rl94NXpFNkJtMlpuZW1ab2prUQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-10-12T22:18:00.000Z",
-      "summaryHint": "先行探索智能体未来终端，STEPX Neo打开人机共生新形态 &nbsp;&nbsp; 36氪",
+      "summaryHint": "先行探索智能体未来终端，STEPX Neo打开人机共生新形态 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -351,51 +367,133 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-u2ecpi",
-      "type": "news",
-      "title": "Manus，站在AI应用爆发前夜 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QYjQwZl9wMjl4UmRqMUFCU1lrWldwM0VWNzVfVXBHaXFMMjFmbUxXUlViYkN3NXhVV0RBRm1DeHA1MnZNOVlwbkhtcw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-12T08:55:00.000Z",
-      "summaryHint": "Manus，站在AI应用爆发前夜 &nbsp;&nbsp; 36 Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "reddit-rss-vlrnsu",
+      "id": "reddit-rss-hzseit",
       "type": "social_en",
-      "title": "InfiniSplat v2 released: Analyzing and Improving Feed-Forward 3DGS from Any Views",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x6ek76/infinisplat_v2_released_analyzing_and_improving/",
+      "title": "Mapping Points in Surveillance Video to Geographic Coordinates",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x7b38p/mapping_points_in_surveillance_video_to/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-15T06:44:21.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/Elven77AI [link] &#32; [comments]",
+      "publishedAt": "2026-10-16T08:53:49.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/Betty-Diaz [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-2b5nve",
+      "id": "reddit-rss-wjuzvg",
       "type": "social_en",
-      "title": "a little aquarium inside an old Mac — made with Gaussian splats",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x6c9tc/a_little_aquarium_inside_an_old_mac_made_with/",
+      "title": "summer to autumn transition in blender 5.3 beta",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x7ajvp/summer_to_autumn_transition_in_blender_53_beta/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-15T04:27:18.000Z",
-      "summaryHint": "made this little Mac aquarium in evova &#32; submitted by &#32; /u/y0un51n [link] &#32; [comments]",
+      "publishedAt": "2026-10-16T08:17:36.000Z",
+      "summaryHint": "Revisited the same spot 3 months later to scan it again. Played around with Geo Nodes to transition between both scans. &#32; submitted by &#32; /u/MTHSHNZ [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-g0yz6i",
+      "id": "reddit-rss-3kp3eo",
       "type": "social_en",
-      "title": "Neural denoiser for Gaussian-Splat-Lite for Three.js",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x5qbk1/neural_denoiser_for_gaussiansplatlite_for_threejs/",
+      "title": "Accenture restricts monthly employee spending on Claude to $29/month",
+      "url": "https://www.reddit.com/r/artificial/comments/1x737yd/accenture_restricts_monthly_employee_spending_on/",
+      "source": "reddit_r_artificial",
+      "publishedAt": "2026-10-16T01:21:06.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/LinkedInNews [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-228qzz",
+      "type": "social_en",
+      "title": "I compared 321 Steam games from this year: the ones that took off vs the ones stuck under 10 reviews",
+      "url": "https://www.reddit.com/r/gamedev/comments/1x70n51/i_compared_321_steam_games_from_this_year_the/",
+      "source": "reddit_r_gamedev",
+      "publishedAt": "2026-10-15T23:18:05.000Z",
+      "summaryHint": "I wanted to know what separates the games that get traction from the ones that don’t, using real numbers instead of advice threads. So I pulled a sample of 2,100 games released on Steam between March 12 and August 3 this year, spread evenly",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-kjsyw9",
+      "type": "social_en",
+      "title": "Steamworks Development - Updated Achievement System",
+      "url": "https://www.reddit.com/r/gamedev/comments/1x6zfuu/steamworks_development_updated_achievement_system/",
+      "source": "reddit_r_gamedev",
+      "publishedAt": "2026-10-15T22:24:15.000Z",
+      "summaryHint": "This is fantastic news. The old system was such a headache. &#32; submitted by &#32; /u/burge4150 [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-iortml",
+      "type": "social_en",
+      "title": "MLP Splatting: Object-Centric Neural Fields",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x6xwtk/mlp_splatting_objectcentric_neural_fields/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-14T12:47:53.000Z",
-      "summaryHint": "I&#39;ve recently been experimenting with a neural denoiser for the Stochastic mode in Gaussian-Splat-Lite , an extremely high-performance open-source 3D Gaussian Splatting renderer for Three.js. Stochastic rendering can be faster than norm",
+      "publishedAt": "2026-10-15T21:18:19.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/corysama [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-inl67b",
+      "type": "social_en",
+      "title": "One of the favorite parts of parenting has always been reading to the kiddos. Why would anyone voluntarily give that up?",
+      "url": "https://www.reddit.com/r/artificial/comments/1x6t5wi/one_of_the_favorite_parts_of_parenting_has_always/",
+      "source": "reddit_r_artificial",
+      "publishedAt": "2026-10-15T18:15:07.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/Garaad252 [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-idwkhd",
+      "type": "social_en",
+      "title": "/r/GameDev Updates to Rule 3: No Showcasing Projects",
+      "url": "https://www.reddit.com/r/gamedev/comments/1x6s41i/rgamedev_updates_to_rule_3_no_showcasing_projects/",
+      "source": "reddit_r_gamedev",
+      "publishedAt": "2026-10-15T17:35:09.000Z",
+      "summaryHint": "This community has often allowed people to share free tools and assets but it has always been subjective about where the line crosses regarding self-promotion or showing off a project. We have updated rule 3 to make the following clarificat",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-gach58",
+      "type": "social_en",
+      "title": "Anthropic's Mythos found so many software flaws, Bank of America hired 1,000 contractors to fix them",
+      "url": "https://www.reddit.com/r/artificial/comments/1x6q0v3/anthropics_mythos_found_so_many_software_flaws/",
+      "source": "reddit_r_artificial",
+      "publishedAt": "2026-10-15T16:17:05.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/fasildar55 [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-wnyw05",
+      "type": "social_en",
+      "title": "Unsupervised AI agent reportedly deletes TV show’s entire edit weeks before release, erasing months of work — TV show can't air, AI agent was given access to the production server and wiped the finished season",
+      "url": "https://www.reddit.com/r/artificial/comments/1x6oefu/unsupervised_ai_agent_reportedly_deletes_tv_shows/",
+      "source": "reddit_r_artificial",
+      "publishedAt": "2026-10-15T15:16:09.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/IndependentCoast3974 [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-tjyxi6",
+      "type": "social_en",
+      "title": "Introducing BRUTAL | A free C# framework that helped RimWorld make its own engine and break free of Unity. Now you can too.",
+      "url": "https://www.reddit.com/r/gamedev/comments/1x6d2dy/introducing_brutal_a_free_c_framework_that_helped/",
+      "source": "reddit_r_gamedev",
+      "publishedAt": "2026-10-15T05:13:10.000Z",
+      "summaryHint": "Our industry is rotting from its core, outwards in every direction, and it has been for some time. Driven by greed, driven by a race to the bottom on price. It is my position that the games industry was already heading somewhere unsustainab",
       "tags": [
         "ai_social"
       ]
