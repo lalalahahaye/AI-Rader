@@ -1,7 +1,53 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T11:28:05.062Z",
+  "updatedAt": "2026-10-17T10:48:15.964Z",
   "items": [
+    {
+      "id": "rss-qbitai-7abgyz",
+      "type": "funding",
+      "title": "超1亿元融资砸向四川具身科技！要把「情绪价值」卖进千家万户",
+      "url": "https://www.qbitai.com/2026/10/503782.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-16T06:17:53.000Z",
+      "summaryHint": "9.8万元起售，冲刺万台量产",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "amount": "1亿元"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-njopmn",
+      "type": "funding",
+      "title": "长鑫科技出手，新芯航途XHEART累计融资50亿｜36氪独家 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mYzlkaEM3cEJ2UmFDdURBNF9mS1JlMUtBMlFaai05ZkNHVUptSFRMWW5wbkdvYUtzQkJmZG1DSzBUVlNDVnFMVk9DRFhpdw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-15T21:42:00.000Z",
+      "summaryHint": "长鑫科技出手，新芯航途XHEART累计融资50亿｜36氪独家 &nbsp;&nbsp; 36氪",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "50亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-t8z3jj",
+      "type": "funding",
+      "title": "夹在字节缝隙中的AI融资明星们 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IdXhDRUNocWxsZXBTeHRaUzZSeTJabG0yTWJkTnBRMnJDMzVFWHFCMElvRUhPU0hWek00bjhMaXhOYmFrOUF4Q2JObG42U2VD?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-15T21:23:00.000Z",
+      "summaryHint": "夹在字节缝隙中的AI融资明星们 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
     {
       "id": "rss-google_news_cn_36kr_deals-l27enk",
       "type": "funding",
@@ -33,19 +79,19 @@
       ]
     },
     {
-      "id": "rss-qbitai-9k80l5",
+      "id": "rss-google_news_cn_36kr_deals-qpullb",
       "type": "funding",
-      "title": "刚刚，苹果正式迈入5万亿美元时代",
-      "url": "https://www.qbitai.com/2026/10/503434.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-15T05:36:16.000Z",
-      "summaryHint": "曝国行12月上线",
+      "title": "「元环智能」完成连续两轮数亿元融资，要造能设计模型的「元模型」| 星连被投动态 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQNlo3S1h4M2llYklYc3c0cEMwNkk2YTFuSXVJM3NpeDgxZE9QRUZTc2FmcXNFQWFqNmF2c3F6MmNEYkNWM1hKZ0JEaExzSmY1?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-15T09:14:51.000Z",
+      "summaryHint": "「元环智能」完成连续两轮数亿元融资，要造能设计模型的「元模型」| 星连被投动态 &nbsp;&nbsp; 36 Kr",
       "tags": [
         "china",
         "funding",
+        "deal_rss",
         "deal_signal"
-      ],
-      "amount": "5万"
+      ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-69st3c",
@@ -62,6 +108,21 @@
         "deal_signal"
       ],
       "amount": "500亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-hcz55a",
+      "type": "funding",
+      "title": "DeepSeek，千亿融资追踪，LP称仍在动态变化 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FUWVhSWdGYVRBVXA4M2VtUkdCOF9HMGlPNVBLRVl0QWlxNFdIRkk1d0VnZlNkLUcxci01NFM2TUV2VG9FZmlKa3ZEbjVOdw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-13T11:18:00.000Z",
+      "summaryHint": "DeepSeek，千亿融资追踪，LP称仍在动态变化 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-2kvhyo",
@@ -96,38 +157,6 @@
       "amount": "1000亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-q9oo5o",
-      "type": "funding",
-      "title": "炸裂：DeepSeek将完成第二轮1000亿融资 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kb3M3UVFoYzJhN0t4ZDhpS2lJNHo2MnhEaWswRE9abEdJR1FLdzJzT1d5OWVyQkRuWTlkaUxTN0l6aGhUUXFxb19ISFVqZw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-12T20:57:00.000Z",
-      "summaryHint": "炸裂：DeepSeek将完成第二轮1000亿融资 &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "1000亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-sxnvu1",
-      "type": "funding",
-      "title": "深度云海完成千万级天使轮融资，前百度搜索团队创办｜36氪首发 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84YWdFYjkxX2RvYy1MNmVOcWtWNzZITmJpdllQUHQtY2N3UmNrV2NIbzd3Vm92cW9vVDZyZWJ2TFpreV9UMzM5aTBhRVhPWEd3?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-12T12:10:00.000Z",
-      "summaryHint": "深度云海完成千万级天使轮融资，前百度搜索团队创办｜36氪首发 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "天使轮"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-fdxy2b",
       "type": "funding",
       "title": "累计43亿，国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿 - 36Kr",
@@ -144,70 +173,134 @@
       "amount": "43亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-yic7tu",
-      "type": "funding",
-      "title": "白犀牛完成1亿美元C轮融资，L4无人配送生态布局提速｜36氪首发 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VTF9GejBNSy1hR0IyQ3J0YzJPeDJUVnJIRmxOczRubUtHQ0ppM2o1Mmc1T3paMGlFZV9vUlZoRTdKQkQwNk1EMkFZYw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-11T12:13:00.000Z",
-      "summaryHint": "白犀牛完成1亿美元C轮融资，L4无人配送生态布局提速｜36氪首发 &nbsp;&nbsp; 36Kr",
+      "id": "rss-techcrunch_ai-gjzqv7",
+      "type": "news",
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "source": "techcrunch_ai",
+      "publishedAt": "2026-10-16T16:30:00.000Z",
+      "summaryHint": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]",
       "tags": [
-        "china",
         "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "C轮融资",
-      "amount": "1亿"
+        "us"
+      ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-da4pu8",
-      "type": "funding",
-      "title": "AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fWTJ5Y212RnZZS0hBUjgyQzMzWmU4dW5HWE8zYXVtdGNFbUhvOFAwanZGNmlFcVREYUtlZVhrMDZ6YUd6V0x5TVlSY0g2Zw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-10T11:00:00.000Z",
-      "summaryHint": "AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发 &nbsp;&nbsp; 36Kr",
+      "id": "rss-qbitai-z5up8s",
+      "type": "news",
+      "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+      "url": "https://www.qbitai.com/2026/10/503880.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-16T12:54:54.000Z",
+      "summaryHint": "从搭载物理建模能力的世界模型切入",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "B轮融资"
+        "funding"
+      ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-1bjflk",
-      "type": "funding",
-      "title": "「利太智药」完成近 5000 万元种子轮融资，打造 AI 原生多肽药物研发平台 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XT2VCdi1lRGJhYmVDN1VTSGczZ0gxX1p4a0dONXZuaWkwY1FPYzhFaHdCRmFUazdFaWVTb19MWTY2dnRGZ0N0cHRJUzF0ZUwydy1z?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-09T12:21:00.000Z",
-      "summaryHint": "「利太智药」完成近 5000 万元种子轮融资，打造 AI 原生多肽药物研发平台 &nbsp;&nbsp; 36Kr",
+      "id": "rss-qbitai-86a8rp",
+      "type": "news",
+      "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
+      "url": "https://www.qbitai.com/2026/10/503865.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-16T08:12:01.000Z",
+      "summaryHint": "VLA解决“能干”，世界模型解决“想清楚再干”",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "种子轮",
-      "amount": "5000万元"
+        "funding"
+      ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-kkpd9t",
-      "type": "funding",
-      "title": "OpenAI营收预期缩水 Manus获5亿美元融资 AI赛道风向生变 - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UQ2J3c09kZktGQ2lJTTNFQ0dxVUc2ZlpObVBrc0xOLTJzV1JxQVd0RkNmaWFjcVAwempXdnRBcVVJZS1WQjlxMlNHbUU2dnhUeGtv?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-09T12:20:00.000Z",
-      "summaryHint": "OpenAI营收预期缩水 Manus获5亿美元融资 AI赛道风向生变 &nbsp;&nbsp; 36 Kr",
+      "id": "rss-qbitai-6a3r6x",
+      "type": "news",
+      "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
+      "url": "https://www.qbitai.com/2026/10/503861.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-16T08:07:33.000Z",
+      "summaryHint": "网易首个AI原生语音Agent「网易叭哥说」上线 “用户荣誉联创计划”，投入 10 万元征集产品建议",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "5亿"
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-m4lkgr",
+      "type": "news",
+      "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
+      "url": "https://www.qbitai.com/2026/10/503843.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-16T08:00:31.000Z",
+      "summaryHint": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-mdznfh",
+      "type": "news",
+      "title": "范式智能联合睿思智联推出开源一站式 生产级 AI 部署平台 “模域ModelSphere”",
+      "url": "https://www.qbitai.com/2026/10/503829.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-16T07:16:11.000Z",
+      "summaryHint": "范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-5tevmo",
+      "type": "news",
+      "title": "68岁亚马逊CTO：别让恐惧，替企业做AI决策",
+      "url": "https://www.qbitai.com/2026/10/503815.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-16T07:01:31.000Z",
+      "summaryHint": "经验没有压缩算法",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-42rghp",
+      "type": "news",
+      "title": "百度世界2026五大亮点曝光，企业和开发者值得关注什么？",
+      "url": "https://www.qbitai.com/2026/10/503779.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-16T06:07:41.000Z",
+      "summaryHint": "10月15日，百度官方公众号发文公布百度世界2026五大亮点",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-yuow4c",
+      "type": "news",
+      "title": "中国机器人羽毛球连打1452拍！拿下吉尼斯，波士顿动力大佬被硬控",
+      "url": "https://www.qbitai.com/2026/10/503756.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-16T05:47:01.000Z",
+      "summaryHint": "背后是一套通用物理运动平台",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-vgboqs",
+      "type": "news",
+      "title": "刚刚，Gemini 4终于来了：谷歌重回御三家，API限时半价",
+      "url": "https://www.qbitai.com/2026/10/503701.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-16T05:04:59.000Z",
+      "summaryHint": "谷歌就是季节性气候模型公司",
+      "tags": [
+        "china",
+        "funding"
+      ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-pyhv80",
@@ -224,132 +317,31 @@
       ]
     },
     {
-      "id": "rss-qbitai-7sn7tn",
+      "id": "rss-google_news_cn_36kr_deals-khvrik",
       "type": "news",
-      "title": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
-      "url": "https://www.qbitai.com/2026/10/503645.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-15T10:07:08.000Z",
-      "summaryHint": "京东11.11已于10月12日晚8点全面开启，首日下单用户数实现同比双位数增长。",
+      "title": "CoreWeave，撕开了AI算力债务狂欢的第一道裂缝 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43dVNJbzl5OTh3MHcyWnNzYjZFeUN5YUFJNE4zeHJXaVB0ci1GSURic01yV1MxR3dIX2MyRHZKZ3FrRmhmYlJqQ1diX3JPQQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-14T21:49:00.000Z",
+      "summaryHint": "CoreWeave，撕开了AI算力债务狂欢的第一道裂缝 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
-        "funding"
+        "funding",
+        "deal_rss"
       ]
     },
     {
-      "id": "rss-qbitai-a5vbsm",
+      "id": "rss-google_news_cn_36kr_deals-wduztl",
       "type": "news",
-      "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
-      "url": "https://www.qbitai.com/2026/10/503640.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-15T09:43:29.000Z",
-      "summaryHint": "Siri AI这次不包括在内",
+      "title": "美股AI基建信用危机，机构警告CRWV违约，NBIS AMD 暴跌 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kU01OZkZrNGliQkRIUms0UmdBQTM2S3NjLWo5VVp2a090ZUZVQkJyQjM5UzdUenBrNjhyZHJkWTBaNkhSYllWdlE3RFdqUQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-14T09:54:00.000Z",
+      "summaryHint": "美股AI基建信用危机，机构警告CRWV违约，NBIS AMD 暴跌 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-iq8d37",
-      "type": "news",
-      "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
-      "url": "https://www.qbitai.com/2026/10/503614.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-15T08:48:31.000Z",
-      "summaryHint": "Agent究竟该如何深入业务毛细血管？",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-hb3hwm",
-      "type": "news",
-      "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
-      "url": "https://www.qbitai.com/2026/10/503611.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-15T08:16:19.000Z",
-      "summaryHint": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-ibb7oo",
-      "type": "news",
-      "title": "这个双十一，百灵新模型干起活来不烧心",
-      "url": "https://www.qbitai.com/2026/10/503532.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-15T07:35:24.000Z",
-      "summaryHint": "大模型好不好用，百灵拿成品说话",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-orse71",
-      "type": "news",
-      "title": "AI时代，商学院这样培养未来商业领袖",
-      "url": "https://www.qbitai.com/2026/10/503504.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-15T07:22:34.000Z",
-      "summaryHint": "未来十年共创1000个AI课题",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-q6x9dm",
-      "type": "news",
-      "title": "基元律动宣布开发者入驻超30万，开启双11预售福利",
-      "url": "https://www.qbitai.com/2026/10/503501.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-15T06:59:37.000Z",
-      "summaryHint": "基元律动（Token Rhythm）宣布已有超过30万名开发者入驻，同期推出双11预售限时福利。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-8w6hyi",
-      "type": "news",
-      "title": "苹果AI国内上线，阿里百度浮出水面",
-      "url": "https://www.qbitai.com/2026/10/503497.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-15T06:52:45.000Z",
-      "summaryHint": "苹果 Apple Intelligence（苹果智能）在中国大陆的上线进入最后阶段。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-629ifa",
-      "type": "news",
-      "title": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
-      "url": "https://www.qbitai.com/2026/10/503446.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-15T06:35:46.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_thesis-kfj9eu",
-      "type": "news",
-      "title": "当世界模型实现实时推理，能给AI应用带来什么创业机会？ - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ORFR4cVUzcEVtYWRzUHNDc1ZUMVctZHFCcEVaMnZFdDJ0b3dvLXFHcmtLX1BkNElQeVZUcFBqc05QN0JCcldIbVJRV2Z4Zw?oc=5",
-      "source": "google_news_cn_thesis",
-      "publishedAt": "2026-10-13T19:07:00.000Z",
-      "summaryHint": "当世界模型实现实时推理，能给AI应用带来什么创业机会？ &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding"
+        "funding",
+        "deal_rss"
       ]
     },
     {
@@ -367,133 +359,73 @@
       ]
     },
     {
-      "id": "reddit-rss-hzseit",
+      "id": "reddit-rss-t05ail",
       "type": "social_en",
-      "title": "Mapping Points in Surveillance Video to Geographic Coordinates",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x7b38p/mapping_points_in_surveillance_video_to/",
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017 · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x84po4/deepseekaideepseekv41flash1017_hugging_face/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-10-17T08:09:21.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/Bestlife73 [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-xbc1d4",
+      "type": "social_en",
+      "title": "Optimizing big Gaussian Splatting scenes on Quest 3",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x7za6v/optimizing_big_gaussian_splatting_scenes_on_quest/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-16T08:53:49.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/Betty-Diaz [link] &#32; [comments]",
+      "publishedAt": "2026-10-17T02:51:18.000Z",
+      "summaryHint": "WIP : trying to get millions of splats to fit in a Quest 3 in standalone. First scene : 11 millions, second scene : 23 millions Around 400K can be displayed at any given time. Splats sources : https://superspl.at/scene/eb5f51dc https://supe",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-wjuzvg",
+      "id": "reddit-rss-e5782n",
       "type": "social_en",
-      "title": "summer to autumn transition in blender 5.3 beta",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x7ajvp/summer_to_autumn_transition_in_blender_53_beta/",
+      "title": "nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16 · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7w7dp/nvidianvidianemotronlabsdory104bbf16_hugging_face/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-10-17T00:11:45.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/coder543 [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-mbtpji",
+      "type": "social_en",
+      "title": "10 Things you maybe didn't know you can do with Qwen 3.6 27B right now. (For Noobs)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7sq8e/10_things_you_maybe_didnt_know_you_can_do_with/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-10-16T21:35:36.000Z",
+      "summaryHint": "I know everyone&#39;s excited about 3.8, but honestly I&#39;m still refining 3.6. And I hate the way 3.8 talks, so... I keep seeing all these posts about what&#39;s the use of open source, so I figured I&#39;d submit my own answer with this",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-wg66ga",
+      "type": "social_en",
+      "title": "I brought a bit of spring into the hallway...",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x7sk1z/i_brought_a_bit_of_spring_into_the_hallway/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-16T08:17:36.000Z",
-      "summaryHint": "Revisited the same spot 3 months later to scan it again. Played around with Geo Nodes to transition between both scans. &#32; submitted by &#32; /u/MTHSHNZ [link] &#32; [comments]",
+      "publishedAt": "2026-10-16T21:28:17.000Z",
+      "summaryHint": "Vitre Experiment #4.⁣ ⁣ Winter is coming, so I brought a bit of spring into the hallway by adding synthetic 3DGS assets to the scene.⁣ ⁣ Still running smoothly. ⁣ &#32; submitted by &#32; /u/smallfly-h [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-3kp3eo",
+      "id": "reddit-rss-b9gx6f",
       "type": "social_en",
-      "title": "Accenture restricts monthly employee spending on Claude to $29/month",
-      "url": "https://www.reddit.com/r/artificial/comments/1x737yd/accenture_restricts_monthly_employee_spending_on/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-10-16T01:21:06.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/LinkedInNews [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-228qzz",
-      "type": "social_en",
-      "title": "I compared 321 Steam games from this year: the ones that took off vs the ones stuck under 10 reviews",
-      "url": "https://www.reddit.com/r/gamedev/comments/1x70n51/i_compared_321_steam_games_from_this_year_the/",
-      "source": "reddit_r_gamedev",
-      "publishedAt": "2026-10-15T23:18:05.000Z",
-      "summaryHint": "I wanted to know what separates the games that get traction from the ones that don’t, using real numbers instead of advice threads. So I pulled a sample of 2,100 games released on Steam between March 12 and August 3 this year, spread evenly",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-kjsyw9",
-      "type": "social_en",
-      "title": "Steamworks Development - Updated Achievement System",
-      "url": "https://www.reddit.com/r/gamedev/comments/1x6zfuu/steamworks_development_updated_achievement_system/",
-      "source": "reddit_r_gamedev",
-      "publishedAt": "2026-10-15T22:24:15.000Z",
-      "summaryHint": "This is fantastic news. The old system was such a headache. &#32; submitted by &#32; /u/burge4150 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-iortml",
-      "type": "social_en",
-      "title": "MLP Splatting: Object-Centric Neural Fields",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x6xwtk/mlp_splatting_objectcentric_neural_fields/",
+      "title": "3DGS Render Engine for Blender 5.3",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x7qj43/3dgs_render_engine_for_blender_53/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-15T21:18:19.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/corysama [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-inl67b",
-      "type": "social_en",
-      "title": "One of the favorite parts of parenting has always been reading to the kiddos. Why would anyone voluntarily give that up?",
-      "url": "https://www.reddit.com/r/artificial/comments/1x6t5wi/one_of_the_favorite_parts_of_parenting_has_always/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-10-15T18:15:07.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/Garaad252 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-idwkhd",
-      "type": "social_en",
-      "title": "/r/GameDev Updates to Rule 3: No Showcasing Projects",
-      "url": "https://www.reddit.com/r/gamedev/comments/1x6s41i/rgamedev_updates_to_rule_3_no_showcasing_projects/",
-      "source": "reddit_r_gamedev",
-      "publishedAt": "2026-10-15T17:35:09.000Z",
-      "summaryHint": "This community has often allowed people to share free tools and assets but it has always been subjective about where the line crosses regarding self-promotion or showing off a project. We have updated rule 3 to make the following clarificat",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-gach58",
-      "type": "social_en",
-      "title": "Anthropic's Mythos found so many software flaws, Bank of America hired 1,000 contractors to fix them",
-      "url": "https://www.reddit.com/r/artificial/comments/1x6q0v3/anthropics_mythos_found_so_many_software_flaws/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-10-15T16:17:05.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/fasildar55 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-wnyw05",
-      "type": "social_en",
-      "title": "Unsupervised AI agent reportedly deletes TV show’s entire edit weeks before release, erasing months of work — TV show can't air, AI agent was given access to the production server and wiped the finished season",
-      "url": "https://www.reddit.com/r/artificial/comments/1x6oefu/unsupervised_ai_agent_reportedly_deletes_tv_shows/",
-      "source": "reddit_r_artificial",
-      "publishedAt": "2026-10-15T15:16:09.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/IndependentCoast3974 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-tjyxi6",
-      "type": "social_en",
-      "title": "Introducing BRUTAL | A free C# framework that helped RimWorld make its own engine and break free of Unity. Now you can too.",
-      "url": "https://www.reddit.com/r/gamedev/comments/1x6d2dy/introducing_brutal_a_free_c_framework_that_helped/",
-      "source": "reddit_r_gamedev",
-      "publishedAt": "2026-10-15T05:13:10.000Z",
-      "summaryHint": "Our industry is rotting from its core, outwards in every direction, and it has been for some time. Driven by greed, driven by a race to the bottom on price. It is my position that the games industry was already heading somewhere unsustainab",
+      "publishedAt": "2026-10-16T20:05:59.000Z",
+      "summaryHint": "I&#39;ve been finding the default render engines in Blender don&#39;t really handle native 3DGS models very well. I&#39;ve been working on an improvement that combines cycles with the render engines used in Spirula. It is still very experim",
       "tags": [
         "ai_social"
       ]
