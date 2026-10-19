@@ -1,7 +1,68 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T11:09:58.837Z",
+  "updatedAt": "2026-10-19T13:20:58.914Z",
   "items": [
+    {
+      "id": "rss-google_news_cn_36kr_deals-tib0zv",
+      "type": "funding",
+      "title": "年内第18次宕机，融资千亿的DeepSeek反而更脆弱了？ - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04Y083ZlFwUE9QcFBDeGhFbllKVTBGNEtGa3c4WHZyMWZodGJyQ0FQS200Q3hfVENpT3JQbmZFWW54d184OGtidWZoaVdjWXc?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-19T11:16:26.000Z",
+      "summaryHint": "年内第18次宕机，融资千亿的DeepSeek反而更脆弱了？ &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-kfvaib",
+      "type": "funding",
+      "title": "OpenAI与Anthropic的估值暗战：一家的融资头条，成了另一家的IPO底线 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IR3h3R3RyMmt0MDdqeFcwT1FVQnlmMHpuMzc1ZU5YLV81TG1kYWhFcFlhb0FKVklDN1BSbkNTeXBzSTJQR0ZOcEJSb0s1Zw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-18T13:02:00.000Z",
+      "summaryHint": "OpenAI与Anthropic的估值暗战：一家的融资头条，成了另一家的IPO底线 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-z9b195",
+      "type": "funding",
+      "title": "低成本绿氢产业化再进一步，复旦系山海氢半年两轮数千万元融资 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jYVBfSDN0OGJFSTB2NG5FRlA4XzAyaHZyWHJFZjRMY3k3cDBwdUNoQTEwUjcyeWhxV3hyaXVFWG9MX3o3TXdvNVp5UExSZw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-18T11:29:00.000Z",
+      "summaryHint": "低成本绿氢产业化再进一步，复旦系山海氢半年两轮数千万元融资 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-307xsr",
+      "type": "funding",
+      "title": "两市融资余额减少144.05亿元 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aUENKVkFMUk1xcEdLNUR2RldCRWNuN2hEc09jRmdrTFB1RUo1amdDVXR1SHh2VTdpdWY1Wm1sSFNCamVEOEVkQnRkR3pXdTFQa2FJeVpNTmI?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-18T09:52:00.000Z",
+      "summaryHint": "两市融资余额减少144.05亿元 &nbsp;&nbsp; 36氪",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "144.05亿元"
+    },
     {
       "id": "rss-google_news_cn_36kr_deals-njopmn",
       "type": "funding",
@@ -64,12 +125,12 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-qpullb",
+      "id": "rss-google_news_cn_36kr_deals-lcwk5",
       "type": "funding",
       "title": "「元环智能」完成连续两轮数亿元融资，要造能设计模型的「元模型」| 星连被投动态 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQNlo3S1h4M2llYklYc3c0cEMwNkk2YTFuSXVJM3NpeDgxZE9QRUZTc2FmcXNFQWFqNmF2c3F6MmNEYkNWM1hKZ0JEaExzSmY1?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1WkpIdUtoYlRTOHVTMUN1bXVXMWNhTWl3eDVmV3F0eElDLU45T3g4S1FKVl9ScVJjQWlKRG9yRnBrREVlbGtHTVNNYldMWHpwaHJr?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-15T09:14:51.000Z",
+      "publishedAt": "2026-10-14T18:11:00.000Z",
       "summaryHint": "「元环智能」完成连续两轮数亿元融资，要造能设计模型的「元模型」| 星连被投动态 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
@@ -95,21 +156,6 @@
       "amount": "500亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-hcz55a",
-      "type": "funding",
-      "title": "DeepSeek，千亿融资追踪，LP称仍在动态变化 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FUWVhSWdGYVRBVXA4M2VtUkdCOF9HMGlPNVBLRVl0QWlxNFdIRkk1d0VnZlNkLUcxci01NFM2TUV2VG9FZmlKa3ZEbjVOdw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-13T11:18:00.000Z",
-      "summaryHint": "DeepSeek，千亿融资追踪，LP称仍在动态变化 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-rs89rh",
       "type": "funding",
       "title": "DeepSeek融资翻倍至1000亿，新一轮投资方基本确定，IPO节奏加快 - 36氪",
@@ -126,20 +172,17 @@
       "amount": "1000亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-fdxy2b",
-      "type": "funding",
-      "title": "累计43亿，国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LSnVBNE45VGlDbjAzdUpRVFRCRFZ0VHB4eEE4a3E1ekRTY3BZcUJ3eDBLYWpYMGZXbGw1d19lWGxIUDRFR0JwbTMzdjF6dw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-11T14:55:00.000Z",
-      "summaryHint": "累计43亿，国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿 &nbsp;&nbsp; 36氪",
+      "id": "rss-qbitai-h33w6h",
+      "type": "news",
+      "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
+      "url": "https://www.qbitai.com/2026/10/504136.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-18T11:49:49.000Z",
+      "summaryHint": "让人人都能自由创造并体验可交互世界",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "43亿"
+        "funding"
+      ]
     },
     {
       "id": "rss-qbitai-wrpw6k",
@@ -220,6 +263,19 @@
       ]
     },
     {
+      "id": "rss-qbitai-c9oo9l",
+      "type": "news",
+      "title": "端侧跑通超千亿大模型！联想YOGA Pro 15 RTX Spark超级AIPC今日正式发售",
+      "url": "https://www.qbitai.com/2026/10/504116.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-16T13:48:10.000Z",
+      "summaryHint": "买AIPC就选联想YOGA。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
       "id": "rss-qbitai-z5up8s",
       "type": "news",
       "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
@@ -259,32 +315,6 @@
       ]
     },
     {
-      "id": "rss-qbitai-m4lkgr",
-      "type": "news",
-      "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
-      "url": "https://www.qbitai.com/2026/10/503843.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-16T08:00:31.000Z",
-      "summaryHint": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-mdznfh",
-      "type": "news",
-      "title": "范式智能联合睿思智联推出开源一站式 生产级 AI 部署平台 “模域ModelSphere”",
-      "url": "https://www.qbitai.com/2026/10/503829.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-16T07:16:11.000Z",
-      "summaryHint": "范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-pyhv80",
       "type": "news",
       "title": "赛道顶流陨落，国内玩家“折戟”，AI陪伴何去何从？ - 36Kr",
@@ -292,34 +322,6 @@
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-10-15T18:30:00.000Z",
       "summaryHint": "赛道顶流陨落，国内玩家“折戟”，AI陪伴何去何从？ &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-2dn5p5",
-      "type": "news",
-      "title": "“不如卖给梁文锋” - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5bGZPZnhWX3Jyc2VBb2RRTzBCMTNybDFLQngtVGFmOEE0ZGtDRWNhak02ajJaa1VLTm1UMmZnNW5SNDhkOGlLb1VnRnVkQQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-15T18:25:00.000Z",
-      "summaryHint": "“不如卖给梁文锋” &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-3ja1mm",
-      "type": "news",
-      "title": "上海女生的AI产品全网刷屏，估值500亿 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XMXBFWEV1SnNTY0JTME5mX1dNd19Vc0p5aktzVE9WTTNsRlk4a1ZJUEp5NFU0ZmhYaHZNeFYzLXhOWW44QXF6LU9IWlhXdw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-15T17:49:00.000Z",
-      "summaryHint": "上海女生的AI产品全网刷屏，估值500亿 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -355,61 +357,61 @@
       ]
     },
     {
-      "id": "reddit-rss-2bfzwa",
+      "id": "reddit-rss-z79wly",
       "type": "social_en",
-      "title": "I tracked 10,310 Steam launches since March. Here is what week-one peak players look like for each follower count.",
-      "url": "https://www.reddit.com/r/gamedev/comments/1x8wsn6/i_tracked_10310_steam_launches_since_march_here/",
+      "title": "I spent 3 years reverse engineering and rebuilding a dead MMO. AI can now do it in a day.",
+      "url": "https://www.reddit.com/r/gamedev/comments/1x9u9j0/i_spent_3_years_reverse_engineering_and/",
       "source": "reddit_r_gamedev",
-      "publishedAt": "2026-10-18T07:12:24.000Z",
-      "summaryHint": "Follower count on the Steam store page, read before launch, against peak concurrent players in the first seven days. 10,310 launches between 14 March and 9 October 2026, every game that went from coming soon to released and had a player cou",
+      "publishedAt": "2026-10-19T11:24:59.000Z",
+      "summaryHint": "There was a 2D isometric MMO that I played when I was young. In 2004, the servers shut down, and because there were no private servers or captured server packets, no one has been able to play it since. In 2023, I finally decided to resurrec",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-l8hfcm",
+      "id": "reddit-rss-a7sciu",
       "type": "social_en",
-      "title": "My new favorite feature, Immersive 360 VR Renders with Gaussian Splatting",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x8wfzz/my_new_favorite_feature_immersive_360_vr_renders/",
+      "title": "360° camera footage to Gaussian Splatting – testing my own reconstruction pipeline",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x9tyx2/360_camera_footage_to_gaussian_splatting_testing/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-18T06:52:04.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/Junkfood_Joey [link] &#32; [comments]",
+      "publishedAt": "2026-10-19T11:09:12.000Z",
+      "summaryHint": "I&#39;ve been working on my own 3D reconstruction pipeline for the past few years, with a particular focus on challenging datasets, reconstruction completeness, accuracy, speed, and hardware efficiency. One of the biggest challenges has bee",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-1976l9",
+      "id": "reddit-rss-evwd9c",
       "type": "social_en",
-      "title": "Gaussian-Splat-Lite now supports SH4",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x8r7cm/gaussiansplatlite_now_supports_sh4/",
+      "title": "XGRID Portal Cam: What else?",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x9syr8/xgrid_portal_cam_what_else/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-18T01:53:28.000Z",
-      "summaryHint": "I’ve added SH4 support to Gaussian-Splat-Lite , the open-source high-performance 3D Gaussian Splatting renderer for Three.js. For models trained with SH4, the renderer can now use the full set of SH coefficients to preserve more complex vie",
+      "publishedAt": "2026-10-19T10:11:37.000Z",
+      "summaryHint": "I know that this device can create realistic results, but it&#39;s also quite expensive for individual users. Is there something more affordable? I know you can use drones, 360 cameras and phones, but is the result really that good? (if yes",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-m8wl9u",
+      "id": "reddit-rss-iqaohe",
       "type": "social_en",
-      "title": "Gaussian Splatting T-Shirts",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x8h4lk/gaussian_splatting_tshirts/",
+      "title": "Coming soon to AEC Platform: turn a 360° video into a site you can explore in 3D",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x9mmsu/coming_soon_to_aec_platform_turn_a_360_video_into/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-17T18:14:38.000Z",
-      "summaryHint": "I just started a series of Gaussian Splatting inspired t-shirts https://www.irenoyd.com/product/t-shirts-gaussian-spatting-theme/ 3 designs available for pre-order now, and more designs will come soon. If you want to get notified on the lat",
+      "publishedAt": "2026-10-19T03:46:13.000Z",
+      "summaryHint": "We’re working on a new workflow in AEC Platform: upload a 360° video and automatically process it into point clouds, meshes, 3D models and Gaussian splats—all in the cloud. You’ll be able to explore the site from positions along your origin",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-icftr1",
+      "id": "reddit-rss-5ywxv3",
       "type": "social_en",
-      "title": "It's easier to blame marketing than admit our game might not be good enough",
-      "url": "https://www.reddit.com/r/gamedev/comments/1x8c9in/its_easier_to_blame_marketing_than_admit_our_game/",
+      "title": "Indie Game Developers receive the blunt of the AI Hate, while big companies receive little to no consequences",
+      "url": "https://www.reddit.com/r/gamedev/comments/1x973u7/indie_game_developers_receive_the_blunt_of_the_ai/",
       "source": "reddit_r_gamedev",
-      "publishedAt": "2026-10-17T14:56:30.000Z",
-      "summaryHint": "I&#39;ve been thinking about this lately. When an indie game fails to get many players, it&#39;s pretty common to hear that the problem was marketing. And sure, marketing matters a lot. A great game that nobody knows about will struggle to ",
+      "publishedAt": "2026-10-18T16:13:13.000Z",
+      "summaryHint": "In todays video game market of Ai, Indie Game Developers are the ones receiving the blunt of the Ai Hate even when they donot use AI, while big companies reek the benefits with little to no hate when most do use AI (At least not as much as ",
       "tags": [
         "ai_social"
       ]
