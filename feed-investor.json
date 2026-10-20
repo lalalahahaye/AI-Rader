@@ -1,21 +1,68 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T13:20:58.914Z",
+  "updatedAt": "2026-10-20T11:41:22.974Z",
   "items": [
     {
-      "id": "rss-google_news_cn_36kr_deals-tib0zv",
+      "id": "rss-google_news_cn_36kr_deals-9gawbx",
       "type": "funding",
-      "title": "年内第18次宕机，融资千亿的DeepSeek反而更脆弱了？ - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04Y083ZlFwUE9QcFBDeGhFbllKVTBGNEtGa3c4WHZyMWZodGJyQ0FQS200Q3hfVENpT3JQbmZFWW54d184OGtidWZoaVdjWXc?oc=5",
+      "title": "抢在Anthropic敲钟前：OpenAI冲刺300亿美元融资，估值剑指1.4万亿 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00cEcyTWV2RVVrb2ZWaGJfSXduQ3E3Wk8zS0NBMmxQckFvUGtpb3ExbGNndTgzN19HbTllSGg2aGxQMFE3RGdxNEN6ZkVRbVE?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-19T11:16:26.000Z",
-      "summaryHint": "年内第18次宕机，融资千亿的DeepSeek反而更脆弱了？ &nbsp;&nbsp; 36Kr",
+      "publishedAt": "2026-10-20T09:47:55.000Z",
+      "summaryHint": "抢在Anthropic敲钟前：OpenAI冲刺300亿美元融资，估值剑指1.4万亿 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "300亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-32v92s",
+      "type": "funding",
+      "title": "CoreWeave引爆AI融资恐慌 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kMkFhOW9RcW92TFpvejdTLWZxV1RLZEJ3ZGJySVRUOGVNZ1JLLUlNNldJaVd1RklDTWFRRnhIR0lkQUN4UUVCVHZCeEZnQQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-19T20:13:00.000Z",
+      "summaryHint": "CoreWeave引爆AI融资恐慌 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
       ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-9ql1ej",
+      "type": "funding",
+      "title": "硬氪首发丨虚拟电厂公司完成数亿元融资，预计2027年盈利 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16Y3FXN25RaThrcGRZbGcxazktRGxzUmQ2LVlKRWxXSXkta2Y4THhfdzI3Sl8tZ1c0YmpwZnJKMUliRWpmNDZZWHB1TVRHZzVl?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-19T15:11:00.000Z",
+      "summaryHint": "硬氪首发丨虚拟电厂公司完成数亿元融资，预计2027年盈利 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-w3vtw8",
+      "type": "funding",
+      "title": "硬氪首发｜用AI智能体辅助新材料研发，睿质科技完成数千万元天使轮融资 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEMG5mVkVjdkUzVWlzT0xkRmd0NHNCUDhtaFR5cnBYcnd0UDU0RjY0NVVQSGZFdjhyY2pWQmJ3akhIUDV4UjdRT3d3QmMtUQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-19T10:12:00.000Z",
+      "summaryHint": "硬氪首发｜用AI智能体辅助新材料研发，睿质科技完成数千万元天使轮融资 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "天使轮"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-kfvaib",
@@ -95,21 +142,6 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-l27enk",
-      "type": "funding",
-      "title": "拿下两轮数亿元融资，清华博导刘子鸣要造能自己设计模型的「元模型」 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9OSzNxb3dEQWZDNXlTYk9TaWhMTkpQR2JYcGFkODQ3TTRBT1VsbkJMTEhXT1l5cVY2aVlUaVNoUEl5VGxydDVPUHhOOFQzZw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-15T17:05:00.000Z",
-      "summaryHint": "拿下两轮数亿元融资，清华博导刘子鸣要造能自己设计模型的「元模型」 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-tckh22",
       "type": "funding",
       "title": "CoreWeave违约概率超六成，黄仁勋“灭火”：融资成本在下降，无需英伟达兜底 - 36Kr",
@@ -125,193 +157,31 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-lcwk5",
-      "type": "funding",
-      "title": "「元环智能」完成连续两轮数亿元融资，要造能设计模型的「元模型」| 星连被投动态 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1WkpIdUtoYlRTOHVTMUN1bXVXMWNhTWl3eDVmV3F0eElDLU45T3g4S1FKVl9ScVJjQWlKRG9yRnBrREVlbGtHTVNNYldMWHpwaHJr?oc=5",
+      "id": "rss-google_news_cn_36kr_deals-8rwb80",
+      "type": "news",
+      "title": "AI债务风险引发对冲潮，华尔街CDS交易量激增4倍，科技巨头也被盯上 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MNG54SHBkcGlmWkFMM2NhQmpIRHFwNlJOSnUzWkJUVm5pZ2VVSlljTlZHdVlJLTYtUDZSLUxxMVZNbGJ0VURjaGhwVGRkdw?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-14T18:11:00.000Z",
-      "summaryHint": "「元环智能」完成连续两轮数亿元融资，要造能设计模型的「元模型」| 星连被投动态 &nbsp;&nbsp; 36Kr",
+      "publishedAt": "2026-10-19T19:14:00.000Z",
+      "summaryHint": "AI债务风险引发对冲潮，华尔街CDS交易量激增4倍，科技巨头也被盯上 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
-        "deal_rss",
-        "deal_signal"
+        "deal_rss"
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-69st3c",
-      "type": "funding",
-      "title": "智元创新启动新一轮融资，估值500亿，港股IPO暂缓 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9takdSbWlZNnptZkF2M2k3SWRJaEJNYlZkYmRzdXppZERsajZYckVFblZSVUs4NVRxRTYzMzdSUTRqUWhwQm1YQzlwVUFFUQ?oc=5",
+      "id": "rss-google_news_cn_36kr_deals-zgc6pr",
+      "type": "news",
+      "title": "2025核心洞察：Coreweave与法国经济，高利率环境下的两道行业裂缝深度解析 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ROUpieFlHMUEwOU5GVk1OM1R6ZV9CcU1FWEQ0ckQzUjR2V2ppR2M4VldYeDNXdGR5ZnprVVNkZFVLZWl1R193dWtQRUltNVpxYmUw?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-13T20:31:00.000Z",
-      "summaryHint": "智元创新启动新一轮融资，估值500亿，港股IPO暂缓 &nbsp;&nbsp; 36Kr",
+      "publishedAt": "2026-10-19T16:25:00.000Z",
+      "summaryHint": "2025核心洞察：Coreweave与法国经济，高利率环境下的两道行业裂缝深度解析 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "500亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-rs89rh",
-      "type": "funding",
-      "title": "DeepSeek融资翻倍至1000亿，新一轮投资方基本确定，IPO节奏加快 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GVWZjNm9McWMzUXNwdWlWd1A0YWtRY283TjJrRzA1ZHV1VmFfcXlkOUxDbU13RUxIMndvZ3JVOGtkQ21fNVhGTzJoUHdpUQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-12T22:38:00.000Z",
-      "summaryHint": "DeepSeek融资翻倍至1000亿，新一轮投资方基本确定，IPO节奏加快 &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "1000亿"
-    },
-    {
-      "id": "rss-qbitai-h33w6h",
-      "type": "news",
-      "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
-      "url": "https://www.qbitai.com/2026/10/504136.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-18T11:49:49.000Z",
-      "summaryHint": "让人人都能自由创造并体验可交互世界",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-wrpw6k",
-      "type": "news",
-      "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
-      "url": "https://www.qbitai.com/2026/10/504067.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-17T12:21:09.000Z",
-      "summaryHint": "新版本V4.1-Flash-1017，还开放了自研搜索API",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-y17c58",
-      "type": "news",
-      "title": "智谱新模型，懂法方面全球第一了",
-      "url": "https://www.qbitai.com/2026/10/503965.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-17T12:13:45.000Z",
-      "summaryHint": "AI的风还是刮到了法律圈",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-71a4u7",
-      "type": "news",
-      "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
-      "url": "https://www.qbitai.com/2026/10/503935.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-17T12:10:35.000Z",
-      "summaryHint": "整套系统原生支持MCP",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-w9t8pw",
-      "type": "news",
-      "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
-      "url": "https://www.qbitai.com/2026/10/503910.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-17T12:06:51.000Z",
-      "summaryHint": "谜底指向时间",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-jrq7bq",
-      "type": "news",
-      "title": "科技企业出海，为啥我推荐你去迪拜？",
-      "url": "https://www.qbitai.com/2026/10/503893.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-17T09:05:08.000Z",
-      "summaryHint": "通往全球市场的超级跳板",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-techcrunch_ai-gjzqv7",
-      "type": "news",
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-      "source": "techcrunch_ai",
-      "publishedAt": "2026-10-16T16:30:00.000Z",
-      "summaryHint": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]",
-      "tags": [
-        "funding",
-        "us"
-      ]
-    },
-    {
-      "id": "rss-qbitai-c9oo9l",
-      "type": "news",
-      "title": "端侧跑通超千亿大模型！联想YOGA Pro 15 RTX Spark超级AIPC今日正式发售",
-      "url": "https://www.qbitai.com/2026/10/504116.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-16T13:48:10.000Z",
-      "summaryHint": "买AIPC就选联想YOGA。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-z5up8s",
-      "type": "news",
-      "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
-      "url": "https://www.qbitai.com/2026/10/503880.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-16T12:54:54.000Z",
-      "summaryHint": "从搭载物理建模能力的世界模型切入",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-86a8rp",
-      "type": "news",
-      "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
-      "url": "https://www.qbitai.com/2026/10/503865.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-16T08:12:01.000Z",
-      "summaryHint": "VLA解决“能干”，世界模型解决“想清楚再干”",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-6a3r6x",
-      "type": "news",
-      "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
-      "url": "https://www.qbitai.com/2026/10/503861.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-16T08:07:33.000Z",
-      "summaryHint": "网易首个AI原生语音Agent「网易叭哥说」上线 “用户荣誉联创计划”，投入 10 万元征集产品建议",
-      "tags": [
-        "china",
-        "funding"
+        "deal_rss"
       ]
     },
     {
@@ -343,111 +213,25 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-wduztl",
-      "type": "news",
-      "title": "美股AI基建信用危机，机构警告CRWV违约，NBIS AMD 暴跌 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kU01OZkZrNGliQkRIUms0UmdBQTM2S3NjLWo5VVp2a090ZUZVQkJyQjM5UzdUenBrNjhyZHJkWTBaNkhSYllWdlE3RFdqUQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-14T09:54:00.000Z",
-      "summaryHint": "美股AI基建信用危机，机构警告CRWV违约，NBIS AMD 暴跌 &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "reddit-rss-z79wly",
+      "id": "reddit-rss-4q2zko",
       "type": "social_en",
-      "title": "I spent 3 years reverse engineering and rebuilding a dead MMO. AI can now do it in a day.",
-      "url": "https://www.reddit.com/r/gamedev/comments/1x9u9j0/i_spent_3_years_reverse_engineering_and/",
-      "source": "reddit_r_gamedev",
-      "publishedAt": "2026-10-19T11:24:59.000Z",
-      "summaryHint": "There was a 2D isometric MMO that I played when I was young. In 2004, the servers shut down, and because there were no private servers or captured server packets, no one has been able to play it since. In 2023, I finally decided to resurrec",
+      "title": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xao1wy/best_way_to_accurately_annotate_500_images_for/",
+      "source": "reddit_r_MachineLearning",
+      "publishedAt": "2026-10-20T10:00:43.000Z",
+      "summaryHint": "Hey everyone! I&#39;m working on an object-detection project and fine-tuning Meta&#39;s DETR model on a custom dataset of around 500 images. The main challenge I&#39;m facing right now is annotation. I need to label multiple object classes ",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-a7sciu",
+      "id": "reddit-rss-4p4u9s",
       "type": "social_en",
-      "title": "360° camera footage to Gaussian Splatting – testing my own reconstruction pipeline",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x9tyx2/360_camera_footage_to_gaussian_splatting_testing/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-19T11:09:12.000Z",
-      "summaryHint": "I&#39;ve been working on my own 3D reconstruction pipeline for the past few years, with a particular focus on challenging datasets, reconstruction completeness, accuracy, speed, and hardware efficiency. One of the biggest challenges has bee",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-evwd9c",
-      "type": "social_en",
-      "title": "XGRID Portal Cam: What else?",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x9syr8/xgrid_portal_cam_what_else/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-19T10:11:37.000Z",
-      "summaryHint": "I know that this device can create realistic results, but it&#39;s also quite expensive for individual users. Is there something more affordable? I know you can use drones, 360 cameras and phones, but is the result really that good? (if yes",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-iqaohe",
-      "type": "social_en",
-      "title": "Coming soon to AEC Platform: turn a 360° video into a site you can explore in 3D",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x9mmsu/coming_soon_to_aec_platform_turn_a_360_video_into/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-19T03:46:13.000Z",
-      "summaryHint": "We’re working on a new workflow in AEC Platform: upload a 360° video and automatically process it into point clouds, meshes, 3D models and Gaussian splats—all in the cloud. You’ll be able to explore the site from positions along your origin",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-5ywxv3",
-      "type": "social_en",
-      "title": "Indie Game Developers receive the blunt of the AI Hate, while big companies receive little to no consequences",
-      "url": "https://www.reddit.com/r/gamedev/comments/1x973u7/indie_game_developers_receive_the_blunt_of_the_ai/",
-      "source": "reddit_r_gamedev",
-      "publishedAt": "2026-10-18T16:13:13.000Z",
-      "summaryHint": "In todays video game market of Ai, Indie Game Developers are the ones receiving the blunt of the Ai Hate even when they donot use AI, while big companies reek the benefits with little to no hate when most do use AI (At least not as much as ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-idwkhd",
-      "type": "social_en",
-      "title": "/r/GameDev Updates to Rule 3: No Showcasing Projects",
-      "url": "https://www.reddit.com/r/gamedev/comments/1x6s41i/rgamedev_updates_to_rule_3_no_showcasing_projects/",
-      "source": "reddit_r_gamedev",
-      "publishedAt": "2026-10-15T17:35:09.000Z",
-      "summaryHint": "This community has often allowed people to share free tools and assets but it has always been subjective about where the line crosses regarding self-promotion or showing off a project. We have updated rule 3 to make the following clarificat",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-tjyxi6",
-      "type": "social_en",
-      "title": "Introducing BRUTAL | A free C# framework that helped RimWorld make its own engine and break free of Unity. Now you can too.",
-      "url": "https://www.reddit.com/r/gamedev/comments/1x6d2dy/introducing_brutal_a_free_c_framework_that_helped/",
-      "source": "reddit_r_gamedev",
-      "publishedAt": "2026-10-15T05:13:10.000Z",
-      "summaryHint": "Our industry is rotting from its core, outwards in every direction, and it has been for some time. Driven by greed, driven by a race to the bottom on price. It is my position that the games industry was already heading somewhere unsustainab",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-d8w3ac",
-      "type": "social_en",
-      "title": "📢 PSA: Please use clean links!",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1x4rszs/psa_please_use_clean_links/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-13T09:11:09.000Z",
-      "summaryHint": "Hi there! 👋 Every day, I get messages from people asking why their posts were removed. The answer is simple: Please use clean links — no tracking parameters, no affiliate links, no LinkedIn, whatsoever. Help us keep the community clean and",
+      "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
+      "source": "reddit_r_MachineLearning",
+      "publishedAt": "2026-10-19T17:50:49.000Z",
+      "summaryHint": "I&#39;ve been using AI extensively for ML research, and I&#39;ve noticed a bottleneck: brainstorming research directions and generating smoke run implementations has become incredibly fast, but actually testing those ideas hasn&#39;t. A sin",
       "tags": [
         "ai_social"
       ]
