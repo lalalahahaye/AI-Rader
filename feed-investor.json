@@ -1,22 +1,38 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T11:41:22.974Z",
+  "updatedAt": "2026-10-21T11:52:56.782Z",
   "items": [
     {
-      "id": "rss-google_news_cn_36kr_deals-9gawbx",
+      "id": "rss-google_news_cn_36kr_deals-lxvlfa",
       "type": "funding",
-      "title": "抢在Anthropic敲钟前：OpenAI冲刺300亿美元融资，估值剑指1.4万亿 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00cEcyTWV2RVVrb2ZWaGJfSXduQ3E3Wk8zS0NBMmxQckFvUGtpb3ExbGNndTgzN19HbTllSGg2aGxQMFE3RGdxNEN6ZkVRbVE?oc=5",
+      "title": "替企业管住AI账单，融到6000万美元：North.cloud盯上了谁的钱？ - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wRXhhRUcxSlVCNzhsWGNWcG5MRzhjY1J1MHVhcDdSU0puZnROSnoxZnczNEF6SEpFcy00R1E4ZHpLMUoyT2pRbEpaUWJ4T3luOC1n?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-20T09:47:55.000Z",
-      "summaryHint": "抢在Anthropic敲钟前：OpenAI冲刺300亿美元融资，估值剑指1.4万亿 &nbsp;&nbsp; 36Kr",
+      "publishedAt": "2026-10-20T12:44:00.000Z",
+      "summaryHint": "替企业管住AI账单，融到6000万美元：North.cloud盯上了谁的钱？ &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
       ],
-      "amount": "300亿"
+      "amount": "6000万"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-bcguk8",
+      "type": "funding",
+      "title": "19 岁休学创业，融资超 250 万元，这家 AI 备考平台跑出 5 万注册用户 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90WDNud1FJd0I0N3pWNHRVeTltcU05WjI2NU5OSGVNVWd2S2hUbzN3cWRBcDV1OU1rVFJHN0JRS2diRTgycmVfaVdCNlhkZw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-20T12:43:00.000Z",
+      "summaryHint": "19 岁休学创业，融资超 250 万元，这家 AI 备考平台跑出 5 万注册用户 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "250万元"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-32v92s",
@@ -34,19 +50,20 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-9ql1ej",
+      "id": "rss-google_news_cn_36kr_deals-f4s3wj",
       "type": "funding",
-      "title": "硬氪首发丨虚拟电厂公司完成数亿元融资，预计2027年盈利 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16Y3FXN25RaThrcGRZbGcxazktRGxzUmQ2LVlKRWxXSXkta2Y4THhfdzI3Sl8tZ1c0YmpwZnJKMUliRWpmNDZZWHB1TVRHZzVl?oc=5",
+      "title": "Anthropic上市前关键动态：OpenAI冲刺300亿美元融资 估值剑指1.4万亿 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BYlE5QlNOVzRBaWhzS3RXSk5BcVVUcXBHd19GYUJ3NzJsV0RBZS02MmZrMUNtZWlmbTVqT2xCMmd2RVc3cFJzUWwwU1U4d2Zic0Rj?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-19T15:11:00.000Z",
-      "summaryHint": "硬氪首发丨虚拟电厂公司完成数亿元融资，预计2027年盈利 &nbsp;&nbsp; 36Kr",
+      "publishedAt": "2026-10-19T18:44:00.000Z",
+      "summaryHint": "Anthropic上市前关键动态：OpenAI冲刺300亿美元融资 估值剑指1.4万亿 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
-      ]
+      ],
+      "amount": "300亿"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-w3vtw8",
@@ -111,22 +128,6 @@
       "amount": "144.05亿元"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-njopmn",
-      "type": "funding",
-      "title": "长鑫科技出手，新芯航途XHEART累计融资50亿｜36氪独家 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mYzlkaEM3cEJ2UmFDdURBNF9mS1JlMUtBMlFaai05ZkNHVUptSFRMWW5wbkdvYUtzQkJmZG1DSzBUVlNDVnFMVk9DRFhpdw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-15T21:42:00.000Z",
-      "summaryHint": "长鑫科技出手，新芯航途XHEART累计融资50亿｜36氪独家 &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "50亿"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-teq528",
       "type": "funding",
       "title": "夹在字节缝隙中的AI融资明星们 - 36Kr",
@@ -154,6 +155,150 @@
         "funding",
         "deal_rss",
         "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-qbitai-ny3gch",
+      "type": "news",
+      "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
+      "url": "https://www.qbitai.com/2026/10/504608.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-21T02:37:39.000Z",
+      "summaryHint": "先看真实问题解决力",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-hay4y4",
+      "type": "news",
+      "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
+      "url": "https://www.qbitai.com/2026/10/504551.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-21T01:04:35.000Z",
+      "summaryHint": "电池、电驱、超充一把梭，冬天多跑30公里",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-google_news_en_deals-j5qhkz",
+      "type": "news",
+      "title": "[Korean Startup Interview] Ludens: FanDoor Brings Unity-Level Interactive 3D to the Web - Wowtale",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QWEZZRXdlNEE2alNjLXQxQTY1Qnh1UnBFY1RtdHBiNTEtUFE1VVcyNnExUXpVS3E4Y0dtVmU5azhOX1BEVk12bVEzZG9BT08tLUlF?oc=5",
+      "source": "google_news_en_deals",
+      "publishedAt": "2026-10-20T19:46:09.000Z",
+      "summaryHint": "[Korean Startup Interview] Ludens: FanDoor Brings Unity-Level Interactive 3D to the Web &nbsp;&nbsp; Wowtale",
+      "tags": [
+        "us",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-qbitai-wgqsea",
+      "type": "news",
+      "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
+      "url": "https://www.qbitai.com/2026/10/504517.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-20T13:29:54.000Z",
+      "summaryHint": "兔皮底下，竟然是MiniMax！",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-95g854",
+      "type": "news",
+      "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
+      "url": "https://www.qbitai.com/2026/10/504456.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-20T12:50:34.000Z",
+      "summaryHint": "把记忆原生焊进Transformer",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-b1mppw",
+      "type": "news",
+      "title": "比亚迪成为2026年APEC会议官方合作伙伴",
+      "url": "https://www.qbitai.com/2026/10/504452.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-20T09:57:35.000Z",
+      "summaryHint": "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-w1tmzr",
+      "type": "news",
+      "title": "技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展",
+      "url": "https://www.qbitai.com/2026/10/504435.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-20T09:13:14.000Z",
+      "summaryHint": "当地时间10月12日，2026巴黎国际车展正式启幕。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-fh8v6y",
+      "type": "news",
+      "title": "首Token延迟降低32.4%！是石科技集群调度大招，国产推理再提效",
+      "url": "https://www.qbitai.com/2026/10/504421.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-20T08:01:25.000Z",
+      "summaryHint": "最新发布TokenFleet调度框架",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-2p12jp",
+      "type": "news",
+      "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
+      "url": "https://www.qbitai.com/2026/10/504415.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-20T04:59:04.000Z",
+      "summaryHint": "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-k9gtam",
+      "type": "news",
+      "title": "赛豆首款AI汽车公告图公示，价格被按零件猜到了20万以上",
+      "url": "https://www.qbitai.com/2026/10/504395.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-20T04:18:29.000Z",
+      "summaryHint": "宁德时代电池上车",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-aigmc1",
+      "type": "news",
+      "title": "AI硬件出海，别当“背景板”，GTC2026 Shanghai「AI硬件专区」邀你占位",
+      "url": "https://www.qbitai.com/2026/10/504372.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-20T04:08:15.000Z",
+      "summaryHint": "2026 年 11 月 4 日至 5 日，GTC2026 全球流量大会（上海）将在上海世博展览馆 H3 馆举办",
+      "tags": [
+        "china",
+        "funding"
       ]
     },
     {
@@ -199,39 +344,37 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-khvrik",
-      "type": "news",
-      "title": "CoreWeave，撕开了AI算力债务狂欢的第一道裂缝 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43dVNJbzl5OTh3MHcyWnNzYjZFeUN5YUFJNE4zeHJXaVB0ci1GSURic01yV1MxR3dIX2MyRHZKZ3FrRmhmYlJqQ1diX3JPQQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-14T21:49:00.000Z",
-      "summaryHint": "CoreWeave，撕开了AI算力债务狂欢的第一道裂缝 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "reddit-rss-4q2zko",
+      "id": "reddit-rss-45ii0w",
       "type": "social_en",
-      "title": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xao1wy/best_way_to_accurately_annotate_500_images_for/",
-      "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-10-20T10:00:43.000Z",
-      "summaryHint": "Hey everyone! I&#39;m working on an object-detection project and fine-tuning Meta&#39;s DETR model on a custom dataset of around 500 images. The main challenge I&#39;m facing right now is annotation. I need to label multiple object classes ",
+      "title": "We've been working on Sekiro-inspired combat for our cyberpunk action game. Demo out now!",
+      "url": "https://www.reddit.com/r/Unity3D/comments/1xbicjw/weve_been_working_on_sekiroinspired_combat_for/",
+      "source": "reddit_r_Unity3D",
+      "publishedAt": "2026-10-21T09:18:18.000Z",
+      "summaryHint": "Hey fellow Unity devs! We&#39;ve been working on ReBlade: The Death Spiral , a cyberpunk action game inspired by Chinese mythology, developed in Unity by ChillyRoom! Our first-ever public demo is now live for Steam Next Fest! You play as Su",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-4p4u9s",
+      "id": "reddit-rss-uszrmy",
       "type": "social_en",
-      "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
-      "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-10-19T17:50:49.000Z",
-      "summaryHint": "I&#39;ve been using AI extensively for ML research, and I&#39;ve noticed a bottleneck: brainstorming research directions and generating smoke run implementations has become incredibly fast, but actually testing those ideas hasn&#39;t. A sin",
+      "title": "Working on my real-time cloth physics that work on skinned characters",
+      "url": "https://www.reddit.com/r/Unity3D/comments/1xbhf6i/working_on_my_realtime_cloth_physics_that_work_on/",
+      "source": "reddit_r_Unity3D",
+      "publishedAt": "2026-10-21T08:19:47.000Z",
+      "summaryHint": "Hey peeps, Just wanted to showcase what I&#39;ve been working on. I started the initial development back in 2017 but abandoned because I had other projects to take care of. I&#39;ve revived it this year and reached a functional state. I&#39",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-r7p7gi",
+      "type": "social_en",
+      "title": "[MegaThread] Account blocked and suspended",
+      "url": "https://www.reddit.com/r/Unity3D/comments/1x5tldh/megathread_account_blocked_and_suspended/",
+      "source": "reddit_r_Unity3D",
+      "publishedAt": "2026-10-14T15:03:32.000Z",
+      "summaryHint": "Hello everyone, As many of you may have noticed; some people had their account(s) suspended. In the past few weeks Unity had sent out emails to reset your two-factor authentication (2FA) credentials. So what&#39;s next? See the link on bott",
       "tags": [
         "ai_social"
       ]
