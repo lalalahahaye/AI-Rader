@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T11:56:40.169Z",
+  "updatedAt": "2026-10-23T11:42:49.672Z",
   "items": [
+    {
+      "id": "rss-google_news_cn_36kr_deals-8rqo6w",
+      "type": "funding",
+      "title": "高瓴，领投AI智能体企业-36氪 - 36kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPc2F1Zkh0dVNiRUxNaElHaEtfNmpEd193YUlrUi04OUtleXQxd25LUFh3bkJEOHJQTnJaY2YwVnVJTmV4U2tHQ3JEanBrQVRy?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-22T13:51:00.000Z",
+      "summaryHint": "高瓴，领投AI智能体企业-36氪 &nbsp;&nbsp; 36kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
     {
       "id": "rss-google_news_cn_36kr_deals-mjzghz",
       "type": "funding",
@@ -17,22 +32,6 @@
         "deal_signal"
       ],
       "amount": "25亿元"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-coqtnd",
-      "type": "funding",
-      "title": "九天睿芯半年完成【10亿】融资，美团战投、小鹏、长存产业基金、智微资本、米哈游战投等战略投资 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YTk1jcmRocUdJaEVJTHlVNy1zenlRY2p6WTVoc0lYOEZVODNDY09EQmg5dU9nWl80TTRFdDh0YnNLVU0wenBGeHFMdw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-22T03:03:51.000Z",
-      "summaryHint": "九天睿芯半年完成【10亿】融资，美团战投、小鹏、长存产业基金、智微资本、米哈游战投等战略投资 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "10亿"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-9eg9ll",
@@ -51,6 +50,37 @@
       "amount": "2亿"
     },
     {
+      "id": "rss-google_news_cn_36kr_deals-r1bk5x",
+      "type": "funding",
+      "title": "DeepSeek离国内史上最大IPO融资，越来越近了 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NZ1ZkY0kxcUJZM1JXU1drUHlZTllUN21nNlJSbmdoTjNfWVZrb2wtNWhQS1BuVm5GT3NWY3FLdF81SGRTV0F0Q1htSzlldw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-21T21:27:00.000Z",
+      "summaryHint": "DeepSeek离国内史上最大IPO融资，越来越近了 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_deals-5a7o1c",
+      "type": "funding",
+      "title": "资本开抢AI 3D，「御三家」半年吸纳超80亿元 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wNnV2d1dCeV9ES3VrSHZXQzZoTzdJVUtwMmVvUk1lQ2JuQWlodTE0X1pNb0FxZXpJbEJEaFJxMG5VQzdGRWg2aEkxcXpOQQ?oc=5",
+      "source": "google_news_cn_deals",
+      "publishedAt": "2026-10-21T21:23:00.000Z",
+      "summaryHint": "资本开抢AI 3D，「御三家」半年吸纳超80亿元 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "80亿元"
+    },
+    {
       "id": "rss-google_news_cn_36kr_deals-l3xsen",
       "type": "funding",
       "title": "DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能 - 36Kr",
@@ -66,29 +96,29 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-u7y2rr",
+      "id": "rss-google_news_cn_36kr_deals-gj8yjb",
       "type": "funding",
-      "title": "豆包天才90后 完成13亿融资 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yckpQcFRsei11a3JsdnRfU1VBTDBiR0FFbkE3eHpqME9BNWhMbGlrM21qemQwZEFJSlYxM2tLR0FqM2NoR1I3WVRCQnpPaDRCX05F?oc=5",
+      "title": "“辉羲智能”年内累计融资超25亿元-36氪 - 36kr",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90ZUNlcjdZMm1MQ3NrVHFxc19qU3FnR1NEQkpxdGtTNk9QSVMzdnhndW9GRDRtVkJ3VlB2Q1BDOVgyVlI5bG5ZYi1EdDE3azdMV1lwV1loeFY?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-21T12:17:00.000Z",
-      "summaryHint": "豆包天才90后 完成13亿融资 &nbsp;&nbsp; 36Kr",
+      "publishedAt": "2026-10-21T11:44:00.000Z",
+      "summaryHint": "“辉羲智能”年内累计融资超25亿元-36氪 &nbsp;&nbsp; 36kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
       ],
-      "amount": "13亿"
+      "amount": "25亿元"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-95eq2p",
       "type": "funding",
-      "title": "跟微软抢客户，AI办公独角兽融资16亿，英伟达投了 - 36Kr",
+      "title": "跟微软抢客户，AI办公独角兽融资16亿，英伟达投了 - 36氪",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QR29hLThjMTRETFVuTUdFVzJpck1kUzdIWUJXSUZEMDNhLXFUWWNjUXhLYXhvNk0xWGc1VzJISEQxb0dlVXZVb3pTSGkzZw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-10-21T09:54:00.000Z",
-      "summaryHint": "跟微软抢客户，AI办公独角兽融资16亿，英伟达投了 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "跟微软抢客户，AI办公独角兽融资16亿，英伟达投了 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
@@ -100,11 +130,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-k3sr1n",
       "type": "funding",
-      "title": "累计融资超2亿美元，Today AI从今天开始越来越懂你 - 36Kr",
+      "title": "累计融资超2亿美元，Today AI从今天开始越来越懂你 - 36氪",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pUngzMGRDY3QxMDR0Y00xSWNSWWVQUThLNmZwZTFGTXdTUDNqM0JPaTZEUXBnb0FlSDZPTW9PaU5FU3lrS1lzSTZ4SUNIQQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-10-20T22:34:00.000Z",
-      "summaryHint": "累计融资超2亿美元，Today AI从今天开始越来越懂你 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "累计融资超2亿美元，Today AI从今天开始越来越懂你 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
@@ -145,18 +175,57 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-kfvaib",
-      "type": "funding",
-      "title": "OpenAI与Anthropic的估值暗战：一家的融资头条，成了另一家的IPO底线 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IR3h3R3RyMmt0MDdqeFcwT1FVQnlmMHpuMzc1ZU5YLV81TG1kYWhFcFlhb0FKVklDN1BSbkNTeXBzSTJQR0ZOcEJSb0s1Zw?oc=5",
+      "id": "rss-google_news_cn_36kr_deals-atp4ae",
+      "type": "news",
+      "title": "哪些牛X资本，投资了千亿DeepSeek？-36氪 - 36kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wNnNJNnR5TkFLcVczbG9aRnQ5aDNXWjUxUlBYTU9jSjREbVBNeGVZbk9kWTZ2aEt3NUdPRm1iN0pZS1A0Si10dm9CZXdmZDQ?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-18T13:02:00.000Z",
-      "summaryHint": "OpenAI与Anthropic的估值暗战：一家的融资头条，成了另一家的IPO底线 &nbsp;&nbsp; 36Kr",
+      "publishedAt": "2026-10-23T08:53:09.000Z",
+      "summaryHint": "哪些牛X资本，投资了千亿DeepSeek？-36氪 &nbsp;&nbsp; 36kr",
       "tags": [
         "china",
         "funding",
-        "deal_rss",
-        "deal_signal"
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-qbitai-btnfwd",
+      "type": "news",
+      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+      "url": "https://www.qbitai.com/2026/10/504901.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-23T07:35:51.000Z",
+      "summaryHint": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-google_news_en_deals-2zpque",
+      "type": "news",
+      "title": "Rivian buys world model startup to accelerate self-driving ambitions - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcG5xcElkdGFNMEwxZjc2ZkgxcVdOMXU3dWR1bzduc2pYQllQY3lLSDVKTmlVSU52RXM0ZV90bmF6T1NPWTEzNi1PWElmQUJWejAzbUZmTXhsUHVRQ2Rna1o2MjhoZmJhOEtjc2Z2NGJ0TlYwaHBPNzJPUFZBWVlZN0x2UkhtZ0FnQjVfeFJfOU1EN2tjM0Vla1Q3bk9faG93M2hHOUVn?oc=5",
+      "source": "google_news_en_deals",
+      "publishedAt": "2026-10-22T21:05:05.000Z",
+      "summaryHint": "Rivian buys world model startup to accelerate self-driving ambitions &nbsp;&nbsp; TechCrunch",
+      "tags": [
+        "us",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-qbitai-55907x",
+      "type": "news",
+      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+      "url": "https://www.qbitai.com/2026/10/504879.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-22T09:07:05.000Z",
+      "summaryHint": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
+      "tags": [
+        "china",
+        "funding"
       ]
     },
     {
@@ -278,32 +347,6 @@
       ]
     },
     {
-      "id": "rss-qbitai-ny3gch",
-      "type": "news",
-      "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
-      "url": "https://www.qbitai.com/2026/10/504608.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-21T02:37:39.000Z",
-      "summaryHint": "先看真实问题解决力",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-hay4y4",
-      "type": "news",
-      "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
-      "url": "https://www.qbitai.com/2026/10/504551.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-21T01:04:35.000Z",
-      "summaryHint": "电池、电驱、超充一把梭，冬天多跑30公里",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-8rwb80",
       "type": "news",
       "title": "AI债务风险引发对冲潮，华尔街CDS交易量激增4倍，科技巨头也被盯上 - 36Kr",
@@ -318,27 +361,73 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-zgc6pr",
-      "type": "news",
-      "title": "2025核心洞察：Coreweave与法国经济，高利率环境下的两道行业裂缝深度解析 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ROUpieFlHMUEwOU5GVk1OM1R6ZV9CcU1FWEQ0ckQzUjR2V2ppR2M4VldYeDNXdGR5ZnprVVNkZFVLZWl1R193dWtQRUltNVpxYmUw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-19T16:25:00.000Z",
-      "summaryHint": "2025核心洞察：Coreweave与法国经济，高利率环境下的两道行业裂缝深度解析 &nbsp;&nbsp; 36Kr",
+      "id": "reddit-rss-v4nbos",
+      "type": "social_en",
+      "title": "Unreal Engine 5.8 Adds Microsoft Advanced Shader Delivery Support, Potentially Addressing One Of UE5's Biggest PC Gaming Problems: Shader Compilation Stutter",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1xdboap/unreal_engine_58_adds_microsoft_advanced_shader/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-10-23T11:41:12.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/TruthPhoenixV [link] &#32; [comments]",
       "tags": [
-        "china",
-        "funding",
-        "deal_rss"
+        "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-ify19v",
+      "id": "reddit-rss-4se46o",
       "type": "social_en",
-      "title": "OK I understand now. Walkabout mini golf is simply epic.",
-      "url": "https://www.reddit.com/r/virtualreality/comments/1xc5v6v/ok_i_understand_now_walkabout_mini_golf_is_simply/",
-      "source": "reddit_r_virtualreality",
-      "publishedAt": "2026-10-22T01:52:13.000Z",
-      "summaryHint": "Ironically, this was the first VR game I ever loaded up just to test that my system was working. I never paid attention to it though... until now. And that sucks because I just purchased some golf attachments which weren&#39;t cheap lol. Th",
+      "title": "Is There A Memory Cap?",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1xdb51g/is_there_a_memory_cap/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-10-23T11:13:01.000Z",
+      "summaryHint": "Is there a memory cap or something for the editing software? It appears that the program is reaching 7GB around and stopping. So my total usage of everything running is only 25%. &#32; submitted by &#32; /u/OverwatchMedia [link] &#32; [comm",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-84wisv",
+      "type": "social_en",
+      "title": "Pro_V2.1.0.0 Officially Released",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xd7yth/pro_v2100_officially_released/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-10-23T08:02:54.000Z",
+      "summaryHint": "Due to website upgrades, previous plugins may fail authentication. Please update to Pro_V2.1.0.0 or Pro_V1.0.5.0. Official Website: https://mls4dlive.cn/ Fab: https://fab.com/s/a98e11b2a0a6 https://github.com/mlslabs/MLSLabsGaussianSplattin",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-cplci2",
+      "type": "social_en",
+      "title": "I made a Beginner Friendly Tutorial on Simple Physics in for animation and scattering. (8 min)",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1xcwro0/i_made_a_beginner_friendly_tutorial_on_simple/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-10-22T22:26:18.000Z",
+      "summaryHint": "Had a lot of fun driving through scattered assets and it was relatively simple to set up too! Happy to answer questions here or in the YT comments. Thanks for taking a look, hope it helps. &#32; submitted by &#32; /u/vfxfilm [link] &#32; [c",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-1v7u9m",
+      "type": "social_en",
+      "title": "OpenSplat - Fully local gaussian splatting on Android!",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xcwg3u/opensplat_fully_local_gaussian_splatting_on/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-10-22T22:12:20.000Z",
+      "summaryHint": "Hey everyone, First time posting in this community, I’ve been building a Android app called OpenSplat to see if it was actually possible to port the full 3DGS stack locally on a phone. I know already that Apple devices have been lucky enoug",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-8fe3b0",
+      "type": "social_en",
+      "title": "We achieved True 3D Pixel Art on UE5 (no pixel jitter), and made it a Fab plugin !",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1xcffm8/we_achieved_true_3d_pixel_art_on_ue5_no_pixel/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-10-22T10:59:34.000Z",
+      "summaryHint": "Here is the full trailer of our True pixel art 3D plugin: We started creating this plugin after seeing the trailers of Project Shadowglass as well as the recent 3d pixel art discoveries of Dylan Ebert and Lunar Blank, and after 3 month of h",
       "tags": [
         "ai_social"
       ]
@@ -351,54 +440,6 @@
       "source": "reddit_r_GaussianSplatting",
       "publishedAt": "2026-10-22T01:48:42.000Z",
       "summaryHint": "&#32; submitted by &#32; /u/SuspiciousHunter1359 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-7jkyaz",
-      "type": "social_en",
-      "title": "3D Scanning Berlin’s Festival of Lights with Gaussian Splatting",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xbx3k1/3d_scanning_berlins_festival_of_lights_with/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-21T19:36:45.000Z",
-      "summaryHint": "I captured Berlin during the annual Festival of Lights using a single camera and a tripod. Visiting several locations featuring static light projections, I took thousands of long-exposure photographs to reduce the presence of people and cap",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-lzxz99",
-      "type": "social_en",
-      "title": "I built a Node.js tool to convert large 3DGS scenes to Spark’s RAD streaming format",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xbkvlj/i_built_a_nodejs_tool_to_convert_large_3dgs/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-21T11:43:31.000Z",
-      "summaryHint": "I’ve added a Node.js converter for Spark’s RAD streaming format to Gaussian-Splat-Lite (GSL), making it easier to prepare large 3DGS scenes for streaming without needing huge amounts of RAM. It runs in Node.js with a precompiled WASM decode",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-edgcod",
-      "type": "social_en",
-      "title": "Very teensy tiny poll regarding VR mod submissions; help improve /r/virtualreality",
-      "url": "https://www.reddit.com/r/virtualreality/comments/1xaxgac/very_teensy_tiny_poll_regarding_vr_mod/",
-      "source": "reddit_r_virtualreality",
-      "publishedAt": "2026-10-20T16:52:34.000Z",
-      "summaryHint": "tldr ignore yap below, new poll, answer here: https://forms.gle/9xpHbPFniD1wnyiC7 As you may all be aware, there&#39;s a lot of VR mods/ports and other projects being posted lately. It&#39;s all really cool to see, but we&#39;ve also been s",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-wnn9ts",
-      "type": "social_en",
-      "title": "Weekly VR - What Did you Play?",
-      "url": "https://www.reddit.com/r/virtualreality/comments/1x7n9kj/weekly_vr_what_did_you_play/",
-      "source": "reddit_r_virtualreality",
-      "publishedAt": "2026-10-16T18:00:32.000Z",
-      "summaryHint": "Hey r/virtualreality ! Another week in the VR space. Did a certain game or experience stand out to you? This is your spot to chat, share, and discover. When sharing, you might consider sharing: Name of the game or experience. A brief insigh",
       "tags": [
         "ai_social"
       ]
