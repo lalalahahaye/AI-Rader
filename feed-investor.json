@@ -1,15 +1,93 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T11:34:21.161Z",
+  "updatedAt": "2026-10-26T13:07:52.153Z",
   "items": [
     {
-      "id": "rss-google_news_cn_36kr_deals-l6jrtz",
+      "id": "rss-google_news_cn_36kr_deals-8xfemo",
       "type": "funding",
-      "title": "拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lYU9yWm1yZWlfb2ZoVlJOZXpiNWNwUDlmb3FQZXRnYnlUVXI4ZEpQWWpyVmlXcjBGZXptYkZ2Z2dHeEpycF83QUZGUQ?oc=5",
+      "title": "城堡投资Salame警示AI融资风险：浪潮之下“一些船会沉没”-36氪 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55SGxTS0FyM1FyNHRCZTRfdkxvdlBjTTM4SV8yTlZBZXJaZDFxbFgxLUZFWGxmcl91dzRxMGp6dlJrV21LUDZkZzVHV09ocnVsOWZqZUIxZXo?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-26T12:55:55.000Z",
+      "summaryHint": "城堡投资Salame警示AI融资风险：浪潮之下“一些船会沉没”-36氪 &nbsp;&nbsp; 36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-a4go3l",
+      "type": "funding",
+      "title": "趋境科技完成B 轮融资，半年实现超十倍速增长，加速高品质AI Token 规模化交付｜星连被投动态-36氪 - www.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jMHh5OWY1UFlTa3MwNHQwb29EZ0tUSFBfbHJpMlJNRzB5bVkxbjU3OUlMNkRYLTlhRVZ6NHZzUVRnUlAtZnkxVEFRR2pkMmlW?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-26T08:46:02.000Z",
+      "summaryHint": "趋境科技完成B 轮融资，半年实现超十倍速增长，加速高品质AI Token 规模化交付｜星连被投动态-36氪 &nbsp;&nbsp; www.36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-4cx6ai",
+      "type": "funding",
+      "title": "饼乐嗨拟融资500万元，打造AI实景手机逛街平台 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmREgyQW1rUjVVYUNLcC12cTdyYjlxaDZtbUhOZkJrYjQwZVNuZ3JRSWxncTZaV0NGOVl5WFk5dTRwTjVtYjJ1YWo4NmlLbnFG?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-26T02:56:34.000Z",
+      "summaryHint": "饼乐嗨拟融资500万元，打造AI实景手机逛街平台 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "500万元"
+    },
+    {
+      "id": "rss-google_news_cn_deals-a77kwl",
+      "type": "funding",
+      "title": "资本开抢AI 3D，“御三家”半年吸纳超80亿元 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtSGVxRnFURHZMaXQyUExhRVVwNHZTS3A1TTI1dWtnWmQ1SjNtN0JKTDVEamVJS282TXF4bmRRLTB6QVVueEhBcjBBcm5HUzJZelp2YTFJbDQ?oc=5",
+      "source": "google_news_cn_deals",
+      "publishedAt": "2026-10-25T12:14:47.000Z",
+      "summaryHint": "资本开抢AI 3D，“御三家”半年吸纳超80亿元 &nbsp;&nbsp; Jiemian.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "80亿元"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-w5whex",
+      "type": "funding",
+      "title": "半年融资1500亿元， “技术理想主义者”梁文锋，被资本追着跑 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zUW0teEtJMDhrd0UxTVp0Zm9YdV9pQ1hoS094NkFNTzBuOTBXUmVyNl9VOXVTVFhIN292SW9CVVJDZlFZR0pEeDFsM0M3Zw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-25T08:45:00.000Z",
+      "summaryHint": "半年融资1500亿元， “技术理想主义者”梁文锋，被资本追着跑 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "1500亿元"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-reuiqd",
+      "type": "funding",
+      "title": "拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iaWp0Vk1ObEZ3SkJGMWNjc0JLNXBVV1ZsYURVQUJKQWtjOUVyNExwZE9XeU92SXRCTVZRdG11OGdXU0VBMmtPbVRnc2hJZw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-10-23T19:50:00.000Z",
-      "summaryHint": "拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
@@ -35,22 +113,6 @@
       "amount": "10亿元"
     },
     {
-      "id": "rss-google_news_cn_deals-5j1bvc",
-      "type": "funding",
-      "title": "资本开抢AI 3D，「御三家」半年吸纳超80亿元 - 财富号",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQUENJa0xXeGMzSjRacUZ4Rm9NYWxUZXEwVzdaTXZsdTNXS3dLN0tzNGlhM2tlcUN5cjhnYlFrczhwU2dOX2FndmRRUmEwMTZMMmt0NTZ3TU0tZVI3c01Sc2lmSG1xdTVyYzBn?oc=5",
-      "source": "google_news_cn_deals",
-      "publishedAt": "2026-10-23T01:49:00.000Z",
-      "summaryHint": "资本开抢AI 3D，「御三家」半年吸纳超80亿元 &nbsp;&nbsp; 财富号",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "80亿元"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-xl6m0h",
       "type": "funding",
       "title": "8点1氪丨iPhone Duo约八成应用未适配；DeepSeek据悉完成1000亿元融资；长实集团再发澄清公告：李嘉诚健康情况良好 - 36kr",
@@ -67,87 +129,10 @@
       "amount": "1000亿元"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-n5sqh8",
-      "type": "funding",
-      "title": "三个月融两轮，要把遥感数据卖成“情报”，「瑞启深空」获超亿元天使+轮融资｜36氪首发 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SUWpobWZvekptN0xKUDdBTDZpeVFQY2hPTTBfV1pidTBaWGhuakQ2ZTJ6eDNSNEFNOXlJNzVGSGRtMm9YeDRGcEIxSVhnSGQ0?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-22T19:24:00.000Z",
-      "summaryHint": "三个月融两轮，要把遥感数据卖成“情报”，「瑞启深空」获超亿元天使+轮融资｜36氪首发 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-8svebo",
-      "type": "funding",
-      "title": "国科脑机完成数千万种子轮融资，解决脑机领域“四不”困境 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UU3RWTHEyTjNRZ3l2dEZkS0hXdm5vb25pSTk5SjVKWkNtUFFNUjU4anRIdFJ4ZEFxaXB2WUFZSmVIN1NYQ1FGX1dYSzNIZ1B5?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-22T16:00:00.000Z",
-      "summaryHint": "国科脑机完成数千万种子轮融资，解决脑机领域“四不”困境 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "种子轮"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-8rqo6w",
-      "type": "funding",
-      "title": "高瓴，领投AI智能体企业 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPc2F1Zkh0dVNiRUxNaElHaEtfNmpEd193YUlrUi04OUtleXQxd25LUFh3bkJEOHJQTnJaY2YwVnVJTmV4U2tHQ3JEanBrQVRy?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-22T13:51:00.000Z",
-      "summaryHint": "高瓴，领投AI智能体企业 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-vivhec",
-      "type": "funding",
-      "title": "AI大算力芯片公司“亿铸科技”完成10亿+元融资 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtaFB0MzdIempHckdKUXd5cDhNeVRzV0pKREVEZDQyU1M4VjdxRDZoSlhVM09hUnoyeXdudXZiMnUtWFlEeVZQYkVzOUpGREVVSm9Qbk14UzA?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-22T12:27:00.000Z",
-      "summaryHint": "AI大算力芯片公司“亿铸科技”完成10亿+元融资 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "10亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-r1bk5x",
-      "type": "funding",
-      "title": "DeepSeek离国内史上最大IPO融资，越来越近了 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NZ1ZkY0kxcUJZM1JXU1drUHlZTllUN21nNlJSbmdoTjNfWVZrb2wtNWhQS1BuVm5GT3NWY3FLdF81SGRTV0F0Q1htSzlldw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-21T21:27:00.000Z",
-      "summaryHint": "DeepSeek离国内史上最大IPO融资，越来越近了 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-l3xsen",
+      "id": "rss-google_news_cn_36kr_deals-bl99rv",
       "type": "funding",
       "title": "DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WMnJRcjNuanNWcFd2Sk5nSHpQMkNBYXJVS2FHZ1JiMVNEQjNHaV9xN1RZb2wzVFBYYXlVeVlESFowc2xhNVN1Qm5MTUxBdEc3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RMkh1VDU1TG1DYzNaNnhranM1bkIyaUZLOE9zTktiN0ZwT3lYSXNMMmYxY3I1S0lwN2NDYm1lMkZxOE56cUZvZzlmM25DQQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-10-21T17:42:00.000Z",
       "summaryHint": "DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能 &nbsp;&nbsp; 36Kr",
@@ -223,149 +208,93 @@
       "amount": "2亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-bcguk8",
-      "type": "funding",
-      "title": "19 岁休学创业，融资超 250 万元，这家 AI 备考平台跑出 5 万注册用户 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90WDNud1FJd0I0N3pWNHRVeTltcU05WjI2NU5OSGVNVWd2S2hUbzN3cWRBcDV1OU1rVFJHN0JRS2diRTgycmVfaVdCNlhkZw?oc=5",
+      "id": "rss-google_news_cn_36kr_deals-409ppd",
+      "type": "news",
+      "title": "马斯克警告：新云厂商将迎倒闭潮 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zMUtmemV3MU1WZlZXa3RGaWc2LWVpSlczS2xwdk5rakV0d09YV0dyckpwaFV0dlFvZG9hUGVPUGxFdE12M3NxR1RwU3RsdTA?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-20T12:43:00.000Z",
-      "summaryHint": "19 岁休学创业，融资超 250 万元，这家 AI 备考平台跑出 5 万注册用户 &nbsp;&nbsp; 36Kr",
+      "publishedAt": "2026-10-26T03:51:46.000Z",
+      "summaryHint": "马斯克警告：新云厂商将迎倒闭潮 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "250万元"
-    },
-    {
-      "id": "rss-qbitai-btnfwd",
-      "type": "news",
-      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
-      "url": "https://www.qbitai.com/2026/10/504901.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-23T07:35:51.000Z",
-      "summaryHint": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
-      "tags": [
-        "china",
-        "funding"
+        "deal_rss"
       ]
     },
     {
-      "id": "rss-qbitai-55907x",
+      "id": "rss-google_news_cn_36kr_deals-4c53o7",
       "type": "news",
-      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
-      "url": "https://www.qbitai.com/2026/10/504879.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-22T09:07:05.000Z",
-      "summaryHint": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
+      "title": "千亿All in，AI回报却为零 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XU2FBR2R6TjRVaTkxR2k1VlZxZlBtRmNpUXIxWXZsblB0YnlLMEdTVkxIS3hjYllGSEU4Z1F3YlI3LXV2ZDhZM3ZGdw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-25T13:51:00.000Z",
+      "summaryHint": "千亿All in，AI回报却为零 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
-        "funding"
+        "funding",
+        "deal_rss"
       ]
     },
     {
-      "id": "rss-qbitai-i2b7xk",
+      "id": "rss-google_news_en_deals-2zpque",
       "type": "news",
-      "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
-      "url": "https://www.qbitai.com/2026/10/504841.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-22T07:14:48.000Z",
-      "summaryHint": "FSD一年增长70万付费用户",
+      "title": "Rivian buys world model startup to accelerate self-driving ambitions - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcG5xcElkdGFNMEwxZjc2ZkgxcVdOMXU3dWR1bzduc2pYQllQY3lLSDVKTmlVSU52RXM0ZV90bmF6T1NPWTEzNi1PWElmQUJWejAzbUZmTXhsUHVRQ2Rna1o2MjhoZmJhOEtjc2Z2NGJ0TlYwaHBPNzJPUFZBWVlZN0x2UkhtZ0FnQjVfeFJfOU1EN2tjM0Vla1Q3bk9faG93M2hHOUVn?oc=5",
+      "source": "google_news_en_deals",
+      "publishedAt": "2026-10-22T21:05:05.000Z",
+      "summaryHint": "Rivian buys world model startup to accelerate self-driving ambitions &nbsp;&nbsp; TechCrunch",
       "tags": [
-        "china",
-        "funding"
+        "us",
+        "funding",
+        "deal_rss"
       ]
     },
     {
-      "id": "rss-qbitai-3uyk3q",
-      "type": "news",
-      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
-      "url": "https://www.qbitai.com/2026/10/504832.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-22T07:11:14.000Z",
-      "summaryHint": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
+      "id": "reddit-rss-rub1jk",
+      "type": "social_en",
+      "title": "4DGS as an alternative to Vertex Animation Textures ?",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xfuas7/4dgs_as_an_alternative_to_vertex_animation/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-10-26T11:33:27.000Z",
+      "summaryHint": "Hello everyone, I am currently working on a masters&#39; thesis on the use of 3DGS in games and live environments, in parallel with a videogame project (not related to 3DGS). While 3DGS and 4DGS are amazing technologies, I am still dubious ",
       "tags": [
-        "china",
-        "funding"
+        "ai_social"
       ]
     },
     {
-      "id": "rss-qbitai-twsimd",
-      "type": "news",
-      "title": "谁在给OpenAI供应具身数据？",
-      "url": "https://www.qbitai.com/2026/10/504800.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-22T07:05:59.000Z",
-      "summaryHint": "挤进全球Physical AI核心供应链",
+      "id": "reddit-rss-wopnfk",
+      "type": "social_en",
+      "title": "Unity Advanced Locomotion (WIP)",
+      "url": "https://www.reddit.com/r/Unity3D/comments/1xfrs48/unity_advanced_locomotion_wip/",
+      "source": "reddit_r_Unity3D",
+      "publishedAt": "2026-10-26T09:10:28.000Z",
+      "summaryHint": "Assalamualaikum, i&#39;ve been working on this for my tutorial on Mecanim (which is meant to cover everything about Mecanim (unity&#39;s animation system), So this is the current state of the player i will use as a real character example in",
       "tags": [
-        "china",
-        "funding"
+        "ai_social"
       ]
     },
     {
-      "id": "rss-qbitai-o0ko63",
-      "type": "news",
-      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
-      "url": "https://www.qbitai.com/2026/10/504734.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-21T11:30:59.000Z",
-      "summaryHint": "医疗AI质变时刻",
+      "id": "reddit-rss-2mbuue",
+      "type": "social_en",
+      "title": "PEKIN 🦆 A Tekken-inspired duck fighting game",
+      "url": "https://www.reddit.com/r/Unity3D/comments/1xfndwe/pekin_a_tekkeninspired_duck_fighting_game/",
+      "source": "reddit_r_Unity3D",
+      "publishedAt": "2026-10-26T04:35:57.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/Dramatic-Carob1113 [link] &#32; [comments]",
       "tags": [
-        "china",
-        "funding"
+        "ai_social"
       ]
     },
     {
-      "id": "rss-qbitai-pwr5qv",
-      "type": "news",
-      "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
-      "url": "https://www.qbitai.com/2026/10/504730.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-21T09:45:22.000Z",
-      "summaryHint": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
+      "id": "reddit-rss-8p9q8r",
+      "type": "social_en",
+      "title": "3D Scanning the solar eclipse at Tempelhof Airfield",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xf165t/3d_scanning_the_solar_eclipse_at_tempelhof/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-10-25T12:31:40.000Z",
+      "summaryHint": "I had an idea to document something that isn’t static — not an object, or a building, but something emotional, collective, and historical. So I decided to 3D Scan Berliners gathering at Tempelhof Airfield, the huge public park, to watch the",
       "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-nyg76f",
-      "type": "news",
-      "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
-      "url": "https://www.qbitai.com/2026/10/504653.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-21T07:15:05.000Z",
-      "summaryHint": "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-k33ebm",
-      "type": "news",
-      "title": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
-      "url": "https://www.qbitai.com/2026/10/504638.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-21T06:40:46.000Z",
-      "summaryHint": "百万台搭载打底，智驾普及与安全并重",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-99p64g",
-      "type": "news",
-      "title": "实探宁德时代总部：“去宁化”是喊太大声了",
-      "url": "https://www.qbitai.com/2026/10/504618.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-21T04:35:56.000Z",
-      "summaryHint": "电池开发，分工远比想象复杂",
-      "tags": [
-        "china",
-        "funding"
+        "ai_social"
       ]
     },
     {
@@ -381,49 +310,13 @@
       ]
     },
     {
-      "id": "reddit-rss-1eid33",
+      "id": "reddit-rss-cpryrb",
       "type": "social_en",
-      "title": "ICLR 2027 is still handing out desk rejects [N]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu2z1/iclr_2027_is_still_handing_out_desk_rejects_n/",
-      "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-10-25T05:35:36.000Z",
-      "summaryHint": "Thank you for your efforts in protecting the community from AI slop. &#32; submitted by &#32; /u/Temporary_Switch_339 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-j4hww9",
-      "type": "social_en",
-      "title": "memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/",
-      "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-10-25T05:31:19.000Z",
-      "summaryHint": "been digesting the details behind memt-1.0&#39;s memory-native architecture recently, and the engineering tradeoffs between full context kv caching and internalized parametric memory are pretty wild. instead of using append-only prompt stac",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-rh9ufp",
-      "type": "social_en",
-      "title": "dinovi (formerly Dalim for Real ESTATE) is ready! Apple Store isn’t yet: early access on TestFlight for guided iPhone LiDAR scanning + on-device Gaussian Splatting",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xepxbp/dinovi_formerly_dalim_for_real_estate_is_ready/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-25T01:51:06.000Z",
-      "summaryHint": "Hey guys! Some of you might remember Dalim, the scanning app I posted about a few months ago ( previous post ). Until now it was reserved for real estate agencies and cloud processing. I’ve decided to open it to everyone 100% local , under ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-r58eyi",
-      "type": "social_en",
-      "title": "GS for Estate Agents",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xe2vjf/gs_for_estate_agents/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-24T08:03:38.000Z",
-      "summaryHint": "Hi all - just wanted to share what I&#39;ve been working on lately. It&#39;s a 3D house viewer for estate agents. Would welcome any feedback. I&#39;m a camera operator/drone operator by trade so I&#39;m looking to add this viewer to the mar",
+      "title": "The 2026 Official Unity Game Jam starts November 5th!",
+      "url": "https://www.reddit.com/r/Unity3D/comments/1xcuvxh/the_2026_official_unity_game_jam_starts_november/",
+      "source": "reddit_r_Unity3D",
+      "publishedAt": "2026-10-22T21:08:27.000Z",
+      "summaryHint": "Hi all! I’m excited to announce that we’re back with a jam for the second year in a row! Last year’s jam ran for a single weekend, and many of you told us that wasn’t enough time. This year you get seven full days to build , plus a few more",
       "tags": [
         "ai_social"
       ]
