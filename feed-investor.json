@@ -1,15 +1,31 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T13:07:52.153Z",
+  "updatedAt": "2026-10-27T12:15:41.216Z",
   "items": [
     {
-      "id": "rss-google_news_cn_36kr_deals-8xfemo",
+      "id": "rss-google_news_cn_36kr_deals-vk6o1",
       "type": "funding",
-      "title": "城堡投资Salame警示AI融资风险：浪潮之下“一些船会沉没”-36氪 - 36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55SGxTS0FyM1FyNHRCZTRfdkxvdlBjTTM4SV8yTlZBZXJaZDFxbFgxLUZFWGxmcl91dzRxMGp6dlJrV21LUDZkZzVHV09ocnVsOWZqZUIxZXo?oc=5",
+      "title": "博通与多家银行合作进行630亿美元AI融资-36氪 - 36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WUkRuMnZUcGd3SFVLalk0bkh1eVM1ZnNjbk80MzlnN3R6VGRaNU04bHN5OGVTSGpyeEpkSlJYcDRLRXY4S3B1aUZnNnZQZ0tYRkN0Rzh0STk?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-26T12:55:55.000Z",
-      "summaryHint": "城堡投资Salame警示AI融资风险：浪潮之下“一些船会沉没”-36氪 &nbsp;&nbsp; 36kr.com",
+      "publishedAt": "2026-10-26T23:56:26.000Z",
+      "summaryHint": "博通与多家银行合作进行630亿美元AI融资-36氪 &nbsp;&nbsp; 36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "630亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-a4go3l",
+      "type": "funding",
+      "title": "趋境科技完成B 轮融资，半年实现超十倍速增长，加速高品质AI Token 规模化交付｜星连被投动态 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jMHh5OWY1UFlTa3MwNHQwb29EZ0tUSFBfbHJpMlJNRzB5bVkxbjU3OUlMNkRYLTlhRVZ6NHZzUVRnUlAtZnkxVEFRR2pkMmlW?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-26T08:46:02.000Z",
+      "summaryHint": "趋境科技完成B 轮融资，半年实现超十倍速增长，加速高品质AI Token 规模化交付｜星连被投动态 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -18,17 +34,32 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-a4go3l",
+      "id": "rss-google_news_cn_36kr_deals-6winh4",
       "type": "funding",
-      "title": "趋境科技完成B 轮融资，半年实现超十倍速增长，加速高品质AI Token 规模化交付｜星连被投动态-36氪 - www.36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jMHh5OWY1UFlTa3MwNHQwb29EZ0tUSFBfbHJpMlJNRzB5bVkxbjU3OUlMNkRYLTlhRVZ6NHZzUVRnUlAtZnkxVEFRR2pkMmlW?oc=5",
+      "title": "AI音乐教育公司获1600万融资 瞄准7亿音乐学习人群赛道 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FRlZJb1JNOXA3aHdtSU9xbFVmMWI5V1V6ay1EcnRoMWRyOVhFTG53eEtaWDRfaW5mQlhvN1NkdHBoV3hfckx0b2hGa1diNmZYODU0?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-26T08:46:02.000Z",
-      "summaryHint": "趋境科技完成B 轮融资，半年实现超十倍速增长，加速高品质AI Token 规模化交付｜星连被投动态-36氪 &nbsp;&nbsp; www.36kr.com",
+      "publishedAt": "2026-10-26T08:37:00.000Z",
+      "summaryHint": "AI音乐教育公司获1600万融资 瞄准7亿音乐学习人群赛道 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "1600万"
+    },
+    {
+      "id": "rss-qbitai-ami6fx",
+      "type": "funding",
+      "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
+      "url": "https://www.qbitai.com/2026/10/505429.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-26T06:50:44.000Z",
+      "summaryHint": "高品质 AI Token 成为行业新风向",
+      "tags": [
+        "china",
+        "funding",
         "deal_signal"
       ]
     },
@@ -47,6 +78,21 @@
         "deal_signal"
       ],
       "amount": "500万元"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-8xfemo",
+      "type": "funding",
+      "title": "城堡投资Salame警示AI融资风险：浪潮之下“一些船会沉没”-36氪 - 36kr",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55SGxTS0FyM1FyNHRCZTRfdkxvdlBjTTM4SV8yTlZBZXJaZDFxbFgxLUZFWGxmcl91dzRxMGp6dlJrV21LUDZkZzVHV09ocnVsOWZqZUIxZXo?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-25T21:53:00.000Z",
+      "summaryHint": "城堡投资Salame警示AI融资风险：浪潮之下“一些船会沉没”-36氪 &nbsp;&nbsp; 36kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
     },
     {
       "id": "rss-google_news_cn_deals-a77kwl",
@@ -97,13 +143,13 @@
       "amount": "2亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-895b5y",
+      "id": "rss-google_news_cn_36kr_deals-gh0j6b",
       "type": "funding",
-      "title": "亿铸科技完成超10亿元新一轮融资-36氪 - 36kr",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hcVJ3SzJsUTZiNmZ1UkFtTkFhWGJNVlhJanVVMWY0Q1ZCNVh2OVlObDV6T2FTRGM3QjVJN3JXRjBOUlBkQlNMdkZNNlA4bGhJRjFvbmVfc1o?oc=5",
+      "title": "亿铸科技完成超10亿元新一轮融资 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aMkhERF9fU3ZLMFF0Ymg0Y3FfZmltZnhUMmVTUzNBdXpJemVwRlA3REU4SC1ZNG1qa1BmMWVwYWZGTUlnLXp4XzNqMUJkSFZ2ejljeERjVnRKWkpCTUE?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-10-23T19:01:00.000Z",
-      "summaryHint": "亿铸科技完成超10亿元新一轮融资-36氪 &nbsp;&nbsp; 36kr",
+      "summaryHint": "亿铸科技完成超10亿元新一轮融资 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -111,22 +157,6 @@
         "deal_signal"
       ],
       "amount": "10亿元"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-xl6m0h",
-      "type": "funding",
-      "title": "8点1氪丨iPhone Duo约八成应用未适配；DeepSeek据悉完成1000亿元融资；长实集团再发澄清公告：李嘉诚健康情况良好 - 36kr",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Ba0VGQXVpa1VkdjJNX3o0NHBYOXJPTWI5eHR0cFhtQXVBYU1lYTdZYjVLX2k1cGpaTHFVTERPZEVHUHAya29XRE9ERQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-22T23:51:40.000Z",
-      "summaryHint": "8点1氪丨iPhone Duo约八成应用未适配；DeepSeek据悉完成1000亿元融资；长实集团再发澄清公告：李嘉诚健康情况良好 &nbsp;&nbsp; 36kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "1000亿元"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-bl99rv",
@@ -144,68 +174,135 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-gj8yjb",
-      "type": "funding",
-      "title": "“辉羲智能”年内累计融资超25亿元-36氪 - 36kr",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90ZUNlcjdZMm1MQ3NrVHFxc19qU3FnR1NEQkpxdGtTNk9QSVMzdnhndW9GRDRtVkJ3VlB2Q1BDOVgyVlI5bG5ZYi1EdDE3azdMV1lwV1loeFY?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-21T11:44:00.000Z",
-      "summaryHint": "“辉羲智能”年内累计融资超25亿元-36氪 &nbsp;&nbsp; 36kr",
+      "id": "rss-qbitai-uyzcfl",
+      "type": "news",
+      "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+      "url": "https://www.qbitai.com/2026/10/505580.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-27T03:23:55.000Z",
+      "summaryHint": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "25亿元"
+        "funding"
+      ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-5znv4j",
-      "type": "funding",
-      "title": "AI公司“Today AI”完成超2亿美元融资 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZNUFZMnZ6X0x6Ylk2a1E2d1RfOTRxeVV0VXEzUzB6Y0dKcnhfNFlZMk1pdlFfZzZZTXRielBMdkZtdmRwSUpHMlZtU3JtNHptaFBvSWdHaF9FbWFwRlZ2MA?oc=5",
+      "id": "rss-google_news_cn_36kr_deals-th1w4l",
+      "type": "news",
+      "title": "“抢钱者”联盟：AI巨头开启资本大逃杀 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54UFNYbDNyX2gwMjJSX29VVF91R1lGb2l0aE5wcExIbHBqMFprenRUT05VNDNLZ2JaVDhUdDNFNHpxMktiU1dMeDNYX2dGQQ?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-21T11:00:00.000Z",
-      "summaryHint": "AI公司“Today AI”完成超2亿美元融资 &nbsp;&nbsp; 36Kr",
+      "publishedAt": "2026-10-26T19:16:00.000Z",
+      "summaryHint": "“抢钱者”联盟：AI巨头开启资本大逃杀 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "2亿"
+        "deal_rss"
+      ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-95eq2p",
-      "type": "funding",
-      "title": "跟微软抢客户，AI办公独角兽融资16亿，英伟达投了 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QR29hLThjMTRETFVuTUdFVzJpck1kUzdIWUJXSUZEMDNhLXFUWWNjUXhLYXhvNk0xWGc1VzJISEQxb0dlVXZVb3pTSGkzZw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-21T09:54:00.000Z",
-      "summaryHint": "跟微软抢客户，AI办公独角兽融资16亿，英伟达投了 &nbsp;&nbsp; 36Kr",
+      "id": "rss-qbitai-cl5vub",
+      "type": "news",
+      "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+      "url": "https://www.qbitai.com/2026/10/505551.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-26T16:06:31.000Z",
+      "summaryHint": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "16亿"
+        "funding"
+      ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-k3sr1n",
-      "type": "funding",
-      "title": "累计融资超2亿美元，Today AI从今天开始越来越懂你 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pUngzMGRDY3QxMDR0Y00xSWNSWWVQUThLNmZwZTFGTXdTUDNqM0JPaTZEUXBnb0FlSDZPTW9PaU5FU3lrS1lzSTZ4SUNIQQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-20T22:34:00.000Z",
-      "summaryHint": "累计融资超2亿美元，Today AI从今天开始越来越懂你 &nbsp;&nbsp; 36Kr",
+      "id": "rss-qbitai-wvikub",
+      "type": "news",
+      "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
+      "url": "https://www.qbitai.com/2026/10/505539.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-26T09:46:13.000Z",
+      "summaryHint": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "2亿"
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-i74ama",
+      "type": "news",
+      "title": "OpenAI开始断网训练最强模型：“安全起见”",
+      "url": "https://www.qbitai.com/2026/10/505529.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-26T09:37:57.000Z",
+      "summaryHint": "模型开始利用GPU缓存聊天？",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-eerbgq",
+      "type": "news",
+      "title": "A社联创演讲：AI奇点已来",
+      "url": "https://www.qbitai.com/2026/10/505521.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-26T09:35:14.000Z",
+      "summaryHint": "所谓奇点，或许是AI跃过人类的那个点。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-8qofp3",
+      "type": "news",
+      "title": "NeoLab第一个商业模式：转售GPU",
+      "url": "https://www.qbitai.com/2026/10/505478.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-26T09:31:47.000Z",
+      "summaryHint": "从冲刺AGI到转售GPU。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-v1gk97",
+      "type": "news",
+      "title": "中国近50%的新云生意，竟被这家公司包揽！",
+      "url": "https://www.qbitai.com/2026/10/505454.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-26T09:02:44.000Z",
+      "summaryHint": "有点意外，但也不意外",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-fw0nmz",
+      "type": "news",
+      "title": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
+      "url": "https://www.qbitai.com/2026/10/505443.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-26T08:38:49.000Z",
+      "summaryHint": "人工智能正在从人机“言传身教”走向自学“触类旁通”。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-2mr8lj",
+      "type": "news",
+      "title": "长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会",
+      "url": "https://www.qbitai.com/2026/10/505436.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-26T08:04:10.000Z",
+      "summaryHint": "10月21日，2026世界智能网联汽车大会在北京召开",
+      "tags": [
+        "china",
+        "funding"
+      ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-409ppd",
@@ -215,6 +312,20 @@
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-10-26T03:51:46.000Z",
       "summaryHint": "马斯克警告：新云厂商将迎倒闭潮 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-fgzoph",
+      "type": "news",
+      "title": "米哈游，投了一位女将 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJTkpjMm9DblFoeUdycmE0Rlp5UDNtbDEtQ1Q2UEM2Q0dqai14QnhUZVYwLTFXZkNTSzZzRWZERjhsYU83cFhLdk1icWxvUQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-25T13:55:00.000Z",
+      "summaryHint": "米哈游，投了一位女将 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
@@ -250,73 +361,85 @@
       ]
     },
     {
-      "id": "reddit-rss-rub1jk",
+      "id": "reddit-rss-mymw2z",
       "type": "social_en",
-      "title": "4DGS as an alternative to Vertex Animation Textures ?",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xfuas7/4dgs_as_an_alternative_to_vertex_animation/",
+      "title": "sparse input view (6 photos)",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xgq5eh/sparse_input_view_6_photos/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-26T11:33:27.000Z",
-      "summaryHint": "Hello everyone, I am currently working on a masters&#39; thesis on the use of 3DGS in games and live environments, in parallel with a videogame project (not related to 3DGS). While 3DGS and 4DGS are amazing technologies, I am still dubious ",
+      "publishedAt": "2026-10-27T11:37:38.000Z",
+      "summaryHint": "been researching my own pipeline for extreme sparse input views (usually &lt; 10, in this case 6 phone photos, no lidar or depth info) it relies a lot on RoMa dense feature mapping &amp; SfM, first by training a raw quick pass with just spa",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-wopnfk",
+      "id": "reddit-rss-1f70eg",
       "type": "social_en",
-      "title": "Unity Advanced Locomotion (WIP)",
-      "url": "https://www.reddit.com/r/Unity3D/comments/1xfrs48/unity_advanced_locomotion_wip/",
-      "source": "reddit_r_Unity3D",
-      "publishedAt": "2026-10-26T09:10:28.000Z",
-      "summaryHint": "Assalamualaikum, i&#39;ve been working on this for my tutorial on Mecanim (which is meant to cover everything about Mecanim (unity&#39;s animation system), So this is the current state of the player i will use as a real character example in",
+      "title": "car animation in 3dsmax and export to 3dsmax Exterior 3d animation render using unreal engine 5",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1xgnhn2/car_animation_in_3dsmax_and_export_to_3dsmax/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-10-27T09:04:45.000Z",
+      "summaryHint": "https://youtu.be/zP-aFdRLimo?si=YWLwBwN_fYuXYjqE &#32; submitted by &#32; /u/Ibrahim-Antar3d [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-2mbuue",
+      "id": "reddit-rss-bg2smm",
       "type": "social_en",
-      "title": "PEKIN 🦆 A Tekken-inspired duck fighting game",
-      "url": "https://www.reddit.com/r/Unity3D/comments/1xfndwe/pekin_a_tekkeninspired_duck_fighting_game/",
-      "source": "reddit_r_Unity3D",
-      "publishedAt": "2026-10-26T04:35:57.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/Dramatic-Carob1113 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-8p9q8r",
-      "type": "social_en",
-      "title": "3D Scanning the solar eclipse at Tempelhof Airfield",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xf165t/3d_scanning_the_solar_eclipse_at_tempelhof/",
+      "title": "I designed a cinema camera for Gaussian splats. Here’s a short film shot entirely inside one.",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xgilr2/i_designed_a_cinema_camera_for_gaussian_splats/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-25T12:31:40.000Z",
-      "summaryHint": "I had an idea to document something that isn’t static — not an object, or a building, but something emotional, collective, and historical. So I decided to 3D Scan Berliners gathering at Tempelhof Airfield, the huge public park, to watch the",
+      "publishedAt": "2026-10-27T04:02:31.000Z",
+      "summaryHint": "Most splat content I see is a free fly-through: fun to explore, but it rarely feels shot . I wanted to treat a splat scene as a film set, with a real camera, a real lens and planned moves. Here&#39;s a demo of the app : https://youtu.be/NGL",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-jfoalu",
+      "id": "reddit-rss-31ct06",
       "type": "social_en",
-      "title": "Quake 3 with Gaussian Splatting - Follow up post",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xext2v/quake_3_with_gaussian_splatting_follow_up_post/",
+      "title": "How would you make independent weapon bloom for multi-weapon dual wielding using UE5.8 blueprints?",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1xgibg5/how_would_you_make_independent_weapon_bloom_for/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-10-27T03:47:42.000Z",
+      "summaryHint": "An example of what I&#39;m talking about would be a shotgun that has a wide cone in one hand and a revolver pistol that&#39;s perfectly accurate in the other. I&#39;m somewhat familiar with terminology when I read it, but I don&#39;t know t",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-fghsum",
+      "type": "social_en",
+      "title": "Games by Hyper Giveaway",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1xgdc6a/games_by_hyper_giveaway/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-10-26T23:57:10.000Z",
+      "summaryHint": "Hi everyone, I&#39;ve got two keys that can be redeemed on https://gamesbyhyper.com I&#39;ve got them from the Humble Bundle, and they are no use to me as I&#39;m working with Unity. Instead of wasting them, I wanted to share them with fell",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-7dclmr",
+      "type": "social_en",
+      "title": "Vitre Experiment #6… my favorite one so far!⁣",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xgaedp/vitre_experiment_6_my_favorite_one_so_far/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-25T09:21:27.000Z",
-      "summaryHint": "About a month ago I posted a demo showing quake 3 rendering a gaussian splat as a map. I have now made my repository public for those interested in trying it out or checking out the code for the splat generation workflow. I am actively stil",
+      "publishedAt": "2026-10-26T21:52:50.000Z",
+      "summaryHint": "Same hallway, new portal effect opening onto a completely different world.⁣ ⁣ Here again, I used Atlas and Marble 2 from World Labs to reimagine the hallway from my original 3D capture. I’m having a lot of fun exploring what these tools can",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-cpryrb",
+      "id": "reddit-rss-s05sf9",
       "type": "social_en",
-      "title": "The 2026 Official Unity Game Jam starts November 5th!",
-      "url": "https://www.reddit.com/r/Unity3D/comments/1xcuvxh/the_2026_official_unity_game_jam_starts_november/",
-      "source": "reddit_r_Unity3D",
-      "publishedAt": "2026-10-22T21:08:27.000Z",
-      "summaryHint": "Hi all! I’m excited to announce that we’re back with a jam for the second year in a row! Last year’s jam ran for a single weekend, and many of you told us that wasn’t enough time. This year you get seven full days to build , plus a few more",
+      "title": "Last Week in Unreal: 1,420 commits on ue6-main, 139 on ue5-main | 5.8.4 shipped",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1xfsh56/last_week_in_unreal_1420_commits_on_ue6main_139/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-10-26T09:53:06.000Z",
+      "summaryHint": "First things first: 5.8.4 shipped on Oct 20. It&#39;s the same candidate that landed on the 5.8 branch in the first week of October. There&#39;s a version bump plus 108 cherry-picks. Note : If you&#39;re considering moving to this, it does ",
       "tags": [
         "ai_social"
       ]
