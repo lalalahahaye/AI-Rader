@@ -1,7 +1,84 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T12:59:14.570Z",
+  "updatedAt": "2026-10-29T13:05:41.126Z",
   "items": [
+    {
+      "id": "rss-qbitai-dvuf64",
+      "type": "funding",
+      "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
+      "url": "https://www.qbitai.com/2026/10/506281.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-29T03:27:50.000Z",
+      "summaryHint": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-swevgo",
+      "type": "funding",
+      "title": "贝森特称AI融资仍在推进，强劲增长下美联储加息未必有错 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZRWNCOXlyaTBuVkc1d25VcDhEek51cG02Ujk2d1k0MTJ3VjNMaVlOem5CcENQOS1iemw1azg1MXMyc1dzWjBUR1JLZkVxSlZGT1kwRGpwcDBwLXJPQmc?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-29T00:32:05.000Z",
+      "summaryHint": "贝森特称AI融资仍在推进，强劲增长下美联储加息未必有错 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-zfpdo8",
+      "type": "funding",
+      "title": "20人团队，融资6000万：让AI忽悠骗子 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uVFlGd245bXlTTy1oUUcwWGxWMkp3SmR2dG1UOVhsUDJFS3lOUWZkSkQ1Z2wxTVRFOGRna3pBbkh6dmpmUnhxLXRnVWlyZw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-28T21:09:00.000Z",
+      "summaryHint": "20人团队，融资6000万：让AI忽悠骗子 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "6000万"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-e0i1de",
+      "type": "funding",
+      "title": "获10亿美元A轮融资，Flapping Airplanes要破解AI的“数据饥渴” - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wcHhiMDhWdlc4QzI2SDI4ZkN4b0luNjczdjBQUmllTUJ0SFFyeEI0VFM0bTViNVlvUmNxT25hYVRaM2xxb1FNTE9WNGJxdw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-28T20:09:00.000Z",
+      "summaryHint": "获10亿美元A轮融资，Flapping Airplanes要破解AI的“数据饥渴” &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "A轮融资",
+      "amount": "10亿"
+    },
+    {
+      "id": "rss-qbitai-cal85t",
+      "type": "funding",
+      "title": "0营收估值200亿美元，具身版OpenAI又融10亿美元",
+      "url": "https://www.qbitai.com/2026/10/506042.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-28T08:55:26.000Z",
+      "summaryHint": "斯坦福伯克利宗师组团，贝索斯红杉抢着送钱",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "amount": "200亿"
+    },
     {
       "id": "rss-google_news_cn_36kr_deals-bgv4fj",
       "type": "funding",
@@ -66,11 +143,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-a4go3l",
       "type": "funding",
-      "title": "趋境科技完成B 轮融资，半年实现超十倍速增长，加速高品质AI Token 规模化交付｜星连被投动态-36氪 - 36kr.com",
+      "title": "趋境科技完成B 轮融资，半年实现超十倍速增长，加速高品质AI Token 规模化交付｜星连被投动态 - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jMHh5OWY1UFlTa3MwNHQwb29EZ0tUSFBfbHJpMlJNRzB5bVkxbjU3OUlMNkRYLTlhRVZ6NHZzUVRnUlAtZnkxVEFRR2pkMmlW?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-10-26T08:46:02.000Z",
-      "summaryHint": "趋境科技完成B 轮融资，半年实现超十倍速增长，加速高品质AI Token 规模化交付｜星连被投动态-36氪 &nbsp;&nbsp; 36kr.com",
+      "summaryHint": "趋境科技完成B 轮融资，半年实现超十倍速增长，加速高品质AI Token 规模化交付｜星连被投动态 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -81,11 +158,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-6winh4",
       "type": "funding",
-      "title": "AI音乐教育公司获1600万融资 瞄准7亿音乐学习人群赛道 - 36Kr",
+      "title": "AI音乐教育公司获1600万融资 瞄准7亿音乐学习人群赛道 - eu.36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FRlZJb1JNOXA3aHdtSU9xbFVmMWI5V1V6ay1EcnRoMWRyOVhFTG53eEtaWDRfaW5mQlhvN1NkdHBoV3hfckx0b2hGa1diNmZYODU0?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-10-26T08:37:00.000Z",
-      "summaryHint": "AI音乐教育公司获1600万融资 瞄准7亿音乐学习人群赛道 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "AI音乐教育公司获1600万融资 瞄准7亿音乐学习人群赛道 &nbsp;&nbsp; eu.36kr.com",
       "tags": [
         "china",
         "funding",
@@ -142,175 +219,104 @@
       "amount": "80亿元"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-w5whex",
-      "type": "funding",
-      "title": "半年融资1500亿元， “技术理想主义者”梁文锋，被资本追着跑 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zUW0teEtJMDhrd0UxTVp0Zm9YdV9pQ1hoS094NkFNTzBuOTBXUmVyNl9VOXVTVFhIN292SW9CVVJDZlFZR0pEeDFsM0M3Zw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-25T08:45:00.000Z",
-      "summaryHint": "半年融资1500亿元， “技术理想主义者”梁文锋，被资本追着跑 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "1500亿元"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-reuiqd",
-      "type": "funding",
-      "title": "拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iaWp0Vk1ObEZ3SkJGMWNjc0JLNXBVV1ZsYURVQUJKQWtjOUVyNExwZE9XeU92SXRCTVZRdG11OGdXU0VBMmtPbVRnc2hJZw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-23T19:50:00.000Z",
-      "summaryHint": "拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题 &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "2亿"
-    },
-    {
-      "id": "rss-qbitai-91njhd",
+      "id": "rss-qbitai-rm5glr",
       "type": "news",
-      "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
-      "url": "https://www.qbitai.com/2026/10/505928.html",
+      "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
+      "url": "https://www.qbitai.com/2026/10/506273.html",
       "source": "qbitai",
-      "publishedAt": "2026-10-28T04:04:48.000Z",
-      "summaryHint": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。",
+      "publishedAt": "2026-10-29T02:51:45.000Z",
+      "summaryHint": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-techcrunch_ai-tsc6bl",
+      "id": "rss-qbitai-3qk95w",
       "type": "news",
-      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-      "source": "techcrunch_ai",
-      "publishedAt": "2026-10-27T16:30:57.000Z",
-      "summaryHint": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
-      "tags": [
-        "funding",
-        "us"
-      ]
-    },
-    {
-      "id": "rss-qbitai-jf695z",
-      "type": "news",
-      "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
-      "url": "https://www.qbitai.com/2026/10/505865.html",
+      "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+      "url": "https://www.qbitai.com/2026/10/505934.html",
       "source": "qbitai",
-      "publishedAt": "2026-10-27T12:57:51.000Z",
-      "summaryHint": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。",
+      "publishedAt": "2026-10-29T02:18:28.000Z",
+      "summaryHint": "用扩散模型怎么做做Agent？",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-3bn3rd",
+      "id": "rss-qbitai-swlvv",
       "type": "news",
-      "title": "印奇把4D雷达也端到端了",
-      "url": "https://www.qbitai.com/2026/10/505852.html",
+      "title": "24万开卖！理想重造i6，李想：目标全球畅销",
+      "url": "https://www.qbitai.com/2026/10/506246.html",
       "source": "qbitai",
-      "publishedAt": "2026-10-27T10:40:12.000Z",
-      "summaryHint": "毫米波雷达，AI算力10TOPS",
+      "publishedAt": "2026-10-29T00:59:26.000Z",
+      "summaryHint": "理想今年最后一场发布会，自研电池芯片全部上车",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-qz8ph3",
+      "id": "rss-qbitai-s2uc60",
       "type": "news",
-      "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
-      "url": "https://www.qbitai.com/2026/10/505830.html",
+      "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
+      "url": "https://www.qbitai.com/2026/10/506227.html",
       "source": "qbitai",
-      "publishedAt": "2026-10-27T09:54:51.000Z",
-      "summaryHint": "顶尖智能汽车玩家的终局，不会停在智能汽车",
+      "publishedAt": "2026-10-29T00:03:58.000Z",
+      "summaryHint": "能连肝数日修Bug，免疫提示词注入",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-yi6xmh",
+      "id": "rss-qbitai-qlxqtp",
       "type": "news",
-      "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
-      "url": "https://www.qbitai.com/2026/10/505799.html",
+      "title": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+      "url": "https://www.qbitai.com/2026/10/506194.html",
       "source": "qbitai",
-      "publishedAt": "2026-10-27T08:46:12.000Z",
-      "summaryHint": "无人在环进店实测啃下长尾场景",
+      "publishedAt": "2026-10-28T11:09:10.000Z",
+      "summaryHint": "让基建作为常驻buff",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-4butjf",
+      "id": "rss-qbitai-hhqbo0",
       "type": "news",
-      "title": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%",
-      "url": "https://www.qbitai.com/2026/10/505773.html",
+      "title": "工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+      "url": "https://www.qbitai.com/2026/10/506098.html",
       "source": "qbitai",
-      "publishedAt": "2026-10-27T08:35:33.000Z",
-      "summaryHint": "OCR 3.0时代，来了",
+      "publishedAt": "2026-10-28T10:32:39.000Z",
+      "summaryHint": "让基建作为常驻buff",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-9v53gh",
+      "id": "rss-qbitai-swomz2",
       "type": "news",
-      "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
-      "url": "https://www.qbitai.com/2026/10/505719.html",
+      "title": "威卡：用数据集链接具身智能和工程机械",
+      "url": "https://www.qbitai.com/2026/10/506063.html",
       "source": "qbitai",
-      "publishedAt": "2026-10-27T08:27:46.000Z",
-      "summaryHint": "同一天，OpenAI还甩出3项AI科学新发现",
+      "publishedAt": "2026-10-28T09:01:27.000Z",
+      "summaryHint": "威卡：为工程机械的智能化与少人化，提供一条被验证的路径",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-5c2jbh",
+      "id": "rss-qbitai-se4dkf",
       "type": "news",
-      "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
-      "url": "https://www.qbitai.com/2026/10/505694.html",
+      "title": "19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板",
+      "url": "https://www.qbitai.com/2026/10/506055.html",
       "source": "qbitai",
-      "publishedAt": "2026-10-27T08:18:59.000Z",
-      "summaryHint": "还是专业的模型做专业的事情",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-7x6vpz",
-      "type": "news",
-      "title": "做能源与算力的“搭桥人”：达卯科技以能源大脑定义算电协同 | CPE 2026",
-      "url": "https://www.qbitai.com/2026/10/505687.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-27T07:44:41.000Z",
-      "summaryHint": "破解绿电直连项目落地僵局",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-b85hne",
-      "type": "news",
-      "title": "OXR强势开源！1.3B横扫全球三榜第一，速度快过Paddle、MinerU，RSI让它卷出新高度",
-      "url": "https://www.qbitai.com/2026/10/505635.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-27T07:41:02.000Z",
-      "summaryHint": "开源一周，Github 拿下超 1000 star，X上关注度破百万，并登上 Today‘s news 推荐",
+      "publishedAt": "2026-10-28T08:59:00.000Z",
+      "summaryHint": "精度达AlphaFold 3两倍，分子之心拿下高难度抗体设计",
       "tags": [
         "china",
         "funding"
@@ -331,111 +337,99 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-4c53o7",
+      "id": "rss-google_news_en_deals-2zpque",
       "type": "news",
-      "title": "千亿All in，AI回报却为零 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XU2FBR2R6TjRVaTkxR2k1VlZxZlBtRmNpUXIxWXZsblB0YnlLMEdTVkxIS3hjYllGSEU4Z1F3YlI3LXV2ZDhZM3ZGdw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-25T13:51:00.000Z",
-      "summaryHint": "千亿All in，AI回报却为零 &nbsp;&nbsp; 36Kr",
+      "title": "Rivian buys world model startup to accelerate self-driving ambitions - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcG5xcElkdGFNMEwxZjc2ZkgxcVdOMXU3dWR1bzduc2pYQllQY3lLSDVKTmlVSU52RXM0ZV90bmF6T1NPWTEzNi1PWElmQUJWejAzbUZmTXhsUHVRQ2Rna1o2MjhoZmJhOEtjc2Z2NGJ0TlYwaHBPNzJPUFZBWVlZN0x2UkhtZ0FnQjVfeFJfOU1EN2tjM0Vla1Q3bk9faG93M2hHOUVn?oc=5",
+      "source": "google_news_en_deals",
+      "publishedAt": "2026-10-22T21:05:05.000Z",
+      "summaryHint": "Rivian buys world model startup to accelerate self-driving ambitions &nbsp;&nbsp; TechCrunch",
       "tags": [
-        "china",
+        "us",
         "funding",
         "deal_rss"
       ]
     },
     {
-      "id": "reddit-rss-ouujlc",
+      "id": "reddit-rss-cg15pu",
       "type": "social_en",
-      "title": "SOG v3 spec in progress: 4 bands of SH, decimation alpha compensation, and glTF-style extras",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xhmp47/sog_v3_spec_in_progress_4_bands_of_sh_decimation/",
+      "title": "UE5 3D/4D Gaussian Splatting Plugin MLSLabsRender V2 Tutorial for Pico V...",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xihpza/ue5_3d4d_gaussian_splatting_plugin_mlslabsrender/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-28T12:28:11.000Z",
-      "summaryHint": "Hey everyone, I’m busy putting together the proposal for SOG v3 (PlayCanvas&#39; compressed format for 3D Gaussian Splatting), and I&#39;d like to get community feedback and catch any potential edge cases. The current proposal includes: Tig",
+      "publishedAt": "2026-10-29T11:46:35.000Z",
+      "summaryHint": "In this video, we walk through how to use the UE5 3D Gaussian Splatting MLSLabsRenderer v2 (GitHub: https://github.com/mlslabs/MLSLabsGaussianSplattingRenderer-UE ). This is a high-performance plugin developed specifically for Unreal Engine",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-6t5usj",
+      "id": "reddit-rss-d4wcx1",
       "type": "social_en",
-      "title": "Volumetric Rendering: The \"How-to\" - Blog post Out now!",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1xhli29/volumetric_rendering_the_howto_blog_post_out_now/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-10-28T11:29:25.000Z",
-      "summaryHint": "In our previous What The Graphics! blog, we explored Volume Rendering and why it matters. Now, we&#39;re going deeper into how it works. From raw voxel data to 3D textures, we explore 3D Texture Slicing and how a stack of textured polygons ",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-4dqp8g",
-      "type": "social_en",
-      "title": "Which shades of colors are shown the worst on color models?",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1xhl1a8/which_shades_of_colors_are_shown_the_worst_on/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-10-28T11:04:48.000Z",
-      "summaryHint": "Hi I am learning color models and color spaces, I assume it depends on gamut but I have this question on a test and I really can&#39;t find the answer anywhere 🥲 &#32; submitted by &#32; /u/Standard-Homework-26 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-y1m0i9",
-      "type": "social_en",
-      "title": "Gemma 5 models soon ??",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhjn9d/gemma_5_models_soon/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-10-28T09:45:18.000Z",
-      "summaryHint": "https://x.com/osanseviero/status/2115351234811249111 &#32; submitted by &#32; /u/KokaOP [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-njaqx3",
-      "type": "social_en",
-      "title": "Dirt cheap GPUs coming next year",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhep6w/dirt_cheap_gpus_coming_next_year/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-10-28T04:34:41.000Z",
-      "summaryHint": "I think a turn of events are pointing towards a very likely crash in prices in the coming months. With a single gb300 rack being to serve all of Openrouter&#39;s traffic for DSV4.1 Flash( https://x.com/thdxr/status/2115165365630026178 ) Hal",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-yo3b83",
-      "type": "social_en",
-      "title": "Spooky Halloween",
-      "url": "https://www.reddit.com/r/computergraphics/comments/1xhdcvi/spooky_halloween/",
-      "source": "reddit_r_computergraphics",
-      "publishedAt": "2026-10-28T03:22:43.000Z",
-      "summaryHint": "My first splat (worth sharing) 😂 Insta360 video trained with Spirula Studio Original splat was 5M splats 100,000 iterations. What do you all think? &#32; submitted by &#32; /u/New-Winter-5197 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-4g7qzc",
-      "type": "social_en",
-      "title": "Insta360 X6 → SAM 3 masking → Spirula Studio → UE 5.8 (XGRIDS plugin): 360 Gaussian splatting pipeline",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xh7wa1/insta360_x6_sam_3_masking_spirula_studio_ue_58/",
+      "title": "Image Tracking (WebAR) with Gaussian Splats",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xigpyc/image_tracking_webar_with_gaussian_splats/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-27T23:10:46.000Z",
-      "summaryHint": "Spatial capture keeps getting better, and new tools are making 3D reconstructions look closer and closer to the real place. So I put them to the test on an old bank I visited a while ago. I walked through the whole building with my Insta360",
+      "publishedAt": "2026-10-29T10:53:40.000Z",
+      "summaryHint": "For years I was dreaming of implementing Image Tracking in WebAR on my platform. With the help of web workers and OpenCV (and some magic) I was able to create a stable image tracking feature that works on Android with ARcore and iOS with AR",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-gr5uo3",
+      "id": "reddit-rss-tck22i",
       "type": "social_en",
-      "title": "Splats are getting so good that we might not need to view them any more",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xh05gr/splats_are_getting_so_good_that_we_might_not_need/",
+      "title": "ALT POLIZIA | Stylized 3D Character Showcase",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1xiehd4/alt_polizia_stylized_3d_character_showcase/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-10-29T08:40:19.000Z",
+      "summaryHint": "Meet my Italian Carabiniere — my personal concept and character art project, inspired by Italian culture, retro aesthetics, and a healthy dose of absurd humor. The original idea was pretty simple: create a small stylized character, give him",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-cx7ede",
+      "type": "social_en",
+      "title": "Custom MetaHuman heads created from photos",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1xiefry/custom_metahuman_heads_created_from_photos/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-10-29T08:37:27.000Z",
+      "summaryHint": "Hi all, KeenTools here! Here’s a quick demo of building custom 3D heads with MetaHuman topology from ref images using our new tool, KeenFace. Posted all the details in the comments. &#32; submitted by &#32; /u/nord_little [link] &#32; [comm",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-mkl8im",
+      "type": "social_en",
+      "title": "Best practice for adding weapons to default Manny rig?",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1xibm7v/best_practice_for_adding_weapons_to_default_manny/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-10-29T05:40:34.000Z",
+      "summaryHint": "I&#39;m wondering what the best practice is for having a character rig that works with weapons. I was under the impression that standard practice might be to have a socket or weapon bone where we can attach a seperate skeletal mesh for the ",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-nmcb4s",
+      "type": "social_en",
+      "title": "Hiking video → Gaussian splat: original footage and reconstruction side by side",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xi46zo/hiking_video_gaussian_splat_original_footage_and/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-27T18:13:36.000Z",
-      "summaryHint": "As humans we walk through a model in one continuous motion, taking in a scene one frame at a time. But agents don&#39;t need to do that. They can take a huge array of views at once and answer questions about them. So we thought, why not jus",
+      "publishedAt": "2026-10-28T23:33:55.000Z",
+      "summaryHint": "Testing a hiking video captured with Meta glasses as input for a Gaussian splat in AEC Platform. Here’s the original footage (right) alongside the reconstructed scene (left). It’s an early test of how an everyday recording can translate int",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-8tm4ol",
+      "type": "social_en",
+      "title": "I made Folio, a free HTML/CSS-style UI framework for Unreal Engine 5, so you can stop fighting UMG and Slate",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1xhxj1i/i_made_folio_a_free_htmlcssstyle_ui_framework_for/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-10-28T19:13:11.000Z",
+      "summaryHint": "Hi! I&#39;m the author of PredictedMovement , TurnInPlace , ProcHitReact , PushPawn and other Unreal plugins . Folio is the UI framework I wanted: write your screens in markup and a stylesheet close to CSS, and get polished UI in minutes in",
       "tags": [
         "ai_social"
       ]
