@@ -1,21 +1,36 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T12:59:18.682Z",
+  "updatedAt": "2026-10-31T12:35:47.755Z",
   "items": [
     {
-      "id": "rss-google_news_cn_36kr_deals-5dzt3e",
+      "id": "rss-google_news_cn_36kr_deals-mvpud6",
       "type": "funding",
-      "title": "“融资不过亿都不好意思说” - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KanNHcnUtWFZEUmhYNUZJVHBkYVJKZ0twTTJoRzhzbW5NSnZGZXRRTXAzaVFxX3kyOHVKY0t0bmhVZWdsWTZGVmt1RFVXUQ?oc=5",
+      "title": "罗永浩说难吃的冰淇淋，融资了 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIbmNMdUh0TmdSVjZvYUVWU19qOXI2M1FlNUc0ZEVpYW5wUXRrU2NLbnV3YjJFSmxOR0Z3ZkpscTF2SVR6VmEzaG5GR0Mtdw?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-29T16:45:00.000Z",
-      "summaryHint": "“融资不过亿都不好意思说” &nbsp;&nbsp; 36氪",
+      "publishedAt": "2026-10-30T11:28:00.000Z",
+      "summaryHint": "罗永浩说难吃的冰淇淋，融资了 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
       ]
+    },
+    {
+      "id": "rss-qbitai-3buhmt",
+      "type": "funding",
+      "title": "好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单",
+      "url": "https://www.qbitai.com/2026/10/506747.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-30T08:12:11.000Z",
+      "summaryHint": "创立 4 年，估值站上 10 亿美元——资本市场定价的不是一部电影，而是一套内容生产基础设施。",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "amount": "10亿"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-1oyzla",
@@ -64,21 +79,19 @@
       "amount": "6000万"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-e0i1de",
+      "id": "rss-google_news_cn_36kr_deals-41cv7a",
       "type": "funding",
-      "title": "获10亿美元A轮融资，Flapping Airplanes要破解AI的“数据饥渴” - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wcHhiMDhWdlc4QzI2SDI4ZkN4b0luNjczdjBQUmllTUJ0SFFyeEI0VFM0bTViNVlvUmNxT25hYVRaM2xxb1FNTE9WNGJxdw?oc=5",
+      "title": "个人Agent火了，上海徐汇两个新秀拿下大融资 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xVjhDTnNJMFhfY0tEd3Q1VFhkd3hIOC1aTTUwZmZpXzgzWnF5aURReXRoSTdwbmNkSDBFX2pNdHh5TC02TGlaMUtOaVcxQQ?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-28T20:09:00.000Z",
-      "summaryHint": "获10亿美元A轮融资，Flapping Airplanes要破解AI的“数据饥渴” &nbsp;&nbsp; 36Kr",
+      "publishedAt": "2026-10-27T21:52:00.000Z",
+      "summaryHint": "个人Agent火了，上海徐汇两个新秀拿下大融资 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
-      ],
-      "round": "A轮融资",
-      "amount": "10亿"
+      ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-ljw2zt",
@@ -114,11 +127,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-lupnag",
       "type": "funding",
-      "title": "微纳核芯两个月内完成超20亿元融资，彰显市场对原创自研三维存算一体3D-CIM™架构的高度认可 - 36Kr",
+      "title": "微纳核芯两个月内完成超20亿元融资，彰显市场对原创自研三维存算一体3D-CIM™架构的高度认可 - 36氪",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzeF9XbWxNNDRLcWswNVF0ZUJYcjJXWWdIS255WlM3eGFxMmhTdHhvVzUyRW9BZDRpXzI3QWl6VzVFVDU4LXludks1Nld0Zw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-10-27T10:00:00.000Z",
-      "summaryHint": "微纳核芯两个月内完成超20亿元融资，彰显市场对原创自研三维存算一体3D-CIM™架构的高度认可 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "微纳核芯两个月内完成超20亿元融资，彰显市场对原创自研三维存算一体3D-CIM™架构的高度认可 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
@@ -159,20 +172,94 @@
       "amount": "1500亿元"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-reuiqd",
-      "type": "funding",
-      "title": "拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iaWp0Vk1ObEZ3SkJGMWNjc0JLNXBVV1ZsYURVQUJKQWtjOUVyNExwZE9XeU92SXRCTVZRdG11OGdXU0VBMmtPbVRnc2hJZw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-23T19:50:00.000Z",
-      "summaryHint": "拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题 &nbsp;&nbsp; 36氪",
+      "id": "rss-qbitai-iet6ff",
+      "type": "news",
+      "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
+      "url": "https://www.qbitai.com/2026/10/506884.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-31T05:17:50.000Z",
+      "summaryHint": "苹果“牛奶倒河里”式操作翻红",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "2亿"
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-9zw589",
+      "type": "news",
+      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+      "url": "https://www.qbitai.com/2026/10/506866.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-31T05:11:19.000Z",
+      "summaryHint": "AI算力利用“九九成”",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-p5c1uh",
+      "type": "news",
+      "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
+      "url": "https://www.qbitai.com/2026/10/506855.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-31T05:05:29.000Z",
+      "summaryHint": "200美元Ultra用户先用",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-axmn6p",
+      "type": "news",
+      "title": "榜一，拿来吧你！智元这波双模型杀穿多榜榜单",
+      "url": "https://www.qbitai.com/2026/10/506819.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-30T12:58:31.000Z",
+      "summaryHint": "xs，还要给机器人打绩效",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-9xro8l",
+      "type": "news",
+      "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
+      "url": "https://www.qbitai.com/2026/10/506785.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-30T11:05:06.000Z",
+      "summaryHint": "之前还连登昇腾三榜第一",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-mpzgvu",
+      "type": "news",
+      "title": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”",
+      "url": "https://www.qbitai.com/2026/10/506779.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-30T10:44:01.000Z",
+      "summaryHint": "10月30日，联想天禧AI 4.5迎来AIPC端正式发布。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-qicg1e",
+      "type": "news",
+      "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
+      "url": "https://www.qbitai.com/2026/10/506771.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-30T08:50:44.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
     },
     {
       "id": "rss-qbitai-1fo021",
@@ -201,53 +288,17 @@
       ]
     },
     {
-      "id": "rss-qbitai-h4a024",
+      "id": "rss-google_news_cn_36kr_deals-hbm2dt",
       "type": "news",
-      "title": "Claude新模型曝光：新Fable，新Opus…",
-      "url": "https://www.qbitai.com/2026/10/506674.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-30T05:50:44.000Z",
+      "title": "AI初创企业的下半场：钱往哪里去？ - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxekhjdFJ2cjBPTDdNRGhlMjE4Wk03Z2VLZVNaWDk4MnpBTGFDbjBCRDFoNmVoYnBQREJxZ0F6cGZ5dHloNmZNY0I0SmUwUQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-29T17:00:00.000Z",
+      "summaryHint": "AI初创企业的下半场：钱往哪里去？ &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-1hsh1p",
-      "type": "news",
-      "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
-      "url": "https://www.qbitai.com/2026/10/506662.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-30T03:48:04.000Z",
-      "summaryHint": "让机器人成为彼此的“老师”",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-c85tk0",
-      "type": "news",
-      "title": "前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位",
-      "url": "https://www.qbitai.com/2026/10/506609.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-30T03:40:21.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-o0in95",
-      "type": "news",
-      "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
-      "url": "https://www.qbitai.com/2026/10/506569.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-30T00:19:06.000Z",
-      "summaryHint": "Momenta世界模型上车",
-      "tags": [
-        "china",
-        "funding"
+        "funding",
+        "deal_rss"
       ]
     },
     {
@@ -265,32 +316,6 @@
       ]
     },
     {
-      "id": "rss-qbitai-tyz0iz",
-      "type": "news",
-      "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
-      "url": "https://www.qbitai.com/2026/10/506554.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-29T09:58:26.000Z",
-      "summaryHint": "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-s2siy7",
-      "type": "news",
-      "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
-      "url": "https://www.qbitai.com/2026/10/506550.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-29T09:52:05.000Z",
-      "summaryHint": "在大模型私有化市场，商汤大装置以9.4%的市场份额，再次稳居第二位",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-kgvqed",
       "type": "news",
       "title": "资本抢投大厂押注 AI眼镜赛道最大赢家竟是售价50元的华强北产品？ - eu.36kr.com",
@@ -302,32 +327,6 @@
         "china",
         "funding",
         "deal_rss"
-      ]
-    },
-    {
-      "id": "rss-qbitai-fakqay",
-      "type": "news",
-      "title": "AI安全是AI规模化应用“加速器”",
-      "url": "https://www.qbitai.com/2026/10/506544.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-29T08:50:14.000Z",
-      "summaryHint": "AI安全不是AI发展的“刹车片”，而是AI高质量发展的“加速器”。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-weblhm",
-      "type": "news",
-      "title": "奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧",
-      "url": "https://www.qbitai.com/2026/10/506478.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-29T06:53:19.000Z",
-      "summaryHint": "All in one、任何人都能用",
-      "tags": [
-        "china",
-        "funding"
       ]
     },
     {
@@ -345,61 +344,85 @@
       ]
     },
     {
-      "id": "reddit-rss-2ua5is",
+      "id": "reddit-rss-j0ybbi",
       "type": "social_en",
-      "title": "I built a splat effect tool that turns your Gaussian splat into a cinematic video, right in the browser. Here's a fossil skull",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xj9tcz/i_built_a_splat_effect_tool_that_turns_your/",
+      "title": "I made a site to learn UE5 Blueprints in short lessons. Looking for honest feedback",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1xk8t8n/i_made_a_site_to_learn_ue5_blueprints_in_short/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-10-31T12:21:28.000Z",
+      "summaryHint": "hey, solo indie dev here, I&#39;m also working on a UE5 horror game on the side. I&#39;ve been building learnblueprints.com, a site to learn Blueprints with short lessons, screenshots from the actual editor, a quiz after each lesson, and a ",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-2xnrsu",
+      "type": "social_en",
+      "title": "FAB Store unusable, where do people look for them now.",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1xk7zwr/fab_store_unusable_where_do_people_look_for_them/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-10-31T11:39:17.000Z",
+      "summaryHint": "Just wondering where people look for assets these days, even just to browse. FAB has become the most unbearable and unusable storefronts. The amount of clearly AI generated assets marked as &quot;not generated&quot; with AI just means I mig",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-spjbgg",
+      "type": "social_en",
+      "title": "Anyone still using Luma 3D?",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xk7ykm/anyone_still_using_luma_3d/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-30T08:30:26.000Z",
-      "summaryHint": "I kept wanting a quick way to show off splats as video instead of screen-recording a viewer, so we built Effect: luxbox.ai/effect Since it&#39;s still in beta, all advice is welcome: - Camera tracks you&#39;d like next (flythrough, crane, h",
+      "publishedAt": "2026-10-31T11:37:05.000Z",
+      "summaryHint": "How much time is taking for you to load? I uploaded some 2 weeks ago and they were ready under hours, but know they are stuck on queue and they have been for 2 days. I know its discontinued so it may take some time buf it anyone is still us",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-mrpaka",
+      "id": "reddit-rss-9v8nea",
       "type": "social_en",
-      "title": "Open source tool to extract objects from splats",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xj9f2u/open_source_tool_to_extract_objects_from_splats/",
+      "title": "How to set media plate to replace a USD imported camera screen?",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1xk5k6x/how_to_set_media_plate_to_replace_a_usd_imported/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-10-31T09:15:01.000Z",
+      "summaryHint": "Hi, I imported a USD file that contains a camera solve from Syntheyes, some reference geometry. I used the USD stager to import each mesh separately. So in UE I see those separate objects. Well, the camera and camera screen are shown in UE ",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-2zcsl6",
+      "type": "social_en",
+      "title": "Excavated pipe area: original video vs. Gaussian splat",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xjwbxd/excavated_pipe_area_original_video_vs_gaussian/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-30T08:04:06.000Z",
-      "summaryHint": "I&#39;m not super familiar with splatting, but I think this could actually be pretty useful! &#32; submitted by &#32; /u/mrMuppet06 [link] &#32; [comments]",
+      "publishedAt": "2026-10-31T00:37:56.000Z",
+      "summaryHint": "Left is the original video of an excavated pipe area; right is the Gaussian splat generated from that footage using our software, AEC Platform. We’re exploring how this could help document exposed utilities before they’re covered, giving te",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-sd2bz5",
+      "id": "reddit-rss-djw7j",
       "type": "social_en",
-      "title": "Freind of mine published a paper with fabricated results in a top journal and got accepted and i feel disgusted [d]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8tvc/freind_of_mine_published_a_paper_with_fabricated/",
-      "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-10-30T07:25:23.000Z",
-      "summaryHint": "A friend of mine was doing a gap analysis as a project. The results he got weren&#39;t that big compared to the original papers, so he simply fabricated and increased the metrics here and there, AND IT GOT ACCEPTED IN AAAI. HOW DO THEY CHEC",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-qsqxyp",
-      "type": "social_en",
-      "title": "Spatial Capture with Insta360",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xj3m0w/spatial_capture_with_insta360/",
+      "title": "MAJOR UPDATE: Dinovi now works on non-LiDAR iPhones. 100% FREE AND LOCAL processing, NO UPLOAD (TestFlight OPEN)",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xjq52h/major_update_dinovi_now_works_on_nonlidar_iphones/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-30T02:29:21.000Z",
-      "summaryHint": "I&#39;ve been experimenting with the Spatial Capture mode from the X line at Insta360. I haven&#39;t seen it posted yet, but they just announced a Spatial Capture contest today, too. &#32; submitted by &#32; /u/RadianceFields [link] &#32; [",
+      "publishedAt": "2026-10-30T20:15:54.000Z",
+      "summaryHint": "Hi everyone, https://preview.redd.it/tnmvn3mrwnyh1.png?width=2400&amp;format=png&amp;auto=webp&amp;s=a486b1bd4311601c0b8d1c5d8ba1f71cbfa0f9a8 Dinovi (previous post) is still in TestFlight, but this update was too big not to share, i&#39;m w",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-dkr57x",
+      "id": "reddit-rss-bctnrv",
       "type": "social_en",
-      "title": "Old-school classifiers are still generally better than Jev [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xil53d/oldschool_classifiers_are_still_generally_better/",
-      "source": "reddit_r_MachineLearning",
-      "publishedAt": "2026-10-29T14:13:05.000Z",
-      "summaryHint": "There’s a lot of hype right now around decision models like Jev. But in most real use cases, you have some labeled data, and can use it to personalize your model. So we tested the old-school approach to classification and regression: Embed ",
+      "title": "I built a real-time vehicle damage plugin for UE5: dents, scraped paint, doors that tear off, shattering glass and dirt, all replicated in multiplayer",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1xjhp5j/i_built_a_realtime_vehicle_damage_plugin_for_ue5/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-10-30T15:00:32.000Z",
+      "summaryHint": "Hey everyone! I&#39;ve been working on Crushform, a vehicle damage plugin for Unreal Engine 5, and wanted to share it before it goes live on Fab. It started as the damage system for my own game and grew into a standalone plugin. How it work",
       "tags": [
         "ai_social"
       ]
