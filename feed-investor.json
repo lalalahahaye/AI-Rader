@@ -1,15 +1,31 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T12:35:47.755Z",
+  "updatedAt": "2026-11-01T13:28:43.872Z",
   "items": [
     {
-      "id": "rss-google_news_cn_36kr_deals-mvpud6",
+      "id": "rss-google_news_cn_36kr_deals-wudjoh",
       "type": "funding",
-      "title": "罗永浩说难吃的冰淇淋，融资了 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIbmNMdUh0TmdSVjZvYUVWU19qOXI2M1FlNUc0ZEVpYW5wUXRrU2NLbnV3YjJFSmxOR0Z3ZkpscTF2SVR6VmEzaG5GR0Mtdw?oc=5",
+      "title": "AI“烧钱叙事”遇冷？OpenAI融资目标砍掉100亿！ - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WRS1wYmItTFg5YVpOZjJvZXEweUttQUNFTnd5SW4xNzZTb3huUWpDdUJSTlNQMzRVbi1CSGRkZU1OejdSS2lENjYzdw?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-30T11:28:00.000Z",
-      "summaryHint": "罗永浩说难吃的冰淇淋，融资了 &nbsp;&nbsp; 36氪",
+      "publishedAt": "2026-10-31T14:01:00.000Z",
+      "summaryHint": "AI“烧钱叙事”遇冷？OpenAI融资目标砍掉100亿！ &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "100亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-5w22y3",
+      "type": "funding",
+      "title": "首次融资数千万美元，文远知行子公司景烁科技加速构建物理AI底座-36氪 - www.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hNG1hNWZUZERyOUJrUGV1YUtUMEtnX1ZmR05rUzhFV2d5Z1IyZWNQcVlRRGpMYTE1QmJjamF6UlBJR1gxcDBGdER4UVI4NEpO?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-30T04:07:29.000Z",
+      "summaryHint": "首次融资数千万美元，文远知行子公司景烁科技加速构建物理AI底座-36氪 &nbsp;&nbsp; www.36kr.com",
       "tags": [
         "china",
         "funding",
@@ -18,19 +34,34 @@
       ]
     },
     {
-      "id": "rss-qbitai-3buhmt",
+      "id": "rss-google_news_cn_36kr_deals-367gal",
       "type": "funding",
-      "title": "好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单",
-      "url": "https://www.qbitai.com/2026/10/506747.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-30T08:12:11.000Z",
-      "summaryHint": "创立 4 年，估值站上 10 亿美元——资本市场定价的不是一部电影，而是一套内容生产基础设施。",
+      "title": "Ares首席执行官称因业务复杂度，避开AI芯片融资-36氪 - www.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDSTJjMDRySGRFV2JrSTIxWkl2REFVUEZxdGJLZU40eTdlUVo0a3FfQXQwbkthbjBaZ0FRQVRmQkJKLVpBYVNzdXg3NDA4T1VpSUI4QUxhbXdvbEx0X2c?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-29T23:54:49.000Z",
+      "summaryHint": "Ares首席执行官称因业务复杂度，避开AI芯片融资-36氪 &nbsp;&nbsp; www.36kr.com",
       "tags": [
         "china",
         "funding",
+        "deal_rss",
         "deal_signal"
-      ],
-      "amount": "10亿"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-5dzt3e",
+      "type": "funding",
+      "title": "“融资不过亿都不好意思说” - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KanNHcnUtWFZEUmhYNUZJVHBkYVJKZ0twTTJoRzhzbW5NSnZGZXRRTXAzaVFxX3kyOHVKY0t0bmhVZWdsWTZGVmt1RFVXUQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-29T16:45:00.000Z",
+      "summaryHint": "“融资不过亿都不好意思说” &nbsp;&nbsp; 36氪",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-1oyzla",
@@ -48,13 +79,13 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-tjqjb6",
+      "id": "rss-google_news_cn_36kr_deals-swevgo",
       "type": "funding",
-      "title": "首次融资数千万美元，文远知行子公司景烁科技加速构建物理AI底座 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qa1dXYmg3OXlsZnZ6cnhTeHg5OWFuWXB2UG4yU3NDXzNmSmk1Q3gtdTQ1U0hXSlNMU0ZaXzFrYXpWcklYM1pHZ0gxU1h1UQ?oc=5",
+      "title": "贝森特称AI融资仍在推进，强劲增长下美联储加息未必有错 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZRWNCOXlyaTBuVkc1d25VcDhEek51cG02Ujk2d1k0MTJ3VjNMaVlOem5CcENQOS1iemw1azg1MXMyc1dzWjBUR1JLZkVxSlZGT1kwRGpwcDBwLXJPQmc?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-29T13:05:00.000Z",
-      "summaryHint": "首次融资数千万美元，文远知行子公司景烁科技加速构建物理AI底座 &nbsp;&nbsp; 36氪",
+      "publishedAt": "2026-10-29T00:32:05.000Z",
+      "summaryHint": "贝森特称AI融资仍在推进，强劲增长下美联储加息未必有错 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -79,13 +110,30 @@
       "amount": "6000万"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-41cv7a",
+      "id": "rss-google_news_cn_36kr_deals-kzk6yw",
       "type": "funding",
-      "title": "个人Agent火了，上海徐汇两个新秀拿下大融资 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xVjhDTnNJMFhfY0tEd3Q1VFhkd3hIOC1aTTUwZmZpXzgzWnF5aURReXRoSTdwbmNkSDBFX2pNdHh5TC02TGlaMUtOaVcxQQ?oc=5",
+      "title": "获10亿美元A轮融资，Flapping Airplanes要破解AI的“数据饥渴” - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qN0ktOHQ4MjBtSjFjTWY4bkR5MW1rbHFRcmdyTEd3VW5QSHFIV2liXzdiSFdqVHZiaTFNbGMtNkU2VWJsUC1pYzAwdGRiT004?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-27T21:52:00.000Z",
-      "summaryHint": "个人Agent火了，上海徐汇两个新秀拿下大融资 &nbsp;&nbsp; 36氪",
+      "publishedAt": "2026-10-28T20:09:00.000Z",
+      "summaryHint": "获10亿美元A轮融资，Flapping Airplanes要破解AI的“数据饥渴” &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "A轮融资",
+      "amount": "10亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-bgv4fj",
+      "type": "funding",
+      "title": "羚数智能连续完成A1、A2轮数千万融资，浦东创投、张江科投、锡创投参与投资，高速增长背后，羚数正在打开工业AI的另一种商业空间 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvZWtEWDltV21ORlUzUzlzV0s5MzNBelRWb0x6RkxfVnNFOWJyRWZTNFpvRUJaWGdSV3Q3alFjUzBGTWpwWnk0aGgydXFQUmRs?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-28T07:20:05.000Z",
+      "summaryHint": "羚数智能连续完成A1、A2轮数千万融资，浦东创投、张江科投、锡创投参与投资，高速增长背后，羚数正在打开工业AI的另一种商业空间 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -94,13 +142,29 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-ljw2zt",
+      "id": "rss-google_news_cn_36kr_deals-fy8753",
       "type": "funding",
-      "title": "百度系今年拿下融资冠军，但芯片创业圈真正的主角是华为团 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5WZVg5dXctUF92RkxMSHN0WGluMFdHT3Mta3RPejhvS0F3dVJoWGw0cHRXU29lcXFieE95RllBbnJFcmVlMFNrTHlFMnEwUQ?oc=5",
+      "title": "百奥几何完成1 亿美元A 轮系列融资，以自进化微观世界模型迈向生命科学超级智能｜星连被投动态 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UZ3llUWZwRGlQS1p1elpKZnkxakRESGljZV9ZZ1dSMDdxZjRTa2kxT3QtWWswWURUVVBkYVhVLVd2TnpzQ0lVX3pnaw?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-27T20:57:00.000Z",
-      "summaryHint": "百度系今年拿下融资冠军，但芯片创业圈真正的主角是华为团 &nbsp;&nbsp; 36氪",
+      "publishedAt": "2026-10-27T17:34:00.000Z",
+      "summaryHint": "百奥几何完成1 亿美元A 轮系列融资，以自进化微观世界模型迈向生命科学超级智能｜星连被投动态 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "1亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-gymf5c",
+      "type": "funding",
+      "title": "2024美国企业AI举债创新高 巨额融资押注人工智能赛道 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HbEJPZUxhRHdDMXRucnVXN0NnZWFfd21MWE1yRWluY3hhNUZubnRLV0FjaTMyZlBpcUxHd2FiS1NFRWd0TmlCc3RBcnNBV0RVV2NJ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-27T13:41:00.000Z",
+      "summaryHint": "2024美国企业AI举债创新高 巨额融资押注人工智能赛道 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -109,67 +173,68 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-ng891",
-      "type": "funding",
-      "title": "元脸FacesMarket获千万级天使轮融资，搭建AIGC人脸人声授权信任基础设施 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wLWlvZXB5VnQwSG1TTzFtTWVQR2d2TnkwVE1Dd2lmdE1ma0Nxem5HZWtRTlFfMGxMempwTVN5YmdtcDZNUzF4LVJRbm9HZw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-27T18:19:00.000Z",
-      "summaryHint": "元脸FacesMarket获千万级天使轮融资，搭建AIGC人脸人声授权信任基础设施 &nbsp;&nbsp; 36氪",
+      "id": "rss-qbitai-yabzp0",
+      "type": "news",
+      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+      "url": "https://www.qbitai.com/2026/11/507038.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-01T13:09:55.000Z",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "天使轮"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-lupnag",
-      "type": "funding",
-      "title": "微纳核芯两个月内完成超20亿元融资，彰显市场对原创自研三维存算一体3D-CIM™架构的高度认可 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzeF9XbWxNNDRLcWswNVF0ZUJYcjJXWWdIS255WlM3eGFxMmhTdHhvVzUyRW9BZDRpXzI3QWl6VzVFVDU4LXludks1Nld0Zw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-27T10:00:00.000Z",
-      "summaryHint": "微纳核芯两个月内完成超20亿元融资，彰显市场对原创自研三维存算一体3D-CIM™架构的高度认可 &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "20亿元"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-8xfemo",
-      "type": "funding",
-      "title": "城堡投资Salame警示AI融资风险：浪潮之下“一些船会沉没”-36氪 - 36kr",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55SGxTS0FyM1FyNHRCZTRfdkxvdlBjTTM4SV8yTlZBZXJaZDFxbFgxLUZFWGxmcl91dzRxMGp6dlJrV21LUDZkZzVHV09ocnVsOWZqZUIxZXo?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-25T21:53:00.000Z",
-      "summaryHint": "城堡投资Salame警示AI融资风险：浪潮之下“一些船会沉没”-36氪 &nbsp;&nbsp; 36kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
+        "funding"
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-w5whex",
-      "type": "funding",
-      "title": "半年融资1500亿元， “技术理想主义者”梁文锋，被资本追着跑 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zUW0teEtJMDhrd0UxTVp0Zm9YdV9pQ1hoS094NkFNTzBuOTBXUmVyNl9VOXVTVFhIN292SW9CVVJDZlFZR0pEeDFsM0M3Zw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-25T08:45:00.000Z",
-      "summaryHint": "半年融资1500亿元， “技术理想主义者”梁文锋，被资本追着跑 &nbsp;&nbsp; 36Kr",
+      "id": "rss-qbitai-xfgpir",
+      "type": "news",
+      "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+      "url": "https://www.qbitai.com/2026/11/507031.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-01T08:02:37.000Z",
+      "summaryHint": "让AI像牛顿一样思考",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "1500亿元"
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-fv591s",
+      "type": "news",
+      "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+      "url": "https://www.qbitai.com/2026/11/506990.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-01T07:50:57.000Z",
+      "summaryHint": "这事还是想得太简单了",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-oee44n",
+      "type": "news",
+      "title": "Jev新成果，再次引爆开源",
+      "url": "https://www.qbitai.com/2026/11/506922.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-01T04:18:37.000Z",
+      "summaryHint": "再次“性价比屠夫”",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-udfoi",
+      "type": "news",
+      "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
+      "url": "https://www.qbitai.com/2026/10/506904.html",
+      "source": "qbitai",
+      "publishedAt": "2026-10-31T13:49:44.000Z",
+      "summaryHint": "AI已经自己找到Bug并提交PR",
+      "tags": [
+        "china",
+        "funding"
+      ]
     },
     {
       "id": "rss-qbitai-iet6ff",
@@ -237,78 +302,13 @@
       ]
     },
     {
-      "id": "rss-qbitai-mpzgvu",
+      "id": "rss-google_news_cn_36kr_deals-3vmz5a",
       "type": "news",
-      "title": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”",
-      "url": "https://www.qbitai.com/2026/10/506779.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-30T10:44:01.000Z",
-      "summaryHint": "10月30日，联想天禧AI 4.5迎来AIPC端正式发布。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-qicg1e",
-      "type": "news",
-      "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
-      "url": "https://www.qbitai.com/2026/10/506771.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-30T08:50:44.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-1fo021",
-      "type": "news",
-      "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
-      "url": "https://www.qbitai.com/2026/10/506743.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-30T07:31:11.000Z",
-      "summaryHint": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-wqrj2j",
-      "type": "news",
-      "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
-      "url": "https://www.qbitai.com/2026/10/506686.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-30T05:52:47.000Z",
-      "summaryHint": "解析一切",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-hbm2dt",
-      "type": "news",
-      "title": "AI初创企业的下半场：钱往哪里去？ - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxekhjdFJ2cjBPTDdNRGhlMjE4Wk03Z2VLZVNaWDk4MnpBTGFDbjBCRDFoNmVoYnBQREJxZ0F6cGZ5dHloNmZNY0I0SmUwUQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-29T17:00:00.000Z",
-      "summaryHint": "AI初创企业的下半场：钱往哪里去？ &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-evyctw",
-      "type": "news",
-      "title": "2024具身机器人行业发展趋势：寒冬已至 行业洗牌在即 - eu.36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BbnY2SFBVbVBXVXlPN3pKcUFkUFBrOEVMb21PclJrbzY5QWR6SDE1YzNQRWt1MUtPdnJWZjRRSFR3ZmktamdZX2w4cWdfUXFPeXlZ?oc=5",
+      "title": "具身机器人，凛冬将至-36氪 - 36kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJLWV3cnBkRWYyYXYyQWpucnlQV09JYXcxMDNBVmUyOWx4aEk1U05jZHNPalRHeG5OUzY5bmxnVk82aU5qZ3gyU2NTMEtTWmpK?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-10-29T12:36:00.000Z",
-      "summaryHint": "2024具身机器人行业发展趋势：寒冬已至 行业洗牌在即 &nbsp;&nbsp; eu.36kr.com",
+      "summaryHint": "具身机器人，凛冬将至-36氪 &nbsp;&nbsp; 36kr",
       "tags": [
         "china",
         "funding",
@@ -330,63 +330,73 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-th1w4l",
-      "type": "news",
-      "title": "“抢钱者”联盟：AI巨头开启资本大逃杀 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54UFNYbDNyX2gwMjJSX29VVF91R1lGb2l0aE5wcExIbHBqMFprenRUT05VNDNLZ2JaVDhUdDNFNHpxMktiU1dMeDNYX2dGQQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-26T19:16:00.000Z",
-      "summaryHint": "“抢钱者”联盟：AI巨头开启资本大逃杀 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "reddit-rss-j0ybbi",
+      "id": "reddit-rss-6polte",
       "type": "social_en",
-      "title": "I made a site to learn UE5 Blueprints in short lessons. Looking for honest feedback",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1xk8t8n/i_made_a_site_to_learn_ue5_blueprints_in_short/",
+      "title": "How would i make joystick movement be normalized to either full speed or none?",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1xl2x67/how_would_i_make_joystick_movement_be_normalized/",
       "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-10-31T12:21:28.000Z",
-      "summaryHint": "hey, solo indie dev here, I&#39;m also working on a UE5 horror game on the side. I&#39;ve been building learnblueprints.com, a site to learn Blueprints with short lessons, screenshots from the actual editor, a quiz after each lesson, and a ",
+      "publishedAt": "2026-11-01T13:21:26.000Z",
+      "summaryHint": "I tried doing that with &#39;Sign (float)&#39; but it prevents the full 360° movement and only allows diagonal directions &#32; submitted by &#32; /u/MyNameIsDjole [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-2xnrsu",
+      "id": "reddit-rss-22z9v8",
       "type": "social_en",
-      "title": "FAB Store unusable, where do people look for them now.",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1xk7zwr/fab_store_unusable_where_do_people_look_for_them/",
+      "title": "You said a handful of animations wasn't a real test. Here's UE5 Motion Matching with 900+",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1xl28zz/you_said_a_handful_of_animations_wasnt_a_real/",
       "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-10-31T11:39:17.000Z",
-      "summaryHint": "Just wondering where people look for assets these days, even just to browse. FAB has become the most unbearable and unusable storefronts. The amount of clearly AI generated assets marked as &quot;not generated&quot; with AI just means I mig",
+      "publishedAt": "2026-11-01T12:49:32.000Z",
+      "summaryHint": "Last time I showed Motion Matching, a lot of you said a handful of animations isn&#39;t a real test. Fair. So this time it&#39;s over 900. Unarmed, rifle, pistol and shotgun, from ALS, GASP and Lyra. Video: https://youtu.be/I6IL5NTGNIM Try ",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-spjbgg",
+      "id": "reddit-rss-7cver",
       "type": "social_en",
-      "title": "Anyone still using Luma 3D?",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xk7ykm/anyone_still_using_luma_3d/",
+      "title": "Help understanding simulated physic bodies for a soccer goal net",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1xl2078/help_understanding_simulated_physic_bodies_for_a/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-11-01T12:37:01.000Z",
+      "summaryHint": "I am trying to a soccer goal net similar to this video: https://www.youtube.com/watch?v=ri2gSJ2McVA&amp;t=5s For testing purposes I am using a single plane and have rigged up a simple armature in Blender. The border vertices are assigned to",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-4fvmh9",
+      "type": "social_en",
+      "title": "Inventory_X v1.3: runtime fragment lifecycle, derived tags, configurable nesting depth and more reliable multiplayer",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1xkxq74/inventory_x_v13_runtime_fragment_lifecycle/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-11-01T08:18:48.000Z",
+      "summaryHint": "Hi everyone! Inventory_X v1.3 has been submitted to FAB and is currently under review. For anyone new to it: Inventory_X (📽️ info ) is a modular, UI-agnostic inventory framework for Unreal Engine with full C++ and Blueprint support. It inc",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-daulgl",
+      "type": "social_en",
+      "title": "Bumblebee beetle (Eulasia Pulchra) - Ultra Detail",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xkjrf2/bumblebee_beetle_eulasia_pulchra_ultra_detail/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-31T11:37:05.000Z",
-      "summaryHint": "How much time is taking for you to load? I uploaded some 2 weeks ago and they were ready under hours, but know they are stuck on queue and they have been for 2 days. I know its discontinued so it may take some time buf it anyone is still us",
+      "publishedAt": "2026-10-31T19:56:25.000Z",
+      "summaryHint": "This crazy looking specimen is a bumblebee beetle (Eulasia Pulchra) - Captured and processed with Lamina. Interactive 3D - https://superspl.at/scene/b301171c &#32; submitted by &#32; /u/macroscan [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-9v8nea",
+      "id": "reddit-rss-e8amms",
       "type": "social_en",
-      "title": "How to set media plate to replace a USD imported camera screen?",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1xk5k6x/how_to_set_media_plate_to_replace_a_usd_imported/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-10-31T09:15:01.000Z",
-      "summaryHint": "Hi, I imported a USD file that contains a camera solve from Syntheyes, some reference geometry. I used the USD stager to import each mesh separately. So in UE I see those separate objects. Well, the camera and camera screen are shown in UE ",
+      "title": "I made a beginner-friendly tool that turns a video into a Gaussian Splat scene in your browser",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xkeozw/i_made_a_beginnerfriendly_tool_that_turns_a_video/",
+      "source": "reddit_r_GaussianSplatting",
+      "publishedAt": "2026-10-31T16:32:05.000Z",
+      "summaryHint": "I’ve been fascinated by Gaussian splatting for a while, but getting from “I filmed this thing” to a result I could actually look around felt pretty confusing. So I built a tool to make that first attempt easier. You give it a video, choose ",
       "tags": [
         "ai_social"
       ]
@@ -399,30 +409,6 @@
       "source": "reddit_r_GaussianSplatting",
       "publishedAt": "2026-10-31T00:37:56.000Z",
       "summaryHint": "Left is the original video of an excavated pipe area; right is the Gaussian splat generated from that footage using our software, AEC Platform. We’re exploring how this could help document exposed utilities before they’re covered, giving te",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-djw7j",
-      "type": "social_en",
-      "title": "MAJOR UPDATE: Dinovi now works on non-LiDAR iPhones. 100% FREE AND LOCAL processing, NO UPLOAD (TestFlight OPEN)",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xjq52h/major_update_dinovi_now_works_on_nonlidar_iphones/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-30T20:15:54.000Z",
-      "summaryHint": "Hi everyone, https://preview.redd.it/tnmvn3mrwnyh1.png?width=2400&amp;format=png&amp;auto=webp&amp;s=a486b1bd4311601c0b8d1c5d8ba1f71cbfa0f9a8 Dinovi (previous post) is still in TestFlight, but this update was too big not to share, i&#39;m w",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-bctnrv",
-      "type": "social_en",
-      "title": "I built a real-time vehicle damage plugin for UE5: dents, scraped paint, doors that tear off, shattering glass and dirt, all replicated in multiplayer",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1xjhp5j/i_built_a_realtime_vehicle_damage_plugin_for_ue5/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-10-30T15:00:32.000Z",
-      "summaryHint": "Hey everyone! I&#39;ve been working on Crushform, a vehicle damage plugin for Unreal Engine 5, and wanted to share it before it goes live on Fab. It started as the damage system for my own game and grew into a standalone plugin. How it work",
       "tags": [
         "ai_social"
       ]
