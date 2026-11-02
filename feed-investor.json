@@ -1,12 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T13:28:43.872Z",
+  "updatedAt": "2026-11-02T15:58:42.130Z",
   "items": [
     {
-      "id": "rss-google_news_cn_36kr_deals-wudjoh",
+      "id": "rss-google_news_cn_36kr_deals-9ozmi3",
+      "type": "funding",
+      "title": "融资1055亿，DeepSeek扩列AI硬件朋友圈：生态第一，模型第二 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwOXlOU3dIdkJIRm9iLWREblc4OFJYeHpaeEd1X1RuZmd5TnlNalc2a0xCc2JhUGJDN2ZBSjdoQ2hGb2FpRlZXSEFZaGRnQQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-01T08:32:00.000Z",
+      "summaryHint": "融资1055亿，DeepSeek扩列AI硬件朋友圈：生态第一，模型第二 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "1055亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-t8jt3u",
       "type": "funding",
       "title": "AI“烧钱叙事”遇冷？OpenAI融资目标砍掉100亿！ - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WRS1wYmItTFg5YVpOZjJvZXEweUttQUNFTnd5SW4xNzZTb3huUWpDdUJSTlNQMzRVbi1CSGRkZU1OejdSS2lENjYzdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sNFRmOVgyYWU3bVhHa1ZxbDBYZGVHVmo4SkR0YS1TZFpsazZXWjhlWXN4WFpNalJLWUt1dE9oVW5nMmNZV2FteURxV1llZw?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-10-31T14:01:00.000Z",
       "summaryHint": "AI“烧钱叙事”遇冷？OpenAI融资目标砍掉100亿！ &nbsp;&nbsp; 36Kr",
@@ -17,21 +33,6 @@
         "deal_signal"
       ],
       "amount": "100亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-5w22y3",
-      "type": "funding",
-      "title": "首次融资数千万美元，文远知行子公司景烁科技加速构建物理AI底座-36氪 - www.36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hNG1hNWZUZERyOUJrUGV1YUtUMEtnX1ZmR05rUzhFV2d5Z1IyZWNQcVlRRGpMYTE1QmJjamF6UlBJR1gxcDBGdER4UVI4NEpO?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-30T04:07:29.000Z",
-      "summaryHint": "首次融资数千万美元，文远知行子公司景烁科技加速构建物理AI底座-36氪 &nbsp;&nbsp; www.36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-367gal",
@@ -71,6 +72,21 @@
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-10-29T13:09:00.000Z",
       "summaryHint": "贝森特“安抚华尔街”：美债没问题，AI融资没问题，美联储再加息也没问题 &nbsp;&nbsp; 36氪",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-tjqjb6",
+      "type": "funding",
+      "title": "首次融资数千万美元，文远知行子公司景烁科技加速构建物理AI底座 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qa1dXYmg3OXlsZnZ6cnhTeHg5OWFuWXB2UG4yU3NDXzNmSmk1Q3gtdTQ1U0hXSlNMU0ZaXzFrYXpWcklYM1pHZ0gxU1h1UQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-10-29T13:05:00.000Z",
+      "summaryHint": "首次融资数千万美元，文远知行子公司景烁科技加速构建物理AI底座 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
@@ -127,37 +143,6 @@
       "amount": "10亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-bgv4fj",
-      "type": "funding",
-      "title": "羚数智能连续完成A1、A2轮数千万融资，浦东创投、张江科投、锡创投参与投资，高速增长背后，羚数正在打开工业AI的另一种商业空间 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvZWtEWDltV21ORlUzUzlzV0s5MzNBelRWb0x6RkxfVnNFOWJyRWZTNFpvRUJaWGdSV3Q3alFjUzBGTWpwWnk0aGgydXFQUmRs?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-28T07:20:05.000Z",
-      "summaryHint": "羚数智能连续完成A1、A2轮数千万融资，浦东创投、张江科投、锡创投参与投资，高速增长背后，羚数正在打开工业AI的另一种商业空间 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-fy8753",
-      "type": "funding",
-      "title": "百奥几何完成1 亿美元A 轮系列融资，以自进化微观世界模型迈向生命科学超级智能｜星连被投动态 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UZ3llUWZwRGlQS1p1elpKZnkxakRESGljZV9ZZ1dSMDdxZjRTa2kxT3QtWWswWURUVVBkYVhVLVd2TnpzQ0lVX3pnaw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-27T17:34:00.000Z",
-      "summaryHint": "百奥几何完成1 亿美元A 轮系列融资，以自进化微观世界模型迈向生命科学超级智能｜星连被投动态 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "1亿"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-gymf5c",
       "type": "funding",
       "title": "2024美国企业AI举债创新高 巨额融资押注人工智能赛道 - 36Kr",
@@ -173,6 +158,97 @@
       ]
     },
     {
+      "id": "rss-qbitai-akcey7",
+      "type": "news",
+      "title": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
+      "url": "https://www.qbitai.com/2026/11/507277.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-02T13:36:41.000Z",
+      "summaryHint": "商汤SenseNova 6.8 Flash",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-7fd817",
+      "type": "news",
+      "title": "从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信",
+      "url": "https://www.qbitai.com/2026/11/507260.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-02T07:47:38.000Z",
+      "summaryHint": "上海仪电与上海创智学院联合发布“飞轮转・万象生”仪电智算数链生态。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-79dt0s",
+      "type": "news",
+      "title": "OpenAI重写大模型法则，第一条：忠于人类！！",
+      "url": "https://www.qbitai.com/2026/11/507225.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-02T07:27:54.000Z",
+      "summaryHint": "新版“机器人三定律”。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-k3q2np",
+      "type": "news",
+      "title": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
+      "url": "https://www.qbitai.com/2026/11/507150.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-02T06:28:07.000Z",
+      "summaryHint": "模型管线双驱动",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-l262a1",
+      "type": "news",
+      "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
+      "url": "https://www.qbitai.com/2026/11/507107.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-02T06:08:04.000Z",
+      "summaryHint": "能指挥Agent干活，还能控制智能家居",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-yrqcx5",
+      "type": "news",
+      "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
+      "url": "https://www.qbitai.com/2026/11/507082.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-02T04:28:53.000Z",
+      "summaryHint": "HuggingFace疑似泄露权重已被下5000次",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-nh5weq",
+      "type": "news",
+      "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+      "url": "https://www.qbitai.com/2026/11/507076.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-01T13:28:10.000Z",
+      "summaryHint": "西湖世界模型研究中心成立",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
       "id": "rss-qbitai-yabzp0",
       "type": "news",
       "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
@@ -182,6 +258,34 @@
       "tags": [
         "china",
         "funding"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-8dyfvv",
+      "type": "news",
+      "title": "在座各位AI，都是“垃圾” - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNWk5udHBrYnd3RU5IU3JGMkxsak4wSEMzSEZYT2dEcVdpN296TDBFV1RPbXAtVnA4aExzT1FvdTJtbkdyMHpYb0U5QnFsQQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-01T12:17:00.000Z",
+      "summaryHint": "在座各位AI，都是“垃圾” &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-pnzxqs",
+      "type": "news",
+      "title": "一张GPU背后的多层交易，牵动科技股的敏感神经-36氪 - 36kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XR29jYm9qRTB1cHpuYTUwTW1XMmpxSjFvOS1CQThxTmZ4ZjB5d1ZabkZtaUpXd3dvZU0yNTlyZHBNek9ES3dKd3hnZ3MtLTVU?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-01T08:26:00.000Z",
+      "summaryHint": "一张GPU背后的多层交易，牵动科技股的敏感神经-36氪 &nbsp;&nbsp; 36kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
       ]
     },
     {
@@ -205,97 +309,6 @@
       "source": "qbitai",
       "publishedAt": "2026-11-01T07:50:57.000Z",
       "summaryHint": "这事还是想得太简单了",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-oee44n",
-      "type": "news",
-      "title": "Jev新成果，再次引爆开源",
-      "url": "https://www.qbitai.com/2026/11/506922.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-01T04:18:37.000Z",
-      "summaryHint": "再次“性价比屠夫”",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-udfoi",
-      "type": "news",
-      "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
-      "url": "https://www.qbitai.com/2026/10/506904.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-31T13:49:44.000Z",
-      "summaryHint": "AI已经自己找到Bug并提交PR",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-iet6ff",
-      "type": "news",
-      "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
-      "url": "https://www.qbitai.com/2026/10/506884.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-31T05:17:50.000Z",
-      "summaryHint": "苹果“牛奶倒河里”式操作翻红",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-9zw589",
-      "type": "news",
-      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
-      "url": "https://www.qbitai.com/2026/10/506866.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-31T05:11:19.000Z",
-      "summaryHint": "AI算力利用“九九成”",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-p5c1uh",
-      "type": "news",
-      "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
-      "url": "https://www.qbitai.com/2026/10/506855.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-31T05:05:29.000Z",
-      "summaryHint": "200美元Ultra用户先用",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-axmn6p",
-      "type": "news",
-      "title": "榜一，拿来吧你！智元这波双模型杀穿多榜榜单",
-      "url": "https://www.qbitai.com/2026/10/506819.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-30T12:58:31.000Z",
-      "summaryHint": "xs，还要给机器人打绩效",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-9xro8l",
-      "type": "news",
-      "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
-      "url": "https://www.qbitai.com/2026/10/506785.html",
-      "source": "qbitai",
-      "publishedAt": "2026-10-30T11:05:06.000Z",
-      "summaryHint": "之前还连登昇腾三榜第一",
       "tags": [
         "china",
         "funding"
@@ -330,85 +343,85 @@
       ]
     },
     {
-      "id": "reddit-rss-6polte",
+      "id": "reddit-rss-a1o7u9",
       "type": "social_en",
-      "title": "How would i make joystick movement be normalized to either full speed or none?",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1xl2x67/how_would_i_make_joystick_movement_be_normalized/",
+      "title": "I made 15 stylized crafting stations with 3 upgrade levels for Unreal Engine! ⚒️",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1xlzrx3/i_made_15_stylized_crafting_stations_with_3/",
       "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-11-01T13:21:26.000Z",
-      "summaryHint": "I tried doing that with &#39;Sign (float)&#39; but it prevents the full 360° movement and only allows diagonal directions &#32; submitted by &#32; /u/MyNameIsDjole [link] &#32; [comments]",
+      "publishedAt": "2026-11-02T15:11:47.000Z",
+      "summaryHint": "Hey everyone! Wanted to share our latest set of stylized crafting stations! We made 15 different stations, each with 3 upgrade levels and 3 color variations. The idea was to make something useful for crafting and progression systems, where ",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-22z9v8",
+      "id": "reddit-rss-j2ihm5",
       "type": "social_en",
-      "title": "You said a handful of animations wasn't a real test. Here's UE5 Motion Matching with 900+",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1xl28zz/you_said_a_handful_of_animations_wasnt_a_real/",
+      "title": "Unreal Engine 5.8 Chaos Flesh and Soft Body Physics: Part 3 - Kinematic Constraints | Beginners Tutorial",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1xlzqh1/unreal_engine_58_chaos_flesh_and_soft_body/",
       "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-11-01T12:49:32.000Z",
-      "summaryHint": "Last time I showed Motion Matching, a lot of you said a handful of animations isn&#39;t a real test. Fair. So this time it&#39;s over 900. Unarmed, rifle, pistol and shotgun, from ALS, GASP and Lyra. Video: https://youtu.be/I6IL5NTGNIM Try ",
+      "publishedAt": "2026-11-02T15:10:18.000Z",
+      "summaryHint": "In this video, we&#39;ll be covering how to add Kinematic Constraints to your Flesh Asset which tells the Deformable Solver which parts of your Flesh Asset you don&#39;t want to simulate. &#32; submitted by &#32; /u/CrawfordTerraceStdio [li",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-7cver",
+      "id": "reddit-rss-l00emk",
       "type": "social_en",
-      "title": "Help understanding simulated physic bodies for a soccer goal net",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1xl2078/help_understanding_simulated_physic_bodies_for_a/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-11-01T12:37:01.000Z",
-      "summaryHint": "I am trying to a soccer goal net similar to this video: https://www.youtube.com/watch?v=ri2gSJ2McVA&amp;t=5s For testing purposes I am using a single plane and have rigged up a simple armature in Blender. The border vertices are assigned to",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-4fvmh9",
-      "type": "social_en",
-      "title": "Inventory_X v1.3: runtime fragment lifecycle, derived tags, configurable nesting depth and more reliable multiplayer",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1xkxq74/inventory_x_v13_runtime_fragment_lifecycle/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-11-01T08:18:48.000Z",
-      "summaryHint": "Hi everyone! Inventory_X v1.3 has been submitted to FAB and is currently under review. For anyone new to it: Inventory_X (📽️ info ) is a modular, UI-agnostic inventory framework for Unreal Engine with full C++ and Blueprint support. It inc",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-daulgl",
-      "type": "social_en",
-      "title": "Bumblebee beetle (Eulasia Pulchra) - Ultra Detail",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xkjrf2/bumblebee_beetle_eulasia_pulchra_ultra_detail/",
+      "title": "Turning a gaussian splat scene into 2M physics particles that burn, pour and shatter (WebGPU, runs in the browser)",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xlyzme/turning_a_gaussian_splat_scene_into_2m_physics/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-31T19:56:25.000Z",
-      "summaryHint": "This crazy looking specimen is a bumblebee beetle (Eulasia Pulchra) - Captured and processed with Lamina. Interactive 3D - https://superspl.at/scene/b301171c &#32; submitted by &#32; /u/macroscan [link] &#32; [comments]",
+      "publishedAt": "2026-11-02T14:41:40.000Z",
+      "summaryHint": "Live demo (needs a WebGPU browser): https://engine-iam7nszj6-playcanvas.vercel.app/#/gaussian-splatting/particle-blast Controls: LMB look, RMB blast, WASD/QE move, wheel for brush size, hold Space for a gravity well. Twelve presets: some ru",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-e8amms",
+      "id": "reddit-rss-hfld2w",
       "type": "social_en",
-      "title": "I made a beginner-friendly tool that turns a video into a Gaussian Splat scene in your browser",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xkeozw/i_made_a_beginnerfriendly_tool_that_turns_a_video/",
+      "title": "Gaussian Splat + GLSL mirror of my bathroom",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xlw4k2/gaussian_splat_glsl_mirror_of_my_bathroom/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-31T16:32:05.000Z",
-      "summaryHint": "I’ve been fascinated by Gaussian splatting for a while, but getting from “I filmed this thing” to a result I could actually look around felt pretty confusing. So I built a tool to make that first attempt easier. You give it a video, choose ",
+      "publishedAt": "2026-11-02T12:41:27.000Z",
+      "summaryHint": "GS generated with Echo-3 by spAItial, rendered in playcanvas viewer, with custom GLSL mirror. &#32; submitted by &#32; /u/_chunrapeepat [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-2zcsl6",
+      "id": "reddit-rss-iqn033",
       "type": "social_en",
-      "title": "Excavated pipe area: original video vs. Gaussian splat",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xjwbxd/excavated_pipe_area_original_video_vs_gaussian/",
+      "title": "3d model: Concert arena stadium with animated crowd fans.",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1xlumqb/3d_model_concert_arena_stadium_with_animated/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-11-02T11:24:13.000Z",
+      "summaryHint": "Hi, I&#39;m going to share my updated UE stadium setup with the VAT + HISM crowd. Created for 3d Marketplaces. Would be glad for any suggestions on how to make it better. &#32; submitted by &#32; /u/Final_Procedure_4661 [link] &#32; [commen",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-dr9ngt",
+      "type": "social_en",
+      "title": "Last Week in Unreal: 1,506 commits on ue6-main, 277 on ue5-main | Legacy ray tracing goes opt-in",
+      "url": "https://www.reddit.com/r/unrealengine/comments/1xlsx78/last_week_in_unreal_1506_commits_on_ue6main_277/",
+      "source": "reddit_r_unrealengine",
+      "publishedAt": "2026-11-02T09:42:16.000Z",
+      "summaryHint": "Looks like Sweeney wasn&#39;t kidding when he said he&#39;s pushing AI aggressively at Epic. This is like the 6th consecutive busy week, with the last one clocking 1500+ commits on ue6-main alone. ue5-main also doubled to 277 commits, thoug",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-z3n44b",
+      "type": "social_en",
+      "title": "Gaussian Splatting from Street View",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xl4zlg/gaussian_splatting_from_street_view/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-10-31T00:37:56.000Z",
-      "summaryHint": "Left is the original video of an excavated pipe area; right is the Gaussian splat generated from that footage using our software, AEC Platform. We’re exploring how this could help document exposed utilities before they’re covered, giving te",
+      "publishedAt": "2026-11-01T14:52:06.000Z",
+      "summaryHint": "Hey Friends, I am currently working on a system, which lets you mark streets anywhere in the world and it will source all available street view panoramas, match them, mask them with sam3 and generate normal and depth maps to build large are",
       "tags": [
         "ai_social"
       ]
