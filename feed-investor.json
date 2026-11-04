@@ -1,7 +1,104 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T14:19:27.973Z",
+  "updatedAt": "2026-11-04T14:36:10.067Z",
   "items": [
+    {
+      "id": "rss-google_news_cn_36kr_deals-sacyeh",
+      "type": "funding",
+      "title": "6个月完成3轮融资，震业新材获国元数千万元A++投资｜36氪首发 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VSmFnR2NKallZZ3JYV0VueFRRcmIwM2UyZEMtRjJaSUFkRGxDbVN2eGJpOEQ2MEtxZV9UMHpLOXJpSkFPM2lFUURlUXJNQ3h1?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-03T14:25:00.000Z",
+      "summaryHint": "6个月完成3轮融资，震业新材获国元数千万元A++投资｜36氪首发 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-wjpdn",
+      "type": "funding",
+      "title": "阿波罗全球管理大举布局AI融资热潮，放贷创历史新高-36氪 - 36kr",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96RzRTMGcyQjhIMmpnTWRVZGVEYWp1S0xVNUJzcHBjUHUzY2w1U1VwTHJKT25pYVdjSjRnOVN0elBjR1BPeFJienhSbWR2ck5fV3VRS1psSDY1SG1ocVE?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-03T12:12:21.000Z",
+      "summaryHint": "阿波罗全球管理大举布局AI融资热潮，放贷创历史新高-36氪 &nbsp;&nbsp; 36kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-u8nmyg",
+      "type": "funding",
+      "title": "“凌川科技”完成10亿元B轮融资 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52MW1GdHkxSUFRM0phal83T3BQMlpEanBJZ3lhbU1MQ0Z3QjVrYnZmUGstNTNHY1BabEY0cFFYVlJGbGw5WWlSZ1doZE1fdUtZRWVZVEdWYno?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-03T10:14:00.000Z",
+      "summaryHint": "“凌川科技”完成10亿元B轮融资 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "B轮融资",
+      "amount": "10亿元"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-i9wp4e",
+      "type": "funding",
+      "title": "硬氪首发丨快手系AI芯片公司凌川科技完成10亿元B轮融资，3D芯片已回片，明年规模出货 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02SmdFM3lIMmVLYnlFNkdTSmp1alk0LWxKUXJVb1BxdjU1S2JUNkVrNGJMZGUxTDhFenVXVkNDNVY1MEwyRTR6dzhuQ3ZBdw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-03T09:33:00.000Z",
+      "summaryHint": "硬氪首发丨快手系AI芯片公司凌川科技完成10亿元B轮融资，3D芯片已回片，明年规模出货 &nbsp;&nbsp; 36氪",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "B轮融资",
+      "amount": "10亿元"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-x9g8zc",
+      "type": "funding",
+      "title": "赛尔智控完成近亿元天使轮融资 助力影像行业从二维记录迈向三维智能表达 - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1haG9rTV83bW1ibWtIZXJJcm94MW9udFJpUWJiNENTTi1PMU0wX194cW1PT0E3QV84dDZXRTNtZWFWTTdLNEduajZwSVVMTDNsa3lz?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-03T09:15:00.000Z",
+      "summaryHint": "赛尔智控完成近亿元天使轮融资 助力影像行业从二维记录迈向三维智能表达 &nbsp;&nbsp; eu.36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "天使轮"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-vsr3fl",
+      "type": "funding",
+      "title": "用“DNA活字印刷术”给AI造生物数据，「涌源合生」获5000万天使轮融资｜36氪首发 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nSEk2Vm9PdGVFSks5ZWVqX0ZpNFo2U3RIeDdRbEtjd2NyeThtUTAyckRDaXRqb3VLZ1d3VkFTemVCS0Q3SkdWS1RUOGxQdw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-03T09:00:00.000Z",
+      "summaryHint": "用“DNA活字印刷术”给AI造生物数据，「涌源合生」获5000万天使轮融资｜36氪首发 &nbsp;&nbsp; 36氪",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "天使轮",
+      "amount": "5000万"
+    },
     {
       "id": "rss-google_news_cn_36kr_deals-i3p6d7",
       "type": "funding",
@@ -34,39 +131,6 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-ujyyci",
-      "type": "funding",
-      "title": "来自杭州，一家脑机接口公司融资10亿 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2NUs2ZEdROGRyNG03Nnlsc3AzdVd1bW45MVRHeE1BSlQzV1NWSjFCUWlBRTBBZkhHd2xFUEJJdEFUanFrVzJHd2ZGT2V4Zw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-02T10:37:00.000Z",
-      "summaryHint": "来自杭州，一家脑机接口公司融资10亿 &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "10亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-e13bo2",
-      "type": "funding",
-      "title": "暖芯迦完成5亿元C+轮融资，跑出视觉脑机接口的中国速度 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oUlhtUmZjSm9FdFFZYzNVNGY3TktaMm5PVWg0RU53VHJqdmFDQktkMzVXbmotbHNIY3RndEpxcXY3bXhJVXVfTVVhT3UxRnot?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-02T09:00:00.000Z",
-      "summaryHint": "暖芯迦完成5亿元C+轮融资，跑出视觉脑机接口的中国速度 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "C+轮融资",
-      "amount": "5亿元"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-isrz46",
       "type": "funding",
       "title": "哈塞特反驳AI融资担忧，称该行业不存在被全面抛售的风险 - 36Kr",
@@ -84,11 +148,11 @@
     {
       "id": "rss-google_news_cn_36kr_deals-9ozmi3",
       "type": "funding",
-      "title": "融资1055亿，DeepSeek扩列AI硬件朋友圈：生态第一，模型第二 - 36Kr",
+      "title": "融资1055亿，DeepSeek扩列AI硬件朋友圈：生态第一，模型第二 - 36氪",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwOXlOU3dIdkJIRm9iLWREblc4OFJYeHpaeEd1X1RuZmd5TnlNalc2a0xCc2JhUGJDN2ZBSjdoQ2hGb2FpRlZXSEFZaGRnQQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-11-01T08:32:00.000Z",
-      "summaryHint": "融资1055亿，DeepSeek扩列AI硬件朋友圈：生态第一，模型第二 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "融资1055亿，DeepSeek扩列AI硬件朋友圈：生态第一，模型第二 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
@@ -114,36 +178,70 @@
       "amount": "100亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-1oyzla",
-      "type": "funding",
-      "title": "贝森特“安抚华尔街”：美债没问题，AI融资没问题，美联储再加息也没问题 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZOEFDNWlITHRMX2JRUUgxbFJWWUUxZXdMcmFTNXR5RHhDc1E3c3puMlQ5S05qTTEwNGRrMzYxVTd0c1pRbGI3VkRpZFg4dw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-29T13:09:00.000Z",
-      "summaryHint": "贝森特“安抚华尔街”：美债没问题，AI融资没问题，美联储再加息也没问题 &nbsp;&nbsp; 36氪",
+      "id": "rss-qbitai-utnlzm",
+      "type": "news",
+      "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+      "url": "https://www.qbitai.com/2026/11/507586.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-04T10:08:38.000Z",
+      "summaryHint": "仅激活3B参数，十项基准全线提升！",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
+        "funding"
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-kzk6yw",
-      "type": "funding",
-      "title": "获10亿美元A轮融资，Flapping Airplanes要破解AI的“数据饥渴” - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qN0ktOHQ4MjBtSjFjTWY4bkR5MW1rbHFRcmdyTEd3VW5QSHFIV2liXzdiSFdqVHZiaTFNbGMtNkU2VWJsUC1pYzAwdGRiT004?oc=5",
+      "id": "rss-qbitai-okywz3",
+      "type": "news",
+      "title": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
+      "url": "https://www.qbitai.com/2026/11/507574.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-04T08:59:57.000Z",
+      "summaryHint": "一场别开生面的具身智能科技盛宴",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-bbphxn",
+      "type": "news",
+      "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
+      "url": "https://www.qbitai.com/2026/11/507567.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-04T08:49:12.000Z",
+      "summaryHint": "11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-ii4dju",
+      "type": "news",
+      "title": "曾毓群，重仓梁文锋 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vNllRbHhBWEQtWmNJSWJNTFFZYTFYX2t1bUxvQWszUW1ib0VzWWFrbTZ2clI3YUpBeHV5TF84UnRab3UzOHF4UjhhVkMzQ3Jp?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-28T20:09:00.000Z",
-      "summaryHint": "获10亿美元A轮融资，Flapping Airplanes要破解AI的“数据饥渴” &nbsp;&nbsp; 36Kr",
+      "publishedAt": "2026-11-04T07:58:33.000Z",
+      "summaryHint": "曾毓群，重仓梁文锋 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "A轮融资",
-      "amount": "10亿"
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-qbitai-ylnub8",
+      "type": "news",
+      "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+      "url": "https://www.qbitai.com/2026/11/507533.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-04T02:49:02.000Z",
+      "summaryHint": "长视频记忆精度飙升，问答时延最高降97%",
+      "tags": [
+        "china",
+        "funding"
+      ]
     },
     {
       "id": "rss-qbitai-5pk5ff",
@@ -182,6 +280,20 @@
       "tags": [
         "china",
         "funding"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-2xbxj6",
+      "type": "news",
+      "title": "2024物理AI行业发展趋势解析：市场持续升温还是进入退烧调整期？ - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GTG5nMDlKN3RyYTIwYkd4Zkt4Z3M0UzFiMWJ2c2hPMXBaTTg3SUt2el9Helo3OHY3UVNCMFRUcDB2Q29Ka2hoWTI3SkFNSGo3VkZR?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-03T09:53:00.000Z",
+      "summaryHint": "2024物理AI行业发展趋势解析：市场持续升温还是进入退烧调整期？ &nbsp;&nbsp; eu.36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
       ]
     },
     {
@@ -224,72 +336,6 @@
       ]
     },
     {
-      "id": "rss-qbitai-2re7wv",
-      "type": "news",
-      "title": "小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”",
-      "url": "https://www.qbitai.com/2026/11/507396.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-03T05:16:35.000Z",
-      "summaryHint": "11月3日，小米方面披露，小米集团获得2026世界互联网大会“杰出贡献奖”创新突破类奖项",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-jbyzpo",
-      "type": "news",
-      "title": "A社紧急修改招股书！RSI我们快要控制不住了",
-      "url": "https://www.qbitai.com/2026/11/507382.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-03T03:41:06.000Z",
-      "summaryHint": "单季狂揽1130亿人民币，但...",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-opklsd",
-      "type": "news",
-      "title": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义",
-      "url": "https://www.qbitai.com/2026/11/507367.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-03T03:16:23.000Z",
-      "summaryHint": "GPU迭代一百次的事，它一步做完",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-idj03c",
-      "type": "news",
-      "title": "B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相",
-      "url": "https://www.qbitai.com/2026/11/507339.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-03T02:02:05.000Z",
-      "summaryHint": "10月31日，2026年bilibili超级科学晚（以下简称“B站科学晚”）在北京如期举行。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-ik5sp7",
-      "type": "news",
-      "title": "穿上清华、斯坦福卫衣，离融到钱还有多远？ - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zNzJOWm14ZnY0RWlVM3hwNnlCVWFxUlhqU0RaS3N1UVNhTld2MDRPbGR0Z1o0V25rS3FiWkxpak4tUjg1M3ZBS1dSMVFZdw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-02T19:07:00.000Z",
-      "summaryHint": "穿上清华、斯坦福卫衣，离融到钱还有多远？ &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-th8e8a",
       "type": "news",
       "title": "装企靠信息差层层加价：喜云 AI 用 AI 把家装主动权交回业主-36氪 - 36kr.com",
@@ -318,115 +364,109 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-pnzxqs",
-      "type": "news",
-      "title": "一张GPU背后的多层交易，牵动科技股的敏感神经-36氪 - 36kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XR29jYm9qRTB1cHpuYTUwTW1XMmpxSjFvOS1CQThxTmZ4ZjB5d1ZabkZtaUpXd3dvZU0yNTlyZHBNek9ES3dKd3hnZ3MtLTVU?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-02T00:31:12.000Z",
-      "summaryHint": "一张GPU背后的多层交易，牵动科技股的敏感神经-36氪 &nbsp;&nbsp; 36kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-8dyfvv",
-      "type": "news",
-      "title": "在座各位AI，都是“垃圾” - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNWk5udHBrYnd3RU5IU3JGMkxsak4wSEMzSEZYT2dEcVdpN296TDBFV1RPbXAtVnA4aExzT1FvdTJtbkdyMHpYb0U5QnFsQQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-01T12:17:00.000Z",
-      "summaryHint": "在座各位AI，都是“垃圾” &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-v1r9zs",
-      "type": "news",
-      "title": "资本抢投、大厂押注，AI眼镜最大赢家是售价50的华强北？ - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9VX2NIdjVqazZBeldlSDdGaElDUmJOQVViSENxV3pNVHVFRm9WZ01tSGV0eXhwVEhMZFZ6NnFoY1pGRE5ZYVNBQl81UGhqUQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-10-29T09:29:00.000Z",
-      "summaryHint": "资本抢投、大厂押注，AI眼镜最大赢家是售价50的华强北？ &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "reddit-rss-wlefbf",
+      "id": "reddit-rss-kfsf2x",
       "type": "social_en",
-      "title": "Gaussian-Splat-Lite now supports LCC2 with smooth LOD transitions",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xmt5uw/gaussiansplatlite_now_supports_lcc2_with_smooth/",
+      "title": "Bloom Sketches - Oil painting demo",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1xnmzwk/bloom_sketches_oil_painting_demo/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-11-04T12:30:32.000Z",
+      "summaryHint": "Made with Bloom Sketches - Oil and watercolor painting app that I have been working on for some time. &#32; submitted by &#32; /u/uuxxaa [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-unj4oz",
+      "type": "social_en",
+      "title": "Gaussian splats without any capture: a lensed black hole and 373k Gaia stars, rendered live in the browser",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xnlnzh/gaussian_splats_without_any_capture_a_lensed/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-11-03T13:38:46.000Z",
-      "summaryHint": "I’ve added LCC2 streaming to Gaussian-Splat-Lite , my open-source 3D Gaussian Splatting renderer for Three.js. LOD levels crossfade smoothly as the camera moves. Supported on both WebGPU and WebGL2. GSL now supports most of LOD streaming fo",
+      "publishedAt": "2026-11-04T11:17:55.000Z",
+      "summaryHint": "Splats are usually trained from photos, but they also work well as a plain rendering primitive. Two experiments in PlayCanvas (WebGPU): Black hole: the lensing is done by splatting, not ray tracing. Each piece of gas is drawn once for each ",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-ljvh25",
+      "id": "reddit-rss-qa44og",
       "type": "social_en",
-      "title": "Blender 5.3 3DGS Render Engine with lenses and film stocks.",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xmt3r3/blender_53_3dgs_render_engine_with_lenses_and/",
+      "title": "SPIRULA STUDIO, anyone who can help how to work with XGRIDS developer data and additional photos from drone or handheld camera?",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xnlgqz/spirula_studio_anyone_who_can_help_how_to_work/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-11-03T13:36:12.000Z",
-      "summaryHint": "I&#39;ve been building a little render engine for Blender to make my renders of 3DGS scenes better. I just wasn&#39;t happy with the results from cycles. This is actually a hybrid of the Spirula render engine and cycles. https://github.com/",
+      "publishedAt": "2026-11-04T11:06:17.000Z",
+      "summaryHint": "This app is amazing but complex. Wonder if anyone managed to combine xgrids and additional footage. Specifically I&#39;m looking for 2 examples: Scenario 1: Using Xgrids just for the pointcloud and additional camera for textures. Scenario 2",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-5cfxjj",
+      "id": "reddit-rss-90myzd",
       "type": "social_en",
-      "title": "Sony Removes PSVR 2 From PlayStation’s Web Store as Stock Dries Up at Online Retailers",
-      "url": "https://www.reddit.com/r/virtualreality/comments/1xmqhge/sony_removes_psvr_2_from_playstations_web_store/",
-      "source": "reddit_r_virtualreality",
-      "publishedAt": "2026-11-03T11:27:02.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/Humble_Low721 [link] &#32; [comments]",
+      "title": "Is 3D on websites actually worth it, or is it mostly a gimmick?",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1xnl8f6/is_3d_on_websites_actually_worth_it_or_is_it/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-11-04T10:52:43.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/Janet_believer1998 [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-pi68xg",
+      "id": "reddit-rss-7exew3",
       "type": "social_en",
-      "title": "My current experience with the steam frame",
-      "url": "https://www.reddit.com/r/virtualreality/comments/1xma9fu/my_current_experience_with_the_steam_frame/",
-      "source": "reddit_r_virtualreality",
-      "publishedAt": "2026-11-02T21:34:44.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/A_Hyper_Nova [link] &#32; [comments]",
+      "title": "Introducing Hy4 (open weights soon)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnhzbz/introducing_hy4_open_weights_soon/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-11-04T07:23:10.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/heatOverflower [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-hfld2w",
+      "id": "reddit-rss-8qvzp4",
       "type": "social_en",
-      "title": "Gaussian Splat + GLSL mirror of my bathroom",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xlw4k2/gaussian_splat_glsl_mirror_of_my_bathroom/",
+      "title": "I turned my desktop into a head-tracked window onto a 3D world",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1xnay2g/i_turned_my_desktop_into_a_headtracked_window/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-11-04T01:10:54.000Z",
+      "summaryHint": "Built in Unity: your webcam tracks your head and shifts the scene’s perspective as you move. I’m building it as Holoscape wishlist on Steam . &#32; submitted by &#32; /u/Apart-Medium6539 [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-bd17m1",
+      "type": "social_en",
+      "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-11-03T21:05:30.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/notheresnolight [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-r5l7iv",
+      "type": "social_en",
+      "title": "We’re the product team at Reflection, the lab behind Beam — Ask Us Anything!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmwryg/were_the_product_team_at_reflection_the_lab/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-11-03T15:59:20.000Z",
+      "summaryHint": "https://preview.redd.it/aia08e347fzh1.png?width=1852&amp;format=png&amp;auto=webp&amp;s=938615677062e82e35d8788a43ea9e98cd1277bc Hi r/LocalLLaMA 👋 We&#39;re the product team at Reflection. Earlier this month, we launched Beam , our first o",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-rjcmtp",
+      "type": "social_en",
+      "title": "I accidentally invented teleportation in my room",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xmw5df/i_accidentally_invented_teleportation_in_my_room/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-11-02T12:41:27.000Z",
-      "summaryHint": "GS generated with Echo-3 by spAItial, rendered in playcanvas viewer, with custom GLSL mirror. &#32; submitted by &#32; /u/_chunrapeepat [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-5vkg7d",
-      "type": "social_en",
-      "title": "Weekly VR - What Did you Play?",
-      "url": "https://www.reddit.com/r/virtualreality/comments/1xjmkln/weekly_vr_what_did_you_play/",
-      "source": "reddit_r_virtualreality",
-      "publishedAt": "2026-10-30T18:00:44.000Z",
-      "summaryHint": "Hey r/virtualreality ! Another week in the VR space. Did a certain game or experience stand out to you? This is your spot to chat, share, and discover. When sharing, you might consider sharing: Name of the game or experience. A brief insigh",
+      "publishedAt": "2026-11-03T15:35:22.000Z",
+      "summaryHint": "while experimenting with levels for mr game and pushing the boundaries, I discovered teleportation. absolute mindf*ck! 🤯 I&#39;m still working on improving the quality &#32; submitted by &#32; /u/flokiXR [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
