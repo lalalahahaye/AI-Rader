@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T13:05:42.947Z",
+  "updatedAt": "2026-11-08T13:28:38.744Z",
   "items": [
+    {
+      "id": "rss-qbitai-z2n7cf",
+      "type": "funding",
+      "title": "OpenAI新融资到账110亿美元，不及原计划一半",
+      "url": "https://www.qbitai.com/2026/11/508344.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-07T08:11:25.000Z",
+      "summaryHint": "融资缩水，硅谷投资人也谨慎了",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "amount": "110亿"
+    },
     {
       "id": "rss-google_news_cn_36kr_deals-6vgc5b",
       "type": "funding",
@@ -35,13 +50,29 @@
       "amount": "110亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-oqo32f",
+      "id": "rss-google_news_cn_36kr_deals-onrma7",
       "type": "funding",
-      "title": "2024国产AI芯片融资密集落地 硬核赛道资本持续加码 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00MTNqWHc0X0ZyTlRTVDQtN25jQXV0UnhZQWd6VHNkT0prR1hNNmFkMnhLSDIzOUstMlpyUTVyaEd3aTZINHhrMjdFa0F2Q1YxekJ3?oc=5",
+      "title": "快手孵化潜力独角兽：又融资10亿 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vZWZ5cHVyMzVWMERkUk1YV2JVanVqZ0VxOUR5MGZCMGJiZlBEMDZQTEZZNTk3NDQyUEx0em4ybHJvcC1OeXh2SmJaU3hRUQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-05T17:27:00.000Z",
+      "summaryHint": "快手孵化潜力独角兽：又融资10亿 &nbsp;&nbsp; 36氪",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "10亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-ssht81",
+      "type": "funding",
+      "title": "国产AI芯片融资密集落地 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BTEpnV2htalZLZXVZNG5WVTJSVE05LTVKZDFOa1M2NThGcUZkUlBHc3lCYV9fcU9YelZlREJOdE9JTDA4aEw1Wlpjc3Y4UQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-11-05T11:00:00.000Z",
-      "summaryHint": "2024国产AI芯片融资密集落地 硬核赛道资本持续加码 &nbsp;&nbsp; 36Kr",
+      "summaryHint": "国产AI芯片融资密集落地 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -50,20 +81,20 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-b3ggbb",
+      "id": "rss-google_news_cn_36kr_deals-2rhii7",
       "type": "funding",
-      "title": "不到半年融资近20亿，稀疏算力这么值钱吗？ - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44dk1HZU9sb3BZNUsxamhjb0J5QS1oY2wxWVV0R0YycXdsMTc5YWwyOWhuN190cjdNMWdCN0lxNlRjRllidFNsOTZlMFR6QQ?oc=5",
+      "title": "36氪首发 重载物理AI公司成立一年内融资近4亿 核心团队来自华为理想 已运营车辆超百台 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2R0pFc1U1ckFmZVllVlVoMlppTDk2Z0lucGVsakFZd1daTFhtRDFpdDFyVExfV0xaM3FpT0RxWlJZWFdHSmJLRnNsd28tMVNybUNB?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-04T21:28:00.000Z",
-      "summaryHint": "不到半年融资近20亿，稀疏算力这么值钱吗？ &nbsp;&nbsp; 36氪",
+      "publishedAt": "2026-11-05T10:23:00.000Z",
+      "summaryHint": "36氪首发 重载物理AI公司成立一年内融资近4亿 核心团队来自华为理想 已运营车辆超百台 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
       ],
-      "amount": "20亿"
+      "amount": "4亿"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-9l9jxp",
@@ -131,20 +162,73 @@
       "amount": "2亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-9ozmi3",
+      "id": "rss-google_news_cn_36kr_deals-i9wp4e",
       "type": "funding",
-      "title": "融资1055亿，DeepSeek扩列AI硬件朋友圈：生态第一，模型第二 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwOXlOU3dIdkJIRm9iLWREblc4OFJYeHpaeEd1X1RuZmd5TnlNalc2a0xCc2JhUGJDN2ZBSjdoQ2hGb2FpRlZXSEFZaGRnQQ?oc=5",
+      "title": "硬氪首发丨快手系AI芯片公司凌川科技完成10亿元B轮融资，3D芯片已回片，明年规模出货 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02SmdFM3lIMmVLYnlFNkdTSmp1alk0LWxKUXJVb1BxdjU1S2JUNkVrNGJMZGUxTDhFenVXVkNDNVY1MEwyRTR6dzhuQ3ZBdw?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-01T08:32:00.000Z",
-      "summaryHint": "融资1055亿，DeepSeek扩列AI硬件朋友圈：生态第一，模型第二 &nbsp;&nbsp; 36氪",
+      "publishedAt": "2026-11-03T09:33:00.000Z",
+      "summaryHint": "硬氪首发丨快手系AI芯片公司凌川科技完成10亿元B轮融资，3D芯片已回片，明年规模出货 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
       ],
-      "amount": "1055亿"
+      "round": "B轮融资",
+      "amount": "10亿元"
+    },
+    {
+      "id": "rss-qbitai-w8l3ar",
+      "type": "news",
+      "title": "终端侧AI：从单点应用走向智能体体验",
+      "url": "https://www.qbitai.com/2026/11/508478.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-08T11:05:23.000Z",
+      "summaryHint": "高通在第九届进博会展出端侧MoE智能体",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-n61fny",
+      "type": "news",
+      "title": "资本正在撤离“世界模型”",
+      "url": "https://www.qbitai.com/2026/11/508466.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-08T04:09:55.000Z",
+      "summaryHint": "没有永远的夏天",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-4rm9lj",
+      "type": "news",
+      "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+      "url": "https://www.qbitai.com/2026/11/508449.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-07T09:38:56.000Z",
+      "summaryHint": "AI写代码太快，基础设施跟不上了",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-ii2fjm",
+      "type": "news",
+      "title": "为了去AI味，人类开始主动写烂文章了……",
+      "url": "https://www.qbitai.com/2026/11/508330.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-07T07:59:28.000Z",
+      "summaryHint": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI.......",
+      "tags": [
+        "china",
+        "funding"
+      ]
     },
     {
       "id": "rss-qbitai-zfar8u",
@@ -173,6 +257,19 @@
       ]
     },
     {
+      "id": "rss-qbitai-7hab5f",
+      "type": "news",
+      "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
+      "url": "https://www.qbitai.com/2026/11/508236.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-07T03:31:44.000Z",
+      "summaryHint": "中国版cosmos再交卷",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
       "id": "rss-qbitai-j9n4uk",
       "type": "news",
       "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
@@ -193,71 +290,6 @@
       "source": "qbitai",
       "publishedAt": "2026-11-06T15:21:56.000Z",
       "summaryHint": "Dario刚喊减速…",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-lgl3w4",
-      "type": "news",
-      "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
-      "url": "https://www.qbitai.com/2026/11/508174.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-06T09:25:59.000Z",
-      "summaryHint": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-jkembc",
-      "type": "news",
-      "title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
-      "url": "https://www.qbitai.com/2026/11/508170.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-06T09:21:51.000Z",
-      "summaryHint": "阶跃终端旗下 STEPX Neo 智能体手机首次亮相",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-798g2a",
-      "type": "news",
-      "title": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
-      "url": "https://www.qbitai.com/2026/11/508165.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-06T09:19:00.000Z",
-      "summaryHint": "11月5日，阿里巴巴发布《2026 AI向善行动报告》",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-7f5u5r",
-      "type": "news",
-      "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
-      "url": "https://www.qbitai.com/2026/11/508155.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-06T07:00:29.000Z",
-      "summaryHint": "Q3营收实现数倍增长",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-6bhy3u",
-      "type": "news",
-      "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
-      "url": "https://www.qbitai.com/2026/11/508118.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-06T06:54:17.000Z",
-      "summaryHint": "挑战商业视频的高难度场景",
       "tags": [
         "china",
         "funding"
@@ -306,20 +338,6 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-2xbxj6",
-      "type": "news",
-      "title": "2024物理AI行业发展趋势解析：市场持续升温还是进入退烧调整期？ - eu.36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GTG5nMDlKN3RyYTIwYkd4Zkt4Z3M0UzFiMWJ2c2hPMXBaTTg3SUt2el9Helo3OHY3UVNCMFRUcDB2Q29Ka2hoWTI3SkFNSGo3VkZR?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-03T09:53:00.000Z",
-      "summaryHint": "2024物理AI行业发展趋势解析：市场持续升温还是进入退烧调整期？ &nbsp;&nbsp; eu.36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_deals-f6kfp0",
       "type": "news",
       "title": "世界模型混战2026：先抢人，再定义，真玩家一只手就能数清｜全景 - 36氪",
@@ -334,99 +352,61 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-8dyfvv",
-      "type": "news",
-      "title": "在座各位AI，都是“垃圾” - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNWk5udHBrYnd3RU5IU3JGMkxsak4wSEMzSEZYT2dEcVdpN296TDBFV1RPbXAtVnA4aExzT1FvdTJtbkdyMHpYb0U5QnFsQQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-01T12:17:00.000Z",
-      "summaryHint": "在座各位AI，都是“垃圾” &nbsp;&nbsp; 36氪",
+      "id": "reddit-rss-l19idn",
+      "type": "social_en",
+      "title": "Sony a6700 DZOfilm Arcana 75mm Relaxing Cinematic Visuals Cinematography",
+      "url": "https://www.reddit.com/r/videography/comments/1xqx2wx/sony_a6700_dzofilm_arcana_75mm_relaxing_cinematic/",
+      "source": "reddit_r_videography",
+      "publishedAt": "2026-11-08T12:14:47.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/Formal_Movie_9126 [link] &#32; [comments]",
       "tags": [
-        "china",
-        "funding",
-        "deal_rss"
+        "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-bu9vrf",
+      "id": "reddit-rss-rbtg2a",
       "type": "social_en",
-      "title": "Spatial Outpainting — Is This the Future of Gaussian Splatting",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xptewk/spatial_outpainting_is_this_the_future_of/",
+      "title": "Summer to autumn comparison using 3D Gaussian Splatting",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xqw49a/summer_to_autumn_comparison_using_3d_gaussian/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-11-07T01:00:47.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/SuspiciousHunter1359 [link] &#32; [comments]",
+      "publishedAt": "2026-11-08T11:14:55.000Z",
+      "summaryHint": "Scanned the same location in two different seasons and developed a custom Blender plugin to precisely align and overlay both scans. This makes it possible to directly compare the two captures and visualize seasonal changes. Still experiment",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-uxockz",
+      "id": "reddit-rss-bt5i5",
       "type": "social_en",
-      "title": "3DGS + 4DGS in Blender",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xprdp3/3dgs_4dgs_in_blender/",
+      "title": "Dortmund, ~210M Gaussians",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xqvm2u/dortmund_210m_gaussians/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-11-06T23:24:21.000Z",
-      "summaryHint": "Hi volumetric media fans! I&#39;ve been tuning up my 4DGS processing pipeline, and responding to requests to get it working in Blender. So I put it together with a 3DGS capture so you can see what it looks like to composite a scene together",
+      "publishedAt": "2026-11-08T10:41:56.000Z",
+      "summaryHint": "https://superspl.at/scene/7f4160c0 Reposted, as it was accidentally deleted. &#32; submitted by &#32; /u/Sthatic [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-sevfre",
+      "id": "reddit-rss-ypofao",
       "type": "social_en",
-      "title": "We shot a Bloodborne-inspired music video using Unreal Engine and an LED wall. Here's the BTS.",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1xppz2t/we_shot_a_bloodborneinspired_music_video_using/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-11-06T22:21:32.000Z",
-      "summaryHint": "I directed this gothic fantasy music video for PIA, building the world in Unreal Engine and shooting with in-camera VFX on an LED volume. Wanted to share a look at how we brought it to life! BTS: https://www.youtube.com/watch?v=psm44CYFKKo&",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-sysxn1",
-      "type": "social_en",
-      "title": "cooked a tool that stops NPCs from moving in perfect sync. One switch, same crowd.",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1xppm6v/cooked_a_tool_that_stops_npcs_from_moving_in/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-11-06T22:06:29.000Z",
-      "summaryHint": "made this for UE 5.8. it layers procedural motion on top of the animation you already have: breathing, weight shifts, gaze, hand fidgeting, foot IK on steps and slopes and posture drifts (also some other cool optional features shown in exte",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-btxaub",
-      "type": "social_en",
-      "title": "Can you replace a drone with a loooooooooong selfie stick?",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xpghe7/can_you_replace_a_drone_with_a_loooooooooong/",
+      "title": "This time I ran 3DGS on a 2nd-gen iPod nano",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xqkav5/this_time_i_ran_3dgs_on_a_2ndgen_ipod_nano/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-11-06T16:03:16.000Z",
-      "summaryHint": "This was one of the questions I was trying to answer when using the Insta360 on a 3.2m extendable invisible stick, combined with some ground-level close-up photos taken with my phone. The idea was to combine the two datasets and see whether",
+      "publishedAt": "2026-11-07T23:43:17.000Z",
+      "summaryHint": "I’ve tried running 3DGS on an Apple Watch and a 3DS before. This time I went with something even older, a 2nd-gen iPod nano. I wanted to show that you can look around the train on that tiny screen using just the first 1 MB of our compressed",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-cobfrc",
+      "id": "reddit-rss-l7coqy",
       "type": "social_en",
-      "title": "Active Ragdoll hits reaction in unreal engine 5.8",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1xpg94q/active_ragdoll_hits_reaction_in_unreal_engine_58/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-11-06T15:54:26.000Z",
-      "summaryHint": "Very happy with the results &#32; submitted by &#32; /u/Ok-Consideration-621 [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-n7kxq8",
-      "type": "social_en",
-      "title": "Update: Megascans are going free again",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1xok71g/update_megascans_are_going_free_again/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-11-05T14:35:18.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/Coffescout [link] &#32; [comments]",
+      "title": "Are this types of stabilizers worth it?",
+      "url": "https://www.reddit.com/r/videography/comments/1xqjjey/are_this_types_of_stabilizers_worth_it/",
+      "source": "reddit_r_videography",
+      "publishedAt": "2026-11-07T23:06:29.000Z",
+      "summaryHint": "I´ll be helping a friend shoot a short film he wants to do (super amateur stuff), and i was wondering if it was worth it to buy one of this stabilizers, or to just use the IBIS of the camera. It would be used on some walking shots only, i t",
       "tags": [
         "ai_social"
       ]
