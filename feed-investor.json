@@ -1,7 +1,39 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T14:56:17.397Z",
+  "updatedAt": "2026-11-11T14:26:37.524Z",
   "items": [
+    {
+      "id": "rss-google_news_cn_36kr_deals-kapd5a",
+      "type": "funding",
+      "title": "Anthropic IPO目标市值约1.02万亿美元，发行及配售规模或达904亿美元-36氪 - 36kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMT1lEemo3cDBsRUlhaEJxanlhd0xPZDdLTWRZSElZeXNuN2FMQ2VXb1BiekJRTTJIR0ZjVVVpUTN4QWE3NVZFdUFpLWVqRk1h?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-11T00:18:12.000Z",
+      "summaryHint": "Anthropic IPO目标市值约1.02万亿美元，发行及配售规模或达904亿美元-36氪 &nbsp;&nbsp; 36kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "1.02万"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-ez6kge",
+      "type": "funding",
+      "title": "数码虎符拟建AI防伪营销平台 面向全球寻求种子轮融资 - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WbHBobkdtb1JSTFRQanQ4MzNyUVdQOC02cjJwUHhuYnpJQzNDdjBjU1VvNWxTaHhtXzBKY1BhNFFFQmY2bmJkWmVlYzFqSnN0SThJ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-10T14:40:00.000Z",
+      "summaryHint": "数码虎符拟建AI防伪营销平台 面向全球寻求种子轮融资 &nbsp;&nbsp; eu.36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "种子轮"
+    },
     {
       "id": "rss-qbitai-i5tvu5",
       "type": "funding",
@@ -78,22 +110,6 @@
       "round": "天使轮"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-onrma7",
-      "type": "funding",
-      "title": "快手孵化潜力独角兽：又融资10亿 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vZWZ5cHVyMzVWMERkUk1YV2JVanVqZ0VxOUR5MGZCMGJiZlBEMDZQTEZZNTk3NDQyUEx0em4ybHJvcC1OeXh2SmJaU3hRUQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-05T17:27:00.000Z",
-      "summaryHint": "快手孵化潜力独角兽：又融资10亿 &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "10亿"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-ssht81",
       "type": "funding",
       "title": "国产AI芯片融资密集落地 - 36Kr",
@@ -141,53 +157,108 @@
       "amount": "1.25亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-mbo407",
-      "type": "funding",
-      "title": "Sand.ai 完成 2 亿美元 A+ 轮融资，10 个月累计融资 3 亿美元 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FeUY1WURaUlM0Q0FMWGgyYmM1VHZ5MjQxUHV4OEp2NC1qSVFNMVlsbDNWTEM5R3A2M2kzZTE1NWtqMnVkWndqVHFJUDNIQQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-04T11:05:00.000Z",
-      "summaryHint": "Sand.ai 完成 2 亿美元 A+ 轮融资，10 个月累计融资 3 亿美元 &nbsp;&nbsp; 36氪",
+      "id": "rss-sifted-z6k2bs",
+      "type": "news",
+      "title": "Exclusive: Nvidia and Unity join Emulate’s $700m fundraise",
+      "url": "https://sifted.eu/articles/exclusive-unity-nvidia-emulate/",
+      "source": "sifted",
+      "publishedAt": "2026-11-11T13:40:55.000Z",
       "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "2亿"
+        "eu",
+        "funding"
+      ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-wz7j3d",
-      "type": "funding",
-      "title": "视频大模型企业Sand.ai完成2亿美元A+轮融资 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CaXRXcFJUc3NXLTNnWlJUR0dRNk52T0lLZVVMYkl3MXNhMzJlQ0dzemZmR1BnZzhGWGpKZHRoRGtmTVd2ZllzdzZmSXNVQUVGSjlTOElTOVY?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-04T10:53:00.000Z",
-      "summaryHint": "视频大模型企业Sand.ai完成2亿美元A+轮融资 &nbsp;&nbsp; 36Kr",
+      "id": "rss-qbitai-jihj74",
+      "type": "news",
+      "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
+      "url": "https://www.qbitai.com/2026/11/509146.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-11T06:41:26.000Z",
+      "summaryHint": "价格、门槛全打穿",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "A+轮融资",
-      "amount": "2亿"
+        "funding"
+      ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-fjelry",
-      "type": "funding",
-      "title": "中国AI爆款诞生：Sand.ai融资2亿美元 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSSU4wN05ieGRfQkw5cUNFbDNvY2hGRXQ0Skk2aXp5enRjdjlfR0ZtWjFFalBnY0w2WUVDczV0VENybDFoeDcxV3hiX0dQQQ?oc=5",
+      "id": "rss-qbitai-kokm5p",
+      "type": "news",
+      "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
+      "url": "https://www.qbitai.com/2026/11/509088.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-11T06:27:03.000Z",
+      "summaryHint": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-m3phca",
+      "type": "news",
+      "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+      "url": "https://www.qbitai.com/2026/11/509085.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-11T06:18:09.000Z",
+      "summaryHint": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-3h2us6",
+      "type": "news",
+      "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
+      "url": "https://www.qbitai.com/2026/11/509052.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-11T03:43:31.000Z",
+      "summaryHint": "L4无人化作业走向规模交付",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-vopfhk",
+      "type": "news",
+      "title": "AI信用风险正向上游迁移？芯片巨头CDS利差三个月来首超云厂商 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wNkx1SmlNbURRZzlpeDJYSW9kbjYtTmxscm5xMTl0c19sRzFtRTdBYVVnbkY2YWJYZ0dEZ0RhMU13c2tEYUxGMFhFTEZHZw?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-04T10:45:00.000Z",
-      "summaryHint": "中国AI爆款诞生：Sand.ai融资2亿美元 &nbsp;&nbsp; 36氪",
+      "publishedAt": "2026-11-11T00:43:37.000Z",
+      "summaryHint": "AI信用风险正向上游迁移？芯片巨头CDS利差三个月来首超云厂商 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "2亿"
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-qbitai-pvppnw",
+      "type": "news",
+      "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+      "url": "https://www.qbitai.com/2026/11/509032.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-10T10:35:38.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-3108ow",
+      "type": "news",
+      "title": "2026，AI应用的钱都流向了哪里？ - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zRWYyaXFaM3pCNEJPV1l2eUUxd3owNGxjV1NQSlEwUy15bG95TEFvQmxLQXpLZ0lVeWoyZE9GUEc3bndJVThZUVJGN09CQQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-10T09:24:00.000Z",
+      "summaryHint": "2026，AI应用的钱都流向了哪里？ &nbsp;&nbsp; 36氪",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
     },
     {
       "id": "rss-qbitai-1rziac",
@@ -229,71 +300,6 @@
       ]
     },
     {
-      "id": "rss-qbitai-oa7729",
-      "type": "news",
-      "title": "Token卷到触觉了！机器人终于有了通用手感",
-      "url": "https://www.qbitai.com/2026/11/508919.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-10T07:26:53.000Z",
-      "summaryHint": "蚂蚁灵波开源LingBot-Touch",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-kyvuaw",
-      "type": "news",
-      "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
-      "url": "https://www.qbitai.com/2026/11/508912.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-10T07:03:43.000Z",
-      "summaryHint": "作曲、拍片、3D建模一条龙全包圆",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-9nxdtw",
-      "type": "news",
-      "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
-      "url": "https://www.qbitai.com/2026/11/508828.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-10T02:48:22.000Z",
-      "summaryHint": "速度提了，API价格降了",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-cjyucs",
-      "type": "news",
-      "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
-      "url": "https://www.qbitai.com/2026/11/508798.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-10T01:27:09.000Z",
-      "summaryHint": "办公AI结束单机模式",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-2lh29g",
-      "type": "news",
-      "title": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
-      "url": "https://www.qbitai.com/2026/11/508787.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-09T22:11:49.000Z",
-      "summaryHint": "投毒 → 耗尽预算 → 诱导误判",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-v1t4wb",
       "type": "news",
       "title": "企业级AI不止答问 3Chat AI赋能客户对话高效转化成交 - eu.36kr.com",
@@ -308,87 +314,61 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-5wba36",
-      "type": "news",
-      "title": "资金密集涌入“存算一体”芯片 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03RTQxQmlWX0loSnZaTm5nWmp2N250Q2hDUkpyNWVqVmhoOE9qcnNQNEpwWmEtM2xUXzFfZ1ZIV3VsQ3p5ZHhiZnBzWk5Wdw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-04T08:42:00.000Z",
-      "summaryHint": "资金密集涌入“存算一体”芯片 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss"
-      ]
-    },
-    {
-      "id": "reddit-rss-ubfdw0",
+      "id": "reddit-rss-8epvkq",
       "type": "social_en",
-      "title": "MiniMax H3-Image Released, an Open-Weight Image Model built on H3",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xso1ie/minimax_h3image_released_an_openweight_image/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-11-10T14:18:08.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/MagicZhang [link] &#32; [comments]",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-tzcx6z",
-      "type": "social_en",
-      "title": "Decision model to edit LLM weight directly - No training",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xski9d/decision_model_to_edit_llm_weight_directly_no/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-11-10T11:27:44.000Z",
-      "summaryHint": "On September 18, I launched Laya at you guys request, the first system 1 open-source decision model in this subreddit, and you guys gave immense support. I saw the MIT post on direct weight edits and thought about doing the same with a deci",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-vmb7op",
-      "type": "social_en",
-      "title": "Fable 5.2 not only has guardrails against AI acceleration, its capabilities were capped in training too",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsjfwo/fable_52_not_only_has_guardrails_against_ai/",
-      "source": "reddit_r_LocalLLaMA",
-      "publishedAt": "2026-11-10T10:23:52.000Z",
-      "summaryHint": "This seems excessive, especially if they trust their classification models for safeguards, why add both? However I guess it is to be expected from a private company. It&#39;s also &quot;yet another reason&quot; for open weight LLMs &#32; su",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-owoaq7",
-      "type": "social_en",
-      "title": "I ran 3D Gaussian splatting inside a PDF",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xsdbkh/i_ran_3d_gaussian_splatting_inside_a_pdf/",
+      "title": "Whats the best free GS software currently?",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xtfibk/whats_the_best_free_gs_software_currently/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-11-10T04:12:33.000Z",
-      "summaryHint": "I was looking for another old device to try this on, but I couldn’t find anything around the house that felt right. Then I saw Doom running in a PDF and thought I’d try it with the Train scene. DoomPDF I put the first 1 MB of our compressed",
+      "publishedAt": "2026-11-11T11:35:00.000Z",
+      "summaryHint": "I used Postshot a lot a while ago- At the time it was a step above any of the free or open source splatting softwares. I now need a free software- is there anything? &#32; submitted by &#32; /u/Ben_Garcia_DB [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-i08s4i",
+      "id": "reddit-rss-kvq73j",
       "type": "social_en",
-      "title": "Thought I'd share a self-built tool that uses SLAM & other tricks to achieve Spirula-level quality in long difficult house interiors for 360 footage.",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xs6uz7/thought_id_share_a_selfbuilt_tool_that_uses_slam/",
+      "title": "Can We Make Gaussian Splatting Scenes Searchable Using Natural Language?",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xtbo0g/can_we_make_gaussian_splatting_scenes_searchable/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-11-09T23:08:32.000Z",
-      "summaryHint": "Long story short I found myself in a predicament after struggling to get some house interiors to fully reconstruct. I used an Insta360 X5 and as some of you may already know by one of my previous posts here ( such as ), I was able to get so",
+      "publishedAt": "2026-11-11T07:34:47.000Z",
+      "summaryHint": "I&#39;ve been exploring how we can move beyond conventional 3D visualisation towards making spatial environments searchable and semantically understandable. This is an early prototype exploring natural-language spatial search within Gaussia",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-w5lp1i",
+      "id": "reddit-rss-6iyvgt",
       "type": "social_en",
-      "title": "Digital rain effect for 3D Gaussian splats, inspired by The Matrix (open source, PlayCanvas)",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xrrcz7/digital_rain_effect_for_3d_gaussian_splats/",
+      "title": "Komodo X now at $5k",
+      "url": "https://www.reddit.com/r/videography/comments/1xt1701/komodo_x_now_at_5k/",
+      "source": "reddit_r_videography",
+      "publishedAt": "2026-11-10T22:48:25.000Z",
+      "summaryHint": "https://preview.redd.it/5otwlj846v0i1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=004013cb0a19f77b649649f72accc4b53f7aacca Solid value, if I needed global shutter for a project, I&#39;d pick one up. Adorama and others have it discount",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-s1tulz",
+      "type": "social_en",
+      "title": "Having fun with budget cine lens, SIRUI 35mm 1.2T",
+      "url": "https://www.reddit.com/r/videography/comments/1xswkex/having_fun_with_budget_cine_lens_sirui_35mm_12t/",
+      "source": "reddit_r_videography",
+      "publishedAt": "2026-11-10T19:42:53.000Z",
+      "summaryHint": "Bought this lens for 190$ and I can’t complain. The imperfections are enjoyable. Works well with my ff A7iv. Minimum focus distance could be better for detail shots, but it’s alright. &#32; submitted by &#32; /u/Personal-Judge-8644 [link] &",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-yxryvt",
+      "type": "social_en",
+      "title": "Filmed people placed into Gaussian splat scans, lit by the scan around them",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xsox9o/filmed_people_placed_into_gaussian_splat_scans/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-11-09T13:15:01.000Z",
-      "summaryHint": "I added a glyph rain shader effect to the Playcanvas engine. A fraction of the splats become camera-facing glyphs, lit by drops running down columns. The rest thin out, shrink and tint. Glyphs are drawn into an atlas at runtime, so any font",
+      "publishedAt": "2026-11-10T14:54:41.000Z",
+      "summaryHint": "I’m James, one of the team at PXLD. We’ve been building DAWN, a model that takes footage of a person and puts them into a new place, relit to match it. One of the inputs it works with is Gaussian splats, so here are a few. Every take here w",
       "tags": [
         "ai_social"
       ]
