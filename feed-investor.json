@@ -1,15 +1,76 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T14:26:37.524Z",
+  "updatedAt": "2026-11-12T15:18:13.927Z",
   "items": [
     {
-      "id": "rss-google_news_cn_36kr_deals-kapd5a",
+      "id": "rss-qbitai-8k4lpl",
       "type": "funding",
-      "title": "Anthropic IPO目标市值约1.02万亿美元，发行及配售规模或达904亿美元-36氪 - 36kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMT1lEemo3cDBsRUlhaEJxanlhd0xPZDdLTWRZSElZeXNuN2FMQ2VXb1BiekJRTTJIR0ZjVVVpUTN4QWE3NVZFdUFpLWVqRk1h?oc=5",
+      "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
+      "url": "https://www.qbitai.com/2026/11/509381.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-12T10:11:29.000Z",
+      "summaryHint": "全世界都在踩刹车，达里奥一个人踩油门",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "amount": "6000亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-53cruq",
+      "type": "funding",
+      "title": "清华 Nature 封面团队创业，幂级智能连续完成三轮数亿元融资｜星连被投动态 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PVFB2c2hDdDJ1WXNNdGRXRlJ2eUNOVTNHcE1ZWG9PalQ2eWgxUEY4ODZLaTJ1cXVQRDhSVms1eHRTM2FNem56Y2JrYw?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-11T00:18:12.000Z",
-      "summaryHint": "Anthropic IPO目标市值约1.02万亿美元，发行及配售规模或达904亿美元-36氪 &nbsp;&nbsp; 36kr",
+      "publishedAt": "2026-11-12T04:09:32.000Z",
+      "summaryHint": "清华 Nature 封面团队创业，幂级智能连续完成三轮数亿元融资｜星连被投动态 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-r0xy0f",
+      "type": "funding",
+      "title": "36氪首发 海光创始核心技术团队入局AGI架构芯片赛道 获清华系等基金数亿融资 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwdGhzYUg1TlpUMHV1b1FmTUVyWkotRjNlS3hzZ2I3dzJXLXJRYnRfX3hEZTdkTE5kX3I0TkNhbkNWVmZhRFA1RWxTV25vRThTR3Rr?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-11T10:08:00.000Z",
+      "summaryHint": "36氪首发 海光创始核心技术团队入局AGI架构芯片赛道 获清华系等基金数亿融资 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-m8jsqa",
+      "type": "funding",
+      "title": "AI数据中心初创公司Torus完成5亿美元融资，推出集成储能系统的模块化数据中心 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IbWlaanhfYWZjd2pkU1NrV0JXU2xMSkIyQmg5SUNleEJNQlY3dHRSLWdGbURPVml4T21KbDRoMWxBT3IyS25uZ3M4R0R3VzhsVXVmYXY3cV8?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-11T08:49:00.000Z",
+      "summaryHint": "AI数据中心初创公司Torus完成5亿美元融资，推出集成储能系统的模块化数据中心 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "5亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-yhkv0",
+      "type": "funding",
+      "title": "Anthropic IPO目标市值约1.02万亿美元 发行配售规模最高904亿美元 - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yVUlHOU9pNHRYcGtyVnhGcXlJbkMyLWhaWDVKaklTTjBmVzhrYUlHVmMyOVg1b2Y5Y0hZOWVybXZDcWE2Y3JPRjltc0s0aTdSWktr?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-10T08:12:00.000Z",
+      "summaryHint": "Anthropic IPO目标市值约1.02万亿美元 发行配售规模最高904亿美元 &nbsp;&nbsp; eu.36kr.com",
       "tags": [
         "china",
         "funding",
@@ -17,50 +78,6 @@
         "deal_signal"
       ],
       "amount": "1.02万"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-ez6kge",
-      "type": "funding",
-      "title": "数码虎符拟建AI防伪营销平台 面向全球寻求种子轮融资 - eu.36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WbHBobkdtb1JSTFRQanQ4MzNyUVdQOC02cjJwUHhuYnpJQzNDdjBjU1VvNWxTaHhtXzBKY1BhNFFFQmY2bmJkWmVlYzFqSnN0SThJ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-10T14:40:00.000Z",
-      "summaryHint": "数码虎符拟建AI防伪营销平台 面向全球寻求种子轮融资 &nbsp;&nbsp; eu.36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "种子轮"
-    },
-    {
-      "id": "rss-qbitai-i5tvu5",
-      "type": "funding",
-      "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
-      "url": "https://www.qbitai.com/2026/11/509017.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-10T08:33:25.000Z",
-      "summaryHint": "近亿元融资刚刚落袋",
-      "tags": [
-        "china",
-        "funding",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-qbitai-457m9b",
-      "type": "funding",
-      "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
-      "url": "https://www.qbitai.com/2026/11/508991.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-10T07:50:26.000Z",
-      "summaryHint": "TensorWorld物原科技在一个月内已拿到过亿美元融资",
-      "tags": [
-        "china",
-        "funding",
-        "deal_signal"
-      ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-mmpfee",
@@ -110,111 +127,117 @@
       "round": "天使轮"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-ssht81",
-      "type": "funding",
-      "title": "国产AI芯片融资密集落地 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BTEpnV2htalZLZXVZNG5WVTJSVE05LTVKZDFOa1M2NThGcUZkUlBHc3lCYV9fcU9YelZlREJOdE9JTDA4aEw1Wlpjc3Y4UQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-05T11:00:00.000Z",
-      "summaryHint": "国产AI芯片融资密集落地 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-2rhii7",
-      "type": "funding",
-      "title": "36氪首发 重载物理AI公司成立一年内融资近4亿 核心团队来自华为理想 已运营车辆超百台 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2R0pFc1U1ckFmZVllVlVoMlppTDk2Z0lucGVsakFZd1daTFhtRDFpdDFyVExfV0xaM3FpT0RxWlJZWFdHSmJLRnNsd28tMVNybUNB?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-05T10:23:00.000Z",
-      "summaryHint": "36氪首发 重载物理AI公司成立一年内融资近4亿 核心团队来自华为理想 已运营车辆超百台 &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "4亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-9l9jxp",
-      "type": "funding",
-      "title": "Salience融资1.25亿美元，AI算力集群为什么需要全光交换？ - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80YXZxb3RhWkZpMmRRSlk2TEJaUmZLQ1pFTFZURGlsNVJIb0QxQ25zXzl3RTJYcG8xSzhhbUlPaXRPNk1aOEM3NEpFcHNLZw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-04T20:10:00.000Z",
-      "summaryHint": "Salience融资1.25亿美元，AI算力集群为什么需要全光交换？ &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "1.25亿"
-    },
-    {
-      "id": "rss-sifted-z6k2bs",
+      "id": "rss-qbitai-w3z61f",
       "type": "news",
-      "title": "Exclusive: Nvidia and Unity join Emulate’s $700m fundraise",
-      "url": "https://sifted.eu/articles/exclusive-unity-nvidia-emulate/",
-      "source": "sifted",
-      "publishedAt": "2026-11-11T13:40:55.000Z",
-      "tags": [
-        "eu",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-jihj74",
-      "type": "news",
-      "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
-      "url": "https://www.qbitai.com/2026/11/509146.html",
+      "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
+      "url": "https://www.qbitai.com/2026/11/509440.html",
       "source": "qbitai",
-      "publishedAt": "2026-11-11T06:41:26.000Z",
-      "summaryHint": "价格、门槛全打穿",
+      "publishedAt": "2026-11-12T11:36:20.000Z",
+      "summaryHint": "「CAD拆解」",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-kokm5p",
+      "id": "rss-qbitai-opfh9x",
       "type": "news",
-      "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
-      "url": "https://www.qbitai.com/2026/11/509088.html",
+      "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+      "url": "https://www.qbitai.com/2026/11/509404.html",
       "source": "qbitai",
-      "publishedAt": "2026-11-11T06:27:03.000Z",
-      "summaryHint": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。",
+      "publishedAt": "2026-11-12T10:45:33.000Z",
+      "summaryHint": "银河智学首席科学家邓澍军博士发表主题演讲",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-m3phca",
+      "id": "rss-qbitai-kbz368",
       "type": "news",
-      "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
-      "url": "https://www.qbitai.com/2026/11/509085.html",
+      "title": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光",
+      "url": "https://www.qbitai.com/2026/11/509355.html",
       "source": "qbitai",
-      "publishedAt": "2026-11-11T06:18:09.000Z",
-      "summaryHint": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+      "publishedAt": "2026-11-12T10:08:24.000Z",
+      "summaryHint": "Grok在让人破绷这件事上，从来不会让人失望。",
       "tags": [
         "china",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-3h2us6",
+      "id": "rss-qbitai-7jraiz",
       "type": "news",
-      "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
-      "url": "https://www.qbitai.com/2026/11/509052.html",
+      "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
+      "url": "https://www.qbitai.com/2026/11/509349.html",
       "source": "qbitai",
-      "publishedAt": "2026-11-11T03:43:31.000Z",
-      "summaryHint": "L4无人化作业走向规模交付",
+      "publishedAt": "2026-11-12T09:34:06.000Z",
+      "summaryHint": "企业 AI 的难题，不只是模型够不够强",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-9hv3o1",
+      "type": "news",
+      "title": "马斯克已准备好聘请黄仁勋",
+      "url": "https://www.qbitai.com/2026/11/509334.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-12T08:16:11.000Z",
+      "summaryHint": "老黄出轨认错、再曝婚外恋",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-mpcsjr",
+      "type": "news",
+      "title": "Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条",
+      "url": "https://www.qbitai.com/2026/11/509291.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-12T07:55:11.000Z",
+      "summaryHint": "只管挖不管埋。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-zhkl70",
+      "type": "news",
+      "title": "百曜科技入选全球 The Information 50！",
+      "url": "https://www.qbitai.com/2026/11/509285.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-12T06:13:22.000Z",
+      "summaryHint": "百曜科技入选“2026年全球最具潜力 50 家初创公司”榜单。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-xncz7c",
+      "type": "news",
+      "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
+      "url": "https://www.qbitai.com/2026/11/509281.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-12T01:45:04.000Z",
+      "summaryHint": "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-i1870v",
+      "type": "news",
+      "title": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
+      "url": "https://www.qbitai.com/2026/11/509224.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-11T12:43:54.000Z",
+      "summaryHint": "模型即将开源",
       "tags": [
         "china",
         "funding"
@@ -235,15 +258,31 @@
       ]
     },
     {
-      "id": "rss-qbitai-pvppnw",
+      "id": "rss-google_news_cn_36kr_deals-wccmh0",
       "type": "news",
-      "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
-      "url": "https://www.qbitai.com/2026/11/509032.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-10T10:35:38.000Z",
+      "title": "对话英矽智能任峰：年轻的AI4S创业者，我羡慕你们的野心和创造力 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1uYkJVc1dsS0xHM1ZDRVU1VW5yQjNfY0o4eFg3NEc0RklGcGJlS3ZTYVV6MllNcjktTEZ6M1FvcGpiR1JGMG8xaXBnUGszQQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-10T13:46:00.000Z",
+      "summaryHint": "对话英矽智能任峰：年轻的AI4S创业者，我羡慕你们的野心和创造力 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
-        "funding"
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-mkpxxk",
+      "type": "news",
+      "title": "Anthropic估值缩水，压力给到国内大模型公司 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qN1FZelNfa2dPRUpJejB5WXpTNXZETmFPYURjbm00N2k4UmRmWXhLOGZFUll6ZHdLOHlIUWc5U0lBTVBhbUdBcEpEelVBZw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-10T11:14:00.000Z",
+      "summaryHint": "Anthropic估值缩水，压力给到国内大模型公司 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
       ]
     },
     {
@@ -261,52 +300,26 @@
       ]
     },
     {
-      "id": "rss-qbitai-1rziac",
+      "id": "rss-google_news_en_thesis-jp3r51",
       "type": "news",
-      "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
-      "url": "https://www.qbitai.com/2026/11/508996.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-10T07:57:45.000Z",
-      "summaryHint": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch",
+      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzladm91WmRVUV9LaE5UdmNIZWFhODN3aF9jdV9UT1ZNUTJYZlRfSHBNY3puT3YzNHhyUHcxYVNXRElVMHk4UURhWHExZFR5OFh5RHc3NHhfN1hyUE9tMXRzblZvaWF6NFAteFhsOVB1T0l6ZVZzZ0o4RUpNQ1VDR2NjdVJsYlRVaV9PNmxuYl9wUQ?oc=5",
+      "source": "google_news_en_thesis",
+      "publishedAt": "2026-11-08T10:00:00.000Z",
+      "summaryHint": "World Models Will Soon Be Inescapable. Here’s What You Need to Know &nbsp;&nbsp; WIRED",
       "tags": [
-        "china",
+        "us",
         "funding"
       ]
     },
     {
-      "id": "rss-qbitai-tw9hy",
+      "id": "rss-google_news_cn_36kr_deals-ei3m2p",
       "type": "news",
-      "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
-      "url": "https://www.qbitai.com/2026/11/508998.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-10T07:56:29.000Z",
-      "summaryHint": "让每一次任务，都成为下一次进步的起点",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-gxfewk",
-      "type": "news",
-      "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
-      "url": "https://www.qbitai.com/2026/11/508985.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-10T07:33:19.000Z",
-      "summaryHint": "加速东部城市型智算中心向E-AIDC演进",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-v1t4wb",
-      "type": "news",
-      "title": "企业级AI不止答问 3Chat AI赋能客户对话高效转化成交 - eu.36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uZU5EZ0JBUUF6dUpxai02WFlPWnhBRW1KRGI3MVprN2U4UmM2UXhQMG1qb0lFV296TDdZeXNEMDB6MlEwNGJWNFhaM21sb25xallz?oc=5",
+      "title": "AI资本投入接近3000亿，互联网大厂抢着买“赛博永生的门票” - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jVDFfd3g3NjZjeGptZjFwX05CbmY4eEI0X1hFVVFtVmlPTi1adE1hdTRFbXJlT3R4Y0hDQ243MDFiajRRSGxPdUE4QnRmQQ?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-08T11:16:00.000Z",
-      "summaryHint": "企业级AI不止答问 3Chat AI赋能客户对话高效转化成交 &nbsp;&nbsp; eu.36kr.com",
+      "publishedAt": "2026-11-05T21:27:00.000Z",
+      "summaryHint": "AI资本投入接近3000亿，互联网大厂抢着买“赛博永生的门票” &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
@@ -314,61 +327,123 @@
       ]
     },
     {
-      "id": "reddit-rss-8epvkq",
+      "id": "rss-google_news_cn_36kr_deals-ybobid",
+      "type": "news",
+      "title": "半年营收1739万，亏损1.52亿：一家视频AI独角兽的账 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1CeC1iaWtCWVFQejF1MWd5SFFiYy1hVHNZMUM5SmxHdkxScHpoQVJxS0JyeXVKR3lqcmo0QnFnVi01RGVBaE5QMnF5RnhYUQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-05T19:24:00.000Z",
+      "summaryHint": "半年营收1739万，亏损1.52亿：一家视频AI独角兽的账 &nbsp;&nbsp; 36氪",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "reddit-rss-re8fhd",
       "type": "social_en",
-      "title": "Whats the best free GS software currently?",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xtfibk/whats_the_best_free_gs_software_currently/",
+      "title": "I made this really nice Glitch Noise Shader, but the video didn't really take off. So hopefully you'll enjoy it.",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1xueq8i/i_made_this_really_nice_glitch_noise_shader_but/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-11-12T14:50:33.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/EliasWick [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-uasa30",
+      "type": "social_en",
+      "title": "Nvidia's Jensen Huang Resigns as CEO, Colette Kress Named Interim",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xudeev/nvidias_jensen_huang_resigns_as_ceo_colette_kress/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-11-12T13:56:51.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/ShreckAndDonkey123 [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-vxb5mr",
+      "type": "social_en",
+      "title": "Anyone in need of large scale Gaussian Splatting models?",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xubogn/anyone_in_need_of_large_scale_gaussian_splatting/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-11-11T11:35:00.000Z",
-      "summaryHint": "I used Postshot a lot a while ago- At the time it was a step above any of the free or open source splatting softwares. I now need a free software- is there anything? &#32; submitted by &#32; /u/Ben_Garcia_DB [link] &#32; [comments]",
+      "publishedAt": "2026-11-12T12:37:14.000Z",
+      "summaryHint": "Hey community! I&#39;m a startup founder. We&#39;re building a platform and an agent harness to work with large scale 3D data including 3DGS. We use XGRIDS scanners to scan large areas for our own testing and demo purposes. Most of our scan",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-kvq73j",
+      "id": "reddit-rss-5re0bm",
       "type": "social_en",
-      "title": "Can We Make Gaussian Splatting Scenes Searchable Using Natural Language?",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xtbo0g/can_we_make_gaussian_splatting_scenes_searchable/",
+      "title": "Before leaving town, I wanted to take my favorite cafe with me",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xuausb/before_leaving_town_i_wanted_to_take_my_favorite/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-11-11T07:34:47.000Z",
-      "summaryHint": "I&#39;ve been exploring how we can move beyond conventional 3D visualisation towards making spatial environments searchable and semantically understandable. This is an early prototype exploring natural-language spatial search within Gaussia",
+      "publishedAt": "2026-11-12T11:54:58.000Z",
+      "summaryHint": "I&#39;ve been following gaussian splatting for a while and have checked out a few different workflows, but never actually tried making a scene myself. Some of the tools seemed a bit complicated to get into. I recently got an Insta360 X6 and",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-6iyvgt",
+      "id": "reddit-rss-geupwk",
       "type": "social_en",
-      "title": "Komodo X now at $5k",
-      "url": "https://www.reddit.com/r/videography/comments/1xt1701/komodo_x_now_at_5k/",
-      "source": "reddit_r_videography",
-      "publishedAt": "2026-11-10T22:48:25.000Z",
-      "summaryHint": "https://preview.redd.it/5otwlj846v0i1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=004013cb0a19f77b649649f72accc4b53f7aacca Solid value, if I needed global shutter for a project, I&#39;d pick one up. Adorama and others have it discount",
+      "title": "KQuant - new quantization technique, 3.7× better quants for Qwen Flash Next 180B, Qwen 27B, 35B, 9B (measured in KL-divergence reduction) (MLX)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu9onk/kquant_new_quantization_technique_37_better/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-11-12T10:47:24.000Z",
+      "summaryHint": "hey folks, im Alish, an ml engineer from Nace (folks behind Drex, an open source decision family model that hit #1 in Artificial analysis in decision index 2.1). Recently my cto gave me task to optimize quants for qwen4, so i dialed my uni ",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-s1tulz",
+      "id": "reddit-rss-5y492i",
       "type": "social_en",
-      "title": "Having fun with budget cine lens, SIRUI 35mm 1.2T",
-      "url": "https://www.reddit.com/r/videography/comments/1xswkex/having_fun_with_budget_cine_lens_sirui_35mm_12t/",
-      "source": "reddit_r_videography",
-      "publishedAt": "2026-11-10T19:42:53.000Z",
-      "summaryHint": "Bought this lens for 190$ and I can’t complain. The imperfections are enjoyable. Works well with my ff A7iv. Minimum focus distance could be better for detail shots, but it’s alright. &#32; submitted by &#32; /u/Personal-Judge-8644 [link] &",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-yxryvt",
-      "type": "social_en",
-      "title": "Filmed people placed into Gaussian splat scans, lit by the scan around them",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xsox9o/filmed_people_placed_into_gaussian_splat_scans/",
+      "title": "Slowed-down Cyr wheel in 4DGS. Shoutout to Gracia for the asset.",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xu0krq/sloweddown_cyr_wheel_in_4dgs_shoutout_to_gracia/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-11-10T14:54:41.000Z",
-      "summaryHint": "I’m James, one of the team at PXLD. We’ve been building DAWN, a model that takes footage of a person and puts them into a new place, relit to match it. One of the inputs it works with is Gaussian splats, so here are a few. Every take here w",
+      "publishedAt": "2026-11-12T02:08:27.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/WilyRaccoon [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-7ipiqm",
+      "type": "social_en",
+      "title": "Hey, this is my latest digital painting, I love painting hair, what do you think?",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1xtxemz/hey_this_is_my_latest_digital_painting_i_love/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-11-11T23:41:55.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/tranarter [link] &#32; [comments]",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-jcehog",
+      "type": "social_en",
+      "title": "[Bi-Weekly Megathread] Project Showcase",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtjze2/biweekly_megathread_project_showcase/",
+      "source": "reddit_r_LocalLLaMA",
+      "publishedAt": "2026-11-11T15:02:21.000Z",
+      "summaryHint": "Do you have something you&#39;d like to share with the r/LocalLLaMA community. This is the place for it! Recommendation on presentation: Please share plain english description of what your project does and why people should care about it Ho",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-l5u4qf",
+      "type": "social_en",
+      "title": "This is a Ardea herodias, also made in Blender, and strive to make it realistic",
+      "url": "https://www.reddit.com/r/computergraphics/comments/1xssdn3/this_is_a_ardea_herodias_also_made_in_blender_and/",
+      "source": "reddit_r_computergraphics",
+      "publishedAt": "2026-11-10T17:05:35.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/laiprocam [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
