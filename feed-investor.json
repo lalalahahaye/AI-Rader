@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T13:34:31.934Z",
+  "updatedAt": "2026-11-15T13:58:41.214Z",
   "items": [
+    {
+      "id": "rss-google_news_cn_36kr_deals-ikp2nx",
+      "type": "funding",
+      "title": "国产芯片融资潮，来势凶猛 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XMkFQbXM2M2dxTzc3OEVBX29EblpmQjVZVXlZMUJuN2JPZFppVzVrWVJjcnBiZXFVaEpvc3lhbWtzd2d2SWNRVzJPQmFHZw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-14T13:00:00.000Z",
+      "summaryHint": "国产芯片融资潮，来势凶猛 &nbsp;&nbsp; 36氪",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
     {
       "id": "rss-google_news_cn_36kr_deals-yghoqb",
       "type": "funding",
@@ -65,36 +80,6 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-qk7tvd",
-      "type": "funding",
-      "title": "36氪首发丨北航博士做AI4S，获亿元融资，要造自驱动实验室 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1RVNkdGZGOWVWVGdLamdnMUtTdHdwVkNmZlJpUmV0a29id1NlZHpfdmVnTWFCMmxnZDZfcF9KdDd2WlhPYXc4bk1rb3hfZw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-12T10:04:00.000Z",
-      "summaryHint": "36氪首发丨北航博士做AI4S，获亿元融资，要造自驱动实验室 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-53cruq",
-      "type": "funding",
-      "title": "清华 Nature 封面团队创业，幂级智能连续完成三轮数亿元融资｜星连被投动态 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PVFB2c2hDdDJ1WXNNdGRXRlJ2eUNOVTNHcE1ZWG9PalQ2eWgxUEY4ODZLaTJ1cXVQRDhSVms1eHRTM2FNem56Y2JrYw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-12T04:09:32.000Z",
-      "summaryHint": "清华 Nature 封面团队创业，幂级智能连续完成三轮数亿元融资｜星连被投动态 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-yhkv0",
       "type": "funding",
       "title": "Anthropic IPO目标市值约1.02万亿美元 发行配售规模最高904亿美元 - eu.36kr.com",
@@ -109,6 +94,22 @@
         "deal_signal"
       ],
       "amount": "1.02万"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-n1l303",
+      "type": "funding",
+      "title": "“泛函数”完成近亿元天使轮融资 - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PRHZnZFJzTUs3QWJiaXczMWVmWGpQc1VQTHBvelV4UHpkS0RjaDFaN3lSUENVT01McFpvb2V4dVJOLUhjd1BEVlJYNXp4ZkVmSkhtYmM0Yk8zZVcwanV1ag?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-09T11:53:00.000Z",
+      "summaryHint": "“泛函数”完成近亿元天使轮融资 &nbsp;&nbsp; eu.36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "天使轮"
     },
     {
       "id": "rss-qbitai-wtl07d",
@@ -186,19 +187,6 @@
       "tags": [
         "china",
         "funding"
-      ]
-    },
-    {
-      "id": "rss-techcrunch_ai-cl0ct",
-      "type": "news",
-      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-      "source": "techcrunch_ai",
-      "publishedAt": "2026-11-13T12:52:19.000Z",
-      "summaryHint": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
-      "tags": [
-        "funding",
-        "us"
       ]
     },
     {
@@ -352,74 +340,61 @@
       ]
     },
     {
-      "id": "rss-google_news_en_thesis-jp3r51",
-      "type": "news",
-      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzladm91WmRVUV9LaE5UdmNIZWFhODN3aF9jdV9UT1ZNUTJYZlRfSHBNY3puT3YzNHhyUHcxYVNXRElVMHk4UURhWHExZFR5OFh5RHc3NHhfN1hyUE9tMXRzblZvaWF6NFAteFhsOVB1T0l6ZVZzZ0o4RUpNQ1VDR2NjdVJsYlRVaV9PNmxuYl9wUQ?oc=5",
-      "source": "google_news_en_thesis",
-      "publishedAt": "2026-11-08T10:00:00.000Z",
-      "summaryHint": "World Models Will Soon Be Inescapable. Here’s What You Need to Know &nbsp;&nbsp; WIRED",
-      "tags": [
-        "us",
-        "funding"
-      ]
-    },
-    {
-      "id": "reddit-rss-oifupz",
+      "id": "reddit-rss-ut8ynw",
       "type": "social_en",
-      "title": "I built Photoshop for Gaussian Splats",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xw0hbz/i_built_photoshop_for_gaussian_splats/",
+      "title": "If you're using Spirula Studio, get the new version (2026.11.12) and set calibration correction to accurate - this is the difference to previous versions!",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xwv020/if_youre_using_spirula_studio_get_the_new_version/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-11-14T11:46:00.000Z",
-      "summaryHint": "Hi, I know most of us have had the problem that we wanted to remove smth from a scene or patch a hole. And I recently got an idea on how to fix that! Please let me know what u think, criticism is also appreciated but please don&#39;t be mea",
+      "publishedAt": "2026-11-15T13:04:18.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/nullrecord [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-4oymle",
+      "id": "reddit-rss-t5n9qf",
       "type": "social_en",
-      "title": "Cyberpunk 2077 running standalone on Apple Vision Pro — true 6DoF aiming & physical mag/slide reloads (No PC, no streaming)",
-      "url": "https://www.reddit.com/r/virtualreality/comments/1xvwgpc/cyberpunk_2077_running_standalone_on_apple_vision/",
-      "source": "reddit_r_virtualreality",
-      "publishedAt": "2026-11-14T07:35:02.000Z",
-      "summaryHint": "No PC, no ALVR/Moonlight streaming, no face-aiming. This is the Mac App Store arm64 build of Cyberpunk 2077 running directly on Vision Pro via custom Metal/VRIK shims (BYO copy of the game): - Stereo 6DoF VR rendering &amp; detached gun/arm",
+      "title": "Backstage from our last project [Sony A7 IV]",
+      "url": "https://www.reddit.com/r/videography/comments/1xwqrfx/backstage_from_our_last_project_sony_a7_iv/",
+      "source": "reddit_r_videography",
+      "publishedAt": "2026-11-15T08:53:58.000Z",
+      "summaryHint": "&#32; submitted by &#32; /u/1ovich [link] &#32; [comments]",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-817y8u",
+      "id": "reddit-rss-l7b45e",
       "type": "social_en",
-      "title": "AI + Gaussian Splats Are Starting to Feel Like a New Medium",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xvtmpw/ai_gaussian_splats_are_starting_to_feel_like_a/",
+      "title": "Adobe Suite for $15.99 USD a month for a year",
+      "url": "https://www.reddit.com/r/videography/comments/1xwlvmw/adobe_suite_for_1599_usd_a_month_for_a_year/",
+      "source": "reddit_r_videography",
+      "publishedAt": "2026-11-15T04:03:47.000Z",
+      "summaryHint": "If you&#39;re a student/teacher don&#39;t forget to claim your Adobe Suite for $15.99 a month, they made it super quick and painless to claim or to switch from other plans. &#32; submitted by &#32; /u/Brilliant-Act1445 [link] &#32; [comment",
+      "tags": [
+        "ai_social"
+      ]
+    },
+    {
+      "id": "reddit-rss-rz3grl",
+      "type": "social_en",
+      "title": "20-Person House Reconstruction from a 10 minute 360 X5 video - Splatify3D",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xwh63q/20person_house_reconstruction_from_a_10_minute/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-11-14T04:51:55.000Z",
-      "summaryHint": "&#32; submitted by &#32; /u/SpiritedTeacher70 [link] &#32; [comments]",
+      "publishedAt": "2026-11-15T00:01:28.000Z",
+      "summaryHint": "First of all I wanted to give a huge thanks to all of you who showed your support on my previous post about this. I&#39;ve continued to work on Splatify3D , a self made &amp; hosted tool that uses a custom built SLAM workflow to achieve ful",
       "tags": [
         "ai_social"
       ]
     },
     {
-      "id": "reddit-rss-ke12z",
+      "id": "reddit-rss-ftjebj",
       "type": "social_en",
-      "title": "Weekly VR - What Did you Play?",
-      "url": "https://www.reddit.com/r/virtualreality/comments/1xvghk0/weekly_vr_what_did_you_play/",
-      "source": "reddit_r_virtualreality",
-      "publishedAt": "2026-11-13T19:00:24.000Z",
-      "summaryHint": "Hey r/virtualreality ! Another week in the VR space. Did a certain game or experience stand out to you? This is your spot to chat, share, and discover. When sharing, you might consider sharing: Name of the game or experience. A brief insigh",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-x3kj54",
-      "type": "social_en",
-      "title": "SuperSplat now handles splat anti-aliasing automatically",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xvdcyg/supersplat_now_handles_splat_antialiasing/",
+      "title": "Blender 5.3 now supports Gaussian splats natively — 360° footage to Blender, no addons needed",
+      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xw768t/blender_53_now_supports_gaussian_splats_natively/",
       "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-11-13T17:04:35.000Z",
-      "summaryHint": "The video is a fly-through of Christoph Schindelar&#39;s Gothic Church in Kefermarkt splat (the most liked splat on SuperSplat!), running in the browser in the latest SuperSplat Viewer. Try it yourself: https://superspl.at/scene/c67edb74 I ",
+      "publishedAt": "2026-11-14T16:53:49.000Z",
+      "summaryHint": "Hey everyone! Blender 5.3 just released with native support for Gaussian splats, which is pretty cool to see. You can now bring them straight into Blender without installing any plugins or addons. I’ve been testing it with a couple of foota",
       "tags": [
         "ai_social"
       ]
