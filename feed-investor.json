@@ -1,7 +1,40 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T16:02:48.150Z",
+  "updatedAt": "2026-11-18T15:43:01.181Z",
   "items": [
+    {
+      "id": "rss-qbitai-t562o2",
+      "type": "funding",
+      "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+      "url": "https://www.qbitai.com/2026/11/510821.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-18T04:28:57.000Z",
+      "summaryHint": "具身全栈玩家",
+      "tags": [
+        "china",
+        "funding",
+        "deal_signal"
+      ],
+      "round": "A轮融资",
+      "amount": "230亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-a67s1f",
+      "type": "funding",
+      "title": "英伟达AMD首次联手押注，Genesis完成A轮融资，估值超230亿 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1SWWVOUGJiRzY3RFhaOFBqRW9kMmVuekNvVzRrTDdPZHN5N2Z3QzNMLUNWWUlUMFEyalNaZi1PM2M1QXd5QW1xYnZpbGFjdw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-18T03:31:17.000Z",
+      "summaryHint": "英伟达AMD首次联手押注，Genesis完成A轮融资，估值超230亿 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "A轮融资",
+      "amount": "230亿"
+    },
     {
       "id": "rss-qbitai-53rjpj",
       "type": "funding",
@@ -18,20 +51,20 @@
       "amount": "82亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-tsbsyj",
+      "id": "rss-google_news_cn_36kr_deals-ij9hh9",
       "type": "funding",
-      "title": "ARTi 完成数百万美元 Pre-A 轮融资，致力于打造会自我复盘的 AI 投研平台 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jOGh5Z1l0NzlqTTdzR2xLZE9LSFBhZFVtd1NUZVNzX2p3Y0RvRU1oNEdyTUZiREVuRi1WLXplQWc5amdLT3RNcl96ZUZkUQ?oc=5",
+      "title": "刚刚 诺奖得主的AI公司完成333亿巨额融资 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84cThrc0c3MHpIemhORXc4ZEZLUG5LZUNDNC1DeDNmLVU1YnVSWGcxX3RqbGpuS3U5QllBYVdxNUlLd0lBS1A1THZ5ODh5LVR2R0FZ?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-17T03:10:55.000Z",
-      "summaryHint": "ARTi 完成数百万美元 Pre-A 轮融资，致力于打造会自我复盘的 AI 投研平台 &nbsp;&nbsp; 36氪",
+      "publishedAt": "2026-11-17T07:46:00.000Z",
+      "summaryHint": "刚刚 诺奖得主的AI公司完成333亿巨额融资 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
       ],
-      "round": "Pre-A"
+      "amount": "333亿"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-vb2myq",
@@ -65,51 +98,20 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-fc0js7",
+      "id": "rss-google_news_cn_36kr_deals-c61pne",
       "type": "funding",
-      "title": "估值一年翻倍，美国AI独角兽拿下20亿新融资 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HNGZ2ay1sOGRweDhpT1N6Z0V1MVd0bWxYdE1YN0t2NHNoTW5JYkM3UkhkcmpMYUFTQXdPaUQtcmxzSmhCRUJaZms3VEdLUQ?oc=5",
+      "title": "狂揽80亿融资！前Anthropic员工押注RSI赛道 谷歌英伟达双双入局投资 - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RZTgwVFlOLWExQ3ZWSlNJZUYtdm1WVmUzZDZZTXE2YVJ5aEllcFRFNkJSeFhEY21nWFVydEtCVENfaFJiNW1DWGN2Y2p4SzlVajJv?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-16T11:42:00.000Z",
-      "summaryHint": "估值一年翻倍，美国AI独角兽拿下20亿新融资 &nbsp;&nbsp; 36氪",
+      "publishedAt": "2026-11-16T12:02:00.000Z",
+      "summaryHint": "狂揽80亿融资！前Anthropic员工押注RSI赛道 谷歌英伟达双双入局投资 &nbsp;&nbsp; eu.36kr.com",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
       ],
-      "amount": "20亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-mrc5uj",
-      "type": "funding",
-      "title": "上海隐形冠军浮现：融资近亿元 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ITmlEYXZqVzlIVHJiSEY4cFNFWVVFM1VTcDRYRDFaamZ3NkF3dURpczRsTThjQ1pUeTR4SUVxZ3Rjc204OU5aUnNrNE9yQQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-16T11:33:00.000Z",
-      "summaryHint": "上海隐形冠军浮现：融资近亿元 &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-8rh6ce",
-      "type": "funding",
-      "title": "7亿融资落地！AI自进化创企获新资金注入 陈丹琦官宣重磅加入 - eu.36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rdkJOWkhFNVRUOG5VLUVvU2prTmRNQ2ZwSHBOX0REX2RUVXZiQ2FLNUhCbHlmUHBXYVNRalVwYzZpZHp3R1lhSlZPcWsyMkx4YzM4?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-16T10:42:00.000Z",
-      "summaryHint": "7亿融资落地！AI自进化创企获新资金注入 陈丹琦官宣重磅加入 &nbsp;&nbsp; eu.36kr.com",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "7亿"
+      "amount": "80亿"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-ree5q3",
@@ -174,6 +176,22 @@
       ]
     },
     {
+      "id": "rss-google_news_cn_36kr_deals-bc4uug",
+      "type": "funding",
+      "title": "晶泰孵化的虚拟细胞公司完成Pre-A轮融资，华盖、红杉、星连等投资超亿元｜36氪首发 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ieV93ckZVZVNJeUZqeGJmcGNqZEVpeHF5RUJhT3VwQ3R6eGxuc0Rxa3NoY29Mc0ZVbFc2SzdWZUF4ZkVOY2hydlZIN1BrUQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-15T08:30:00.000Z",
+      "summaryHint": "晶泰孵化的虚拟细胞公司完成Pre-A轮融资，华盖、红杉、星连等投资超亿元｜36氪首发 &nbsp;&nbsp; 36氪",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "Pre-A"
+    },
+    {
       "id": "rss-google_news_cn_36kr_deals-ikp2nx",
       "type": "funding",
       "title": "国产芯片融资潮，来势凶猛 - 36氪",
@@ -204,20 +222,95 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-rv41rv",
-      "type": "funding",
-      "title": "英伟达新掌门会给AI融资踩刹车？她曾将2500亿美元数据中心担保砍半，被黄仁勋嘲讽“只会做财务”，是“惊弓之鹿” - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UeWd2YTlhbFdaY0RJRnhDOGZrSmF1US02Snh4NktENXNhdnM5RDZmdkNqem9mS3dVRWVvQV9nVk1sMXdYRGxkeU9iUDdzZw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-12T16:36:00.000Z",
-      "summaryHint": "英伟达新掌门会给AI融资踩刹车？她曾将2500亿美元数据中心担保砍半，被黄仁勋嘲讽“只会做财务”，是“惊弓之鹿” &nbsp;&nbsp; 36Kr",
+      "id": "rss-qbitai-cl9vuo",
+      "type": "news",
+      "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+      "url": "https://www.qbitai.com/2026/11/510922.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-18T09:41:55.000Z",
+      "summaryHint": "氖人寻味！",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "2500亿"
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-qbkxab",
+      "type": "news",
+      "title": "GPT-6.2难产！OpenAI怕了",
+      "url": "https://www.qbitai.com/2026/11/510914.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-18T07:53:29.000Z",
+      "summaryHint": "OpenAI也终于活成了2022年谷歌的样子",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-pdhohx",
+      "type": "news",
+      "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+      "url": "https://www.qbitai.com/2026/11/510916.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-18T07:24:50.000Z",
+      "summaryHint": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-egrsg1",
+      "type": "news",
+      "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+      "url": "https://www.qbitai.com/2026/11/510811.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-18T04:49:51.000Z",
+      "summaryHint": "入职Meta刚满一年出头，竟然直接提桶跑路了！",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-hu7m72",
+      "type": "news",
+      "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+      "url": "https://www.qbitai.com/2026/11/510737.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-18T02:49:23.000Z",
+      "summaryHint": "小红书校招沙龙，一群技术高手认真对待年轻人的野心",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-2orpku",
+      "type": "news",
+      "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
+      "url": "https://www.qbitai.com/2026/11/510726.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-18T01:03:42.000Z",
+      "summaryHint": "英伟达公布了老黄离职后的首份财报",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-q6z8h1",
+      "type": "news",
+      "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+      "url": "https://www.qbitai.com/2026/11/510707.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-18T00:49:14.000Z",
+      "summaryHint": "Sol逼近旗舰性能",
+      "tags": [
+        "china",
+        "funding"
+      ]
     },
     {
       "id": "rss-qbitai-85hvbx",
@@ -233,190 +326,31 @@
       ]
     },
     {
-      "id": "rss-qbitai-g05lly",
+      "id": "rss-google_news_cn_36kr_deals-1m6uge",
       "type": "news",
-      "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
-      "url": "https://www.qbitai.com/2026/11/510652.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-17T06:09:40.000Z",
-      "summaryHint": "筛材料、找配方、开发新模型…拿下多项科研任务",
+      "title": "从63家AI硬件创业公司，我看到了这两个变化 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wSUVhM3lueG1XNkFuVXlnNGtxOElnQ0RlWm5wOGktQS1KSjVod0huQ09RLVNpV1lfVUlBNGo5T0hrYWVGNFBoMFoydjREUQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-17T11:31:00.000Z",
+      "summaryHint": "从63家AI硬件创业公司，我看到了这两个变化 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
-        "funding"
+        "funding",
+        "deal_rss"
       ]
     },
     {
-      "id": "rss-qbitai-rdl9wk",
+      "id": "rss-google_news_cn_36kr_deals-li81lx",
       "type": "news",
-      "title": "真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！",
-      "url": "https://www.qbitai.com/2026/11/510610.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-17T04:35:03.000Z",
-      "summaryHint": "斩获80000元奖金",
+      "title": "AI4S火热，离“ChatGPT时刻”还有多远？ - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84ODR6MXpyU1dtNmlKbTgzUHdRRGpBZFhCejh3SE9pZGpjbXJaZm5fN0hzaFk3SFNnMFpwOXA1bmQ1d2dZaUR4QjlES0o1dw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-16T09:21:00.000Z",
+      "summaryHint": "AI4S火热，离“ChatGPT时刻”还有多远？ &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-p4zsj9",
-      "type": "news",
-      "title": "奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…",
-      "url": "https://www.qbitai.com/2026/11/510592.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-17T02:33:13.000Z",
-      "summaryHint": "奥特曼首谈黄仁勋离职",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-1dvsdl",
-      "type": "news",
-      "title": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
-      "url": "https://www.qbitai.com/2026/11/510561.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-17T02:03:22.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-rhv5oa",
-      "type": "news",
-      "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
-      "url": "https://www.qbitai.com/2026/11/510542.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-16T10:57:31.000Z",
-      "summaryHint": "具身智能的真正价值是“把人的经验、技能复刻出来”",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-g2mtfk",
-      "type": "news",
-      "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
-      "url": "https://www.qbitai.com/2026/11/510526.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-16T08:45:17.000Z",
-      "summaryHint": "12月1日，细数AI的未竟之问。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-iyo9yg",
-      "type": "news",
-      "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
-      "url": "https://www.qbitai.com/2026/11/510496.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-16T08:02:07.000Z",
-      "summaryHint": "在华为待了快10000天。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-hjjerv",
-      "type": "news",
-      "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
-      "url": "https://www.qbitai.com/2026/11/510493.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-16T07:58:57.000Z",
-      "summaryHint": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "reddit-rss-hba1mu",
-      "type": "social_en",
-      "title": "Soft-body blob that grows limbs and morphs into a humanoid, made in 5 days for the jam (UE5)",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1xynjuo/softbody_blob_that_grows_limbs_and_morphs_into_a/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-11-17T15:36:36.000Z",
-      "summaryHint": "I’ve been building a soft-body deformation tool for a few months, and the 2026 Epic AI MegaJam was my excuse to finally put it into a real game. Goop’s is a 3D action platformer where you play a small blob. It switches between rubber, gummy",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-kn4c2l",
-      "type": "social_en",
-      "title": "Mirrorless Camera vs 360 Camera",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xyne0h/mirrorless_camera_vs_360_camera/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-11-17T15:30:19.000Z",
-      "summaryHint": "What&#39;s the consensus on if a Mirrorless camera (or good quality phone) is better than a 360 camera for splatting? I know Spirula Studio can use 360 now. And if video is better than capturing lots of stills? &#32; submitted by &#32; /u/T",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-drzuz8",
-      "type": "social_en",
-      "title": "Why Unreal constructs one million objects to copy one thousand assets",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1xyiomq/why_unreal_constructs_one_million_objects_to_copy/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-11-17T12:02:19.000Z",
-      "summaryHint": "Copying assets in Unreal can often take a while. Interestingly the pure size of the copied assets isn&#39;t necessarily the biggest factor of how long the copy process takes. A much stronger factor can be - even though it sounds weird - the",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-8ewh3h",
-      "type": "social_en",
-      "title": "Why there aren't more AR apps built around 3DGS?",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xyg19r/why_there_arent_more_ar_apps_built_around_3dgs/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-11-17T09:25:49.000Z",
-      "summaryHint": "You can try it yourself here: https://cebx3001.github.io/Gaussian-AR/ If you are interested in the intersection of 3D XR and AI make sure to check out my newsletter as well: https://xraispotlight.substack.com/ &#32; submitted by &#32; /u/Du",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-rep7m2",
-      "type": "social_en",
-      "title": "Is it too late to learn Blueprints?",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1xydrii/is_it_too_late_to_learn_blueprints/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-11-17T07:00:59.000Z",
-      "summaryHint": "I recently started learning Unreal Engine Blueprints, and honestly, I&#39;ve been having a lot of fun with them. The problem is that I&#39;m not very comfortable with traditional coding. I&#39;ve tried learning it, but I struggle to remembe",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-cjj7ma",
-      "type": "social_en",
-      "title": "Dinovi is on the App Store: free, fully local, and I think it beats Polycam and Scaniverse!",
-      "url": "https://www.reddit.com/r/GaussianSplatting/comments/1xy0njr/dinovi_is_on_the_app_store_free_fully_local_and_i/",
-      "source": "reddit_r_GaussianSplatting",
-      "publishedAt": "2026-11-16T20:42:55.000Z",
-      "summaryHint": "Hey everyone, Dinovi just got approved on the App Store, so anyone can try it now. (last update was Ultra Wide ANGLE dinovi now support ULTRA WIDE ANGLE FOR LIDAR and RGB on iPhone !! EASIER CAPTURE THAN EVER !! : r/GaussianSplatting ) http",
-      "tags": [
-        "ai_social"
-      ]
-    },
-    {
-      "id": "reddit-rss-koa0a7",
-      "type": "social_en",
-      "title": "PSA: Avoid Narrative plugins",
-      "url": "https://www.reddit.com/r/unrealengine/comments/1xxyr8o/psa_avoid_narrative_plugins/",
-      "source": "reddit_r_unrealengine",
-      "publishedAt": "2026-11-16T19:32:14.000Z",
-      "summaryHint": "Just a warning for anyone considering buying Narrative plugins: despite being quite good for a long time, they&#39;ve also been abandoned for a long time. When confronted on their Discord about the lack of any kind of updates or bug fixes, ",
-      "tags": [
-        "ai_social"
+        "funding",
+        "deal_rss"
       ]
     }
   ]
