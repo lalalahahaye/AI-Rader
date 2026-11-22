@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T14:42:13.094Z",
+  "updatedAt": "2026-11-22T14:38:16.928Z",
   "items": [
     {
       "id": "rss-google_news_cn_36kr_deals-hb7461",
@@ -49,6 +49,22 @@
         "deal_signal"
       ],
       "amount": "50亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-aqw9z4",
+      "type": "funding",
+      "title": "累计融资超10亿美元，为什么NVIDIA、AMD、Intel都下注这家CPO公司？ - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10UnJRSnBoVUxRZmYzTjF4U04ycWRySTM4UHdEZWFldHhBOHFSdFRKTV85azRvZFJBVXgtMDVnVmtxTC1KNzZUdlJvRTVXQQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-19T19:15:00.000Z",
+      "summaryHint": "累计融资超10亿美元，为什么NVIDIA、AMD、Intel都下注这家CPO公司？ &nbsp;&nbsp; 36氪",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "10亿"
     },
     {
       "id": "rss-google_news_cn_36kr_deals-7i7c20",
@@ -114,37 +130,6 @@
       "amount": "3亿元"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-cn6sbr",
-      "type": "funding",
-      "title": "星辰智算完成数百万战略融资 全力打造具身智能领域“脑认知黑盒” - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGeFF1TmluMlktM0VQcUZucmNwVktNcWZrSmx1UWIyd1lOU3NPcnNEaVhfdFNUbW5CZnE4d2hDTkNVVkRZenIwdlFZZXQxMGZ6c05N?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-18T11:33:00.000Z",
-      "summaryHint": "星辰智算完成数百万战略融资 全力打造具身智能领域“脑认知黑盒” &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-4dqg1g",
-      "type": "funding",
-      "title": "「镁伽科技」完成近2亿美元融资，建设直接面向真实世界的AI智能基础设施｜36氪首发 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qMFZUb3A4dVlsa2pkQ2Vnd05QcThFRWNJYTdyTFB2eDFvTUM0NDVvNkJDUWdJU2Z6VEhuZE44aEtpNENsVi1HU0dSOVRZQQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-18T08:30:00.000Z",
-      "summaryHint": "「镁伽科技」完成近2亿美元融资，建设直接面向真实世界的AI智能基础设施｜36氪首发 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "2亿"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-a67s1f",
       "type": "funding",
       "title": "英伟达AMD首次联手押注，Genesis完成A轮融资，估值超230亿 - 36Kr",
@@ -162,36 +147,143 @@
       "amount": "230亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-ij9hh9",
+      "id": "rss-google_news_cn_36kr_deals-e4figb",
       "type": "funding",
-      "title": "刚刚 诺奖得主的AI公司完成333亿巨额融资 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84cThrc0c3MHpIemhORXc4ZEZLUG5LZUNDNC1DeDNmLVU1YnVSWGcxX3RqbGpuS3U5QllBYVdxNUlLd0lBS1A1THZ5ODh5LVR2R0FZ?oc=5",
+      "title": "“耀速科技”完成新一轮数千万元战略融资 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZRkotYlppWm5SQWFoZkJFZ1VpYUpRc29RcDhFcm5VMk4yYlQtdnZlN3BRenVlNHY1REpkV3lBNHZfdW1nVUhvbUJuRUJlQlNlZWlmVWN1Y1g?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-17T07:46:00.000Z",
-      "summaryHint": "刚刚 诺奖得主的AI公司完成333亿巨额融资 &nbsp;&nbsp; 36Kr",
+      "publishedAt": "2026-11-17T10:50:00.000Z",
+      "summaryHint": "“耀速科技”完成新一轮数千万元战略融资 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
         "deal_rss",
         "deal_signal"
-      ],
-      "amount": "333亿"
+      ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-vb2myq",
-      "type": "funding",
-      "title": "融资首发｜3D打印批量化制造向具身智能拓展，博理科技连续完成超5亿元融资 - eu.36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nY0JWNXIxVlhDUXNXSG1FQkc5SXpSMU95Z1ZQSWdZWWZGTlUwSmhlU1RRclZDT1Bzdmk0SkVuSHM5aF9PcFBvbS02cTExZFVsdmFn?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-16T18:07:00.000Z",
-      "summaryHint": "融资首发｜3D打印批量化制造向具身智能拓展，博理科技连续完成超5亿元融资 &nbsp;&nbsp; eu.36kr.com",
+      "id": "rss-qbitai-50tod",
+      "type": "news",
+      "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+      "url": "https://www.qbitai.com/2026/11/511904.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-22T06:21:47.000Z",
+      "summaryHint": "用葡萄糖发电控制血糖。",
       "tags": [
         "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "5亿元"
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-14vsmh",
+      "type": "news",
+      "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+      "url": "https://www.qbitai.com/2026/11/511870.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-22T06:03:54.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-puonum",
+      "type": "news",
+      "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
+      "url": "https://www.qbitai.com/2026/11/511855.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-21T14:14:09.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-we7lh9",
+      "type": "news",
+      "title": "中国计算，走出新的登峰之路",
+      "url": "https://www.qbitai.com/2026/11/511849.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-21T14:09:59.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-slumbp",
+      "type": "news",
+      "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+      "url": "https://www.qbitai.com/2026/11/511841.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-21T11:40:11.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-dgepph",
+      "type": "news",
+      "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
+      "url": "https://www.qbitai.com/2026/11/511830.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-21T11:34:18.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-253iej",
+      "type": "news",
+      "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
+      "url": "https://www.qbitai.com/2026/11/511791.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-21T11:24:29.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-nfc2vz",
+      "type": "news",
+      "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+      "url": "https://www.qbitai.com/2026/11/511779.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-21T06:35:59.000Z",
+      "summaryHint": "还实现可变形物体操控全球首通",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-eavkl0",
+      "type": "news",
+      "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+      "url": "https://www.qbitai.com/2026/11/511570.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-21T06:32:31.000Z",
+      "summaryHint": "专为本地部署而生",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-haw5up",
+      "type": "news",
+      "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+      "url": "https://www.qbitai.com/2026/11/511757.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-21T06:30:55.000Z",
+      "summaryHint": "还透露了不少训练背后的秘诀",
+      "tags": [
+        "china",
+        "funding"
+      ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-qc9mqj",
@@ -208,6 +300,20 @@
       ]
     },
     {
+      "id": "rss-google_news_cn_36kr_deals-6072qg",
+      "type": "news",
+      "title": "小米的MiMo人才激励考题 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiTkkxSjZZWlNGblRLamVZc1hlUE4zV0lydTZzYUUxR3J2VzNEV25LWWR3Z2FQaTN6QWlKUDFSTWxneGI0NnQ0NmdqTkoydw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-17T20:33:00.000Z",
+      "summaryHint": "小米的MiMo人才激励考题 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
       "id": "rss-google_news_cn_36kr_deals-1m6uge",
       "type": "news",
       "title": "从63家AI硬件创业公司，我看到了这两个变化 - 36Kr",
@@ -215,6 +321,20 @@
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-11-17T11:31:00.000Z",
       "summaryHint": "从63家AI硬件创业公司，我看到了这两个变化 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-at0gy3",
+      "type": "news",
+      "title": "刚刚，诺奖得主的AI公司融了333亿 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81c05qbG1yM3VNSzFDb1hnSE9NVGJYYVJLUVU4WURGekpNN2JReURBNk1oc0IwV3Nlbzl4ckU0ZElVSGNOQy1JRUJIbENfUQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-17T07:46:00.000Z",
+      "summaryHint": "刚刚，诺奖得主的AI公司融了333亿 &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
