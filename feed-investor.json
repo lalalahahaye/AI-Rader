@@ -1,7 +1,56 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T17:48:57.035Z",
+  "updatedAt": "2026-11-25T17:16:27.877Z",
   "items": [
+    {
+      "id": "rss-google_news_cn_36kr_deals-a4rdgs",
+      "type": "funding",
+      "title": "迅合科技完成数千万元种子轮融资，打造企业老板专属的 Boss Personal Agent - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuWmYzNU9na2otUnBuLWtWeTJEVkNad1ZaRnprdlpxQjNsN1VzcTBSLVlfQU5USkZWRmJPQWpMclc2XzlOamNicHRsTmVKUQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-25T08:49:19.000Z",
+      "summaryHint": "迅合科技完成数千万元种子轮融资，打造企业老板专属的 Boss Personal Agent &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "种子轮"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-axsekh",
+      "type": "funding",
+      "title": "Delos Data获得超1亿美元A轮融资，把Scale-up从单机柜推向大规模推理集群 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pSy1lcFIzdk84eWJrajVCNkdJNUFyck94YmdTZ0JrN3ZCdlVMcDNiYktBQlNEa1hLTExyWUtzUUVnZnp0MTdxZndXTlNuUQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-24T17:40:00.000Z",
+      "summaryHint": "Delos Data获得超1亿美元A轮融资，把Scale-up从单机柜推向大规模推理集群 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "A轮融资",
+      "amount": "1亿"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-3l2qp1",
+      "type": "funding",
+      "title": "AI接管门店营销执行，梗必爆拟融资2000万 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tUVVhNy1LcEVYbHlHNWstTzJqa0xERU9TZW1RNERHbFdZRUhvRmZhbFN3WHlsZ1VZVHgxUVlXei0wNUpGeDkyQ3hUd0VqOEt4UzM0?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-23T15:41:00.000Z",
+      "summaryHint": "AI接管门店营销执行，梗必爆拟融资2000万 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "amount": "2000万"
+    },
     {
       "id": "rss-google_news_cn_36kr_deals-tk61ms",
       "type": "funding",
@@ -19,13 +68,43 @@
       "amount": "4亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-a4szne",
+      "id": "rss-google_news_cn_36kr_deals-k1zd7c",
       "type": "funding",
-      "title": "源杰科技独家直投芯钬量子A++轮融资-36氪 - 36kr",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00cVNONkp0QjNiUWppb0h5aEEtbFloOXF2X2lDRzhQSGNrd3pzR2Q3YlF0UmVRa1RnMm1CU3UzNUxuZ1h3d0FUTXlBckR4TklYcFhiSGRrYXY?oc=5",
+      "title": "李泽湘、红杉押注的AI体育硬件再获超亿元融资，众筹百万美元，已出货数万台｜硬氪首发-36氪 - 36kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6eGlyR0p0bEpHQ3RjLWFYd1k4UTljZGQ5am9kSHFHZGdpUzYxelFQY1RYOVM2cnlWRlBQY21LT1pTcnhFTERqeV9qTzFMT0pk?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-20T12:33:00.000Z",
-      "summaryHint": "源杰科技独家直投芯钬量子A++轮融资-36氪 &nbsp;&nbsp; 36kr",
+      "publishedAt": "2026-11-23T05:10:44.000Z",
+      "summaryHint": "李泽湘、红杉押注的AI体育硬件再获超亿元融资，众筹百万美元，已出货数万台｜硬氪首发-36氪 &nbsp;&nbsp; 36kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-nf4dc1",
+      "type": "funding",
+      "title": "完成三轮融资，99后创业者用AI重新定义投资交易｜36氪首发 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KaGZTSkFnYWtLd2NxS0tjd0Y5Nk5ERW5yOFg3b1IxVWplTWVqRDhGUksxd0JkYlppQVBfd1NtM1BKTkUyUDNodHRXaTl2QQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-22T15:37:00.000Z",
+      "summaryHint": "完成三轮融资，99后创业者用AI重新定义投资交易｜36氪首发 &nbsp;&nbsp; 36氪",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-j7831h",
+      "type": "funding",
+      "title": "数治云完成新一轮融资 以轻量本体技术填补工业AI数据断层 - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RR196Ul9yalFFZHFUckNvWmF6V3o3c3Q2S2ZnTWVCaTBSTms1UE1BVHBsdTRNZjdmRElmU0ZFWXh5bGZ6WXlFNHRHTEE1T2wwVWhv?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-22T14:07:00.000Z",
+      "summaryHint": "数治云完成新一轮融资 以轻量本体技术填补工业AI数据断层 &nbsp;&nbsp; eu.36kr.com",
       "tags": [
         "china",
         "funding",
@@ -50,22 +129,6 @@
       "amount": "33亿"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-wztfnz",
-      "type": "funding",
-      "title": "估值50亿美元，阿里最年轻的P10，离职半年再获融资 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlOXNZN0lzejlzOTN5b2wxTmFpTC1YamFYUlVVN1ZKREk4dldFTzFraUpqaTB2YWxZeURoR0NqbHhlejMxRUNKTWgwRmx6UQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-19T21:06:00.000Z",
-      "summaryHint": "估值50亿美元，阿里最年轻的P10，离职半年再获融资 &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "50亿"
-    },
-    {
       "id": "rss-google_news_cn_36kr_deals-7i7c20",
       "type": "funding",
       "title": "打败柯洁的男人，融资333亿，打破纪录 - 36氪",
@@ -80,21 +143,6 @@
         "deal_signal"
       ],
       "amount": "333亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-n6vwb4",
-      "type": "funding",
-      "title": "订单靠融资托举？英伟达之后AMD也被做空，股价大跌近8% - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WTmJINFJxb05MbHVaWUdWVHdkTnZ2ckJ0TFRrUmNpSmFKTGI2bUN3ZVJpSE5CbHpUbnNuMy1KcFlENTZsRXcwTUNHZEFOZw?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-19T11:05:00.000Z",
-      "summaryHint": "订单靠融资托举？英伟达之后AMD也被做空，股价大跌近8% &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ]
     },
     {
       "id": "rss-google_news_cn_36kr_deals-hb7461",
@@ -113,180 +161,160 @@
       "amount": "1050亿元"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-c1m72o",
-      "type": "funding",
-      "title": "DeepSeek千亿融资落停：完美横店华策是怎么挤进去的 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnZURDVzgtdzNsNnVJOTBZaVBJQ3BCMjVQWWkzYl83bUhpYWNNd3hXOGFPYWFrUk5jVC0yZV9pLUdES3lLbFgzQnhxZEFlQQ?oc=5",
+      "id": "rss-qbitai-eepcdb",
+      "type": "news",
+      "title": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手",
+      "url": "https://www.qbitai.com/2026/11/512727.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-25T14:51:06.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-17s6n4",
+      "type": "news",
+      "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
+      "url": "https://www.qbitai.com/2026/11/512715.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-25T14:32:57.000Z",
+      "summaryHint": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-ski2d0",
+      "type": "news",
+      "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+      "url": "https://www.qbitai.com/2026/11/512582.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-25T14:21:20.000Z",
+      "summaryHint": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-q613e",
+      "type": "news",
+      "title": "逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试",
+      "url": "https://www.qbitai.com/2026/11/512683.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-25T14:20:24.000Z",
+      "summaryHint": "贯通具⾝智能研发流程",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-yvk82a",
+      "type": "news",
+      "title": "AI若暴雷，美国经济真伤不起？-36氪 - www.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02Q2NXenk5YXgwZ1k1NnR1UjN4ZVJsaTVwTWNpWUJTZHVyMDNtb1YwVVN3TnJZSG55VlhRaTI2QmZvRHF4NndDd3NJbVV3T00?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-18T20:21:00.000Z",
-      "summaryHint": "DeepSeek千亿融资落停：完美横店华策是怎么挤进去的 &nbsp;&nbsp; 36氪",
+      "publishedAt": "2026-11-25T12:23:59.000Z",
+      "summaryHint": "AI若暴雷，美国经济真伤不起？-36氪 &nbsp;&nbsp; www.36kr.com",
       "tags": [
         "china",
         "funding",
-        "deal_rss",
-        "deal_signal"
+        "deal_rss"
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-onoul2",
-      "type": "funding",
-      "title": "AI虚拟细胞：从“解释生命”到“预测生命”| CMC资本参投元示科技近3亿元Pre-A轮融资 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KSkFnc3ZVSUROYWdHLUlhLVpsb1k2bzRkQzRpWk5iM2J4MDV0SmFnc3R4TDM0d3pZRUwtMDI3TVh4RWVLSG5MMWs4MjY0Zw?oc=5",
+      "id": "rss-qbitai-eiyacn",
+      "type": "news",
+      "title": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了",
+      "url": "https://www.qbitai.com/2026/11/512565.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-25T11:07:14.000Z",
+      "summaryHint": "揭秘General Looped Model",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-s33p4v",
+      "type": "news",
+      "title": "Anthropic还藏着2个最强模型…",
+      "url": "https://www.qbitai.com/2026/11/512538.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-25T08:23:24.000Z",
+      "summaryHint": "Fable5.2已经很旧了。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-uxdfi1",
+      "type": "news",
+      "title": "完整议程！第二十一届中国IDC产业年度大典（IDCC2026）",
+      "url": "https://www.qbitai.com/2026/11/512532.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-25T08:18:54.000Z",
+      "summaryHint": "第二十一届中国IDC产业年度大典（IDCC2026）暨2026全球数字基础设施科技展即将举办",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-c62x7m",
+      "type": "news",
+      "title": "A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆",
+      "url": "https://www.qbitai.com/2026/11/512515.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-25T07:46:52.000Z",
+      "summaryHint": "OpenAI这下要有俩Tibo了",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-v5nj54",
+      "type": "news",
+      "title": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
+      "url": "https://www.qbitai.com/2026/11/512498.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-25T06:49:27.000Z",
+      "summaryHint": "复杂场景三维建模成本降至10美元以内",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-1suyp2",
+      "type": "news",
+      "title": "Claude Opus 5.6灰测效果来了",
+      "url": "https://www.qbitai.com/2026/11/512478.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-25T02:43:07.000Z",
+      "summaryHint": "整体效率大约是此前Opus版本的2到3倍。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-3rdba0",
+      "type": "news",
+      "title": "黄仁勋重返英伟达，“欢呼声”没撑过24小时，人工智能信贷市场巨震，知名策略师发出最新警告 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfeFJBQndFRXBmR25sOHJSQjJlMkJ6TkdWM25fUzRQb0xBTnNPX24taU16S1F0ODhvTVowYUhSN1BFbGNRWUdRUDZxQ2h3UQ?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-18T13:30:00.000Z",
-      "summaryHint": "AI虚拟细胞：从“解释生命”到“预测生命”| CMC资本参投元示科技近3亿元Pre-A轮融资 &nbsp;&nbsp; 36Kr",
+      "publishedAt": "2026-11-24T17:39:00.000Z",
+      "summaryHint": "黄仁勋重返英伟达，“欢呼声”没撑过24小时，人工智能信贷市场巨震，知名策略师发出最新警告 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "Pre-A",
-      "amount": "3亿元"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-4dqg1g",
-      "type": "funding",
-      "title": "「镁伽科技」完成近2亿美元融资，建设直接面向真实世界的AI智能基础设施｜36氪首发 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qMFZUb3A4dVlsa2pkQ2Vnd05QcThFRWNJYTdyTFB2eDFvTUM0NDVvNkJDUWdJU2Z6VEhuZE44aEtpNENsVi1HU0dSOVRZQQ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-18T08:30:00.000Z",
-      "summaryHint": "「镁伽科技」完成近2亿美元融资，建设直接面向真实世界的AI智能基础设施｜36氪首发 &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "2亿"
-    },
-    {
-      "id": "rss-qbitai-ut4hip",
-      "type": "news",
-      "title": "Google Cloud 出海峰会报名开启",
-      "url": "https://www.qbitai.com/2026/11/512370.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-24T06:52:29.000Z",
-      "summaryHint": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-qhoj0s",
-      "type": "news",
-      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
-      "url": "https://www.qbitai.com/2026/11/512362.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-24T06:35:06.000Z",
-      "summaryHint": "端侧老炮辛米尔，打通物理AI规模化落地之路",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-crdhl5",
-      "type": "news",
-      "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
-      "url": "https://www.qbitai.com/2026/11/512354.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-24T06:22:28.000Z",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-ub24",
-      "type": "news",
-      "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
-      "url": "https://www.qbitai.com/2026/11/512348.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-24T06:15:38.000Z",
-      "summaryHint": "11月19日，方程豹钛9上市，售价27.99万元起",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-2e2f13",
-      "type": "news",
-      "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
-      "url": "https://www.qbitai.com/2026/11/512343.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-24T06:12:16.000Z",
-      "summaryHint": "2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-swl93z",
-      "type": "news",
-      "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
-      "url": "https://www.qbitai.com/2026/11/512329.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-24T03:33:48.000Z",
-      "summaryHint": "12.9 北京，来MEET2027现场",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-ihlkfp",
-      "type": "news",
-      "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
-      "url": "https://www.qbitai.com/2026/11/512330.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-24T03:30:46.000Z",
-      "summaryHint": "中国AI数据平台加速崛起",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-avjqub",
-      "type": "news",
-      "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
-      "url": "https://www.qbitai.com/2026/11/512305.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-24T03:21:12.000Z",
-      "summaryHint": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-qyn1dh",
-      "type": "news",
-      "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
-      "url": "https://www.qbitai.com/2026/11/512297.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-24T02:36:08.000Z",
-      "summaryHint": "「2026 奇点智能技术大会」与「2026 C++ 及系统软件技术大会」在北京万达文华酒店成功举办。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-1dup91",
-      "type": "news",
-      "title": "具身行业，终于等来了自己的通用智能时刻",
-      "url": "https://www.qbitai.com/2026/11/512264.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-24T01:51:56.000Z",
-      "summaryHint": "行业苦等多年的预训练通用智能，终于有了答案",
-      "tags": [
-        "china",
-        "funding"
+        "deal_rss"
       ]
     },
     {
