@@ -1,12 +1,43 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T16:57:32.257Z",
+  "updatedAt": "2026-11-27T16:43:03.197Z",
   "items": [
     {
-      "id": "rss-google_news_cn_36kr_deals-735ejg",
+      "id": "rss-google_news_cn_36kr_deals-ivl5q6",
+      "type": "funding",
+      "title": "大白话、3000元跑通长任务，AI 项目「共同体」寻融资 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5cGNBejFEbVk5d1F2bGoxb21FYnZGRXMzZElJVXItN0hFeTE2N3RXX1JwUy1DSkUtLVg0MlZGZU5WNHdpSm00LXVjOA?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-26T14:12:00.000Z",
+      "summaryHint": "大白话、3000元跑通长任务，AI 项目「共同体」寻融资 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-bu2qv1",
+      "type": "funding",
+      "title": "把 Personal Agent 塞进随身硬件，OneSay 寻求种子轮融资-36氪 - www.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvazMxeWItMmFzUjVXLWpMOGFWanR6QVBmd2NqZE5OQ0ZvdmpZdGxXdjBlbG1nZFpPdVgwU1FTVGtPY0dJaTY5WXRENFJleXU4?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-26T06:15:30.000Z",
+      "summaryHint": "把 Personal Agent 塞进随身硬件，OneSay 寻求种子轮融资-36氪 &nbsp;&nbsp; www.36kr.com",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss",
+        "deal_signal"
+      ],
+      "round": "种子轮"
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-a3iqzj",
       "type": "funding",
       "title": "三位前苹果研究员创业，拿下英伟达 6000 万美元融资，AI 一对一教学迎来新变量 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IeEZkQUN4YUlmQlpLbUJNT0FwZVZjVEloTl9hRjZJNi1tMHI2ZUdlbXczQ001NVQ5S1BjRlN6OWNnWjhHX0d4akIyR18xZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00MzMwOFNtMmlYSWNOYUlEZ2J3X0I5Q1JkaUl4RG1IZ3pZSUs5NHFYWUhieHNYTjAwdGkwQnR0WldBV1MxVmowU0xOOW0yTHZE?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-11-25T20:50:00.000Z",
       "summaryHint": "三位前苹果研究员创业，拿下英伟达 6000 万美元融资，AI 一对一教学迎来新变量 &nbsp;&nbsp; 36Kr",
@@ -35,94 +66,13 @@
       "round": "B轮融资"
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-w0fxt5",
+      "id": "rss-google_news_cn_36kr_deals-p7jj2l",
       "type": "funding",
-      "title": "Delos Data获得超1亿美元A轮融资，把Scale-up从单机柜推向大规模推理集群-36氪 - 36kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1Y1RPaU41WkpNYXhKcll0bFlkOGtOOU15ZHJoQ3dBZk0yd3JSODNTMDRZME1MYUsxOGVJTHkyNzhMVmRyRzlPR1doRWRGZ2d6?oc=5",
+      "title": "具身智能48小时三笔亿元级融资：热钱全绕开了“人形整机” - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xcm1WUk56WmxBSDk2YUo1TllCNXhtRUNlY25haWV6Umw4MGIwMkM5NllpWUdKZTVjZVdHNDdPZEJCX2loWlNfUm1PZzBaUQ?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-25T09:43:10.000Z",
-      "summaryHint": "Delos Data获得超1亿美元A轮融资，把Scale-up从单机柜推向大规模推理集群-36氪 &nbsp;&nbsp; 36kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "A轮融资",
-      "amount": "1亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-x4tmpg",
-      "type": "funding",
-      "title": "「华源智因」获过亿元天使轮融资，已有基于临床管线的药效预测合作落地｜36氪首发 - 36kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1OGdKUFFFeXpsbHpGMHh2RnEyS05DNXdPVF9qLVp5eXVUeEtPeXNqbm82OWdrQkZaM0lEVFhJZ2lEclJfcF9wc0VvM0htVjVF?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-25T09:00:00.000Z",
-      "summaryHint": "「华源智因」获过亿元天使轮融资，已有基于临床管线的药效预测合作落地｜36氪首发 &nbsp;&nbsp; 36kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "round": "天使轮"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-u139um",
-      "type": "funding",
-      "title": "英伟达押注获6000万美元融资 这家AI实验室能否让虚拟人教好学生？ - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zV3RrUzRkWFRtZWZXVW9VejJFamY4TGZEMjN2NmR4eXNkQ0NsRm5HaDB3b3FPX1RMVnl4Um9Pek9udS1YQ0dlNzlaYjMyenc3eEFZ?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-25T07:18:00.000Z",
-      "summaryHint": "英伟达押注获6000万美元融资 这家AI实验室能否让虚拟人教好学生？ &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "6000万"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-3l2qp1",
-      "type": "funding",
-      "title": "AI接管门店营销执行，梗必爆拟融资2000万 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tUVVhNy1LcEVYbHlHNWstTzJqa0xERU9TZW1RNERHbFdZRUhvRmZhbFN3WHlsZ1VZVHgxUVlXei0wNUpGeDkyQ3hUd0VqOEt4UzM0?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-23T15:41:00.000Z",
-      "summaryHint": "AI接管门店营销执行，梗必爆拟融资2000万 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "2000万"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-tk61ms",
-      "type": "funding",
-      "title": "荷兰AI芯片公司Axelera洽谈融资4亿美元，并寻求数亿欧元欧盟补贴 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jWkJjSVhXUW1JRWotWVBLa0xZWlZnZlhITDdvaUhvaE15T2hiM2dXckhUeFhVV2tfNmhpc2FCbDFFZVQ0bGpwdHRIZUxFYldteXpTZWZPWlA?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-23T15:20:00.000Z",
-      "summaryHint": "荷兰AI芯片公司Axelera洽谈融资4亿美元，并寻求数亿欧元欧盟补贴 &nbsp;&nbsp; 36Kr",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "4亿"
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-9ww59y",
-      "type": "funding",
-      "title": "99后创业者获三轮融资 用AI重新定义投资交易｜36氪独家首发 - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lRlNWdm02YjR5R3diRklxS2RsRl9IY0g5SzVPTFlYNHRRU0Z4bkVNbVJ4ZlFWX3hjbW1YTTdnNWRZUkdCaXFlbmdvMWhhVE1tZ3FN?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-22T15:37:00.000Z",
-      "summaryHint": "99后创业者获三轮融资 用AI重新定义投资交易｜36氪独家首发 &nbsp;&nbsp; 36Kr",
+      "publishedAt": "2026-11-23T18:56:00.000Z",
+      "summaryHint": "具身智能48小时三笔亿元级融资：热钱全绕开了“人形整机” &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -131,13 +81,13 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-1vb8gm",
+      "id": "rss-google_news_cn_36kr_deals-6qo7c2",
       "type": "funding",
-      "title": "数治云轻量本体补工业AI数据断层，启动新融资-36氪 - www.36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VcUg3NDh6M2dnODVUQkhLNjRxWWpKVXR6aWpiMkFWeGd0LTNGRWVyMGpETDVnb2NxZkpiZC1lMVBOUnJ5RnczWGxWQnQzWnkw?oc=5",
+      "title": "社区配送机器人龙头「越凡创新」完成数亿元融资，加速布局城市机器人基础设施 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qQndQbDR5NzEwTXB6cU1KYUx4bU9OUEZPQmxyc2F2S21FRWd4TVpTNlpiMmk2ZlJQYlZEQ19wNklCMWdRNG1CVlJkNA?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-22T14:07:00.000Z",
-      "summaryHint": "数治云轻量本体补工业AI数据断层，启动新融资-36氪 &nbsp;&nbsp; www.36kr.com",
+      "publishedAt": "2026-11-22T16:46:00.000Z",
+      "summaryHint": "社区配送机器人龙头「越凡创新」完成数亿元融资，加速布局城市机器人基础设施 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -146,159 +96,142 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-7i7c20",
-      "type": "funding",
-      "title": "打败柯洁的男人，融资333亿，打破纪录 - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02Vl92Z2QzN2tyM2ZnRmhSM3BXRllNcFRHa1ZPcUdISkZ0UnRNb2QxS1pWazVrVzJyMFZjTWtYUGpGdlF3MzdSV0dJNjFNZw?oc=5",
+      "id": "rss-qbitai-i2trzo",
+      "type": "news",
+      "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+      "url": "https://www.qbitai.com/2026/11/513352.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-27T14:07:33.000Z",
+      "summaryHint": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-uv1kmx",
+      "type": "news",
+      "title": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
+      "url": "https://www.qbitai.com/2026/11/513346.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-27T11:18:24.000Z",
+      "summaryHint": "商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-7z06iz",
+      "type": "news",
+      "title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
+      "url": "https://www.qbitai.com/2026/11/513320.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-27T07:39:18.000Z",
+      "summaryHint": "淡泊名利，实至名归🎉",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-j0k9y4",
+      "type": "news",
+      "title": "DeepSeek APP突然更新账单，网友：要收费了？",
+      "url": "https://www.qbitai.com/2026/11/513305.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-27T07:29:10.000Z",
+      "summaryHint": "网页App双端亮出聊天账单",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-hjaxrv",
+      "type": "news",
+      "title": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
+      "url": "https://www.qbitai.com/2026/11/513227.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-27T07:01:20.000Z",
+      "summaryHint": "地图能随时修，记忆能跨任务用",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-g2ecfk",
+      "type": "news",
+      "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+      "url": "https://www.qbitai.com/2026/11/513194.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-27T04:05:56.000Z",
+      "summaryHint": "企业需要有用的 AI",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-z1yyd2",
+      "type": "news",
+      "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+      "url": "https://www.qbitai.com/2026/11/513211.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-27T04:05:18.000Z",
+      "summaryHint": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-agh8ha",
+      "type": "news",
+      "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+      "url": "https://www.qbitai.com/2026/11/513163.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-27T03:53:49.000Z",
+      "summaryHint": "Quickwit查询总耗时降31%，最高降87%",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-39tsyd",
+      "type": "news",
+      "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
+      "url": "https://www.qbitai.com/2026/11/513155.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-27T03:45:19.000Z",
+      "summaryHint": "3D生成的竞争重点正在从“能看”转向“能用”",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-qbitai-nq3eco",
+      "type": "news",
+      "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+      "url": "https://www.qbitai.com/2026/11/513125.html",
+      "source": "qbitai",
+      "publishedAt": "2026-11-27T03:33:11.000Z",
+      "tags": [
+        "china",
+        "funding"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-xs48tl",
+      "type": "news",
+      "title": "“我把钱退给LP了” - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5Mk1BZUZUV2Myak5rUjg3aURDUGlYNEluM0pxMGNEbFhKY1RyMXZOeVlxelFXTkdYek9pNWI1eWs5b0JLVE9xd2Z0Z05hUQ?oc=5",
       "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-19T18:22:00.000Z",
-      "summaryHint": "打败柯洁的男人，融资333亿，打破纪录 &nbsp;&nbsp; 36氪",
-      "tags": [
-        "china",
-        "funding",
-        "deal_rss",
-        "deal_signal"
-      ],
-      "amount": "333亿"
-    },
-    {
-      "id": "rss-qbitai-6zpkab",
-      "type": "news",
-      "title": "381个AI直播冲刺证明P=NP！把GitHub干崩了",
-      "url": "https://www.qbitai.com/2026/11/513021.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-26T13:56:01.000Z",
-      "summaryHint": "已跑了超过一万次会话，在Lean4里验证通过了2400多条引理",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-f7u5ih",
-      "type": "news",
-      "title": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用",
-      "url": "https://www.qbitai.com/2026/11/512981.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-26T12:39:08.000Z",
-      "summaryHint": "还得是科班尖子生",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-10hhon",
-      "type": "news",
-      "title": "90 秒自动换装补能，具微科技“潘多拉”支撑机器人无人化值守",
-      "url": "https://www.qbitai.com/2026/11/512972.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-26T10:07:55.000Z",
-      "summaryHint": "全栈方案破解工业机器人连续作业难题",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-scb2rf",
-      "type": "news",
-      "title": "极客公园创新大会 2027 全议程公布！",
-      "url": "https://www.qbitai.com/2026/11/512952.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-26T08:19:20.000Z",
-      "summaryHint": "今天，IF 2027 全议程揭晓。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-s0eozo",
-      "type": "news",
-      "title": "报名最后2天｜AI浪潮之中，来认识创造未来的人",
-      "url": "https://www.qbitai.com/2026/11/512942.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-26T07:36:04.000Z",
-      "summaryHint": "12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-e4lo3n",
-      "type": "news",
-      "title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
-      "url": "https://www.qbitai.com/2026/11/512916.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-26T06:41:23.000Z",
-      "summaryHint": "30秒一镜到底，可自动编排镜头",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-3wvp1h",
-      "type": "news",
-      "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
-      "url": "https://www.qbitai.com/2026/11/512897.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-26T03:23:35.000Z",
-      "summaryHint": "李斌坦言：不做AI变革可能活不下去",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-1rb0ux",
-      "type": "news",
-      "title": "沈向洋刚讲了好多AI非共识啊",
-      "url": "https://www.qbitai.com/2026/11/512840.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-26T03:13:16.000Z",
-      "summaryHint": "“灵巧手是人类最后的尊严”",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-rbqm5f",
-      "type": "news",
-      "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
-      "url": "https://www.qbitai.com/2026/11/512828.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-26T02:53:14.000Z",
-      "summaryHint": "叠满海淀最强AI Buff。",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-qbitai-ti0rzv",
-      "type": "news",
-      "title": "刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行",
-      "url": "https://www.qbitai.com/2026/11/512819.html",
-      "source": "qbitai",
-      "publishedAt": "2026-11-26T00:40:37.000Z",
-      "summaryHint": "合着全让A➗揽了",
-      "tags": [
-        "china",
-        "funding"
-      ]
-    },
-    {
-      "id": "rss-google_news_cn_36kr_deals-yvk82a",
-      "type": "news",
-      "title": "AI若暴雷，美国经济真伤不起？-36氪 - www.36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02Q2NXenk5YXgwZ1k1NnR1UjN4ZVJsaTVwTWNpWUJTZHVyMDNtb1YwVVN3TnJZSG55VlhRaTI2QmZvRHF4NndDd3NJbVV3T00?oc=5",
-      "source": "google_news_cn_36kr_deals",
-      "publishedAt": "2026-11-25T12:23:59.000Z",
-      "summaryHint": "AI若暴雷，美国经济真伤不起？-36氪 &nbsp;&nbsp; www.36kr.com",
+      "publishedAt": "2026-11-26T09:50:00.000Z",
+      "summaryHint": "“我把钱退给LP了” &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -306,13 +239,13 @@
       ]
     },
     {
-      "id": "rss-google_news_cn_36kr_deals-tf76bv",
+      "id": "rss-google_news_cn_36kr_deals-1zty0p",
       "type": "news",
-      "title": "AI 热钱，正在撞上拐点-36氪 - 36kr",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PRjNfeGxhalZ6MlhwaC1Eci1OM0hvS0dQSmNFaVFaZXJhZHhvbWZkNnJDcnllWVlJZzQyTXVyejFkdzJZMHpfS1BWdi1JcnVF?oc=5",
+      "title": "AI 热钱，正在撞上拐点 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SYXZEcko2dzBPdmFQZ25SX3B2b2ZvOU1FWTNzQkZWcHVTWkR2YzVZX3kzNkVOS1U3RXdOTE03WjdQY3JVOENQSFJIbXhkQQ?oc=5",
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-11-25T12:01:00.000Z",
-      "summaryHint": "AI 热钱，正在撞上拐点-36氪 &nbsp;&nbsp; 36kr",
+      "summaryHint": "AI 热钱，正在撞上拐点 &nbsp;&nbsp; 36Kr",
       "tags": [
         "china",
         "funding",
@@ -334,6 +267,20 @@
       ]
     },
     {
+      "id": "rss-google_news_cn_36kr_deals-eld6mi",
+      "type": "news",
+      "title": "黄仁勋刚回归，AI信贷警报狂响 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rQUhrTjBmMy1HZzBvVFRmc1k4MkYzbjBIQkVIQ1BTcGlGS0hxOHdncHliV2Z4bDMxTUswSDZJSWtTOVdYRkVoM0JCR1VGdw?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-24T09:52:00.000Z",
+      "summaryHint": "黄仁勋刚回归，AI信贷警报狂响 &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
       "id": "rss-google_news_cn_36kr_deals-b6wa00",
       "type": "news",
       "title": "AI消费硬件，即将“入冬”？ - 36Kr",
@@ -341,6 +288,20 @@
       "source": "google_news_cn_36kr_deals",
       "publishedAt": "2026-11-23T12:16:00.000Z",
       "summaryHint": "AI消费硬件，即将“入冬”？ &nbsp;&nbsp; 36Kr",
+      "tags": [
+        "china",
+        "funding",
+        "deal_rss"
+      ]
+    },
+    {
+      "id": "rss-google_news_cn_36kr_deals-q0pjb",
+      "type": "news",
+      "title": "B轮后的项目，赚不到钱了？ - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KRWFMd2U1UDJSMjQwY1BIZ2RMQllLZjFrVUFGbkc1LTQ5bGtBMGRteXNOZDc5WnBhRUp6OXgtYmxYX2N4RFRZRUdWVlRWUQ?oc=5",
+      "source": "google_news_cn_36kr_deals",
+      "publishedAt": "2026-11-22T12:21:00.000Z",
+      "summaryHint": "B轮后的项目，赚不到钱了？ &nbsp;&nbsp; 36氪",
       "tags": [
         "china",
         "funding",
